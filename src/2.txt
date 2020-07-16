@@ -1,6 +1,7 @@
 Sybase PowerDesigner 
 Logical Data Model Report 
 
+aaaaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 Model: 
 
 CTP2.0 
@@ -45,7 +46,7 @@ Powe rDe s ig ne r
 
 Pa g e 3 
 
-I V5 Êý¾Ý×Öµä 
+I V5 æ•°æ®å­—å…¸ 
 
 I.1 ADDRESSBOOK 
 
@@ -70,7 +71,7 @@ FALSE
 
 Comment 
 
-Ö÷¼ü 
+ä¸»é”® 
 
 ID 
 Lo ng inte g e r 
@@ -82,25 +83,25 @@ EXT _AT T R_1
 Va ria b le 
 cha ra c te rs (1024) 
 
-Ö÷¼ü 
+ä¸»é”® 
 
-ÈËÔ± ID  
+äººå‘˜ ID  
 
-ÈËÔ± id  
+äººå‘˜ id  
 
-´´½¨ÈÕÆÚ 
-×îºóÐÞ¸ÄÈÕÆÚ 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö
+åˆ›å»ºæ—¥æœŸ 
+æœ€åŽä¿®æ”¹æ—¥æœŸ 
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—
 
-´´½¨ÈÕÆÚ 
-×îºóÐÞ¸ÄÈÕÆÚ 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö¶Î 1 
+åˆ›å»ºæ—¥æœŸ 
+æœ€åŽä¿®æ”¹æ—¥æœŸ 
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—æ®µ 1 
 
-¶Î 1 
+æ®µ 1 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—
 
-¶Î 2 
+æ®µ 2 
 
 EXT _AT T R_2 
 
@@ -109,11 +110,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö¶Î 2 
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—æ®µ 2 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—
 
-¶Î 3 
+æ®µ 3 
 
 EXT _AT T R_3 
 
@@ -122,11 +123,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö¶Î 3 
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—æ®µ 3 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—
 
-¶Î 4 
+æ®µ 4 
 
 EXT _AT T R_4 
 
@@ -135,11 +136,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö¶Î 4 
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—æ®µ 4 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—
 
-¶Î 5 
+æ®µ 5 
 
 EXT _AT T R_5 
 
@@ -148,11 +149,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö¶Î 5 
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—æ®µ 5 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—
 
-¶Î 6 
+æ®µ 6 
 
 EXT _AT T R_6 
 
@@ -161,11 +162,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö¶Î 6 
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—æ®µ 6 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—
 
-¶Î 7 
+æ®µ 7 
 
 EXT _AT T R_7 
 
@@ -174,11 +175,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö¶Î 7 
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—æ®µ 7 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—
 
-¶Î 8 
+æ®µ 8 
 
 EXT _AT T R_8 
 
@@ -187,11 +188,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö¶Î 8 
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—æ®µ 8 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—
 
-¶Î 9 
+æ®µ 9 
 
 EXT _AT T R_9 
 
@@ -200,11 +201,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö¶Î 9 
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—æ®µ 9 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—
 
-¶Î 10 
+æ®µ 10 
 
 EXT _AT T R_10 
 
@@ -213,11 +214,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-ÎÄ±¾ÀàÐÍÀ©Õ¹×Ö¶Î 10 
+æ–‡æœ¬ç±»åž‹æ‰©å±•å­—æ®µ 10 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö
+æ•°å­—ç±»åž‹æ‰©å±•å­—
 
-¶Î 1 
+æ®µ 1 
 
 EXT _AT T R_11 
 
@@ -225,11 +226,11 @@ Numb e r (19,4)
 
 FALSE 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö¶Î 1 
+æ•°å­—ç±»åž‹æ‰©å±•å­—æ®µ 1 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö
+æ•°å­—ç±»åž‹æ‰©å±•å­—
 
-¶Î 2 
+æ®µ 2 
 
 EXT _AT T R_12 
 
@@ -237,11 +238,11 @@ Numb e r (19,4)
 
 FALSE 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö¶Î 2 
+æ•°å­—ç±»åž‹æ‰©å±•å­—æ®µ 2 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö
+æ•°å­—ç±»åž‹æ‰©å±•å­—
 
-¶Î 3 
+æ®µ 3 
 
 EXT _AT T R_13 
 
@@ -249,11 +250,11 @@ Numb e r (19,4)
 
 FALSE 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö¶Î 3 
+æ•°å­—ç±»åž‹æ‰©å±•å­—æ®µ 3 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö
+æ•°å­—ç±»åž‹æ‰©å±•å­—
 
-¶Î 4 
+æ®µ 4 
 
 EXT _AT T R_14 
 
@@ -261,11 +262,11 @@ Numb e r (19,4)
 
 FALSE 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö¶Î 4 
+æ•°å­—ç±»åž‹æ‰©å±•å­—æ®µ 4 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö
+æ•°å­—ç±»åž‹æ‰©å±•å­—
 
-¶Î 5 
+æ®µ 5 
 
 EXT _AT T R_15 
 
@@ -273,11 +274,11 @@ Numb e r (19,4)
 
 FALSE 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö¶Î 5 
+æ•°å­—ç±»åž‹æ‰©å±•å­—æ®µ 5 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö
+æ•°å­—ç±»åž‹æ‰©å±•å­—
 
-¶Î 6 
+æ®µ 6 
 
 EXT _AT T R_16 
 
@@ -285,11 +286,11 @@ Numb e r (19,4)
 
 FALSE 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö¶Î 6 
+æ•°å­—ç±»åž‹æ‰©å±•å­—æ®µ 6 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö
+æ•°å­—ç±»åž‹æ‰©å±•å­—
 
-¶Î 7 
+æ®µ 7 
 
 EXT _AT T R_17 
 
@@ -297,7 +298,7 @@ Numb e r (19,4)
 
 FALSE 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö¶Î 7 
+æ•°å­—ç±»åž‹æ‰©å±•å­—æ®µ 7 
 
 Lo g ica l Da ta Mo de l 
 
@@ -309,9 +310,9 @@ Powe rDe s ig ne r
 
 Pa g e 4 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö
+æ•°å­—ç±»åž‹æ‰©å±•å­—
 
-¶Î 8 
+æ®µ 8 
 
 EXT _AT T R_18 
 
@@ -319,11 +320,11 @@ Numb e r (19,4)
 
 FALSE 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö¶Î 8 
+æ•°å­—ç±»åž‹æ‰©å±•å­—æ®µ 8 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö
+æ•°å­—ç±»åž‹æ‰©å±•å­—
 
-¶Î 9 
+æ®µ 9 
 
 EXT _AT T R_19 
 
@@ -331,11 +332,11 @@ Numb e r (19,4)
 
 FALSE 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö¶Î 9 
+æ•°å­—ç±»åž‹æ‰©å±•å­—æ®µ 9 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö
+æ•°å­—ç±»åž‹æ‰©å±•å­—
 
-¶Î 10 
+æ®µ 10 
 
 EXT _AT T R_20 
 
@@ -343,11 +344,11 @@ Numb e r (19,4)
 
 FALSE 
 
-Êý×ÖÀàÐÍÀ©Õ¹×Ö¶Î 10 
+æ•°å­—ç±»åž‹æ‰©å±•å­—æ®µ 10 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö
+æ—¥æœŸç±»åž‹æ‰©å±•å­—
 
-¶Î 1 
+æ®µ 1 
 
 EXT _AT T R_21 
 
@@ -355,11 +356,11 @@ Da te & T ime
 
 FALSE 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö¶Î 1 
+æ—¥æœŸç±»åž‹æ‰©å±•å­—æ®µ 1 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö
+æ—¥æœŸç±»åž‹æ‰©å±•å­—
 
-¶Î 2 
+æ®µ 2 
 
 EXT _AT T R_22 
 
@@ -367,11 +368,11 @@ Da te & T ime
 
 FALSE 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö¶Î 2 
+æ—¥æœŸç±»åž‹æ‰©å±•å­—æ®µ 2 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö
+æ—¥æœŸç±»åž‹æ‰©å±•å­—
 
-¶Î 3 
+æ®µ 3 
 
 EXT _AT T R_23 
 
@@ -379,11 +380,11 @@ Da te & T ime
 
 FALSE 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö¶Î 3 
+æ—¥æœŸç±»åž‹æ‰©å±•å­—æ®µ 3 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö
+æ—¥æœŸç±»åž‹æ‰©å±•å­—
 
-¶Î 4 
+æ®µ 4 
 
 EXT _AT T R_24 
 
@@ -391,11 +392,11 @@ Da te & T ime
 
 FALSE 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö¶Î 4 
+æ—¥æœŸç±»åž‹æ‰©å±•å­—æ®µ 4 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö
+æ—¥æœŸç±»åž‹æ‰©å±•å­—
 
-¶Î 5 
+æ®µ 5 
 
 EXT _AT T R_25 
 
@@ -403,11 +404,11 @@ Da te & T ime
 
 FALSE 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö¶Î 5 
+æ—¥æœŸç±»åž‹æ‰©å±•å­—æ®µ 5 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö
+æ—¥æœŸç±»åž‹æ‰©å±•å­—
 
-¶Î 6 
+æ®µ 6 
 
 EXT _AT T R_26 
 
@@ -415,11 +416,11 @@ Da te & T ime
 
 FALSE 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö¶Î 6 
+æ—¥æœŸç±»åž‹æ‰©å±•å­—æ®µ 6 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö
+æ—¥æœŸç±»åž‹æ‰©å±•å­—
 
-¶Î 7 
+æ®µ 7 
 
 EXT _AT T R_27 
 
@@ -427,11 +428,11 @@ Da te & T ime
 
 FALSE 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö¶Î 7 
+æ—¥æœŸç±»åž‹æ‰©å±•å­—æ®µ 7 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö
+æ—¥æœŸç±»åž‹æ‰©å±•å­—
 
-¶Î 8 
+æ®µ 8 
 
 EXT _AT T R_28 
 
@@ -439,11 +440,11 @@ Da te & T ime
 
 FALSE 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö¶Î 8 
+æ—¥æœŸç±»åž‹æ‰©å±•å­—æ®µ 8 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö
+æ—¥æœŸç±»åž‹æ‰©å±•å­—
 
-¶Î 9 
+æ®µ 9 
 
 EXT _AT T R_29 
 
@@ -451,11 +452,11 @@ Da te & T ime
 
 FALSE 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö¶Î 9 
+æ—¥æœŸç±»åž‹æ‰©å±•å­—æ®µ 9 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö
+æ—¥æœŸç±»åž‹æ‰©å±•å­—
 
-¶Î 10 
+æ®µ 10 
 
 EXT _AT T R_30 
 
@@ -463,15 +464,15 @@ Da te & T ime
 
 FALSE 
 
-ÈÕÆÚÀàÐÍÀ©Õ¹×Ö¶Î 10 
+æ—¥æœŸç±»åž‹æ‰©å±•å­—æ®µ 10 
 
-I.2 ALL-IN-ONE ÓÃ»§°ó¶¨±í 
+I.2 ALL-IN-ONE ç”¨æˆ·ç»‘å®šè¡¨ 
 
 Code 
 Comment 
 
 U8PLUGIN_AIOUSER_MAPP ING 
-All- In-One ÓÃ»§°ó¶¨±í 
+All- In-One ç”¨æˆ·ç»‘å®šè¡¨ 
 
 Name 
 
@@ -487,9 +488,9 @@ T RUE
 
 Comment 
 
-Ö÷¼ü ID 
-ÓÃ»§ ID 
-ALL-IN -ONE µÇ
+ä¸»é”® ID 
+ç”¨æˆ· ID 
+ALL-IN -ONE ç™»
 
 ID 
 OAUSER_ID 
@@ -501,15 +502,15 @@ Lo ng inte g e r
 Va ria b le 
 cha ra c te rs (50) 
 
-Ö÷¼ü ID 
-Ö÷¼ü OA ÓÃ»§ ID 
-ALL-IN -ONE µÇÂ¼Ãû 
+ä¸»é”® ID 
+ä¸»é”® OA ç”¨æˆ· ID 
+ALL-IN -ONE ç™»å½•å 
 
-Â¼Ãû 
+å½•å 
 
-ALL-IN -ONE ÃÜ
+ALL-IN -ONE å¯†
 
-Âë 
+ç  
 
 AIO_PWD 
 
@@ -518,15 +519,15 @@ cha ra c te rs (50)
 
 FALSE 
 
-ALL-IN -ONE ÃÜÂë 
+ALL-IN -ONE å¯†ç  
 
-I.3 CA ¹ÜÀí 
+I.3 CA ç®¡ç† 
 
 Code 
 Comment 
 
 CA_ACCOUNT 
-CA ¹ÜÀí 
+CA ç®¡ç† 
 
 Name 
 
@@ -545,22 +546,22 @@ CT P2.0
 
 ID 
 
-CA Ö¤ÊéÎ¨Ò»±ê
-Ê¶ 
+CA è¯ä¹¦å”¯ä¸€æ ‡
+è¯† 
 
-ÈËÔ± ID 
+äººå‘˜ ID 
 
-Ä£¿é 
+æ¨¡å— 
 
-Í£ÆôÓÃ×´Ì¬ 
-ÊÇ·ñ±ØÐëÊ¹ÓÃ
+åœå¯ç”¨çŠ¶æ€ 
+æ˜¯å¦å¿…é¡»ä½¿ç”¨
 
-CA µÇÂ¼ 
+CA ç™»å½• 
 
-ÒÆ¶¯Éè±¸·ÃÎÊÊÇ
-·ñÊÜ¿ØÖÆ 
-µÇÂ½Ê±ÊÇ·ñÍ¬Ê±
-¼ì²éÕËºÅÃÜÂë 
+ç§»åŠ¨è®¾å¤‡è®¿é—®æ˜¯
+å¦å—æŽ§åˆ¶ 
+ç™»é™†æ—¶æ˜¯å¦åŒæ—¶
+æ£€æŸ¥è´¦å·å¯†ç  
 
 ID 
 KEY_NUM 
@@ -596,36 +597,36 @@ FALSE
 T RUE 
 T RUE 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-CA Ö¤ÊéÎ¨Ò»±êÊ¶ 
+CA è¯ä¹¦å”¯ä¸€æ ‡è¯† 
 
-ÈËÔ± ID 
+äººå‘˜ ID 
 
-Ä£¿é 
+æ¨¡å— 
 
-Í£ÆôÓÃ×´Ì¬£¬0-Í£ÓÃ 1-ÆôÓÃ 
-ÊÇ·ñ±ØÐëÊ¹ÓÃ CA µÇÂ¼£¬0-·ñ 
+åœå¯ç”¨çŠ¶æ€ï¼Œ0-åœç”¨ 1-å¯ç”¨ 
+æ˜¯å¦å¿…é¡»ä½¿ç”¨ CA ç™»å½•ï¼Œ0-å¦ 
 
-1-ÊÇ 
-
-Numb e r (3) 
-
-T RUE 
-
-ÒÆ¶¯Éè±¸·ÃÎÊÊÇ·ñÊÜ¿ØÖÆ£¬0-
+1-æ˜¯ 
 
 Numb e r (3) 
 
 T RUE 
 
-µÇÂ½Ê±ÊÇ·ñÍ¬Ê±¼ì²éÕËºÅÃÜ
+ç§»åŠ¨è®¾å¤‡è®¿é—®æ˜¯å¦å—æŽ§åˆ¶ï¼Œ0-
 
-·ñ 1-ÊÇ 
+Numb e r (3) 
 
-Âë£¬0-·ñ 1-ÊÇ 
+T RUE 
 
-I.4 CIP Í¬²½³õÊ¼»¯¹ýÂËÉèÖÃ 
+ç™»é™†æ—¶æ˜¯å¦åŒæ—¶æ£€æŸ¥è´¦å·å¯†
+
+å¦ 1-æ˜¯ 
+
+ç ï¼Œ0-å¦ 1-æ˜¯ 
+
+I.4 CIP åŒæ­¥åˆå§‹åŒ–è¿‡æ»¤è®¾ç½® 
 
 Code 
 Comment 
@@ -638,14 +639,14 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
+ä¸»é”® 
 
 ID 
-Í¬²½³õÊ¼»¯Ö÷¼ü SCHEMEIN IT _I
+åŒæ­¥åˆå§‹åŒ–ä¸»é”® SCHEMEIN IT _I
 D 
 T YPE 
 
-¹ýÂËÀàÐÍ 
+è¿‡æ»¤ç±»åž‹ 
 
 Lo ng inte g e r 
 Lo ng inte g e r 
@@ -661,14 +662,14 @@ FALSE
 
 Comment 
 
-Ö÷¼ü 
-Í¬²½³õÊ¼»¯Ö÷¼ü 
+ä¸»é”® 
+åŒæ­¥åˆå§‹åŒ–ä¸»é”® 
 
-¹ýÂËµÚÈý·½ÏµÍ³
-×éÖ¯Ö÷¼ü 
-¹ýÂË×éÖ¯Ö÷¼ü 
+è¿‡æ»¤ç¬¬ä¸‰æ–¹ç³»ç»Ÿ
+ç»„ç»‡ä¸»é”® 
+è¿‡æ»¤ç»„ç»‡ä¸»é”® 
 
-ÐÞ¸ÄÊ±¼ä 
+ä¿®æ”¹æ—¶é—´ 
 
 T H IRDPART Y_
 ORGID 
@@ -686,17 +687,17 @@ UPDAT E_T IME Da te & T ime
 
 FALSE 
 
-¹ýÂË×éÖ¯Ö÷¼ü 
+è¿‡æ»¤ç»„ç»‡ä¸»é”® 
 
 FALSE 
 
-ÐÞ¸ÄÊ±¼ä 
+ä¿®æ”¹æ—¶é—´ 
 
-¹ýÂËÀàÐÍ  1£º²¿ÃÅ  2£º¸ÚÎ»   
-3£ºÖ°Îñ   4£ºÈËÔ± 
-¹ýÂËµÚÈý·½ÏµÍ³×éÖ¯Ö÷¼ü 
+è¿‡æ»¤ç±»åž‹  1ï¼šéƒ¨é—¨  2ï¼šå²—ä½   
+3ï¼šèŒåŠ¡   4ï¼šäººå‘˜ 
+è¿‡æ»¤ç¬¬ä¸‰æ–¹ç³»ç»Ÿç»„ç»‡ä¸»é”® 
 
-I.5 CIP Í¬²½·½°¸»ù´¡ÉèÖÃ 
+I.5 CIP åŒæ­¥æ–¹æ¡ˆåŸºç¡€è®¾ç½® 
 
 Code 
 Comment 
@@ -709,16 +710,16 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
-·½°¸Ãû³Æ 
+ä¸»é”® 
+æ–¹æ¡ˆåç§° 
 
-²úÆ·±àÂë 
+äº§å“ç¼–ç  
 
-Í¬²½·½Ïò 
+åŒæ­¥æ–¹å‘ 
 
-Çý¶¯Ä£Ê½ 
+é©±åŠ¨æ¨¡å¼ 
 
-Í¬²½·½Ê½ 
+åŒæ­¥æ–¹å¼ 
 
 ID 
 NAME 
@@ -754,21 +755,21 @@ y
 T RUE 
 FALSE 
 
-Ö÷¼ü 
-·½°¸Ãû³Æ 
+ä¸»é”® 
+æ–¹æ¡ˆåç§° 
 
 FALSE 
 
-²úÆ·±àÂë 
+äº§å“ç¼–ç  
 
 FALSE 
 
-Í¬²½·½Ïò£¬1£ºµÚÈý·½ÏµÍ³->
-Ð­Í¬£¬0£ºÐ­Í¬->µÚÈý·½ÏµÍ³ 
-Çý¶¯Ä£Ê½£¬1£ºÈË¹¤/¶¨Ê±Çý
-¶¯£¬0£ºÊµÊ±Çý¶¯ 
-Í¬²½·½Ê½£¬1£ºÖÐ¼ä±í£¬2£º
-ÊÓÍ¼£¬3£º½Ó¿Ú 
+åŒæ­¥æ–¹å‘ï¼Œ1ï¼šç¬¬ä¸‰æ–¹ç³»ç»Ÿ->
+ååŒï¼Œ0ï¼šååŒ->ç¬¬ä¸‰æ–¹ç³»ç»Ÿ 
+é©±åŠ¨æ¨¡å¼ï¼Œ1ï¼šäººå·¥/å®šæ—¶é©±
+åŠ¨ï¼Œ0ï¼šå®žæ—¶é©±åŠ¨ 
+åŒæ­¥æ–¹å¼ï¼Œ1ï¼šä¸­é—´è¡¨ï¼Œ2ï¼š
+è§†å›¾ï¼Œ3ï¼šæŽ¥å£ 
 
 Powe rDe s ig ne r 
 
@@ -780,33 +781,33 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-½Ó¿ÚÉèÖÃÖ÷¼ü 
+æŽ¥å£è®¾ç½®ä¸»é”® 
 
-Êý¾Ý¿âÇý¶¯ 
+æ•°æ®åº“é©±åŠ¨ 
 
 INT ERFACE_SE
 T T ING 
 DB_DR IVER 
 
-Êý¾Ý¿â URL 
+æ•°æ®åº“ URL 
 
 DB_URL 
 
-ÓÃ»§ 
+ç”¨æˆ· 
 
-ÃÜÂë 
+å¯†ç  
 
 DB_USER 
 
 DB_PWD 
 
-ÊÓÍ¼½Å±¾ ID 
-ÊÇ·ñÒÑ´´½¨ÖÐ¼ä
-±í 
-ÈËÔ±µµ°¸ÐÅÏ¢Í¬
-²½ÉèÖÃ 
-À©Õ¹×Ö¶Î 1 
-À©Õ¹×Ö¶Î 2 
+è§†å›¾è„šæœ¬ ID 
+æ˜¯å¦å·²åˆ›å»ºä¸­é—´
+è¡¨ 
+äººå‘˜æ¡£æ¡ˆä¿¡æ¯åŒ
+æ­¥è®¾ç½® 
+æ‰©å±•å­—æ®µ 1 
+æ‰©å±•å­—æ®µ 2 
 
 VIEW _ID 
 IS_CREAT E_MI
@@ -818,15 +819,15 @@ R_CONFIG
 EXT _AT T R_1 
 EXT _AT T R_2 
 
-À©Õ¹×Ö¶Î 3 
+æ‰©å±•å­—æ®µ 3 
 
 EXT _AT T R_3 
 
-À©Õ¹×Ö¶Î 4 
+æ‰©å±•å­—æ®µ 4 
 
 EXT _AT T R_4 
 
-À©Õ¹×Ö¶Î 5 
+æ‰©å±•å­—æ®µ 5 
 
 EXT _AT T R_5 
 
@@ -834,7 +835,7 @@ Lo ng inte g e r
 
 FALSE 
 
-½Ó¿ÚÉèÖÃÖ÷¼ü 
+æŽ¥å£è®¾ç½®ä¸»é”® 
 
 Va ria b le 
 cha ra c te rs (100) 
@@ -861,49 +862,49 @@ cha ra c te rs (255)
 
 FALSE 
 
-Êý¾Ý¿âÇý¶¯ 
+æ•°æ®åº“é©±åŠ¨ 
 
 FALSE 
 
-Êý¾Ý¿â url 
+æ•°æ®åº“ url 
 
-FALSE 
-
-FALSE 
-
-FALSE 
 FALSE 
 
 FALSE 
 
-ÓÃ»§ 
+FALSE 
+FALSE 
 
-ÃÜÂë 
+FALSE 
 
-ÊÓÍ¼½Å±¾ ID 
-ÊÇ·ñÒÑ´´½¨ÖÐ¼ä±í£¬1£ºÒÑ´´
-½¨£¬0£ºÎ´´´½¨ 
-ÈËÔ±µµ°¸ÐÅÏ¢Í¬²½ÉèÖÃ 
+ç”¨æˆ· 
+
+å¯†ç  
+
+è§†å›¾è„šæœ¬ ID 
+æ˜¯å¦å·²åˆ›å»ºä¸­é—´è¡¨ï¼Œ1ï¼šå·²åˆ›
+å»ºï¼Œ0ï¼šæœªåˆ›å»º 
+äººå‘˜æ¡£æ¡ˆä¿¡æ¯åŒæ­¥è®¾ç½® 
 
 FALSE 
 FALSE 
 
-À©Õ¹×Ö¶Î 1 
-À©Õ¹×Ö¶Î 2 
+æ‰©å±•å­—æ®µ 1 
+æ‰©å±•å­—æ®µ 2 
 
 FALSE 
 
-À©Õ¹×Ö¶Î 3 
+æ‰©å±•å­—æ®µ 3 
 
 FALSE 
 
-À©Õ¹×Ö¶Î 4 
+æ‰©å±•å­—æ®µ 4 
 
 FALSE 
 
-À©Õ¹×Ö¶Î 5 
+æ‰©å±•å­—æ®µ 5 
 
-I.6 CIP Í¬²½ÈÕÖ¾ 
+I.6 CIP åŒæ­¥æ—¥å¿— 
 
 Code 
 Comment 
@@ -916,18 +917,18 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
-µÇÂ¼Ãû 
+ä¸»é”® 
+ç™»å½•å 
 
 ID 
 LOGINNAME 
 
-Í¬²½·½Ê½ 
-³É¹¦Êý 
-Ê§°ÜÊý 
-×ÜÊý 
-ÊÇ·ñÓÐÐ§ 
-Ê±¼ä´Á 
+åŒæ­¥æ–¹å¼ 
+æˆåŠŸæ•° 
+å¤±è´¥æ•° 
+æ€»æ•° 
+æ˜¯å¦æœ‰æ•ˆ 
+æ—¶é—´æˆ³ 
 
 OPT YPE 
 OKNUM 
@@ -935,17 +936,17 @@ FAILNUM
 T OT AL 
 ISVALID 
 DT 
-Í¬²½³õÊ¼»¯Ö÷¼ü SCHEMEIN IT ID 
+åŒæ­¥åˆå§‹åŒ–ä¸»é”® SCHEMEIN IT ID 
 SYN_T YPE 
 
-Í¬²½ÀàÐÍ 
+åŒæ­¥ç±»åž‹ 
 
-±¸×¢ 
+å¤‡æ³¨ 
 
 MEMO 
 
-Íâ²¿ÏµÍ³×éÖ¯Ãû
-³Æ 
+å¤–éƒ¨ç³»ç»Ÿç»„ç»‡å
+ç§° 
 
 T H IRDORGNAM
 E 
@@ -974,8 +975,8 @@ y
 T RUE 
 FALSE 
 
-Ö÷¼ü 
-µÇÂ¼Ãû 
+ä¸»é”® 
+ç™»å½•å 
 
 FALSE 
 FALSE 
@@ -986,23 +987,23 @@ FALSE
 FALSE 
 FALSE 
 
-Í¬²½·½Ê½£º0-×Ô¶¯  1-ÊÖ¶¯ 
-³É¹¦Êý 
-Ê§°ÜÊý 
-×ÜÊý 
-ÊÇ·ñÓÐÐ§£º0 -ÎÞÐ§  1-ÓÐÐ§ 
-Ê±¼ä´Á 
-Í¬²½³õÊ¼»¯Ö÷¼ü 
-Í¬²½ÀàÐÍ£º0£º¼¯ÍÅ   1£ºµ¥Î»  
-3£º²¿ÃÅ 2 Ö°Îñ  4 ¸ÚÎ» 5 ÈËÔ± 
+åŒæ­¥æ–¹å¼ï¼š0-è‡ªåŠ¨  1-æ‰‹åŠ¨ 
+æˆåŠŸæ•° 
+å¤±è´¥æ•° 
+æ€»æ•° 
+æ˜¯å¦æœ‰æ•ˆï¼š0 -æ— æ•ˆ  1-æœ‰æ•ˆ 
+æ—¶é—´æˆ³ 
+åŒæ­¥åˆå§‹åŒ–ä¸»é”® 
+åŒæ­¥ç±»åž‹ï¼š0ï¼šé›†å›¢   1ï¼šå•ä½  
+3ï¼šéƒ¨é—¨ 2 èŒåŠ¡  4 å²—ä½ 5 äººå‘˜ 
 
 FALSE 
 
-±¸×¢ 
+å¤‡æ³¨ 
 
 FALSE 
 
-Íâ²¿ÏµÍ³×éÖ¯Ãû³Æ 
+å¤–éƒ¨ç³»ç»Ÿç»„ç»‡åç§° 
 
 Powe rDe s ig ne r 
 
@@ -1014,7 +1015,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-I.7 CIP Í¬²½ÈÕÖ¾Ã÷Ï¸ 
+I.7 CIP åŒæ­¥æ—¥å¿—æ˜Žç»† 
 
 Code 
 Comment 
@@ -1027,17 +1028,17 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
-Í¬²½ÈÕÖ¾Ö÷¼ü 
-Êý¾ÝÃèÊö 
+ä¸»é”® 
+åŒæ­¥æ—¥å¿—ä¸»é”® 
+æ•°æ®æè¿° 
 
 ID 
 RECORD_ID 
 DAT A 
 
-²Ù×÷ 
+æ“ä½œ 
 
-±¸×¢ 
+å¤‡æ³¨ 
 
 ACT ION 
 
@@ -1060,19 +1061,19 @@ FALSE
 
 Comment 
 
-Ö÷¼ü 
-Í¬²½ÈÕÖ¾Ö÷¼ü 
-Êý¾ÝÃèÊö 
+ä¸»é”® 
+åŒæ­¥æ—¥å¿—ä¸»é”® 
+æ•°æ®æè¿° 
 
 FALSE 
 
 FALSE 
 
-²Ù×÷ 
+æ“ä½œ 
 
-±¸×¢ 
+å¤‡æ³¨ 
 
-I.8 CIP ¶¨Ê±Í¬²½ÉèÖÃ 
+I.8 CIP å®šæ—¶åŒæ­¥è®¾ç½® 
 
 Code 
 Comment 
@@ -1101,16 +1102,16 @@ FALSE
 
 Comment 
 
-Ö÷¼ü 
-×Ô¶¯Í¬²½×éÖ¯ 
-¶¨Ê±Í¬²½Ê±¼äÉèÖÃ 
+ä¸»é”® 
+è‡ªåŠ¨åŒæ­¥ç»„ç»‡ 
+å®šæ—¶åŒæ­¥æ—¶é—´è®¾ç½® 
 
-Ö÷¼ü 
-×Ô¶¯Í¬²½×éÖ¯ 
-¶¨Ê±Í¬²½Ê±¼äÉè
-ÖÃ 
-ÊÇ·ñÆôÓÃ 
-ÐÞ¸ÄÊ±¼ä 
+ä¸»é”® 
+è‡ªåŠ¨åŒæ­¥ç»„ç»‡ 
+å®šæ—¶åŒæ­¥æ—¶é—´è®¾
+ç½® 
+æ˜¯å¦å¯ç”¨ 
+ä¿®æ”¹æ—¶é—´ 
 
 IS_ENABLE 
 Sho rt inte g e r 
@@ -1119,10 +1120,10 @@ UPDAT E_T IME Da te & T ime
 FALSE 
 FALSE 
 
-ÊÇ·ñÆôÓÃ£¨1 ÊÇ£¬0 ·ñ£© 
-ÐÞ¸ÄÊ±¼ä 
+æ˜¯å¦å¯ç”¨ï¼ˆ1 æ˜¯ï¼Œ0 å¦ï¼‰ 
+ä¿®æ”¹æ—¶é—´ 
 
-I.9 CIP ½Ó¿Ú×¢²á±í 
+I.9 CIP æŽ¥å£æ³¨å†Œè¡¨ 
 
 Code 
 Comment 
@@ -1135,20 +1136,20 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-²úÆ·±êÊ¾ 
+äº§å“æ ‡ç¤º 
 
-½Ó¿Ú·ÖÀà ID 
-½Ó¿ÚÃû³Æ 
+æŽ¥å£åˆ†ç±» ID 
+æŽ¥å£åç§° 
 
-ÃèÊö 
+æè¿° 
 
-ÏµÍ³Ô¼Êø 
+ç³»ç»Ÿçº¦æŸ 
 
-ÒµÎñÔ¼Êø 
+ä¸šåŠ¡çº¦æŸ 
 
-µ÷ÓÃËµÃ÷ 
+è°ƒç”¨è¯´æ˜Ž 
 
 ID 
 PRODUCT _FLA
@@ -1186,31 +1187,31 @@ y
 T RUE 
 FALSE 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-²úÆ·±êÊ¾ 
-
-FALSE 
-FALSE 
-
-½Ó¿Ú·ÖÀà ID 
-½Ó¿ÚÃû³Æ 
+äº§å“æ ‡ç¤º 
 
 FALSE 
+FALSE 
 
-ÃèÊö 
+æŽ¥å£åˆ†ç±» ID 
+æŽ¥å£åç§° 
 
 FALSE 
 
-ÏµÍ³Ô¼Êø 
+æè¿° 
 
 FALSE 
 
-ÒµÎñÔ¼Êø 
+ç³»ç»Ÿçº¦æŸ 
 
 FALSE 
 
-µ÷ÓÃËµÃ÷ 
+ä¸šåŠ¡çº¦æŸ 
+
+FALSE 
+
+è°ƒç”¨è¯´æ˜Ž 
 
 Powe rDe s ig ne r 
 
@@ -1222,14 +1223,14 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-³¡¾°ÃèÊö 
+åœºæ™¯æè¿° 
 
-½Ó¿Ú´´½¨Ê±¼ä 
-½Ó¿ÚÐÞ¸ÄÊ±¼ä 
-À©Õ¹²ÎÊý 
+æŽ¥å£åˆ›å»ºæ—¶é—´ 
+æŽ¥å£ä¿®æ”¹æ—¶é—´ 
+æ‰©å±•å‚æ•° 
 
-¹ØÁª²úÆ· ID 
-¹ØÁª×ÊÔ´°ü 
+å…³è”äº§å“ ID 
+å…³è”èµ„æºåŒ… 
 
 SCENE_DES 
 
@@ -1248,7 +1249,7 @@ PRODUCT _ID
 RESOURCE_PA
 CKAGE 
 
-I.10 CIP ±¾µØ´úÀí±í 
+I.10 CIP æœ¬åœ°ä»£ç†è¡¨ 
 
 Code 
 Comment 
@@ -1263,9 +1264,9 @@ Data Type
 
 ID 
 
-µÇ¼Ç½Ó¿Ú ID 
+ç™»è®°æŽ¥å£ ID 
 
-ÊÊÅäÆ÷ ID 
+é€‚é…å™¨ ID 
 
 ID 
 CIP_INT ERFAC
@@ -1275,7 +1276,7 @@ ADAPT ER_ID
 Lo ng inte g e r 
 Lo ng inte g e r 
 
-¹¦ÄÜÓëÔ¼ÊøËµÃ÷ AGENT _DESCR
+åŠŸèƒ½ä¸Žçº¦æŸè¯´æ˜Ž AGENT _DESCR
 IPT ION 
 AGENT _INT RO
 DUCE 
@@ -1296,32 +1297,32 @@ cha ra c te rs (255)
 CREAT E_DAT E Da te & T ime 
 UPDAT E_DAT E Da te & T ime 
 
-´´½¨Ê±¼ä 
-ÐÞ¸ÄÊ±¼ä 
+åˆ›å»ºæ—¶é—´ 
+ä¿®æ”¹æ—¶é—´ 
 
-Ê¹ÓÃËµÃ÷ 
+ä½¿ç”¨è¯´æ˜Ž 
 
-´úÀíÃèÊö 
+ä»£ç†æè¿° 
 
-À©Õ¹²ÎÊý 
-
-FALSE 
-
-³¡¾°ÃèÊö 
+æ‰©å±•å‚æ•° 
 
 FALSE 
-FALSE 
-FALSE 
+
+åœºæ™¯æè¿° 
 
 FALSE 
 FALSE 
+FALSE 
 
-½Ó¿Ú´´½¨Ê±¼ä 
-½Ó¿ÚÐÞ¸ÄÊ±¼ä 
-À©Õ¹²ÎÊý 
+FALSE 
+FALSE 
 
-¹ØÁª²úÆ· ID 
-¹ØÁª×ÊÔ´°ü 
+æŽ¥å£åˆ›å»ºæ—¶é—´ 
+æŽ¥å£ä¿®æ”¹æ—¶é—´ 
+æ‰©å±•å‚æ•° 
+
+å…³è”äº§å“ ID 
+å…³è”èµ„æºåŒ… 
 
 Mandator
 y 
@@ -1330,42 +1331,42 @@ FALSE
 
 Comment 
 
-µÇ¼Ç½Ó¿Ú ID 
+ç™»è®°æŽ¥å£ ID 
 
 FALSE 
 
-ÊÊÅäÆ÷ ID 
+é€‚é…å™¨ ID 
 
 FALSE 
 
-¹¦ÄÜÓëÔ¼ÊøËµÃ÷ 
+åŠŸèƒ½ä¸Žçº¦æŸè¯´æ˜Ž 
 
 FALSE 
 
-Ê¹ÓÃËµÃ÷ 
+ä½¿ç”¨è¯´æ˜Ž 
 
 FALSE 
 
-´úÀíÃèÊö 
+ä»£ç†æè¿° 
 
 FALSE 
 
-À©Õ¹²ÎÊý 
+æ‰©å±•å‚æ•° 
 
 FALSE 
 FALSE 
 
-´´½¨Ê±¼ä 
-ÐÞ¸ÄÊ±¼ä 
+åˆ›å»ºæ—¶é—´ 
+ä¿®æ”¹æ—¶é—´ 
 
-I.11 CIP ¼à¿ØÈÕÖ¾±í 
+I.11 CIP ç›‘æŽ§æ—¥å¿—è¡¨ 
 
 Code 
 Comment 
 
 CIP_LOG 
 
-¼à¿ØÈÕÖ¾±í 
+ç›‘æŽ§æ—¥å¿—è¡¨ 
 
 Name 
 
@@ -1373,9 +1374,9 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Ó¦ÓÃÀà±ð 
+åº”ç”¨ç±»åˆ« 
 
 ID 
 LOG_APPLICAT
@@ -1384,15 +1385,15 @@ ION
 Lo ng inte g e r 
 Sho rt inte g e r 
 
-»î¶¯ 
+æ´»åŠ¨ 
 
-ÈÕÖ¾ 
+æ—¥å¿— 
 
 LOG_ACT ION 
 
 LOG_DET AIL 
 
-²Ù×÷ÈË 
+æ“ä½œäºº 
 
 MEMBER_ID 
 
@@ -1411,23 +1412,23 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Ó¦ÓÃÀà±ð,1:»ù´¡ÉèÖÃ,2:×éÖ¯
+åº”ç”¨ç±»åˆ«,1:åŸºç¡€è®¾ç½®,2:ç»„ç»‡
 
-»ú¹¹Í¬²½,3:ÃÅ»§¼¯³É,4:E IP ,5 :
+æœºæž„åŒæ­¥,3:é—¨æˆ·é›†æˆ,4:E IP ,5 :
 
-ÒµÎñÁ÷³Ì¼¯³É,6:µÚÈý·½½Ó¿Ú
-¿â 
-»î¶¯ 
-
-FALSE 
-
-ÈÕÖ¾ 
+ä¸šåŠ¡æµç¨‹é›†æˆ,6:ç¬¬ä¸‰æ–¹æŽ¥å£
+åº“ 
+æ´»åŠ¨ 
 
 FALSE 
 
-²Ù×÷ÈË 
+æ—¥å¿— 
+
+FALSE 
+
+æ“ä½œäºº 
 
 Powe rDe s ig ne r 
 
@@ -1439,11 +1440,11 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-À©Õ¹²ÎÊý 
+æ‰©å±•å‚æ•° 
 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
-µÚÈý·½²Ù×÷ÈË 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
+ç¬¬ä¸‰æ–¹æ“ä½œäºº 
 
 PARAM_0 
 
@@ -1457,17 +1458,17 @@ cha ra c te rs (255)
 
 FALSE 
 
-À©Õ¹²ÎÊý 
+æ‰©å±•å‚æ•° 
 
 FALSE 
 FALSE 
 FALSE 
 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
-µÚÈý·½²Ù×÷ÈË 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
+ç¬¬ä¸‰æ–¹æ“ä½œäºº 
 
-I.12 CIP ×ÊÔ´¹ÜÀí±í 
+I.12 CIP èµ„æºç®¡ç†è¡¨ 
 
 Code 
 Comment 
@@ -1480,29 +1481,29 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-µÇ¼Ç²úÆ· ID 
-µÇ¼Ç²úÆ·ÏµÁÐ±à
-Âë 
-×ÊÔ´±àÂë 
+ç™»è®°äº§å“ ID 
+ç™»è®°äº§å“ç³»åˆ—ç¼–
+ç  
+èµ„æºç¼–ç  
 
-×ÊÔ´Ãû³Æ 
+èµ„æºåç§° 
 
-×ÊÔ´ÎÄ¼þ ID 
+èµ„æºæ–‡ä»¶ ID 
 
-×ÊÔ´ÁÐ±í 
+èµ„æºåˆ—è¡¨ 
 
-×ÊÔ´²¿ÊðËµÃ÷ 
+èµ„æºéƒ¨ç½²è¯´æ˜Ž 
 
-×ÊÔ´ÒÀÀµËµÃ÷ 
+èµ„æºä¾èµ–è¯´æ˜Ž 
 
-×ÊÔ´±¸×¢ 
+èµ„æºå¤‡æ³¨ 
 
-À©Õ¹²ÎÊý 
+æ‰©å±•å‚æ•° 
 
-×ÊÔ´´´½¨Ê±¼ä 
-×ÊÔ´ÐÞ¸ÄÊ±¼ä 
+èµ„æºåˆ›å»ºæ—¶é—´ 
+èµ„æºä¿®æ”¹æ—¶é—´ 
 
 ID 
 PRODUCT _ID 
@@ -1557,57 +1558,57 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-µÇ¼Ç²úÆ· ID 
-µÇ¼Ç²úÆ·ÏµÁÐ±àÂë 
-
-FALSE 
-
-×ÊÔ´±àÂë 
+ç™»è®°äº§å“ ID 
+ç™»è®°äº§å“ç³»åˆ—ç¼–ç  
 
 FALSE 
 
-×ÊÔ´Ãû³Æ 
+èµ„æºç¼–ç  
 
 FALSE 
 
-×ÊÔ´ÎÄ¼þ ID 
+èµ„æºåç§° 
 
 FALSE 
 
-×ÊÔ´ÁÐ±í 
+èµ„æºæ–‡ä»¶ ID 
 
 FALSE 
 
-×ÊÔ´²¿ÊðËµÃ÷ 
+èµ„æºåˆ—è¡¨ 
 
 FALSE 
 
-×ÊÔ´ÒÀÀµËµÃ÷ 
+èµ„æºéƒ¨ç½²è¯´æ˜Ž 
 
 FALSE 
 
-×ÊÔ´±¸×¢ 
+èµ„æºä¾èµ–è¯´æ˜Ž 
 
 FALSE 
 
-À©Õ¹²ÎÊý 
+èµ„æºå¤‡æ³¨ 
+
+FALSE 
+
+æ‰©å±•å‚æ•° 
 
 FALSE 
 FALSE 
 
-×ÊÔ´´´½¨Ê±¼ä 
-×ÊÔ´ÐÞ¸ÄÊ±¼ä 
+èµ„æºåˆ›å»ºæ—¶é—´ 
+èµ„æºä¿®æ”¹æ—¶é—´ 
 
-I.13 CM P Ó¦ÓÃÊÚÈ¨ÐÅÏ¢¹ÜÀí 
+I.13 CM P åº”ç”¨æŽˆæƒä¿¡æ¯ç®¡ç† 
 
 Code 
 Comment 
 
 CMP_APP_AUTHENTICATION 
 
-CMP Ó¦ÓÃÊÚÈ¨ÐÅÏ¢¹ÜÀí 
+CMP åº”ç”¨æŽˆæƒä¿¡æ¯ç®¡ç† 
 
 Name 
 
@@ -1617,15 +1618,15 @@ Data Type
 
 ID 
 
-±»ÊÚÈ¨ÓÃ»§ ID 
+è¢«æŽˆæƒç”¨æˆ· ID 
 
 ID 
 USER_ID 
-±»ÊÚÈ¨ÓÃ»§Ãû³Æ USER_NAME 
+è¢«æŽˆæƒç”¨æˆ·åç§° USER_NAME 
 
-Ó¦ÓÃ ID 
+åº”ç”¨ ID 
 
-Ó¦ÓÃÀàÐÍ 
+åº”ç”¨ç±»åž‹ 
 
 APP_ID 
 APP_T YPE 
@@ -1650,13 +1651,13 @@ Comment
 
 ID 
 
-±»ÊÚÈ¨ÓÃ»§ ID 
-±»ÊÚÈ¨ÓÃ»§Ãû³Æ 
+è¢«æŽˆæƒç”¨æˆ· ID 
+è¢«æŽˆæƒç”¨æˆ·åç§° 
 
-Ó¦ÓÃ ID 
+åº”ç”¨ ID 
 
-Ó¦ÓÃÀàÐÍ£¬1=html Ó¦ÓÃ£¬ 2=
-Ô­ÉúÓ¦ÓÃ  
+åº”ç”¨ç±»åž‹ï¼Œ1=html åº”ç”¨ï¼Œ 2=
+åŽŸç”Ÿåº”ç”¨  
 
 Powe rDe s ig ne r 
 
@@ -1668,7 +1669,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-Ó¦ÓÃ¿ªÆô×´Ì¬ 
+åº”ç”¨å¼€å¯çŠ¶æ€ 
 
 APP_ST AT US 
 
@@ -1685,8 +1686,8 @@ ID
 Lo ng inte g e r 
 Lo ng inte g e r 
 
-Ó¦ÓÃ¿ªÆô×´Ì¬£¬1=ÆôÓÃ£¬2 =
-½ûÓÃ 
+åº”ç”¨å¼€å¯çŠ¶æ€ï¼Œ1=å¯ç”¨ï¼Œ2 =
+ç¦ç”¨ 
 
 T RUE 
 
@@ -1706,10 +1707,10 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
-±íµ¥Ö÷¼ü 
+ä¸»é”® 
+è¡¨å•ä¸»é”® 
 
-FORMT ALK ±í
+FORMT ALK è¡¨
 
 ID 
 FORM_ID 
@@ -1720,17 +1721,17 @@ Lo ng inte g e r
 Va ria b le 
 cha ra c te rs (255) 
 
-µ¥Ö÷¼ü 
-Ó³ÉäÊý¾Ý 
-´´½¨Ê±¼ä 
-ÐÞ¸ÄÊ±¼ä 
-ÅäÖÃÃû³Æ 
+å•ä¸»é”® 
+æ˜ å°„æ•°æ® 
+åˆ›å»ºæ—¶é—´ 
+ä¿®æ”¹æ—¶é—´ 
+é…ç½®åç§° 
 
-±íµ¥ÀàÐÍ 
-Á÷³ÌÄ£°åÖ÷¼ü 
-Ô¤Áô×Ö¶Î 
+è¡¨å•ç±»åž‹ 
+æµç¨‹æ¨¡æ¿ä¸»é”® 
+é¢„ç•™å­—æ®µ 
 
-ÅäÖÃ´«ËÍ·½Ïò 
+é…ç½®ä¼ é€æ–¹å‘ 
 
 MAPPER_DAT A T e xt 
 CREAT E_T IME 
@@ -1760,36 +1761,36 @@ FALSE
 
 Comment 
 
-Ö÷¼ü 
-±íµ¥Ö÷¼ü 
+ä¸»é”® 
+è¡¨å•ä¸»é”® 
 
-FORMT ALK ±íµ¥Ö÷¼ü 
-
-FALSE 
-FALSE 
-FALSE 
-FALSE 
+FORMT ALK è¡¨å•ä¸»é”® 
 
 FALSE 
 FALSE 
 FALSE 
+FALSE 
 
-Ó³ÉäÊý¾Ý 
-´´½¨Ê±¼ä 
-ÐÞ¸ÄÊ±¼ä 
-ÅäÖÃÃû³Æ 
+FALSE 
+FALSE 
+FALSE 
 
-±íµ¥ÀàÐÍ 
-Á÷³ÌÄ£°åÖ÷¼ü 
-Ô¤Áô×Ö¶Î 
+æ˜ å°„æ•°æ® 
+åˆ›å»ºæ—¶é—´ 
+ä¿®æ”¹æ—¶é—´ 
+é…ç½®åç§° 
+
+è¡¨å•ç±»åž‹ 
+æµç¨‹æ¨¡æ¿ä¸»é”® 
+é¢„ç•™å­—æ®µ 
 
 FALSE 
 
-ÅäÖÃ´«ËÍ·½Ïò(0¡¢Î´Ö¸¶¨£»
+é…ç½®ä¼ é€æ–¹å‘(0ã€æœªæŒ‡å®šï¼›
 
-1¡¢fo rmta lk ÍÆÏò V5 £» 2¡¢
-V5 ÍÆÏò fo rmta lk £»3¡¢V5 Éú
-³É fo rmta lk ¶þÎ¬Âë) 
+1ã€fo rmta lk æŽ¨å‘ V5 ï¼› 2ã€
+V5 æŽ¨å‘ fo rmta lk ï¼›3ã€V5 ç”Ÿ
+æˆ fo rmta lk äºŒç»´ç ) 
 
 I.15 CTP_EVERYBODYWORK_DATA 
 
@@ -1850,7 +1851,7 @@ T RUE
 
 T RUE 
 
-ÔÝ²»Ö§³Ö 
+æš‚ä¸æ”¯æŒ 
 
 T RUE 
 
@@ -1917,7 +1918,7 @@ Data Type
 
 ID 
 
-¹«Ê½µÄÀàÐÍ 
+å…¬å¼çš„ç±»åž‹ 
 
 ID 
 FORMULA_T YP
@@ -1926,9 +1927,9 @@ E
 Lo ng inte g e r 
 Sho rt inte g e r 
 
-¹«Ê½µÄÃû³Æ 
+å…¬å¼çš„åç§° 
 
-¹«Ê½µÄÏÔÊ¾Ãû³Æ FORMULA_ALI
+å…¬å¼çš„æ˜¾ç¤ºåç§° FORMULA_ALI
 AS 
 FORMULA_NA
 ME 
@@ -1936,16 +1937,16 @@ DESCR IPT ION
 
 PARAMS 
 
-¹«Ê½µÄÃèÊö£¬Ëµ
-Ã÷¹«Ê½µÄÓÃÍ¾ 
-¹«Ê½µÄ²ÎÊý¶ÔÏó
+å…¬å¼çš„æè¿°ï¼Œè¯´
+æ˜Žå…¬å¼çš„ç”¨é€” 
+å…¬å¼çš„å‚æ•°å¯¹è±¡
 
-µÄ JSON ±íÊö 
+çš„ JSON è¡¨è¿° 
 
-¹«Ê½µÄ±í´ïÊ½£º
-±äÁ¿µÄÖµ/º¯Êý
-µÄ´úÂë 
-¹«Ê½Êý¾ÝÀàÐÍ 
+å…¬å¼çš„è¡¨è¾¾å¼ï¼š
+å˜é‡çš„å€¼/å‡½æ•°
+çš„ä»£ç  
+å…¬å¼æ•°æ®ç±»åž‹ 
 
 Va ria b le 
 cha ra c te rs (255) 
@@ -1965,8 +1966,8 @@ cha ra c te rs (4000)
 
 FALSE 
 
-¹«Ê½µÄ±í´ïÊ½£º±äÁ¿µÄÖµ/º¯
-ÊýµÄ´úÂë 
+å…¬å¼çš„è¡¨è¾¾å¼ï¼šå˜é‡çš„å€¼/å‡½
+æ•°çš„ä»£ç  
 
 DAT A_T YPE 
 
@@ -1983,41 +1984,41 @@ Comment
 
 ID 
 
-¹«Ê½ÀàÐÍ£º0-³£Á¿£¬1-±äÁ¿£¬
+å…¬å¼ç±»åž‹ï¼š0-å¸¸é‡ï¼Œ1-å˜é‡ï¼Œ
 
-2-Gro o vy º¯Êý£¬3-Ja va º¯Êý 
-
-FALSE 
-
-¹«Ê½µÄÏÔÊ¾Ãû³Æ 
+2-Gro o vy å‡½æ•°ï¼Œ3-Ja va å‡½æ•° 
 
 FALSE 
 
-¹«Ê½µÄÃû³Æ 
+å…¬å¼çš„æ˜¾ç¤ºåç§° 
 
 FALSE 
 
-¹«Ê½µÄÃèÊö£¬ËµÃ÷¹«Ê½µÄÓÃÍ¾ 
+å…¬å¼çš„åç§° 
 
 FALSE 
 
-¹«Ê½µÄ²ÎÊý¶ÔÏóµÄ jso n ±íÊö 
+å…¬å¼çš„æè¿°ï¼Œè¯´æ˜Žå…¬å¼çš„ç”¨é€” 
 
-¹«Ê½Êý¾ÝÀàÐÍ:1-ÎÄ±¾£¬2-Êý
-Öµ£¬3-ÈÕÆÚÊ±¼ä£¬4-²¼¶ûÖµ£¬
+FALSE 
 
-11-ÈËÔ±£¬12-²¿ÃÅ£¬13 -¸Ú
+å…¬å¼çš„å‚æ•°å¯¹è±¡çš„ jso n è¡¨è¿° 
 
-Î»£¬14-Ö°Îñ¼¶±ð£¬15-µ¥Î»£¬ 
+å…¬å¼æ•°æ®ç±»åž‹:1-æ–‡æœ¬ï¼Œ2-æ•°
+å€¼ï¼Œ3-æ—¥æœŸæ—¶é—´ï¼Œ4-å¸ƒå°”å€¼ï¼Œ
 
-16-½ÇÉ« 
+11-äººå‘˜ï¼Œ12-éƒ¨é—¨ï¼Œ13 -å²—
 
-Ó¦ÓÃ·¶Î§:  0-È«²¿,1-Ð­Í¬Ä£
-°å,2-±íµ¥ÖÆ×÷,3-¹«ÎÄÄ£°å ,4 -
-Ö¸¶¨Ä£°å 
-Ê¾Àý½Å±¾ 
+ä½ï¼Œ14-èŒåŠ¡çº§åˆ«ï¼Œ15-å•ä½ï¼Œ 
 
-Ó¦ÓÃ·¶Î§ 
+16-è§’è‰² 
+
+åº”ç”¨èŒƒå›´:  0-å…¨éƒ¨,1-ååŒæ¨¡
+æ¿,2-è¡¨å•åˆ¶ä½œ,3-å…¬æ–‡æ¨¡æ¿ ,4 -
+æŒ‡å®šæ¨¡æ¿ 
+ç¤ºä¾‹è„šæœ¬ 
+
+åº”ç”¨èŒƒå›´ 
 
 CAT EGORY 
 
@@ -2025,19 +2026,19 @@ Sho rt inte g e r
 
 FALSE 
 
-Ê¾Àý½Å±¾ 
+ç¤ºä¾‹è„šæœ¬ 
 
-Ê¾ÀýµÄÆÚÍûÖµ 
+ç¤ºä¾‹çš„æœŸæœ›å€¼ 
 
-Ä£°å±àºÅ£¬
+æ¨¡æ¿ç¼–å·ï¼Œ
 
-CAT EGORY Îª
+CAT EGORY ä¸º
 
-4 Ê±ÓÐÖµ£¬¶à¸ö
-Ä£°å¶ººÅ·Ö¸ô 
-´´½¨Õß ID 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
+4 æ—¶æœ‰å€¼ï¼Œå¤šä¸ª
+æ¨¡æ¿é€—å·åˆ†éš” 
+åˆ›å»ºè€… ID 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
 
 SAMPLE 
 
@@ -2054,13 +2055,13 @@ FALSE
 
 FALSE 
 
-Ê¾ÀýµÄÆÚÍûÖµ 
+ç¤ºä¾‹çš„æœŸæœ›å€¼ 
 
 FALSE 
 
-Ä£°å±àºÅ£¬ca te g o ry Îª 4 Ê±
+æ¨¡æ¿ç¼–å·ï¼Œca te g o ry ä¸º 4 æ—¶
 
-ÓÐÖµ£¬¶à¸öÄ£°å¶ººÅ·Ö¸ô 
+æœ‰å€¼ï¼Œå¤šä¸ªæ¨¡æ¿é€—å·åˆ†éš” 
 
 CREAT OR 
 Lo ng inte g e r 
@@ -2072,9 +2073,9 @@ FALSE
 FALSE 
 FALSE 
 
-´´½¨Õß Id 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
+åˆ›å»ºè€… Id 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
 
 Powe rDe s ig ne r 
 
@@ -2099,14 +2100,14 @@ Code
 
 Data Type 
 
-¼ÇÂ¼±àºÅ 
-Àà±ðÃû³Æ 
+è®°å½•ç¼–å· 
+ç±»åˆ«åç§° 
 
-ËùÊô¹¦ÄÜÄ£¿éµÄ
-ÀàÐÍ 
-´´½¨ÈË 
-´´½¨Ê±¼ä 
-ÐÞ¸ÄÊ±¼ä 
+æ‰€å±žåŠŸèƒ½æ¨¡å—çš„
+ç±»åž‹ 
+åˆ›å»ºäºº 
+åˆ›å»ºæ—¶é—´ 
+ä¿®æ”¹æ—¶é—´ 
 
 ID 
 CAT E_NAME 
@@ -2123,12 +2124,12 @@ y
 T RUE 
 FALSE 
 
-¼ÇÂ¼±àºÅ 
-Àà±ðÃû³Æ 
+è®°å½•ç¼–å· 
+ç±»åˆ«åç§° 
 
 FALSE 
 
-ËùÊô¹¦ÄÜÄ£¿éµÄÀàÐÍ 
+æ‰€å±žåŠŸèƒ½æ¨¡å—çš„ç±»åž‹ 
 
 CREAT E_USER Lo ng inte g e r 
 CREAT E_T IME 
@@ -2139,9 +2140,9 @@ FALSE
 FALSE 
 FALSE 
 
-´´½¨ÈË 
-´´½¨Ê±¼ä 
-ÐÞ¸ÄÊ±¼ä 
+åˆ›å»ºäºº 
+åˆ›å»ºæ—¶é—´ 
+ä¿®æ”¹æ—¶é—´ 
 
 I.18 CTP_METADATA_COLUMN 
 
@@ -2156,12 +2157,12 @@ Code
 
 Data Type 
 
-¼ÇÂ¼±àºÅ 
-ÏÔÊ¾Ãû³Æ 
+è®°å½•ç¼–å· 
+æ˜¾ç¤ºåç§° 
 
-×Ö¶ÎÃû 
+å­—æ®µå 
 
-×Ö¶Î±ðÃû 
+å­—æ®µåˆ«å 
 
 ID 
 LABEL 
@@ -2185,16 +2186,16 @@ y
 T RUE 
 FALSE 
 
-¼ÇÂ¼±àºÅ 
-ÏÔÊ¾Ãû³Æ 
+è®°å½•ç¼–å· 
+æ˜¾ç¤ºåç§° 
 
 FALSE 
 
-×Ö¶ÎÃû£¬Óë PO ÖÐµÄÃû³ÆÒ»ÖÂ 
+å­—æ®µåï¼Œä¸Ž PO ä¸­çš„åç§°ä¸€è‡´ 
 
 FALSE 
 
-Êý¾ÝÀàÐÍ 
+æ•°æ®ç±»åž‹ 
 
 T YPE 
 
@@ -2202,7 +2203,7 @@ Sho rt inte g e r
 
 FALSE 
 
-×Ö¶ÎÊý¾ÝÀàÐÍ 
+å­—æ®µæ•°æ®ç±»åž‹ 
 
 DAT AT YPE 
 
@@ -2210,37 +2211,37 @@ Sho rt inte g e r
 
 FALSE 
 
-×Ö¶Î±ðÃû£¬ÔÚÍ¬Ò» T a b le ÖÐ±Ø
-ÐëÎ¨Ò»¡£Ò²²»ÄÜÓëÍ¬Ò» T a b le
+å­—æ®µåˆ«åï¼Œåœ¨åŒä¸€ T a b le ä¸­å¿…
+é¡»å”¯ä¸€ã€‚ä¹Ÿä¸èƒ½ä¸ŽåŒä¸€ T a b le
 
-ÖÐµÄ Co lumn µÄ name ³åÍ» 
+ä¸­çš„ Co lumn çš„ name å†²çª 
 
-Êý¾ÝÀàÐÍ£¨0£ºÎÄ±¾£¬1£ºÊý
-Öµ£¬2£ºÈÕÆÚ£¬3£ºÃ¶¾Ù£¬4£º
-Ñ¡ÈË¿Ø¼þ£© 
-×Ö¶ÎµÄÊý¾ÝÀàÐÍ£¨0£ºÎÄ±¾£¬
-1£ºÕûÊý£¬2£ºÐ¡Êý£¬3£ºÃ¶
-¾Ù£¬4£ºÈÕÆÚ£¬5£ºÈÕÆÚÊ±
-¼ä£¬6£ºÑ¡ÔñÈËÔ±£¬7£ºÑ¡Ôñ
-²¿ÃÅ£¬8£ºÑ¡Ôñµ¥Î»£© 
-ÓÃ»§×Ô¶¨Òå¹æÔò£¨Ð£Ñé¹æÔò£© 
+æ•°æ®ç±»åž‹ï¼ˆ0ï¼šæ–‡æœ¬ï¼Œ1ï¼šæ•°
+å€¼ï¼Œ2ï¼šæ—¥æœŸï¼Œ3ï¼šæžšä¸¾ï¼Œ4ï¼š
+é€‰äººæŽ§ä»¶ï¼‰ 
+å­—æ®µçš„æ•°æ®ç±»åž‹ï¼ˆ0ï¼šæ–‡æœ¬ï¼Œ
+1ï¼šæ•´æ•°ï¼Œ2ï¼šå°æ•°ï¼Œ3ï¼šæžš
+ä¸¾ï¼Œ4ï¼šæ—¥æœŸï¼Œ5ï¼šæ—¥æœŸæ—¶
+é—´ï¼Œ6ï¼šé€‰æ‹©äººå‘˜ï¼Œ7ï¼šé€‰æ‹©
+éƒ¨é—¨ï¼Œ8ï¼šé€‰æ‹©å•ä½ï¼‰ 
+ç”¨æˆ·è‡ªå®šä¹‰è§„åˆ™ï¼ˆæ ¡éªŒè§„åˆ™ï¼‰ 
 
-comp ¶ÔÓ¦£¬Èç ca le nd a r¡¢
+comp å¯¹åº”ï¼Œå¦‚ ca le nd a rã€
 se le c tPe o p le 
 
-ÅÅÐò×Ö¶Î 
-ÊÇ·ñÓÃÓÚ²éÑ¯£¨1£ºÊÇ£¬0£º
-·ñ£© 
-ÊÇ·ñÆôÓÃ£º1£ºÆôÓÃ£¬0£ºÍ£
-ÓÃ 
-±¸×¢ 
+æŽ’åºå­—æ®µ 
+æ˜¯å¦ç”¨äºŽæŸ¥è¯¢ï¼ˆ1ï¼šæ˜¯ï¼Œ0ï¼š
+å¦ï¼‰ 
+æ˜¯å¦å¯ç”¨ï¼š1ï¼šå¯ç”¨ï¼Œ0ï¼šåœ
+ç”¨ 
+å¤‡æ³¨ 
 
-ÓÃ»§×Ô¶¨Òå¹æÔò COLUMN_RULE Va ria b le 
+ç”¨æˆ·è‡ªå®šä¹‰è§„åˆ™ COLUMN_RULE Va ria b le 
 cha ra c te rs (500) 
 Va ria b le 
 cha ra c te rs (1024) 
 
-Â¼Èë×é¼þÃû³Æ 
+å½•å…¥ç»„ä»¶åç§° 
 
 COMPONENT 
 
@@ -2248,10 +2249,10 @@ FALSE
 
 FALSE 
 
-Â¼Èë×é¼þÃû³Æ£¬ÓëÇ°¶Ë×é¼þµÄ
+å½•å…¥ç»„ä»¶åç§°ï¼Œä¸Žå‰ç«¯ç»„ä»¶çš„
 
-ÅÅÐò×Ö¶Î 
-ÊÇ·ñÓÃÓÚ²éÑ¯ 
+æŽ’åºå­—æ®µ 
+æ˜¯å¦ç”¨äºŽæŸ¥è¯¢ 
 
 SORT 
 IS_SEACH 
@@ -2262,7 +2263,7 @@ Sho rt inte g e r
 FALSE 
 FALSE 
 
-ÊÇ·ñÆôÓÃ 
+æ˜¯å¦å¯ç”¨ 
 
 IS_ENABLE 
 
@@ -2270,7 +2271,7 @@ Sho rt inte g e r
 
 FALSE 
 
-±¸×¢ 
+å¤‡æ³¨ 
 
 DESCR IPT ION 
 
@@ -2293,14 +2294,14 @@ Lo ng inte g e r
 
 FALSE 
 
-ËùÊôµ¥Î»:null/¼¯ÍÅ id : È«¼¯ÍÅ;
+æ‰€å±žå•ä½:null/é›†å›¢ id : å…¨é›†å›¢;
 
-ÔªÊý¾Ý±í ID 
-Àà±ðÐÅÏ¢ ID 
-´´½¨ÈË 
-´´½¨Ê±¼ä 
-ÐÞ¸ÄÊ±¼ä 
-ÊÇ·ñÉ¾³ý 
+å…ƒæ•°æ®è¡¨ ID 
+ç±»åˆ«ä¿¡æ¯ ID 
+åˆ›å»ºäºº 
+åˆ›å»ºæ—¶é—´ 
+ä¿®æ”¹æ—¶é—´ 
+æ˜¯å¦åˆ é™¤ 
 
 T ABLE_ID 
 Lo ng inte g e r 
@@ -2320,19 +2321,19 @@ FALSE
 FALSE 
 FALSE 
 
-ÊÇ·ñÏÔÊ¾ÔÚÈËÔ±
-ÐÅÏ¢½çÃæ 
+æ˜¯å¦æ˜¾ç¤ºåœ¨äººå‘˜
+ä¿¡æ¯ç•Œé¢ 
 
 IS_SHOW INPE
 RSON INFO 
 
-ÊÇ·ñÏÔÊ¾ÔÚÈËÔ±
-¿¨Æ¬ 
+æ˜¯å¦æ˜¾ç¤ºåœ¨äººå‘˜
+å¡ç‰‡ 
 
 IS_SHOW INPE
 RSONCARD 
 
-ËùÊôµ¥Î» 
+æ‰€å±žå•ä½ 
 
 ORG_ACCOUN
 T _ID 
@@ -2345,7 +2346,7 @@ Sho rt inte g e r
 
 FALSE 
 
-ÊÇ·ñÔ¤ÖÃÊôÐÔ 
+æ˜¯å¦é¢„ç½®å±žæ€§ 
 
 IS_PRESET 
 
@@ -2366,12 +2367,12 @@ Code
 
 Data Type 
 
-¼ÇÂ¼±àºÅ£¬Ö÷¼ü 
+è®°å½•ç¼–å·ï¼Œä¸»é”® 
 
-T ABLE Ãû³Æ£¬
+T ABLE åç§°ï¼Œ
 
-×÷Îª³ÌÐòµ÷ÓÃµÄ
-Î¨Ò»±êÊ¶ 
+ä½œä¸ºç¨‹åºè°ƒç”¨çš„
+å”¯ä¸€æ ‡è¯† 
 
 ID 
 T ABLE_NAME 
@@ -2392,49 +2393,49 @@ cha ra c te rs (500)
 
 FALSE 
 
-ÔªÊý¾Ý±í ID 
-Àà±ðÐÅÏ¢ Id 
-´´½¨ÈË 
-´´½¨Ê±¼ä 
-ÐÞ¸ÄÊ±¼ä 
-ÊÇ·ñÉ¾³ý£º1£ºÉ¾³ý£¬0£ºÎ´
-É¾³ý 
-ÊÇ·ñÏÔÊ¾ÔÚÈËÔ±ÐÅÏ¢½çÃæ£¨Õë
-¶ÔÍ¨Ñ¶Â¼ÉèÖÃÌí¼Ó£¬1£ºÊÇ£¬
-0£º·ñ£© 
-ÊÇ·ñÏÔÊ¾ÔÚÈËÔ±¿¨Æ¬£¨Õë¶ÔÍ¨
-Ñ¶Â¼ÉèÖÃÌí¼Ó£¬1£ºÊÇ£¬0£º
-·ñ£© 
+å…ƒæ•°æ®è¡¨ ID 
+ç±»åˆ«ä¿¡æ¯ Id 
+åˆ›å»ºäºº 
+åˆ›å»ºæ—¶é—´ 
+ä¿®æ”¹æ—¶é—´ 
+æ˜¯å¦åˆ é™¤ï¼š1ï¼šåˆ é™¤ï¼Œ0ï¼šæœª
+åˆ é™¤ 
+æ˜¯å¦æ˜¾ç¤ºåœ¨äººå‘˜ä¿¡æ¯ç•Œé¢ï¼ˆé’ˆ
+å¯¹é€šè®¯å½•è®¾ç½®æ·»åŠ ï¼Œ1ï¼šæ˜¯ï¼Œ
+0ï¼šå¦ï¼‰ 
+æ˜¯å¦æ˜¾ç¤ºåœ¨äººå‘˜å¡ç‰‡ï¼ˆé’ˆå¯¹é€š
+è®¯å½•è®¾ç½®æ·»åŠ ï¼Œ1ï¼šæ˜¯ï¼Œ0ï¼š
+å¦ï¼‰ 
 
-µ¥Î» id£ºÖ¸¶¨µ¥Î» 
+å•ä½ idï¼šæŒ‡å®šå•ä½ 
 
-ÊÇ·ñÔ¤ÖÃÊôÐÔ£ºis_p re se t£¬
-1£ºÔ¤ÖÃÊôÐÔ; 0/null: ·ÇÔ¤ÖÃ
+æ˜¯å¦é¢„ç½®å±žæ€§ï¼šis_p re se tï¼Œ
+1ï¼šé¢„ç½®å±žæ€§; 0/null: éžé¢„ç½®
 
-ÊôÐÔ 
+å±žæ€§ 
 
 Comment 
 
-¼ÇÂ¼±àºÅ£¬Ö÷¼ü 
-T a b le Ãû³Æ£¬×÷Îª³ÌÐòµ÷ÓÃµÄ
-Î¨Ò»±êÊ¶ 
+è®°å½•ç¼–å·ï¼Œä¸»é”® 
+T a b le åç§°ï¼Œä½œä¸ºç¨‹åºè°ƒç”¨çš„
+å”¯ä¸€æ ‡è¯† 
 
-È¡µÃ T a b le ÃèÊöµÄ PO µÄ
-c la ssName£¬Èç
+å–å¾— T a b le æè¿°çš„ PO çš„
+c la ssNameï¼Œå¦‚
 com.se e yo n.c tp .o rg a niza tio n.
 p o .OrgMemb e r 
 
-Ä£ÐÍ...... 
+æ¨¡åž‹...... 
 
-´´½¨ÈË 
-´´½¨Ê±¼ä 
-¸ü¸ÄÊ±¼ä 
+åˆ›å»ºäºº 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ”¹æ—¶é—´ 
 
-ÏÔÊ¾Ãû³Æ 
+æ˜¾ç¤ºåç§° 
 
 LABEL 
 
-Ó¦ÓÃÄ£¿éÀàÐÍ 
+åº”ç”¨æ¨¡å—ç±»åž‹ 
 
 APPLICAT IONC
 AT EGORY 
@@ -2445,15 +2446,15 @@ Sho rt inte g e r
 
 FALSE 
 
-ÏÔÊ¾Ãû³Æ 
+æ˜¾ç¤ºåç§° 
 
 FALSE 
 
-Ó¦ÓÃÄ£¿éÀàÐÍ£ºÐ­Í¬/¹«ÎÄ/Ö¯
+åº”ç”¨æ¨¡å—ç±»åž‹ï¼šååŒ/å…¬æ–‡/ç»‡
 
-´´½¨ÈË 
-´´½¨Ê±¼ä 
-¸ü¸ÄÊ±¼ä 
+åˆ›å»ºäºº 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ”¹æ—¶é—´ 
 
 CREAT E_USER Lo ng inte g e r 
 CREAT E_T IME 
@@ -2492,9 +2493,9 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-±¸·ÝºóÐÂÎÄ¼þ
+å¤‡ä»½åŽæ–°æ–‡ä»¶
 
 ID 
 FILE_ID 
@@ -2505,13 +2506,13 @@ Lo ng inte g e r
 T RUE 
 FALSE 
 
-Ö÷¼ü id 
+ä¸»é”® id 
 
-±¸·ÝºóÐÂÎÄ¼þ ID 
+å¤‡ä»½åŽæ–°æ–‡ä»¶ ID 
 
 ID 
 
-Ô­ÎÄ¼þ ID 
+åŽŸæ–‡ä»¶ ID 
 
 SOURCE_FILE_
 ID 
@@ -2520,15 +2521,15 @@ Lo ng inte g e r
 
 FALSE 
 
-Ô­ÎÄ¼þ ID 
+åŽŸæ–‡ä»¶ ID 
 
-I.21 DEE ÊôÐÔ±í 
+I.21 DEE å±žæ€§è¡¨ 
 
 Code 
 Comment 
 
 CTP_SECTION_DEE_PROPS 
-DEE ÊôÐÔ±í 
+DEE å±žæ€§è¡¨ 
 
 Name 
 
@@ -2536,26 +2537,26 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
-À¸Ä¿ ID 
+ä¸»é”® ID 
+æ ç›® ID 
 
-ÊôÐÔÃû³Æ 
+å±žæ€§åç§° 
 
 ID 
 DEE_SECT ION
 _ID 
 PROP_NAME 
 
-ÊôÐÔÖµ 
+å±žæ€§å€¼ 
 
 PROP_VALUE 
 
-ÊôÐÔÀàÐÍ 
+å±žæ€§ç±»åž‹ 
 
 PROP_MET A 
 
-ÊÇ·ñÏÔÊ¾ 
-ÅÅÐò 
+æ˜¯å¦æ˜¾ç¤º 
+æŽ’åº 
 
 ISSHOW 
 SORT 
@@ -2579,34 +2580,34 @@ y
 T RUE 
 T RUE 
 
-Ö÷¼ü ID 
-À¸Ä¿ ID 
+ä¸»é”® ID 
+æ ç›® ID 
 
 FALSE 
 
-ÊôÐÔÃû³Æ 
+å±žæ€§åç§° 
 
 FALSE 
 
-ÊôÐÔÖµ 
+å±žæ€§å€¼ 
 
 FALSE 
 
-ÊôÐÔÀàÐÍ 
+å±žæ€§ç±»åž‹ 
 
 FALSE 
 FALSE 
 
-ÊÇ·ñÏÔÊ¾£º1-Òþ²Ø  0-ÏÔÊ¾ 
-ÅÅÐò 
+æ˜¯å¦æ˜¾ç¤ºï¼š1-éšè—  0-æ˜¾ç¤º 
+æŽ’åº 
 
-I.22 DEE ÊÚÈ¨±í 
+I.22 DEE æŽˆæƒè¡¨ 
 
 Code 
 Comment 
 
 CTP_SECTION_DEE_SECURITY 
-DEE ÊÚÈ¨±í 
+DEE æŽˆæƒè¡¨ 
 
 Name 
 
@@ -2614,12 +2615,12 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
-À¸Ä¿ ID 
+ä¸»é”® ID 
+æ ç›® ID 
 
-ÊµÌå ID 
+å®žä½“ ID 
 
-ÊµÌåÀàÐÍ 
+å®žä½“ç±»åž‹ 
 
 ID 
 DEE_SECT ION
@@ -2627,7 +2628,7 @@ _ID
 ENT IT Y_ID 
 ENT IT Y_T YPE 
 
-ÅÅÐòºÅ 
+æŽ’åºå· 
 
 SORT 
 
@@ -2644,29 +2645,29 @@ y
 T RUE 
 T RUE 
 
-Ö÷¼ü ID 
-À¸Ä¿ ID 
+ä¸»é”® ID 
+æ ç›® ID 
 
 T RUE 
 T RUE 
 
-ÊµÌå ID 
+å®žä½“ ID 
 
-ÊµÌåÀàÐÍ 
+å®žä½“ç±»åž‹ 
 
 FALSE 
 
-ÅÅÐòºÅ 
+æŽ’åºå· 
 
 Comment 
 
-I.23 DEE À¸Ä¿±í 
+I.23 DEE æ ç›®è¡¨ 
 
 Code 
 Comment 
 
 CTP_SECTION_DEE 
-DEE À¸Ä¿±í 
+DEE æ ç›®è¡¨ 
 
 Name 
 
@@ -2674,9 +2675,9 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-½»»»ÈÎÎñ ID 
+äº¤æ¢ä»»åŠ¡ ID 
 
 ID 
 FLOW _ID 
@@ -2691,9 +2692,9 @@ T RUE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-½»»»ÈÎÎñ ID 
+äº¤æ¢ä»»åŠ¡ ID 
 
 Powe rDe s ig ne r 
 
@@ -2705,13 +2706,13 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-Ä£¿éÃû³Æ 
+æ¨¡å—åç§° 
 
-À¸Ä¿Ä¬ÈÏ¸ß¶È 
-À¸Ä¿Ãû³Æ 
+æ ç›®é»˜è®¤é«˜åº¦ 
+æ ç›®åç§° 
 
-½»»»ÈÎÎñÏÔÊ¾Ãû
-³Æ 
+äº¤æ¢ä»»åŠ¡æ˜¾ç¤ºå
+ç§° 
 
 MODULE_NAM
 E 
@@ -2740,17 +2741,17 @@ cha ra c te rs (255)
 
 T RUE 
 
-Ä£¿éÃû³Æ 
+æ¨¡å—åç§° 
 
 T RUE 
 T RUE 
 
-À¸Ä¿Ä¬ÈÏ¸ß¶È 
-À¸Ä¿Ãû³Æ 
+æ ç›®é»˜è®¤é«˜åº¦ 
+æ ç›®åç§° 
 
 T RUE 
 
-½»»»ÈÎÎñÏÔÊ¾Ãû³Æ 
+äº¤æ¢ä»»åŠ¡æ˜¾ç¤ºåç§° 
 
 T RUE 
 
@@ -2773,16 +2774,16 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
-ÒÆ½»ÈË ID 
-½ÓÊÕÈË ID 
+ä¸»é”® 
+ç§»äº¤äºº ID 
+æŽ¥æ”¶äºº ID 
 
-ÈËÔ± ID 
+äººå‘˜ ID 
 
-ÒÆ½»ÈËµ¥Î» ID 
-¹¤×ÊÄê·Ý 
-¹¤×ÊÔÂ·Ý 
-ÒÆ½»ÈÕÆÚ 
+ç§»äº¤äººå•ä½ ID 
+å·¥èµ„å¹´ä»½ 
+å·¥èµ„æœˆä»½ 
+ç§»äº¤æ—¥æœŸ 
 
 ID 
 CREAT OR_ID 
@@ -2816,25 +2817,25 @@ FALSE
 
 Comment 
 
-Ö÷¼ü 
-ÒÆ½»ÈË id 
-½ÓÊÕÈË id 
+ä¸»é”® 
+ç§»äº¤äºº id 
+æŽ¥æ”¶äºº id 
 
-ÈËÔ± id 
+äººå‘˜ id 
 
-ÒÆ½»ÈËµ¥Î» id 
-¹¤×ÊÄê·Ý 
-¹¤×ÊÔÂ·Ý 
-ÒÆ½»ÈÕÆÚ 
+ç§»äº¤äººå•ä½ id 
+å·¥èµ„å¹´ä»½ 
+å·¥èµ„æœˆä»½ 
+ç§»äº¤æ—¥æœŸ 
 
-I.25 HTML ×¨ÒµÇ©ÕÂÇ¨ÒÆÔö¼Ó±í 
+I.25 HTML ä¸“ä¸šç­¾ç« è¿ç§»å¢žåŠ è¡¨ 
 
 Code 
 Comment 
 
 CTP_ISIGNATURE_HTML 
 
-HTML ×¨ÒµÇ©ÕÂÇ¨ÒÆÔö¼Ó±í 
+HTML ä¸“ä¸šç­¾ç« è¿ç§»å¢žåŠ è¡¨ 
 
 Name 
 
@@ -2842,14 +2843,14 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
-ÎÄµµ ID 
+ä¸»é”® ID 
+æ–‡æ¡£ ID 
 
-Ç©ÕÂÊý¾Ý 
+ç­¾ç« æ•°æ® 
 
-ÓÃ»§ ID 
+ç”¨æˆ· ID 
 
-Ö÷»úÃû 
+ä¸»æœºå 
 
 ID 
 DOCUMENT _ID 
@@ -2857,11 +2858,11 @@ SIGNAT URE
 USER_ID 
 HOST _NAME 
 
-Ç©ÕÂÊ±¼ä 
+ç­¾ç« æ—¶é—´ 
 
-¹«ÎÄ HTML Ç©
+å…¬æ–‡ HTML ç­¾
 
-ÕÂ¹¦ÄÜ 
+ç« åŠŸèƒ½ 
 
 SIGN_DAT E 
 DOCUMENT _T
@@ -2886,22 +2887,22 @@ FALSE
 FALSE 
 FALSE 
 
-Ö÷¼ü ID 
-ÎÄµµ ID 
+ä¸»é”® ID 
+æ–‡æ¡£ ID 
 
-Ç©ÕÂÊý¾Ý 
+ç­¾ç« æ•°æ® 
 
-ÓÃ»§ ID 
+ç”¨æˆ· ID 
 
-Ö÷»úÃû 
+ä¸»æœºå 
 
 FALSE 
 FALSE 
 
-Ç©ÕÂÊ±¼ä 
-¹«ÎÄ HTML Ç©ÕÂ¹¦ÄÜ 
+ç­¾ç« æ—¶é—´ 
+å…¬æ–‡ HTML ç­¾ç« åŠŸèƒ½ 
 
-I.26 HTML Ç©ÕÂ 
+I.26 HTML ç­¾ç«  
 
 Code 
 
@@ -2919,7 +2920,7 @@ CT P2.0
 
 Comment 
 
-htmlÇ©ÕÂ 
+htmlç­¾ç«  
 
 Name 
 
@@ -2928,12 +2929,12 @@ Code
 Data Type 
 
 ID 
-ÎÄµ¥ ID 
+æ–‡å• ID 
 
-×Ö¶ÎÃû³Æ 
+å­—æ®µåç§° 
 
-Ç©ÕÂÊý¾Ý 
-ÓÃ»§Ãû³Æ 
+ç­¾ç« æ•°æ® 
+ç”¨æˆ·åç§° 
 
 ID 
 SUMMARY_ID 
@@ -2942,14 +2943,14 @@ FIELD_NAME
 FIELD_VALUE 
 USER_NAME 
 
-Ç©ÃûÖ÷»ú 
+ç­¾åä¸»æœº 
 
 HOST _NAME 
 
-Ç©ÕÂÊ±¼ä 
-ÊÇ·ñÏµÍ³Âä¿îÓÃ
-»§¿ÉÑ¡ 
-Ç©ÅúÀàÐÍ 
+ç­¾ç« æ—¶é—´ 
+æ˜¯å¦ç³»ç»Ÿè½æ¬¾ç”¨
+æˆ·å¯é€‰ 
+ç­¾æ‰¹ç±»åž‹ 
 
 DAT E_T IME 
 AFFAIR_ID 
@@ -2978,22 +2979,22 @@ FALSE
 FALSE 
 
 ID 
-ÎÄµ¥ ID 
+æ–‡å• ID 
 
-×Ö¶ÎÃû³Æ 
+å­—æ®µåç§° 
 
-Ç©ÕÂÊý¾Ý 
-ÓÃ»§Ãû³Æ 
-
-FALSE 
-
-Ç©ÃûÖ÷»ú 
+ç­¾ç« æ•°æ® 
+ç”¨æˆ·åç§° 
 
 FALSE 
+
+ç­¾åä¸»æœº 
+
+FALSE 
 FALSE 
 
-Ç©ÕÂÊ±¼ä 
-ÊÇ·ñÏµÍ³Âä¿îÓÃ»§¿ÉÑ¡ 
+ç­¾ç« æ—¶é—´ 
+æ˜¯å¦ç³»ç»Ÿè½æ¬¾ç”¨æˆ·å¯é€‰ 
 
 SIGNET _T YPE 
 
@@ -3001,16 +3002,16 @@ Sho rt inte g e r
 
 FALSE 
 
-Ç©ÅúÀàÐÍ£º0£ºhtml Ç©Åú£¬1 :
-¹«ÎÄÎÄµ¥Âä¿îÇ©Åú 
+ç­¾æ‰¹ç±»åž‹ï¼š0ï¼šhtml ç­¾æ‰¹ï¼Œ1 :
+å…¬æ–‡æ–‡å•è½æ¬¾ç­¾æ‰¹ 
 
-I.27 HTML Ç©ÕÂÀúÊ· 
+I.27 HTML ç­¾ç« åŽ†å² 
 
 Code 
 Comment 
 
 SIGNET_HISTORY 
-htmlÇ©ÕÂÀúÊ· 
+htmlç­¾ç« åŽ†å² 
 
 Comment 
 
@@ -3021,28 +3022,28 @@ Code
 Data Type 
 
 ID 
-ÎÄµ¥ ID 
+æ–‡å• ID 
 
-×Ö¶ÎÃû³Æ 
+å­—æ®µåç§° 
 
 ID 
 SUMMARY_ID 
 FIELD_NAME 
 
-Ç©ÕÂÃû³Æ 
+ç­¾ç« åç§° 
 
 MARK_NAME 
 
-ÓÃ»§Ãû³Æ 
+ç”¨æˆ·åç§° 
 
 USER_NAME 
 
-Ç©ÃûÖ÷»ú 
+ç­¾åä¸»æœº 
 
 HOST _NAME 
 
-Ç©ÕÂÊ±¼ä 
-ÐòÁÐºÅ 
+ç­¾ç« æ—¶é—´ 
+åºåˆ—å· 
 
 DAT E_T IME 
 MARK_GU ID 
@@ -3068,27 +3069,27 @@ FALSE
 FALSE 
 
 ID 
-ÎÄµ¥ ID 
+æ–‡å• ID 
 
-×Ö¶ÎÃû³Æ 
-
-FALSE 
-
-Ç©ÕÂÃû³Æ 
+å­—æ®µåç§° 
 
 FALSE 
 
-ÓÃ»§Ãû³Æ 
+ç­¾ç« åç§° 
 
 FALSE 
 
-Ç©ÃûÖ÷»ú 
+ç”¨æˆ·åç§° 
+
+FALSE 
+
+ç­¾åä¸»æœº 
 
 FALSE 
 FALSE 
 
-Ç©ÕÂÊ±¼ä 
-ÐòÁÐºÅ 
+ç­¾ç« æ—¶é—´ 
+åºåˆ—å· 
 
 I.28 JK_BLOB_TRIGGERS 
 
@@ -3097,7 +3098,7 @@ Comment
 
 JK_BLOB_TRIGGERS 
 
-jk Ç°×ºµÄÊÇµÚÈý·½±í 
+jk å‰ç¼€çš„æ˜¯ç¬¬ä¸‰æ–¹è¡¨ 
 
 Name 
 
@@ -3153,7 +3154,7 @@ Comment
 
 JK_CALENDARS 
 
-jk Ç°×ºµÄÊÇµÚÈý·½±í 
+jk å‰ç¼€çš„æ˜¯ç¬¬ä¸‰æ–¹è¡¨ 
 
 Name 
 
@@ -3192,7 +3193,7 @@ Comment
 
 JK_CRON_TRIGGERS 
 
-jk Ç°×ºµÄÊÇµÚÈý·½±í 
+jk å‰ç¼€çš„æ˜¯ç¬¬ä¸‰æ–¹è¡¨ 
 
 Name 
 
@@ -3243,7 +3244,7 @@ Comment
 
 JK_FIRED_TRIGGERS 
 
-jk Ç°×ºµÄÊÇµÚÈý·½±í 
+jk å‰ç¼€çš„æ˜¯ç¬¬ä¸‰æ–¹è¡¨ 
 
 Name 
 
@@ -3362,7 +3363,7 @@ Comment
 
 JK_JOB_DETAILS 
 
-jk Ç°×ºµÄÊÇµÚÈý·½±í 
+jk å‰ç¼€çš„æ˜¯ç¬¬ä¸‰æ–¹è¡¨ 
 
 Name 
 
@@ -3451,7 +3452,7 @@ Comment
 
 JK_JOB_LISTENERS 
 
-jk Ç°×ºµÄÊÇµÚÈý·½±í 
+jk å‰ç¼€çš„æ˜¯ç¬¬ä¸‰æ–¹è¡¨ 
 
 Name 
 
@@ -3494,7 +3495,7 @@ Comment
 
 JK_LOCKS 
 
-jk Ç°×ºµÄÊÇµÚÈý·½±í 
+jk å‰ç¼€çš„æ˜¯ç¬¬ä¸‰æ–¹è¡¨ 
 
 Powe rDe s ig ne r 
 
@@ -3532,7 +3533,7 @@ Comment
 
 JK_PAUSED_TRIGGER_GRPS 
 
-jk Ç°×ºµÄÊÇµÚÈý·½±í 
+jk å‰ç¼€çš„æ˜¯ç¬¬ä¸‰æ–¹è¡¨ 
 
 Name 
 
@@ -3562,7 +3563,7 @@ Comment
 
 JK_SCHEDULER_STATE 
 
-jk Ç°×ºµÄÊÇµÚÈý·½±í 
+jk å‰ç¼€çš„æ˜¯ç¬¬ä¸‰æ–¹è¡¨ 
 
 Name 
 
@@ -3607,7 +3608,7 @@ Comment
 
 JK_SIMPLE_TRIGGERS 
 
-jk Ç°×ºµÄÊÇµÚÈý·½±í 
+jk å‰ç¼€çš„æ˜¯ç¬¬ä¸‰æ–¹è¡¨ 
 
 Name 
 
@@ -3679,7 +3680,7 @@ CT P2.0
 
 Comment 
 
-jk Ç°×ºµÄÊÇµÚÈý·½±í 
+jk å‰ç¼€çš„æ˜¯ç¬¬ä¸‰æ–¹è¡¨ 
 
 Name 
 
@@ -3723,7 +3724,7 @@ Comment
 
 JK_TRIGGERS 
 
-jk Ç°×ºµÄÊÇµÚÈý·½±í 
+jk å‰ç¼€çš„æ˜¯ç¬¬ä¸‰æ–¹è¡¨ 
 
 Name 
 
@@ -3875,19 +3876,19 @@ Code
 Data Type 
 
 ID 
-ÓÃ»§ ID 
-Ó¦ÓÃ ID 
+ç”¨æˆ· ID 
+åº”ç”¨ ID 
 
-Ó¦ÓÃÃû³Æ 
+åº”ç”¨åç§° 
 
 ID 
 MEMBER_ID 
 APP_ID 
 APP_NAME 
 
-Ó¦ÓÃµã»÷Ê±¼ä 
+åº”ç”¨ç‚¹å‡»æ—¶é—´ 
 
-µ¥Î» ID 
+å•ä½ ID 
 
 HANDLE_T IME 
 ACCOUNT _ID 
@@ -3910,17 +3911,17 @@ FALSE
 FALSE 
 
 ID 
-ÓÃ»§ ID 
-Ó¦ÓÃ ID 
+ç”¨æˆ· ID 
+åº”ç”¨ ID 
 
-Ó¦ÓÃÃû³Æ 
+åº”ç”¨åç§° 
 
 FALSE 
 FALSE 
 
-Ó¦ÓÃµã»÷Ê±¼ä 
+åº”ç”¨ç‚¹å‡»æ—¶é—´ 
 
-µ¥Î» ID 
+å•ä½ ID 
 
 I.41 M 3_APP_VERSION 
 
@@ -3937,12 +3938,12 @@ Data Type
 
 APP_CODE 
 
-¿ª·¢°æ±¾ 
+å¼€å‘ç‰ˆæœ¬ 
 
-Í¼±ê 
+å›¾æ ‡ 
 
-Ö÷¼ü 
-¶ÔÓ¦Ö÷±í
+ä¸»é”® 
+å¯¹åº”ä¸»è¡¨
 
 ID 
 APP_BUSINES
@@ -3960,7 +3961,7 @@ Va ria b le
 cha ra c te rs (100) 
 URL_SCHEMES Va ria b le 
 cha ra c te rs (100) 
-Ó¦ÓÃ°üÎ¨Ò»Ãû³Æ BUNDLE_NAME Va ria b le 
+åº”ç”¨åŒ…å”¯ä¸€åç§° BUNDLE_NAME Va ria b le 
 cha ra c te rs (100) 
 Va ria b le 
 cha ra c te rs (100) 
@@ -3972,31 +3973,31 @@ FIER
 CMP_SHELL_V
 ERSION 
 
-Ó¦ÓÃ·ÃÎÊµØÖ· 
+åº”ç”¨è®¿é—®åœ°å€ 
 
-Ó¦ÓÃ°üÎ¨Ò»Öµ 
+åº”ç”¨åŒ…å”¯ä¸€å€¼ 
 
-Ö§³Ö CMP ¿Ç°æ
-±¾ºÅ 
-¼æÈÝµÄ°æ±¾ 
+æ”¯æŒ CMP å£³ç‰ˆ
+æœ¬å· 
+å…¼å®¹çš„ç‰ˆæœ¬ 
 
-Ö§³ÖµÄÆ½Ì¨ 
+æ”¯æŒçš„å¹³å° 
 
-Í¼±êÂ·¾¶ 
+å›¾æ ‡è·¯å¾„ 
 
 DOMAIN 
 
-°æ±¾ 
+ç‰ˆæœ¬ 
 
-Ó¦ÓÃ·ÃÎÊÒ³Ãæ 
+åº”ç”¨è®¿é—®é¡µé¢ 
 
-¸üÐÂ URL 
+æ›´æ–° URL 
 
-MD5 Âë 
+MD5 ç  
 
-´´½¨Ê±¼ä 
-ÐÞ¸ÄÊ±¼ä 
-´´½¨ÈË ID 
+åˆ›å»ºæ—¶é—´ 
+ä¿®æ”¹æ—¶é—´ 
+åˆ›å»ºäºº ID 
 
 VERSION 
 
@@ -4043,45 +4044,45 @@ FALSE
 
 Comment 
 
-Ö÷¼ü 
+ä¸»é”® 
 
-¶ÔÓ¦Ö÷±í APP_CODE 
-
-FALSE 
-
-¿ª·¢°æ±¾ 
+å¯¹åº”ä¸»è¡¨ APP_CODE 
 
 FALSE 
 
-Í¼±ê 
+å¼€å‘ç‰ˆæœ¬ 
 
 FALSE 
 
-Ó¦ÓÃ·ÃÎÊµØÖ· 
+å›¾æ ‡ 
 
 FALSE 
 
-Ó¦ÓÃ°üÎ¨Ò»Ãû³Æ 
+åº”ç”¨è®¿é—®åœ°å€ 
 
 FALSE 
 
-Ó¦ÓÃ°üÎ¨Ò»Öµ 
+åº”ç”¨åŒ…å”¯ä¸€åç§° 
 
 FALSE 
 
-Ö§³Ö CMP ¿Ç°æ±¾ºÅ 
+åº”ç”¨åŒ…å”¯ä¸€å€¼ 
 
 FALSE 
 
-¼æÈÝµÄ°æ±¾ 
+æ”¯æŒ CMP å£³ç‰ˆæœ¬å· 
 
 FALSE 
 
-Ö§³ÖµÄÆ½Ì¨ 
+å…¼å®¹çš„ç‰ˆæœ¬ 
 
 FALSE 
 
-Í¼±êÂ·¾¶ 
+æ”¯æŒçš„å¹³å° 
+
+FALSE 
+
+å›¾æ ‡è·¯å¾„ 
 
 FALSE 
 
@@ -4089,27 +4090,27 @@ DOMAIN
 
 FALSE 
 
-°æ±¾ 
+ç‰ˆæœ¬ 
 
 FALSE 
 
-Ó¦ÓÃ·ÃÎÊÒ³Ãæ 
+åº”ç”¨è®¿é—®é¡µé¢ 
 
 FALSE 
 
-¸üÐÂ URL 
+æ›´æ–° URL 
 
 FALSE 
 
-MD5 Âë 
+MD5 ç  
 
 FALSE 
 FALSE 
 FALSE 
 
-´´½¨Ê±¼ä 
-ÐÞ¸ÄÊ±¼ä 
-´´½¨ÈË ID 
+åˆ›å»ºæ—¶é—´ 
+ä¿®æ”¹æ—¶é—´ 
+åˆ›å»ºäºº ID 
 
 Powe rDe s ig ne r 
 
@@ -4119,9 +4120,9 @@ Pa g e 21
 
 Lo g ica l Da ta Mo de l 
 
-Ó¦ÓÃ°üÔÚ
+åº”ç”¨åŒ…åœ¨
 
-V3XFILE ÖÐµÄ
+V3XFILE ä¸­çš„
 ID 
 
 APP_FILE_ID 
@@ -4131,17 +4132,17 @@ cha ra c te rs (20)
 
 FALSE 
 
-Ó¦ÓÃ°üÔÚ V3XFILE ÖÐµÄ ID 
+åº”ç”¨åŒ…åœ¨ V3XFILE ä¸­çš„ ID 
 
 CT P2.0 
 
-°æ±¾ËµÃ÷ 
+ç‰ˆæœ¬è¯´æ˜Ž 
 
 APP_RELEASE
 _NOT E 
-Ó¦ÓÃ°üÖÐÎÄËµÃ÷ APP_DESC 
+åº”ç”¨åŒ…ä¸­æ–‡è¯´æ˜Ž APP_DESC 
 
-Ó¦ÓÃ×¢²á±íÖ÷¼ü REGIST ER_ID 
+åº”ç”¨æ³¨å†Œè¡¨ä¸»é”® REGIST ER_ID 
 
 Va ria b le 
 cha ra c te rs (300) 
@@ -4151,15 +4152,15 @@ Lo ng inte g e r
 
 FALSE 
 
-°æ±¾ËµÃ÷ 
+ç‰ˆæœ¬è¯´æ˜Ž 
 
 FALSE 
 
-Ó¦ÓÃ°üÖÐÎÄËµÃ÷ 
+åº”ç”¨åŒ…ä¸­æ–‡è¯´æ˜Ž 
 
 FALSE 
 
-Ó¦ÓÃ×¢²á±íÖ÷¼ü 
+åº”ç”¨æ³¨å†Œè¡¨ä¸»é”® 
 
 I.42 M 3_PNS_MSG_SETTING 
 
@@ -4174,16 +4175,16 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
-ÓÃ»§ ID 
+ä¸»é”® ID 
+ç”¨æˆ· ID 
 
-°´Ê±¼ä¶Î½ÓÊÕÏû
-Ï¢¿ªÊ¼Ê±¼ä 
-ÓÃ»§ÆäËûÉèÖÃÀà
-ÈÝ£¬Èç£ºÓ¦ÓÃ½Ó
-ÊÕÏûÏ¢×´Ì¬ 
-°´Ê±¼ä¶Î½ÓÊÕÏû
-Ï¢½áÊøÊ±¼ä 
+æŒ‰æ—¶é—´æ®µæŽ¥æ”¶æ¶ˆ
+æ¯å¼€å§‹æ—¶é—´ 
+ç”¨æˆ·å…¶ä»–è®¾ç½®ç±»
+å®¹ï¼Œå¦‚ï¼šåº”ç”¨æŽ¥
+æ”¶æ¶ˆæ¯çŠ¶æ€ 
+æŒ‰æ—¶é—´æ®µæŽ¥æ”¶æ¶ˆ
+æ¯ç»“æŸæ—¶é—´ 
 
 ID 
 USER_ID 
@@ -4209,13 +4210,13 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
-ÓÃ»§ ID 
+ä¸»é”® ID 
+ç”¨æˆ· ID 
 
-°´Ê±¼ä¶Î½ÓÊÕÏûÏ¢¿ªÊ¼Ê±¼ä 
+æŒ‰æ—¶é—´æ®µæŽ¥æ”¶æ¶ˆæ¯å¼€å§‹æ—¶é—´ 
 
-ÓÃ»§ÆäËûÉèÖÃÀàÈÝ£¬Èç£ºÓ¦ÓÃ
-½ÓÊÕÏûÏ¢×´Ì¬ 
+ç”¨æˆ·å…¶ä»–è®¾ç½®ç±»å®¹ï¼Œå¦‚ï¼šåº”ç”¨
+æŽ¥æ”¶æ¶ˆæ¯çŠ¶æ€ 
 
 END_DAT E 
 
@@ -4224,7 +4225,7 @@ cha ra c te rs (20)
 
 FALSE 
 
-°´Ê±¼ä¶Î½ÓÊÕÏûÏ¢½áÊøÊ±¼ä 
+æŒ‰æ—¶é—´æ®µæŽ¥æ”¶æ¶ˆæ¯ç»“æŸæ—¶é—´ 
 
 I.43 M 3_USER_BEHAVIOR 
 
@@ -4241,7 +4242,7 @@ Data Type
 
 ID 
 
-¿Í»§¶ËÀàÐÍ 
+å®¢æˆ·ç«¯ç±»åž‹ 
 
 ID 
 CLIENT _T YPE 
@@ -4264,21 +4265,21 @@ Comment
 
 ID 
 
-¿Í»§¶ËÀàÐÍ 
+å®¢æˆ·ç«¯ç±»åž‹ 
 
 FALSE 
 FALSE 
 FALSE 
 
-ÈËÔ±ÔÚÏß×´Ì¬ 
+äººå‘˜åœ¨çº¿çŠ¶æ€ 
 
-ÓÃ»§ ID 
+ç”¨æˆ· ID 
 
-ÓÃ»§Ãû 
+ç”¨æˆ·å 
 
 FALSE 
 
-ÓÃ»§µÇÂ¼ m3 Ê±¼ä 
+ç”¨æˆ·ç™»å½• m3 æ—¶é—´ 
 
 ST AT US 
 MEMBER_ID 
@@ -4290,7 +4291,7 @@ LOGOUT _T IME Da te & T ime
 
 FALSE 
 
-ÓÃ»§ÍË³ö m3 Ê±¼ä 
+ç”¨æˆ·é€€å‡º m3 æ—¶é—´ 
 
 ACCOUNT _ID 
 DEPARTMENT _
@@ -4303,30 +4304,30 @@ Lo ng inte g e r
 FALSE 
 FALSE 
 
-µ¥Î» ID 
-²¿ÃÅ ID 
+å•ä½ ID 
+éƒ¨é—¨ ID 
 
 Inte g e r 
 
 FALSE 
 
-ÍË³öÀàÐÍ 
+é€€å‡ºç±»åž‹ 
 
-ÈËÔ±ÔÚÏß×´Ì¬ 
+äººå‘˜åœ¨çº¿çŠ¶æ€ 
 
-ÓÃ»§ ID 
+ç”¨æˆ· ID 
 
-ÓÃ»§Ãû 
+ç”¨æˆ·å 
 
-ÓÃ»§µÇÂ¼ M3 Ê±
-¼ä 
-ÓÃ»§ÍË³ö M3 Ê±
-¼ä 
+ç”¨æˆ·ç™»å½• M3 æ—¶
+é—´ 
+ç”¨æˆ·é€€å‡º M3 æ—¶
+é—´ 
 
-µ¥Î» ID 
-²¿ÃÅ ID 
+å•ä½ ID 
+éƒ¨é—¨ ID 
 
-ÍË³öÀàÐÍ 
+é€€å‡ºç±»åž‹ 
 
 Powe rDe s ig ne r 
 
@@ -4352,12 +4353,12 @@ Code
 Data Type 
 
 ID 
-ÓÃ»§ ID 
+ç”¨æˆ· ID 
 
-ÓÃ»§Ãû 
+ç”¨æˆ·å 
 
-ÓÃ»§µÚÒ»´ÎµÇÂ¼
-Ê±¼ä 
+ç”¨æˆ·ç¬¬ä¸€æ¬¡ç™»å½•
+æ—¶é—´ 
 
 ID 
 MEMBER_ID 
@@ -4380,17 +4381,17 @@ FALSE
 FALSE 
 
 ID 
-ÓÃ»§ ID 
+ç”¨æˆ· ID 
 
-ÓÃ»§Ãû 
+ç”¨æˆ·å 
 
 FALSE 
 
-ÓÃ»§µÚÒ»´ÎµÇÂ¼Ê±¼ä 
+ç”¨æˆ·ç¬¬ä¸€æ¬¡ç™»å½•æ—¶é—´ 
 
-µ¥Î» ID 
+å•ä½ ID 
 ACCOUNT _ID 
-µÚÒ»ÌõÍ³¼ÆÊý¾Ý FIRST _DAT A 
+ç¬¬ä¸€æ¡ç»Ÿè®¡æ•°æ® FIRST _DAT A 
 
 Lo ng inte g e r 
 Va ria b le 
@@ -4399,9 +4400,9 @@ cha ra c te rs (50)
 FALSE 
 FALSE 
 
-µ¥Î» ID 
+å•ä½ ID 
 
-µÚÒ»ÌõÍ³¼ÆÊý¾Ý 
+ç¬¬ä¸€æ¡ç»Ÿè®¡æ•°æ® 
 
 I.45 M 3_XIAOZHI_AUTH 
 
@@ -4428,22 +4429,22 @@ NT
 IPHONE_COUN
 T 
 
-Ö÷¼ü ID 
-µ¥Î» ID 
-ANDROID ¶ËÊÚ
+ä¸»é”® ID 
+å•ä½ ID 
+ANDROID ç«¯æŽˆ
 
-È¨×ÜÊý£¬Ä¬ÈÏ 0 
+æƒæ€»æ•°ï¼Œé»˜è®¤ 0 
 
-IPHONE ¶ËÊÚ
+IPHONE ç«¯æŽˆ
 
-È¨×ÜÊý£¬Ä¬ÈÏÊÇ
+æƒæ€»æ•°ï¼Œé»˜è®¤æ˜¯
 
 0 
 
-ÈËÔ±ÊÚÈ¨µÄ´´½¨
-Ê±¼ä 
-ÈËÔ±ÊÚÈ¨µÄÐÞ¸Ä
-Ê±¼ä 
+äººå‘˜æŽˆæƒçš„åˆ›å»º
+æ—¶é—´ 
+äººå‘˜æŽˆæƒçš„ä¿®æ”¹
+æ—¶é—´ 
 
 Mandator
 y 
@@ -4453,27 +4454,27 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
-µ¥Î» ID 
-a nd ro id ¶ËÊÚÈ¨×ÜÊý£¬Ä¬ÈÏ 0 
+ä¸»é”® ID 
+å•ä½ ID 
+a nd ro id ç«¯æŽˆæƒæ€»æ•°ï¼Œé»˜è®¤ 0 
 
 Inte g e r 
 
 FALSE 
 
-ip ho ne ¶ËÊÚÈ¨×ÜÊý£¬Ä¬ÈÏÊÇ 0 
+ip ho ne ç«¯æŽˆæƒæ€»æ•°ï¼Œé»˜è®¤æ˜¯ 0 
 
 CREAT E_DAT E Da te & T ime 
 
 FALSE 
 
-ÈËÔ±ÊÚÈ¨µÄ´´½¨Ê±¼ä 
+äººå‘˜æŽˆæƒçš„åˆ›å»ºæ—¶é—´ 
 
 UPDAT E_DAT E Da te & T ime 
 
 FALSE 
 
-ÈËÔ±ÊÚÈ¨µÄÐÞ¸ÄÊ±¼ä 
+äººå‘˜æŽˆæƒçš„ä¿®æ”¹æ—¶é—´ 
 
 I.46 M 3_XIAOZHI_CLIENT 
 
@@ -4488,18 +4489,18 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
-ÈËÔ± ID 
-µ¥Î» ID 
+ä¸»é”® ID 
+äººå‘˜ ID 
+å•ä½ ID 
 
-Éè±¸ÀàÐÍ 
+è®¾å¤‡ç±»åž‹ 
 
 ID 
 MEMBER_ID 
 ACCOUNT _ID 
 CLIENT _T YPE 
 
-Éè±¸±êÊ¶ 
+è®¾å¤‡æ ‡è¯† 
 
 CLIENT _ID 
 
@@ -4518,15 +4519,15 @@ FALSE
 FALSE 
 FALSE 
 
-Ö÷¼ü ID 
-ÈËÔ± ID 
-µ¥Î» ID 
+ä¸»é”® ID 
+äººå‘˜ ID 
+å•ä½ ID 
 
-Éè±¸ÀàÐÍ 
+è®¾å¤‡ç±»åž‹ 
 
 FALSE 
 
-Éè±¸±êÊ¶ 
+è®¾å¤‡æ ‡è¯† 
 
 Comment 
 
@@ -4538,8 +4539,8 @@ Pa g e 23
 
 Lo g ica l Da ta Mo de l 
 
-¿Í»§¶Ë°ó¶¨Ð¡ÖÇ
-µÄÊ±¼ä 
+å®¢æˆ·ç«¯ç»‘å®šå°æ™º
+çš„æ—¶é—´ 
 
 BIND_DAT E 
 
@@ -4547,11 +4548,11 @@ Da te & T ime
 
 FALSE 
 
-¿Í»§¶Ë°ó¶¨Ð¡ÖÇµÄÊ±¼ä 
+å®¢æˆ·ç«¯ç»‘å®šå°æ™ºçš„æ—¶é—´ 
 
 CT P2.0 
 
-I.47 M 3_ÅäÖÃÈËÔ±OFFICE È¨ÏÞ 
+I.47 M 3_é…ç½®äººå‘˜OFFICE æƒé™ 
 
 Code 
 Comment 
@@ -4565,15 +4566,15 @@ Code
 Data Type 
 
 ID 
-ÊµÌå ID 
+å®žä½“ ID 
 
-ÊµÌåÀàÐÍ 
+å®žä½“ç±»åž‹ 
 
 ID 
 UN IT _ID 
 UN IT _T YPE 
 
-ÊÇ·ñ°üº¬×Ó²¿ÃÅ CONT AIN_SUB
+æ˜¯å¦åŒ…å«å­éƒ¨é—¨ CONT AIN_SUB
 _DEPARTMENT 
 
 Lo ng inte g e r 
@@ -4590,10 +4591,10 @@ FALSE
 
 FALSE 
 
-ÊÚÈ¨ KEY 
+æŽˆæƒ KEY 
 
-´´½¨ÈÕÆÚ 
-ÐòºÅ 
+åˆ›å»ºæ—¥æœŸ 
+åºå· 
 
 OFFICE_KEY 
 CREAT EDAT E 
@@ -4610,20 +4611,20 @@ FALSE
 Comment 
 
 ID 
-ÊµÌå ID 
-ÊµÌåÀàÐÍ Acco unt 
+å®žä½“ ID 
+å®žä½“ç±»åž‹ Acco unt 
 De p a rtme nt Memb e r... 
 
-ÊÇ·ñ°üº¬×Ó²¿ÃÅ ²»°üº¬Îª 0 
-Ö»ÓÐÔÚÊµÌåÀàÐÍÎª
+æ˜¯å¦åŒ…å«å­éƒ¨é—¨ ä¸åŒ…å«ä¸º 0 
+åªæœ‰åœ¨å®žä½“ç±»åž‹ä¸º
 
-De p a rtme nt Ê±ÓÐÓÃ 
-ÊÚÈ¨ Ke y 
+De p a rtme nt æ—¶æœ‰ç”¨ 
+æŽˆæƒ Ke y 
 
-´´½¨ÈÕÆÚ 
-ÐòºÅ ÓÃÀ´ÅÅÐò 
+åˆ›å»ºæ—¥æœŸ 
+åºå· ç”¨æ¥æŽ’åº 
 
-I.48 M 3 ÓÃ»§ÍÆËÍÉè±¸×¢²áÐÅÏ¢¼ÇÂ¼±í 
+I.48 M 3 ç”¨æˆ·æŽ¨é€è®¾å¤‡æ³¨å†Œä¿¡æ¯è®°å½•è¡¨ 
 
 Code 
 Comment 
@@ -4636,9 +4637,9 @@ Code
 
 Data Type 
 
-Î¨Ò»Ö÷¼ü ID 
+å”¯ä¸€ä¸»é”® ID 
 
-ÓÃ»§ ID 
+ç”¨æˆ· ID 
 
 CONFIG_ID 
 USER_ID 
@@ -4664,7 +4665,7 @@ EL_ID
 Va ria b le 
 cha ra c te rs (50) 
 
-Éè±¸ÀàÐÍ£ºIOS, 
+è®¾å¤‡ç±»åž‹ï¼šIOS, 
 
 DEVICE_T YPE 
 
@@ -4683,30 +4684,30 @@ MI_ST AT US
 HUAWEI_ST AT
 US 
 
-Ð¡Ã×ÍÆËÍ·þÎñÉè
+å°ç±³æŽ¨é€æœåŠ¡è®¾
 
-±¸ ID 
+å¤‡ ID 
 
-»ªÎªÍÆËÍ·þÎñÉè
+åŽä¸ºæŽ¨é€æœåŠ¡è®¾
 
-±¸ ID 
+å¤‡ ID 
 
-°Ù¶ÈÍÆËÍ·þÎñÉè
+ç™¾åº¦æŽ¨é€æœåŠ¡è®¾
 
-±¸ ID 
+å¤‡ ID 
 
 ANDROID 
 
-Ð¡Ã×ÍÆËÍ·þÎñ×´
-Ì¬ 
-»ªÎªÍÆËÍ·þÎñ×´
-Ì¬ 
-°Ù¶ÈÍÆËÍ·þÎñ×´
-Ì¬ 
-×¢²áÊ±¼ä£¨´´½¨
-Ê±¼ä£© 
+å°ç±³æŽ¨é€æœåŠ¡çŠ¶
+æ€ 
+åŽä¸ºæŽ¨é€æœåŠ¡çŠ¶
+æ€ 
+ç™¾åº¦æŽ¨é€æœåŠ¡çŠ¶
+æ€ 
+æ³¨å†Œæ—¶é—´ï¼ˆåˆ›å»º
+æ—¶é—´ï¼‰ 
 
-Éè±¸ ID 
+è®¾å¤‡ ID 
 
 Mandator
 y 
@@ -4715,33 +4716,33 @@ FALSE
 
 Comment 
 
-Î¨Ò»Ö÷¼ü ID 
+å”¯ä¸€ä¸»é”® ID 
 
-ÓÃ»§ ID 
-
-FALSE 
-
-Ð¡Ã×ÍÆËÍ·þÎñÉè±¸ ID 
+ç”¨æˆ· ID 
 
 FALSE 
 
-»ªÎªÍÆËÍ·þÎñÉè±¸ ID 
+å°ç±³æŽ¨é€æœåŠ¡è®¾å¤‡ ID 
 
 FALSE 
 
-°Ù¶ÈÍÆËÍ·þÎñÉè±¸ ID 
+åŽä¸ºæŽ¨é€æœåŠ¡è®¾å¤‡ ID 
 
 FALSE 
 
-Éè±¸ÀàÐÍ£ºiOS, And ro id 
+ç™¾åº¦æŽ¨é€æœåŠ¡è®¾å¤‡ ID 
 
-Ð¡Ã×ÍÆËÍ·þÎñ×´Ì¬£º1 ¿ªÆô£¬
-0 ¹Ø±Õ 
-»ªÎªÍÆËÍ·þÎñ×´Ì¬£º1 ¿ªÆô£¬
-0 ¹Ø±Õ 
-°Ù¶ÈÍÆËÍ·þÎñ×´Ì¬£º1 ¿ªÆô£¬
-0 ¹Ø±Õ 
-×¢²áÊ±¼ä£¨´´½¨Ê±¼ä£© 
+FALSE 
+
+è®¾å¤‡ç±»åž‹ï¼šiOS, And ro id 
+
+å°ç±³æŽ¨é€æœåŠ¡çŠ¶æ€ï¼š1 å¼€å¯ï¼Œ
+0 å…³é—­ 
+åŽä¸ºæŽ¨é€æœåŠ¡çŠ¶æ€ï¼š1 å¼€å¯ï¼Œ
+0 å…³é—­ 
+ç™¾åº¦æŽ¨é€æœåŠ¡çŠ¶æ€ï¼š1 å¼€å¯ï¼Œ
+0 å…³é—­ 
+æ³¨å†Œæ—¶é—´ï¼ˆåˆ›å»ºæ—¶é—´ï¼‰ 
 
 BAIDU_ST AT US Sho rt inte g e r 
 
@@ -4759,7 +4760,7 @@ cha ra c te rs (50)
 
 FALSE 
 
-Éè±¸ ID 
+è®¾å¤‡ ID 
 
 Powe rDe s ig ne r 
 
@@ -4771,11 +4772,11 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-À©Õ¹×Ö¶Î 1 
+æ‰©å±•å­—æ®µ 1 
 
-À©Õ¹×Ö¶Î 2 
+æ‰©å±•å­—æ®µ 2 
 
-À©Õ¹×Ö¶Î 3 
+æ‰©å±•å­—æ®µ 3 
 
 EXT 1 
 
@@ -4792,17 +4793,17 @@ cha ra c te rs (1024)
 
 FALSE 
 
-À©Õ¹×Ö¶Î 1 
+æ‰©å±•å­—æ®µ 1 
 
 FALSE 
 
-À©Õ¹×Ö¶Î 2 
+æ‰©å±•å­—æ®µ 2 
 
 FALSE 
 
-À©Õ¹×Ö¶Î 3 
+æ‰©å±•å­—æ®µ 3 
 
-I.49 M 3 ÒÆ¶¯Ó¦ÓÃ¹ã¸æBANNER 
+I.49 M 3 ç§»åŠ¨åº”ç”¨å¹¿å‘ŠBANNER 
 
 Code 
 Comment 
@@ -4815,20 +4816,20 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
-BANNER Ãû³Æ 
+ä¸»é”® ID 
+BANNER åç§° 
 
 BANNER URL
 
-Á´½Ó 
-ÊÇ·ñÏÔÊ¾ 
-ÉÏ´«ÈÕÆÚ 
-Ô¤Áô×Ö¶Î 1 
-Ô¤Áô×Ö¶Î 2 
-Ô¤Áô×Ö¶Î 3 
-Ô¤Áô×Ö¶Î 4 
+é“¾æŽ¥ 
+æ˜¯å¦æ˜¾ç¤º 
+ä¸Šä¼ æ—¥æœŸ 
+é¢„ç•™å­—æ®µ 1 
+é¢„ç•™å­—æ®µ 2 
+é¢„ç•™å­—æ®µ 3 
+é¢„ç•™å­—æ®µ 4 
 
-Í¼Æ¬ URL 
+å›¾ç‰‡ URL 
 
 ID 
 BANNER_NAM
@@ -4860,12 +4861,12 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
-Ba nne r Ãû³Æ 
+ä¸»é”® ID 
+Ba nne r åç§° 
 
 FALSE 
 
-Ba nne r U rl Á´½Ó 
+Ba nne r U rl é“¾æŽ¥ 
 
 FALSE 
 FALSE 
@@ -4875,14 +4876,14 @@ FALSE
 FALSE 
 FALSE 
 
-ÊÇ·ñÏÔÊ¾£¨1£¬ÊÇ£»0£¬·ñ£© 
-ÉÏ´«ÈÕÆÚ 
-Ô¤Áô×Ö¶Î 1 
-Ô¤Áô×Ö¶Î 2 
-Ô¤Áô×Ö¶Î 3 
-Ô¤Áô×Ö¶Î 4 
+æ˜¯å¦æ˜¾ç¤ºï¼ˆ1ï¼Œæ˜¯ï¼›0ï¼Œå¦ï¼‰ 
+ä¸Šä¼ æ—¥æœŸ 
+é¢„ç•™å­—æ®µ 1 
+é¢„ç•™å­—æ®µ 2 
+é¢„ç•™å­—æ®µ 3 
+é¢„ç•™å­—æ®µ 4 
 
-Í¼Æ¬ URL 
+å›¾ç‰‡ URL 
 
 I.50 M OBILE_LOGIN 
 
@@ -4897,9 +4898,9 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Ä¬ÈÏÊÇ·ñ¿ªÆô 
+é»˜è®¤æ˜¯å¦å¼€å¯ 
 
 ID 
 DEFAULT _ON 
@@ -4912,11 +4913,11 @@ y
 T RUE 
 FALSE 
 
-¿ØÖÆ·¶Î§ 
+æŽ§åˆ¶èŒƒå›´ 
 
-´´½¨Ê±¼ä 
-ÐÞ¸ÄÊ±¼ä 
-ËùÊôµ¥Î» ID 
+åˆ›å»ºæ—¶é—´ 
+ä¿®æ”¹æ—¶é—´ 
+æ‰€å±žå•ä½ ID 
 
 CONT ROL_SC
 OPE 
@@ -4936,15 +4937,15 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Ä¬ÈÏÊÇ·ñ¿ªÆô£º0£¬²»¿ªÆô£»
-1£¬¿ªÆô£» 
-¿ØÖÆ·¶Î§£º0£¬ËùÓÐÓÃ»§£»
-1£¬Ö¸¶¨ÓÃ»§£» 
-´´½¨Ê±¼ä 
-ÐÞ¸ÄÊ±¼ä 
-ËùÊôµ¥Î» ID 
+é»˜è®¤æ˜¯å¦å¼€å¯ï¼š0ï¼Œä¸å¼€å¯ï¼›
+1ï¼Œå¼€å¯ï¼› 
+æŽ§åˆ¶èŒƒå›´ï¼š0ï¼Œæ‰€æœ‰ç”¨æˆ·ï¼›
+1ï¼ŒæŒ‡å®šç”¨æˆ·ï¼› 
+åˆ›å»ºæ—¶é—´ 
+ä¿®æ”¹æ—¶é—´ 
+æ‰€å±žå•ä½ ID 
 
 I.51 M OBILE_LOGIN_SCOPE 
 
@@ -4969,11 +4970,11 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-¶ÌÐÅµÇÂ¼ÑéÖ¤Åä
+çŸ­ä¿¡ç™»å½•éªŒè¯é…
 
-ÖÃ ID 
+ç½® ID 
 
 ID 
 MOBILE_LOGIN
@@ -4989,11 +4990,11 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-¶ÌÐÅµÇÂ¼ÑéÖ¤ÅäÖÃ ID 
+çŸ­ä¿¡ç™»å½•éªŒè¯é…ç½® ID 
 
-×éÖ¯Ä£ÐÍÊµÌå
+ç»„ç»‡æ¨¡åž‹å®žä½“
 
 USER_ID 
 
@@ -5001,12 +5002,12 @@ Lo ng inte g e r
 
 FALSE 
 
-×éÖ¯Ä£ÐÍÊµÌå ID 
+ç»„ç»‡æ¨¡åž‹å®žä½“ ID 
 
 ID 
 
-×éÖ¯Ä£ÐÍÊµÌåÀà
-ÐÍ 
+ç»„ç»‡æ¨¡åž‹å®žä½“ç±»
+åž‹ 
 
 USER_T YPE 
 
@@ -5015,16 +5016,16 @@ cha ra c te rs (50)
 
 FALSE 
 
-×éÖ¯Ä£ÐÍÊµÌåÀàÐÍ 
+ç»„ç»‡æ¨¡åž‹å®žä½“ç±»åž‹ 
 
-I.52 NC Í¬²½Êý¾Ý¼ÇÂ¼±í 
+I.52 NC åŒæ­¥æ•°æ®è®°å½•è¡¨ 
 
 Code 
 Comment 
 
 NCPLUGIN_ORGSYNRECORDDETAIL 
 
-NC Í¬²½Êý¾Ý¼ÇÂ¼±í 
+NC åŒæ­¥æ•°æ®è®°å½•è¡¨ 
 
 Name 
 
@@ -5032,12 +5033,12 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Ö÷¼ÇÂ¼±í ID 
-Í¬²½Êý¾ÝµÄÏêÏ¸
-ÃèÊö 
-Í¬²½ÊÇ·ñ³É¹¦ 
+ä¸»è®°å½•è¡¨ ID 
+åŒæ­¥æ•°æ®çš„è¯¦ç»†
+æè¿° 
+åŒæ­¥æ˜¯å¦æˆåŠŸ 
 
 ID 
 RECORD_ID 
@@ -5045,7 +5046,7 @@ DAT A
 
 ACT ION 
 
-Í¬²½±¸×¢ËµÃ÷ 
+åŒæ­¥å¤‡æ³¨è¯´æ˜Ž 
 
 MEMO 
 
@@ -5068,27 +5069,27 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Ö÷¼ÇÂ¼±í id 
-Í¬²½Êý¾ÝµÄÏêÏ¸ÃèÊö 
-
-FALSE 
+ä¸»è®°å½•è¡¨ id 
+åŒæ­¥æ•°æ®çš„è¯¦ç»†æè¿° 
 
 FALSE 
 
-Í¬²½ÊÇ³É¹¦£¬Ê§°Ü£¬ºöÂÔµÄÃè
-Êö 
-Í¬²½±¸×¢ËµÃ÷ 
+FALSE 
 
-I.53 NC Í¬²½¼ÇÂ¼±í 
+åŒæ­¥æ˜¯æˆåŠŸï¼Œå¤±è´¥ï¼Œå¿½ç•¥çš„æ
+è¿° 
+åŒæ­¥å¤‡æ³¨è¯´æ˜Ž 
+
+I.53 NC åŒæ­¥è®°å½•è¡¨ 
 
 Code 
 Comment 
 
 NCPLUGIN_ORGSYNRECORD 
 
-NC Í¬²½¼ÇÂ¼±í 
+NC åŒæ­¥è®°å½•è¡¨ 
 
 Name 
 
@@ -5096,14 +5097,14 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Í¬²½ÈËµÇÂ¼Ãû 
+åŒæ­¥äººç™»å½•å 
 
 ID 
 LOGINNAME 
 
-Í¬²½·½Ê½ 
+åŒæ­¥æ–¹å¼ 
 
 OPT YPE 
 
@@ -5119,20 +5120,20 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Í¬²½ÈËµÇÂ¼Ãû 
+åŒæ­¥äººç™»å½•å 
 
 FALSE 
 
-Í¬²½·½Ê½ 0-×Ô¶¯  1-ÊÖ¶¯ 2-°´
+åŒæ­¥æ–¹å¼ 0-è‡ªåŠ¨  1-æ‰‹åŠ¨ 2-æŒ‰
 
-Í¬²½³É¹¦Êý 
-Í¬²½Ê§°ÜÊý 
-Í¬²½×ÜÊý 
-ÊÇ·ñÓÐÐ§ 
-Ê±¼ä´Á 
-A8 µ¥Î»»ò²¿ÃÅ
+åŒæ­¥æˆåŠŸæ•° 
+åŒæ­¥å¤±è´¥æ•° 
+åŒæ­¥æ€»æ•° 
+æ˜¯å¦æœ‰æ•ˆ 
+æ—¶é—´æˆ³ 
+A8 å•ä½æˆ–éƒ¨é—¨
 
 OKNUM 
 FAILNUM 
@@ -5155,20 +5156,20 @@ FALSE
 T RUE 
 FALSE 
 
-Ðè 
-Í¬²½³É¹¦Êý 
-Í¬²½Ê§°ÜÊý 
-Í¬²½×ÜÊý 
+éœ€ 
+åŒæ­¥æˆåŠŸæ•° 
+åŒæ­¥å¤±è´¥æ•° 
+åŒæ­¥æ€»æ•° 
 
-ÊÇ·ñÓÐÐ§ 0 -ÎÞÐ§  1-ÓÐÐ§ 
+æ˜¯å¦æœ‰æ•ˆ 0 -æ— æ•ˆ  1-æœ‰æ•ˆ 
 
-Ê±¼ä´Á 
-A8 µ¥Î»»ò²¿ÃÅ id 
+æ—¶é—´æˆ³ 
+A8 å•ä½æˆ–éƒ¨é—¨ id 
 
 ID 
-µÚÈý·½µ¥Î»Ö÷¼ü MAP_GU ID 
+ç¬¬ä¸‰æ–¹å•ä½ä¸»é”® MAP_GU ID 
 
-¶ÔÓ¦ÀàÐÍ 
+å¯¹åº”ç±»åž‹ 
 
 MAP_T YPE 
 
@@ -5179,12 +5180,12 @@ cha ra c te rs (255)
 
 FALSE 
 
-µÚÈý·½µ¥Î»Ö÷¼ü 
+ç¬¬ä¸‰æ–¹å•ä½ä¸»é”® 
 
 FALSE 
 
-¶ÔÓ¦ÀàÐÍ£¬Èç¹ûµ¥Î»¶ÔÓ¦£¬²¿
-ÃÅ¶ÔÓ¦ 
+å¯¹åº”ç±»åž‹ï¼Œå¦‚æžœå•ä½å¯¹åº”ï¼Œéƒ¨
+é—¨å¯¹åº” 
 
 Powe rDe s ig ne r 
 
@@ -5196,7 +5197,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-Í¬²½ÀàÐÍ 
+åŒæ­¥ç±»åž‹ 
 
 SYN_T YPE 
 
@@ -5204,7 +5205,7 @@ Sho rt inte g e r
 
 FALSE 
 
-Í¬²½±¸×¢ 
+åŒæ­¥å¤‡æ³¨ 
 
 MEMO 
 
@@ -5213,18 +5214,18 @@ cha ra c te rs (255)
 
 FALSE 
 
-Í¬²½ÀàÐÍ £¬Ö°Îñ¼¶±ð:1£¬²¿
-ÃÅ:2£¬¸ÚÎ»£º3£¬ÈËÔ±:4 
-Í¬²½±¸×¢ 
+åŒæ­¥ç±»åž‹ ï¼ŒèŒåŠ¡çº§åˆ«:1ï¼Œéƒ¨
+é—¨:2ï¼Œå²—ä½ï¼š3ï¼Œäººå‘˜:4 
+åŒæ­¥å¤‡æ³¨ 
 
-I.54 NC ¼¯³ÉÅäÖÃ 
+I.54 NC é›†æˆé…ç½® 
 
 Code 
 Comment 
 
 NCBUSINESS_TEMPLATE_BIND 
 
-NC ¼¯³ÉÅäÖÃ 
+NC é›†æˆé…ç½® 
 
 Name 
 
@@ -5233,17 +5234,17 @@ Code
 Data Type 
 
 ID 
-Ä£°å ID 
-±íµ¥ ID 
-µ¥Î» ID 
+æ¨¡æ¿ ID 
+è¡¨å• ID 
+å•ä½ ID 
 
-¼¯³É»ù´¡ÅäÖÃ
+é›†æˆåŸºç¡€é…ç½®
 
 ID 
 
-ÐòºÅ 
-ÊÇ·ñÆôÓÃ 
-ÃèÊö 
+åºå· 
+æ˜¯å¦å¯ç”¨ 
+æè¿° 
 
 ID 
 T EMPLET E_ID 
@@ -5271,7 +5272,7 @@ MEMBER_ID
 Lo ng inte g e r 
 CREAT E_DAT E Da te & T ime 
 MOD IFY_DAT E Da te & T ime 
-Ó¦ÓÃÀ©Õ¹ÊôÐÔ 1 EXT _AT T R1 
+åº”ç”¨æ‰©å±•å±žæ€§ 1 EXT _AT T R1 
 Va ria b le 
 cha ra c te rs (100) 
 Va ria b le 
@@ -5279,13 +5280,13 @@ cha ra c te rs (100)
 Va ria b le 
 cha ra c te rs (100) 
 
-´´½¨ÈË 
-´´½¨ÈÕÆÚ 
-ÐÞ¸ÄÊ±¼ä 
+åˆ›å»ºäºº 
+åˆ›å»ºæ—¥æœŸ 
+ä¿®æ”¹æ—¶é—´ 
 
-Ó¦ÓÃÀ©Õ¹ÊôÐÔ 2 EXT _AT T R2 
+åº”ç”¨æ‰©å±•å±žæ€§ 2 EXT _AT T R2 
 
-Ó¦ÓÃÀ©Õ¹ÊôÐÔ 3 EXT _AT T R3 
+åº”ç”¨æ‰©å±•å±žæ€§ 3 EXT _AT T R3 
 
 Comment 
 
@@ -5297,39 +5298,39 @@ FALSE
 FALSE 
 
 ID 
-Ä£°å ID 
-±íµ¥ ID 
-µ¥Î» ID 
+æ¨¡æ¿ ID 
+è¡¨å• ID 
+å•ä½ ID 
 
 FALSE 
 
-¼¯³É»ù´¡ÅäÖÃ ID 
-
-FALSE 
-FALSE 
-FALSE 
+é›†æˆåŸºç¡€é…ç½® ID 
 
 FALSE 
 FALSE 
 FALSE 
-FALSE 
-
-ÐòºÅ 
-ÊÇ·ñÆôÓÃ£º1-ÆôÓÃ 0-²»ÆôÓÃ 
-ÃèÊö 
-
-´´½¨ÈË 
-´´½¨ÈÕÆÚ 
-ÐÞ¸ÄÊ±¼ä 
-Ó¦ÓÃÀ©Õ¹ÊôÐÔ 1 
 
 FALSE 
+FALSE 
+FALSE 
+FALSE 
 
-Ó¦ÓÃÀ©Õ¹ÊôÐÔ 2 
+åºå· 
+æ˜¯å¦å¯ç”¨ï¼š1-å¯ç”¨ 0-ä¸å¯ç”¨ 
+æè¿° 
+
+åˆ›å»ºäºº 
+åˆ›å»ºæ—¥æœŸ 
+ä¿®æ”¹æ—¶é—´ 
+åº”ç”¨æ‰©å±•å±žæ€§ 1 
 
 FALSE 
 
-Ó¦ÓÃÀ©Õ¹ÊôÐÔ 3 
+åº”ç”¨æ‰©å±•å±žæ€§ 2 
+
+FALSE 
+
+åº”ç”¨æ‰©å±•å±žæ€§ 3 
 
 I.55 NEIGOU_SSO_LOGINMANAGE 
 
@@ -5344,16 +5345,16 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
-µÇÂ¼ÏÞÖÆÊµÌåÖ÷
-¼ü 
-µÇÂ¼ÏÞÖÆÊµÌåÀà
-ÐÍ 
-µÇÂ¼ÏÞÖÆÉèÖÃÐÅ
-Ï¢ 
-¹ÜÀíÔ± ID 
+ä¸»é”® 
+ç™»å½•é™åˆ¶å®žä½“ä¸»
+é”® 
+ç™»å½•é™åˆ¶å®žä½“ç±»
+åž‹ 
+ç™»å½•é™åˆ¶è®¾ç½®ä¿¡
+æ¯ 
+ç®¡ç†å‘˜ ID 
 
-´´½¨Ê±¼ä 
+åˆ›å»ºæ—¶é—´ 
 
 ID 
 ORG_ENT IT Y_I
@@ -5381,16 +5382,16 @@ FALSE
 
 Comment 
 
-Ö÷¼ü 
-µÇÂ¼ÏÞÖÆÊµÌåÖ÷¼ü 
+ä¸»é”® 
+ç™»å½•é™åˆ¶å®žä½“ä¸»é”® 
 
 FALSE 
 
-µÇÂ¼ÏÞÖÆÊµÌåÀàÐÍ 
+ç™»å½•é™åˆ¶å®žä½“ç±»åž‹ 
 
 FALSE 
 
-µÇÂ¼ÏÞÖÆÉèÖÃÐÅÏ¢ 
+ç™»å½•é™åˆ¶è®¾ç½®ä¿¡æ¯ 
 
 MANAGER_ME
 MBER_ID 
@@ -5400,13 +5401,13 @@ Lo ng inte g e r
 
 FALSE 
 
-¹ÜÀíÔ± ID 
+ç®¡ç†å‘˜ ID 
 
 Da te & T ime 
 
 FALSE 
 
-´´½¨Ê±¼ä 
+åˆ›å»ºæ—¶é—´ 
 
 Powe rDe s ig ne r 
 
@@ -5423,13 +5424,13 @@ ORG_ACCOUN
 Lo ng inte g e r 
 T _ID 
 
-µÇÂ¼µ¥Î» ID 
+ç™»å½•å•ä½ ID 
 
 FALSE 
 FALSE 
 
-´´½¨Ê±¼ä 
-µÇÂ¼µ¥Î» id 
+åˆ›å»ºæ—¶é—´ 
+ç™»å½•å•ä½ id 
 
 I.56 ORGSYNC_RECORD 
 
@@ -5596,23 +5597,23 @@ Data Type
 
 ID 
 
-±àºÅ 
+ç¼–å· 
 
-Ãû³Æ 
+åç§° 
 
-Ö÷Ìâ 
+ä¸»é¢˜ 
 
-Ä£°å±àºÅ 
+æ¨¡æ¿ç¼–å· 
 
-Ä£°åÀàÐÍ 
+æ¨¡æ¿ç±»åž‹ 
 
-´´½¨Ê±¼ä 
-´´½¨ÈË 
-ÐÞ¸ÄÊ±¼ä 
+åˆ›å»ºæ—¶é—´ 
+åˆ›å»ºäºº 
+ä¿®æ”¹æ—¶é—´ 
 
-µ¥Î» ID 
+å•ä½ ID 
 
-×´Ì¬ 
+çŠ¶æ€ 
 
 ID 
 CODE 
@@ -5645,7 +5646,7 @@ Lo ng inte g e r
 ST AT E 
 Sho rt inte g e r 
 
-ÊÇ·ñÏµÍ³Ô¤ÖÃ 
+æ˜¯å¦ç³»ç»Ÿé¢„ç½® 
 
 SYS_IN IT 
 
@@ -5653,8 +5654,8 @@ Sho rt inte g e r
 
 FALSE 
 
-ÊÇ·ñÄ¬ÈÏ 
-ÅÅÐò 
+æ˜¯å¦é»˜è®¤ 
+æŽ’åº 
 
 SYS_DEFAULT 
 SORT 
@@ -5679,45 +5680,45 @@ y
 T RUE 
 FALSE 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-±àºÅ 
-
-FALSE 
-
-FALSE 
-
-Ãû³Æ 
-
-Ö÷Ìâ 
-
-FALSE 
-
-Ä£°å±àºÅ 
+ç¼–å· 
 
 FALSE 
 
 FALSE 
+
+åç§° 
+
+ä¸»é¢˜ 
+
+FALSE 
+
+æ¨¡æ¿ç¼–å· 
+
+FALSE 
+
+FALSE 
 FALSE 
 FALSE 
 FALSE 
 FALSE 
 
-Ä£°åÀàÐÍ£º0£¬Ê×Ò³²¼¾Ö£»
-1£¬¿Õ¼ä²¼¾Ö£»2£¬µÇÂ¼Ò³²¼
-¾Ö 
-´´½¨Ê±¼ä 
-´´½¨ÈË 
-ÐÞ¸ÄÊ±¼ä 
+æ¨¡æ¿ç±»åž‹ï¼š0ï¼Œé¦–é¡µå¸ƒå±€ï¼›
+1ï¼Œç©ºé—´å¸ƒå±€ï¼›2ï¼Œç™»å½•é¡µå¸ƒ
+å±€ 
+åˆ›å»ºæ—¶é—´ 
+åˆ›å»ºäºº 
+ä¿®æ”¹æ—¶é—´ 
 
-µ¥Î» ID 
+å•ä½ ID 
 
-×´Ì¬£º0£¬É¾³ý£»1£¬ÆôÓÃ£»
-2£¬Í£ÓÃ 
-ÊÇ·ñÏµÍ³Ô¤ÖÃ£º0£¬·ñ£»1£¬
-ÊÇ£» 
-ÊÇ·ñÄ¬ÈÏ£º0£¬·ñ£»1£¬ÊÇ£» 
-ÅÅÐò 
+çŠ¶æ€ï¼š0ï¼Œåˆ é™¤ï¼›1ï¼Œå¯ç”¨ï¼›
+2ï¼Œåœç”¨ 
+æ˜¯å¦ç³»ç»Ÿé¢„ç½®ï¼š0ï¼Œå¦ï¼›1ï¼Œ
+æ˜¯ï¼› 
+æ˜¯å¦é»˜è®¤ï¼š0ï¼Œå¦ï¼›1ï¼Œæ˜¯ï¼› 
+æŽ’åº 
 
 Name 
 
@@ -5726,17 +5727,17 @@ Code
 Data Type 
 
 ID 
-²¼¾Ö ID 
+å¸ƒå±€ ID 
 
- ×éÖ¯Ä£ÐÍ ID 
-×éÖ¯Ä£ÐÍÀàÐÍ 
+ ç»„ç»‡æ¨¡åž‹ ID 
+ç»„ç»‡æ¨¡åž‹ç±»åž‹ 
 
 ID 
 LAYOUT _ID 
 ENT IT Y_ID 
 ENT IT Y_T YPE 
 
-ÊÇ·ñÔÊÐí×Ô¶¨Òå CUST OM 
+æ˜¯å¦å…è®¸è‡ªå®šä¹‰ CUST OM 
 
 Lo ng inte g e r 
 Lo ng inte g e r 
@@ -5756,14 +5757,14 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
-²¼¾Ö ID 
+ä¸»é”® ID 
+å¸ƒå±€ ID 
 
- ×éÖ¯Ä£ÐÍ ID 
-×éÖ¯Ä£ÐÍÀàÐÍ 
+ ç»„ç»‡æ¨¡åž‹ ID 
+ç»„ç»‡æ¨¡åž‹ç±»åž‹ 
 
-ÊÇ·ñÔÊÐí×Ô¶¨Òå£º0£¬²»ÔÊ
-Ðí£»1£¬ÔÊÐí 
+æ˜¯å¦å…è®¸è‡ªå®šä¹‰ï¼š0ï¼Œä¸å…
+è®¸ï¼›1ï¼Œå…è®¸ 
 
 I.60 PAGE_LAYOUT_DETAIL 
 
@@ -5779,9 +5780,9 @@ Code
 Data Type 
 
 ID 
-²¼¾Ö ID 
+å¸ƒå±€ ID 
 
-ÏêÏ¸ÅäÖÃ XML 
+è¯¦ç»†é…ç½® XML 
 
 ID 
 Lo ng inte g e r 
@@ -5797,10 +5798,10 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
-²¼¾Ö ID 
+ä¸»é”® ID 
+å¸ƒå±€ ID 
 
-ÏêÏ¸ÅäÖÃ XML 
+è¯¦ç»†é…ç½® XML 
 
 Powe rDe s ig ne r 
 
@@ -5812,15 +5813,15 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-²¼¾ÖÑùÊ½Â·¾¶ 
+å¸ƒå±€æ ·å¼è·¯å¾„ 
 
-Ö÷ÌâÑùÊ½Â·¾¶ 
+ä¸»é¢˜æ ·å¼è·¯å¾„ 
 
 LAYOUT _CSS_
 PAT H 
 SKIN_CSS_PAT
 H 
-×Ô¶¨Òå½Å±¾Â·¾¶ CUST OM_JS_P
+è‡ªå®šä¹‰è„šæœ¬è·¯å¾„ CUST OM_JS_P
 AT H 
 
 Va ria b le 
@@ -5832,23 +5833,23 @@ cha ra c te rs (2000)
 
 FALSE 
 
-²¼¾ÖÑùÊ½Â·¾¶ 
+å¸ƒå±€æ ·å¼è·¯å¾„ 
 
 FALSE 
 
-Ö÷ÌâÑùÊ½Â·¾¶ 
+ä¸»é¢˜æ ·å¼è·¯å¾„ 
 
 FALSE 
 
-×Ô¶¨Òå½Å±¾Â·¾¶ 
+è‡ªå®šä¹‰è„šæœ¬è·¯å¾„ 
 
-I.61 REST ÓÃ»§±í 
+I.61 REST ç”¨æˆ·è¡¨ 
 
 Code 
 Comment 
 
 CTP_REST_USER 
-REST ÓÃ»§±í 
+REST ç”¨æˆ·è¡¨ 
 
 Name 
 
@@ -5856,12 +5857,12 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
-ÓÃ»§Ãû 
+ä¸»é”® 
+ç”¨æˆ·å 
 
-µÇÂ¼Ãû 
+ç™»å½•å 
 
-ÃÜÂë 
+å¯†ç  
 
 ID 
 USER_NAME 
@@ -5870,11 +5871,11 @@ LOGIN_NAME
 
 PASSWORD 
 
-ÓÃ»§ÀàÐÍ 
+ç”¨æˆ·ç±»åž‹ 
 
 USER_T YPE 
 
-µÇÂ¼ IP µØÖ· 
+ç™»å½• IP åœ°å€ 
 
 LOGIN_IP 
 
@@ -5897,26 +5898,26 @@ y
 T RUE 
 FALSE 
 
-Ö÷¼ü 
-ÓÃ»§Ãû 
+ä¸»é”® 
+ç”¨æˆ·å 
 
 FALSE 
 
-µÇÂ¼Ãû 
+ç™»å½•å 
 
 FALSE 
 
-ÃÜÂë 
+å¯†ç  
 
 FALSE 
 
-ÓÃ»§ÀàÐÍ 
+ç”¨æˆ·ç±»åž‹ 
 
 FALSE 
 
-µÇÂ¼ IP µØÖ·£¨¶à¸ö IP ÓÃ·ûºÅ
+ç™»å½• IP åœ°å€ï¼ˆå¤šä¸ª IP ç”¨ç¬¦å·
 
-ÊÇ·ñÆôÓÃ 
+æ˜¯å¦å¯ç”¨ 
 
 ENABLED 
 
@@ -5924,10 +5925,10 @@ Sho rt inte g e r
 
 FALSE 
 
-ÓÃ»§ÅÅÐòºÅ 
-ÓÃ»§´´½¨Ê±¼ä 
-ÓÃ»§ÐÞ¸ÄÊ±¼ä 
-×ÊÔ´È¨ÏÞ 
+ç”¨æˆ·æŽ’åºå· 
+ç”¨æˆ·åˆ›å»ºæ—¶é—´ 
+ç”¨æˆ·ä¿®æ”¹æ—¶é—´ 
+èµ„æºæƒé™ 
 
 USER_ORDER 
 Lo ng inte g e r 
@@ -5944,36 +5945,36 @@ FALSE
 FALSE 
 FALSE 
 
-¶ÔÓÚ°ó¶¨ IP ÊÇ
-·ñÐ£ÑéµÄ¿ª¹Ø 
+å¯¹äºŽç»‘å®š IP æ˜¯
+å¦æ ¡éªŒçš„å¼€å…³ 
 
 VALIDAT ION_IP Sho rt inte g e r 
 
 FALSE 
 
-¡°|¡±·Ö¸ô£¬Ö§³Ö*.*.* .*£© 
+â€œ|â€åˆ†éš”ï¼Œæ”¯æŒ*.*.* .*ï¼‰ 
 
-ÊÇ·ñÆôÓÃ£¬1£ºÆôÓÃ£»0£ºÍ£
-ÓÃ£¬Ä¬ÈÏÆôÓÃ 
-ÓÃ»§ÅÅÐòºÅ 
-ÓÃ»§´´½¨Ê±¼ä 
-ÓÃ»§ÐÞ¸ÄÊ±¼ä 
-×ÊÔ´È¨ÏÞ£¨ÓÃ×Ö·û´® 00000 0
-±íÊ¾£¬Î»Êý¸ù¾Ý×ÊÔ´×éÀ´¶¨£¬
-Ë³ÐòÒªÔ¼¶¨ºÃ£¬Ã¿Ò»Î»´ú±íÒ»
-¸ö×ÊÔ´×é¡£0£ºÎÞÈ¨ÏÞ£¬1£º
-ÓÐÈ¨ÏÞ£© 
-¶ÔÓÚ°ó¶¨ IP ÊÇ·ñÐ£ÑéµÄ¿ª
-¹Ø£¬1 Îª´ò¿ª£¬0 Îª¹Ø±Õ 
+æ˜¯å¦å¯ç”¨ï¼Œ1ï¼šå¯ç”¨ï¼›0ï¼šåœ
+ç”¨ï¼Œé»˜è®¤å¯ç”¨ 
+ç”¨æˆ·æŽ’åºå· 
+ç”¨æˆ·åˆ›å»ºæ—¶é—´ 
+ç”¨æˆ·ä¿®æ”¹æ—¶é—´ 
+èµ„æºæƒé™ï¼ˆç”¨å­—ç¬¦ä¸² 00000 0
+è¡¨ç¤ºï¼Œä½æ•°æ ¹æ®èµ„æºç»„æ¥å®šï¼Œ
+é¡ºåºè¦çº¦å®šå¥½ï¼Œæ¯ä¸€ä½ä»£è¡¨ä¸€
+ä¸ªèµ„æºç»„ã€‚0ï¼šæ— æƒé™ï¼Œ1ï¼š
+æœ‰æƒé™ï¼‰ 
+å¯¹äºŽç»‘å®š IP æ˜¯å¦æ ¡éªŒçš„å¼€
+å…³ï¼Œ1 ä¸ºæ‰“å¼€ï¼Œ0 ä¸ºå…³é—­ 
 
-I.62 REST ¼ÇÂ¼·ÃÎÊÈÕÖ¾ 
+I.62 REST è®°å½•è®¿é—®æ—¥å¿— 
 
 Code 
 Comment 
 
 CTP_REST_LOGS 
 
-REST ¼ÇÂ¼·ÃÎÊÈÕÖ¾£ººóÌ¨ rest µÄ·ÃÎÊ¼ÇÂ¼ 
+REST è®°å½•è®¿é—®æ—¥å¿—ï¼šåŽå° rest çš„è®¿é—®è®°å½• 
 
 Name 
 
@@ -5982,14 +5983,14 @@ Code
 Data Type 
 
 ID 
-µÇÂ¼ T OKEN ÐÅ
+ç™»å½• T OKEN ä¿¡
 
 ID 
 T OKEN 
 
-Ï¢ 
+æ¯ 
 
-·ÃÎÊ ID 
+è®¿é—® ID 
 
 Mandator
 y 
@@ -5999,7 +6000,7 @@ FALSE
 Comment 
 
 ID 
-µÇÂ¼ T OKEN ÐÅÏ¢ 
+ç™»å½• T OKEN ä¿¡æ¯ 
 
 Lo ng inte g e r 
 Va ria b le 
@@ -6011,8 +6012,8 @@ Lo ng inte g e r
 
 T RUE 
 
-REST T OKEN ·ÃÎÊ
-CT P_REST _USER ±í
+REST T OKEN è®¿é—®
+CT P_REST _USER è¡¨
 
 Powe rDe s ig ne r 
 
@@ -6030,10 +6031,10 @@ Da te & T ime
 
 FALSE 
 
-REST ÓÃ»§µÇÂ¼Ê±¼ä 
+REST ç”¨æˆ·ç™»å½•æ—¶é—´ 
 
-ID ,SESSION ·ÃÎÊ
-ORG_MEMBER ±í ID 
+ID ,SESSION è®¿é—®
+ORG_MEMBER è¡¨ ID 
 
 Va ria b le 
 cha ra c te rs (255) 
@@ -6047,49 +6048,49 @@ cha ra c te rs (1024)
 
 FALSE 
 
-µÇÂ¼ IP ÐÅÏ¢ 
+ç™»å½• IP ä¿¡æ¯ 
 
 FALSE 
 
-SESSION µÇÂ¼£ºSESSION 
-REST µÇÂ¼£ºREST T OKEN 
-·ñÔò inva lid 
+SESSION ç™»å½•ï¼šSESSION 
+REST ç™»å½•ï¼šREST T OKEN 
+å¦åˆ™ inva lid 
 
 FALSE 
 
-ÇëÇó³É¹¦ 1£¬ÇëÇóÊ§°Ü 0 
+è¯·æ±‚æˆåŠŸ 1ï¼Œè¯·æ±‚å¤±è´¥ 0 
 
 FALSE 
 
-Ö´ÐÐ REST µÄ URL 
+æ‰§è¡Œ REST çš„ URL 
 
-REST ÓÃ»§µÇÂ¼
-Ê±¼ä 
-µÇÂ¼ IP ÐÅÏ¢ 
+REST ç”¨æˆ·ç™»å½•
+æ—¶é—´ 
+ç™»å½• IP ä¿¡æ¯ 
 
 LOGIN IP 
 
-µÇÂ½ÀàÐÍ 
+ç™»é™†ç±»åž‹ 
 
 LOGIN_T YPE 
 
-×´Ì¬ 
+çŠ¶æ€ 
 
-Ö´ÐÐ REST µÄ
+æ‰§è¡Œ REST çš„
 URL 
 
 ST AT US 
 
 EXEURL 
 
-I.63 REST ×ÊÔ´¹ØÏµ±í 
+I.63 REST èµ„æºå…³ç³»è¡¨ 
 
 Code 
 Comment 
 
 CTP_RESOURCE_GROUP 
 
-REST ×ÊÔ´¹ØÏµ±í 
+REST èµ„æºå…³ç³»è¡¨ 
 
 Name 
 
@@ -6097,10 +6098,10 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
-×ÊÔ´×é ID 
+ä¸»é”® 
+èµ„æºç»„ ID 
 
-×ÊÔ´ ID 
+èµ„æº ID 
 
 ID 
 REST _GROUP_
@@ -6115,7 +6116,7 @@ Lo ng inte g e r
 
 FALSE 
 
-×ÊÔ´ ID 
+èµ„æº ID 
 
 Mandator
 y 
@@ -6124,16 +6125,16 @@ FALSE
 
 Comment 
 
-Ö÷¼ü 
-×ÊÔ´×é ID 
+ä¸»é”® 
+èµ„æºç»„ ID 
 
-I.64 REST ×ÊÔ´×é±í 
+I.64 REST èµ„æºç»„è¡¨ 
 
 Code 
 Comment 
 
 CTP_REST_GROUP 
-REST ×ÊÔ´×é±í 
+REST èµ„æºç»„è¡¨ 
 
 Name 
 
@@ -6141,13 +6142,13 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
-×ÊÔ´×éÃû³Æ 
+ä¸»é”® 
+èµ„æºç»„åç§° 
 
 ID 
 GROUP_NAME 
 
-×ÊÔ´×éÀàÐÍ 
+èµ„æºç»„ç±»åž‹ 
 
 GROUP_T YPE 
 
@@ -6164,20 +6165,20 @@ FALSE
 
 Comment 
 
-Ö÷¼ü 
-×ÊÔ´×éÃû³Æ 
+ä¸»é”® 
+èµ„æºç»„åç§° 
 
 FALSE 
 
-×ÊÔ´×éÀàÐÍ 
+èµ„æºç»„ç±»åž‹ 
 
-I.65 REST ×ÊÔ´±í 
+I.65 REST èµ„æºè¡¨ 
 
 Code 
 Comment 
 
 CTP_REST_RESOURCE 
-REST ×ÊÔ´±í 
+REST èµ„æºè¡¨ 
 
 Name 
 
@@ -6185,7 +6186,7 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
+ä¸»é”® 
 
 ID 
 
@@ -6195,7 +6196,7 @@ Mandator
 y 
 T RUE 
 
-Ö÷¼ü 
+ä¸»é”® 
 
 Comment 
 
@@ -6209,13 +6210,13 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-×ÊÔ´Ãû³Æ 
+èµ„æºåç§° 
 
-·ÃÎÊ×ÊÔ´ UR I 
+è®¿é—®èµ„æº UR I 
 
-×ÊÔ´¶ÔÓ¦ HT T P
-ÇëÇó·½·¨ 
-ÊÇ·ñÆôÓÃ 
+èµ„æºå¯¹åº” HT T P
+è¯·æ±‚æ–¹æ³• 
+æ˜¯å¦å¯ç”¨ 
 
 RESOURCE_N
 AME 
@@ -6233,15 +6234,15 @@ cha ra c te rs (50)
 
 FALSE 
 
-×ÊÔ´Ãû³Æ 
+èµ„æºåç§° 
 
 FALSE 
 
-·ÃÎÊ×ÊÔ´ UR I 
+è®¿é—®èµ„æº UR I 
 
 FALSE 
 
-×ÊÔ´¶ÔÓ¦ HT T P ÇëÇó·½·¨ 
+èµ„æºå¯¹åº” HT T P è¯·æ±‚æ–¹æ³• 
 
 ENABLED 
 
@@ -6249,10 +6250,10 @@ Sho rt inte g e r
 
 FALSE 
 
-×ÊÔ´ÅÅÐòºÅ 
+èµ„æºæŽ’åºå· 
 
-×ÊÔ´´´½¨Ê±¼ä 
-×ÊÔ´ÐÞ¸ÄÊ±¼ä 
+èµ„æºåˆ›å»ºæ—¶é—´ 
+èµ„æºä¿®æ”¹æ—¶é—´ 
 
 Lo ng inte g e r 
 
@@ -6267,20 +6268,20 @@ FALSE
 FALSE 
 FALSE 
 
-ÊÇ·ñÆôÓÃ£¬1£ºÆôÓÃ£»0£ºÍ£
-ÓÃ£¬Ä¬ÈÏÆôÓÃ 
-×ÊÔ´ÅÅÐòºÅ 
+æ˜¯å¦å¯ç”¨ï¼Œ1ï¼šå¯ç”¨ï¼›0ï¼šåœ
+ç”¨ï¼Œé»˜è®¤å¯ç”¨ 
+èµ„æºæŽ’åºå· 
 
-×ÊÔ´´´½¨Ê±¼ä 
-×ÊÔ´ÐÞ¸ÄÊ±¼ä 
+èµ„æºåˆ›å»ºæ—¶é—´ 
+èµ„æºä¿®æ”¹æ—¶é—´ 
 
-I.66 RSS ÄÚÈÝ 
+I.66 RSS å†…å®¹ 
 
 Code 
 Comment 
 
 RSS_CHANNEL_ITEMS 
-RSS ÄÚÈÝ 
+RSS å†…å®¹ 
 
 Name 
 
@@ -6290,48 +6291,48 @@ Data Type
 
 ID 
 
-±êÌâ 
+æ ‡é¢˜ 
 
 ID 
 T IT LE 
 
-Á´½ÓµØÖ· 
+é“¾æŽ¥åœ°å€ 
 
 RSS_LINK 
 
-ÃèÊö 
+æè¿° 
 
 DESCR IBSE 
 
-·¢²¼Ê±¼ä 
-×÷Õß 
+å‘å¸ƒæ—¶é—´ 
+ä½œè€… 
 
 PUB_DAT E 
 AUT HOR 
 
-·ÖÀà 
+åˆ†ç±» 
 
 CAT EGORY 
 
-ÆÀÂÛÁ´½Ó 
+è¯„è®ºé“¾æŽ¥ 
 
 COMMENT S 
 
-ÓÀ¾ÃÁ´½Ó 
+æ°¸ä¹…é“¾æŽ¥ 
 
 GU ID 
 
-RSS ÆµµÀÔ´ 
+RSS é¢‘é“æº 
 
 SOURCE 
 
-¸½¼ÓÃ½Ìå¶ÔÏó 
+é™„åŠ åª’ä½“å¯¹è±¡ 
 
 ENCLOSURE 
 
-ÆµµÀ ID 
+é¢‘é“ ID 
 
-ÆµµÀÐÅÏ¢ ID 
+é¢‘é“ä¿¡æ¯ ID 
 
 CAT EGORY_C
 HANNEL_ID 
@@ -6369,59 +6370,59 @@ T RUE
 
 ID 
 
-±êÌâ 
+æ ‡é¢˜ 
 
 T RUE 
 
-Á´½ÓµØÖ· 
+é“¾æŽ¥åœ°å€ 
 
 FALSE 
 
-ÃèÊö 
+æè¿° 
 
 FALSE 
 FALSE 
 
-·¢²¼Ê±¼ä 
-×÷Õß 
+å‘å¸ƒæ—¶é—´ 
+ä½œè€… 
 
 FALSE 
 
-·ÖÀà 
+åˆ†ç±» 
 
 FALSE 
 
-ÆÀÂÛÁ´½Ó 
+è¯„è®ºé“¾æŽ¥ 
 
 FALSE 
 
-ÓÀ¾ÃÁ´½Ó 
+æ°¸ä¹…é“¾æŽ¥ 
 
 FALSE 
 
-RSS ÆµµÀÔ´ 
+RSS é¢‘é“æº 
 
 FALSE 
 
-¸½¼ÓÃ½Ìå¶ÔÏó 
+é™„åŠ åª’ä½“å¯¹è±¡ 
 
 T RUE 
 
-ÆµµÀ id 
+é¢‘é“ id 
 
 Lo ng inte g e r 
 
 T RUE 
 
-ÆµµÀÐÅÏ¢ id 
+é¢‘é“ä¿¡æ¯ id 
 
-I.67 RSS Àà±ð 
+I.67 RSS ç±»åˆ« 
 
 Code 
 Comment 
 
 RSS_CATEGORY 
-RSS Àà±ð 
+RSS ç±»åˆ« 
 
 Name 
 
@@ -6446,7 +6447,7 @@ CT P2.0
 
 ID 
 
-Ãû³Æ 
+åç§° 
 
 ID 
 NAME 
@@ -6456,12 +6457,12 @@ Va ria b le
 cha ra c te rs (500) 
 Lo ng inte g e r 
 
-´´½¨ÓÃ»§ ID 
+åˆ›å»ºç”¨æˆ· ID 
 
-ÅÅÐòºÅ 
-´´½¨Ê±¼ä 
-×î½üÐÞ¸ÄÓÃ»§ 
-×î½üÐÞ¸ÄÊ±¼ä 
+æŽ’åºå· 
+åˆ›å»ºæ—¶é—´ 
+æœ€è¿‘ä¿®æ”¹ç”¨æˆ· 
+æœ€è¿‘ä¿®æ”¹æ—¶é—´ 
 
 CREAT E_USER
 _ID 
@@ -6472,13 +6473,13 @@ LAST _USER_ID
 Lo ng inte g e r 
 LAST _UPDAT E Da te & T ime 
 
-I.68 RSS ¶©ÔÄ 
+I.68 RSS è®¢é˜… 
 
 Code 
 Comment 
 
 RSS_SUBSCRIBE 
-RSS ¶©ÔÄ 
+RSS è®¢é˜… 
 
 Name 
 
@@ -6501,31 +6502,31 @@ Lo ng inte g e r
 
 ID 
 
-¶©ÔÄÓÃ»§ ID 
-¶©ÔÄÓÃ»§ÀàÐÍ 
+è®¢é˜…ç”¨æˆ· ID 
+è®¢é˜…ç”¨æˆ·ç±»åž‹ 
 
 ID 
 USER_ID 
 USER_T YPE 
 
-¶©ÔÄÃû³Æ 
+è®¢é˜…åç§° 
 
 NAME 
 
-¶©ÔÄµØÖ· 
+è®¢é˜…åœ°å€ 
 
 URL 
 
-ÏÔÊ¾ÌõÊý 
-ÊÇ·ñÕ¹¿ª 
-ÅÅÐòºÅ 
-´´½¨ÈË ID 
+æ˜¾ç¤ºæ¡æ•° 
+æ˜¯å¦å±•å¼€ 
+æŽ’åºå· 
+åˆ›å»ºäºº ID 
 
-´´½¨Ê±¼ä 
-×î½üÐÞ¸ÄÈË ID 
-×î½üÐÞ¸ÄÊ±¼ä 
+åˆ›å»ºæ—¶é—´ 
+æœ€è¿‘ä¿®æ”¹äºº ID 
+æœ€è¿‘ä¿®æ”¹æ—¶é—´ 
 
-ÆµµÀ ID 
+é¢‘é“ ID 
 
 SHOW _NUM 
 DEPLOY 
@@ -6545,21 +6546,21 @@ T RUE
 
 ID 
 
-Ãû³Æ 
+åç§° 
 
 FALSE 
 
-´´½¨ÓÃ»§ id 
+åˆ›å»ºç”¨æˆ· id 
 
-FALSE 
-T RUE 
 FALSE 
 T RUE 
+FALSE 
+T RUE 
 
-ÅÅÐòºÅ 
-´´½¨Ê±¼ä 
-×î½üÐÞ¸ÄÓÃ»§ 
-×î½üÐÞ¸ÄÊ±¼ä 
+æŽ’åºå· 
+åˆ›å»ºæ—¶é—´ 
+æœ€è¿‘ä¿®æ”¹ç”¨æˆ· 
+æœ€è¿‘ä¿®æ”¹æ—¶é—´ 
 
 Mandator
 y 
@@ -6571,16 +6572,16 @@ Comment
 
 ID 
 
-¶©ÔÄÓÃ»§ id 
-¶©ÔÄÓÃ»§ÀàÐÍ 
+è®¢é˜…ç”¨æˆ· id 
+è®¢é˜…ç”¨æˆ·ç±»åž‹ 
 
 T RUE 
 
-¶©ÔÄÃû³Æ 
+è®¢é˜…åç§° 
 
 T RUE 
 
-¶©ÔÄµØÖ· 
+è®¢é˜…åœ°å€ 
 
 FALSE 
 FALSE 
@@ -6592,25 +6593,25 @@ FALSE
 T RUE 
 T RUE 
 
-ÏÔÊ¾ÌõÊý 
-ÊÇ·ñÕ¹¿ª 
-ÅÅÐòºÅ 
-´´½¨ÈË id 
+æ˜¾ç¤ºæ¡æ•° 
+æ˜¯å¦å±•å¼€ 
+æŽ’åºå· 
+åˆ›å»ºäºº id 
 
-´´½¨Ê±¼ä 
-×î½üÐÞ¸ÄÈË id 
-×î½üÐÞ¸ÄÊ±¼ä 
+åˆ›å»ºæ—¶é—´ 
+æœ€è¿‘ä¿®æ”¹äºº id 
+æœ€è¿‘ä¿®æ”¹æ—¶é—´ 
 
-ÆµµÀ id 
+é¢‘é“ id 
 
-I.69 RSS ¶©ÔÄ×´Ì¬±í 
+I.69 RSS è®¢é˜…çŠ¶æ€è¡¨ 
 
 Code 
 Comment 
 
 RSS_ITEM_STATUS 
 
-RSS ¶©ÔÄ×´Ì¬±í 
+RSS è®¢é˜…çŠ¶æ€è¡¨ 
 
 Name 
 
@@ -6620,11 +6621,11 @@ Data Type
 
 ID 
 
-×´Ì¬ 
-¶©ÔÄÓÃ»§ 
+çŠ¶æ€ 
+è®¢é˜…ç”¨æˆ· 
 
-RSS ÄÚÈÝ ID 
-RSS ¶©ÔÄ ID 
+RSS å†…å®¹ ID 
+RSS è®¢é˜… ID 
 
 ID 
 ST AT US 
@@ -6651,11 +6652,11 @@ Comment
 
 ID 
 
-×´Ì¬£¨×Ö¶ÎÔÝÎ´Ê¹ÓÃ£© 
-¶©ÔÄÓÃ»§ 
+çŠ¶æ€ï¼ˆå­—æ®µæš‚æœªä½¿ç”¨ï¼‰ 
+è®¢é˜…ç”¨æˆ· 
 
-RSS ÄÚÈÝ id 
-RSS ¶©ÔÄ id 
+RSS å†…å®¹ id 
+RSS è®¢é˜… id 
 
 Powe rDe s ig ne r 
 
@@ -6665,13 +6666,13 @@ Pa g e 33
 
 Lo g ica l Da ta Mo de l 
 
-I.70 RSS ÆµµÀ 
+I.70 RSS é¢‘é“ 
 
 Code 
 Comment 
 
 RSS_CATEGORY_CHANNEL 
-RSS ÆµµÀ 
+RSS é¢‘é“ 
 
 CT P2.0 
 
@@ -6683,28 +6684,28 @@ Data Type
 
 ID 
 
-Ãû³Æ 
+åç§° 
 
 ID 
 NAME 
 
-URL µØÖ· 
+URL åœ°å€ 
 
 URL 
 
-ÅÅÐòºÅ 
-´´½¨ÓÃ»§ ID 
+æŽ’åºå· 
+åˆ›å»ºç”¨æˆ· ID 
 
-´´½¨ÈÕÆÚ 
-×î½üÐÞ¸ÄÓÃ»§
+åˆ›å»ºæ—¥æœŸ 
+æœ€è¿‘ä¿®æ”¹ç”¨æˆ·
 
 ID 
 
-×î½üÐÞ¸ÄÈÕÆÚ 
+æœ€è¿‘ä¿®æ”¹æ—¥æœŸ 
 
-Àà±ð ID 
+ç±»åˆ« ID 
 
-ÃèÊö 
+æè¿° 
 
 Lo ng inte g e r 
 Va ria b le 
@@ -6728,14 +6729,14 @@ DESCR IPT ION
 Va ria b le 
 cha ra c te rs (500) 
 
-I.71 RSS ÆµµÀÐÅÏ¢ 
+I.71 RSS é¢‘é“ä¿¡æ¯ 
 
 Code 
 Comment 
 
 RSS_CHANNEL_INFO 
 
-RSS ÆµµÀÐÅÏ¢ 
+RSS é¢‘é“ä¿¡æ¯ 
 
 Name 
 
@@ -6745,48 +6746,48 @@ Data Type
 
 ID 
 
-ÆµµÀµØÖ· 
+é¢‘é“åœ°å€ 
 
 ID 
 RSS_LINK 
 
-ÆµµÀ±êÌâ 
+é¢‘é“æ ‡é¢˜ 
 
 T IT LE 
 
-Ê¹ÓÃÓïÑÔ 
+ä½¿ç”¨è¯­è¨€ 
 
 LANGUAGE 
 
-°æÈ¨ÉùÃ÷ 
+ç‰ˆæƒå£°æ˜Ž 
 
 COPYR IGHT 
 
-ÃèÊö 
+æè¿° 
 
 DESCR IBSE 
 
-ÔðÈÎ±à¼­ 
+è´£ä»»ç¼–è¾‘ 
 
-¼¼ÊõÖ§³Ö 
+æŠ€æœ¯æ”¯æŒ 
 
 MANAGING_ED
 IT OR 
 WEBMAST ER 
 
-·¢²¼ÈÕÆÚ 
+å‘å¸ƒæ—¥æœŸ 
 
 PUB_DAT E 
 
-×îºóÐÞ¸ÄÈÕÆÚ 
+æœ€åŽä¿®æ”¹æ—¥æœŸ 
 
-ËùÊô·ÖÀà 
+æ‰€å±žåˆ†ç±» 
 
 LAST _BU ILD_D
 AT E 
 CAT EGORY 
 
-Éú³ÉÕß 
+ç”Ÿæˆè€… 
 
 GENERAT OR 
 
@@ -6821,33 +6822,33 @@ y
 T RUE 
 T RUE 
 
-Ãû³Æ 
+åç§° 
 
 FALSE 
 
-URL µØÖ· 
+URL åœ°å€ 
 
 FALSE 
-FALSE 
-
-T RUE 
 FALSE 
 
 T RUE 
+FALSE 
+
+T RUE 
 T RUE 
 FALSE 
 
-ÅÅÐòºÅÖ»ÄÜÎªÕûÊý 
-´´½¨ÓÃ»§ id 
+æŽ’åºå·åªèƒ½ä¸ºæ•´æ•° 
+åˆ›å»ºç”¨æˆ· id 
 
-´´½¨ÈÕÆÚ 
-×î½üÐÞ¸ÄÓÃ»§ id 
+åˆ›å»ºæ—¥æœŸ 
+æœ€è¿‘ä¿®æ”¹ç”¨æˆ· id 
 
-×î½üÐÞ¸ÄÈÕÆÚ 
+æœ€è¿‘ä¿®æ”¹æ—¥æœŸ 
 
-Àà±ð id 
+ç±»åˆ« id 
 
-ÃèÊö 
+æè¿° 
 
 Comment 
 
@@ -6858,47 +6859,47 @@ FALSE
 
 ID 
 
-ÆµµÀµØÖ· 
+é¢‘é“åœ°å€ 
 
 FALSE 
 
-ÆµµÀ±êÌâ 
+é¢‘é“æ ‡é¢˜ 
 
 FALSE 
 
-Ê¹ÓÃÓïÑÔ 
+ä½¿ç”¨è¯­è¨€ 
 
 FALSE 
 
-°æÈ¨ÉùÃ÷ 
+ç‰ˆæƒå£°æ˜Ž 
 
 FALSE 
 
-ÃèÊö 
+æè¿° 
 
 FALSE 
 
-ÔðÈÎ±à¼­ 
+è´£ä»»ç¼–è¾‘ 
 
 FALSE 
 
-¼¼ÊõÖ§³Ö 
+æŠ€æœ¯æ”¯æŒ 
 
 FALSE 
 
-·¢²¼ÈÕÆÚ 
+å‘å¸ƒæ—¥æœŸ 
 
 FALSE 
 
-×îºóÐÞ¸ÄÈÕÆÚ 
+æœ€åŽä¿®æ”¹æ—¥æœŸ 
 
 FALSE 
 
-ËùÊô·ÖÀà 
+æ‰€å±žåˆ†ç±» 
 
 FALSE 
 
-Éú³ÉÕß 
+ç”Ÿæˆè€… 
 
 Powe rDe s ig ne r 
 
@@ -6910,22 +6911,22 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-»º´æÊ±¼ä 
+ç¼“å­˜æ—¶é—´ 
 
-Í¼Æ¬ URL 
+å›¾ç‰‡ URL 
 
 T T L 
 IMAGE_URL 
 
-Í¼Æ¬±êÌâ 
+å›¾ç‰‡æ ‡é¢˜ 
 
 IMAGE_T IT LE 
 
-Í¼Æ¬Á´½Ó 
+å›¾ç‰‡é“¾æŽ¥ 
 
 IMAGE_LINK 
 
-ÆµµÀ ID 
+é¢‘é“ ID 
 
 CAT EGORY_C
 HANNEL_ID 
@@ -6942,21 +6943,21 @@ Lo ng inte g e r
 FALSE 
 FALSE 
 
-»º´æÊ±¼ä 
+ç¼“å­˜æ—¶é—´ 
 
-Í¼Æ¬ URL 
-
-FALSE 
-
-Í¼Æ¬±êÌâ 
+å›¾ç‰‡ URL 
 
 FALSE 
 
-Í¼Æ¬Á´½Ó 
+å›¾ç‰‡æ ‡é¢˜ 
+
+FALSE 
+
+å›¾ç‰‡é“¾æŽ¥ 
 
 T RUE 
 
-ÆµµÀ id 
+é¢‘é“ id 
 
 I.72 SHOW_COMMENT 
 
@@ -6971,14 +6972,14 @@ Code
 
 Data Type 
 
-»Ø¸´ ID 
-ÐãÈ¦ ID 
+å›žå¤ ID 
+ç§€åœˆ ID 
 
-»Ø¸´ÈË ID 
-ÄÚÈÝ 
-»Ø¸´Ê±¼ä 
-±»»Ø¸´ÈË ID 
-»Ø¸´ÀàÐÍ 
+å›žå¤äºº ID 
+å†…å®¹ 
+å›žå¤æ—¶é—´ 
+è¢«å›žå¤äºº ID 
+å›žå¤ç±»åž‹ 
 
 ID 
 SHOW _POST _I
@@ -6989,12 +6990,12 @@ CREAT E_T IME
 REPLY_T O_ID 
 REPLY_T YPE 
 
-¸¸½Úµã ID 
-¸ù½Úµã ID 
-±»£ÀÈËÔ±µÄ ID
-ºÍÐÕÃûÐÅÏ¢
+çˆ¶èŠ‚ç‚¹ ID 
+æ ¹èŠ‚ç‚¹ ID 
+è¢«ï¼ äººå‘˜çš„ ID
+å’Œå§“åä¿¡æ¯
 
-£¨JSON ¸ñÊ½£© 
+ï¼ˆJSON æ ¼å¼ï¼‰ 
 
 P_ID 
 ROOT _ID 
@@ -7021,8 +7022,8 @@ y
 T RUE 
 FALSE 
 
-»Ø¸´ id 
-ÐãÈ¦ id 
+å›žå¤ id 
+ç§€åœˆ id 
 
 FALSE 
 FALSE 
@@ -7034,19 +7035,19 @@ FALSE
 FALSE 
 FALSE 
 
-»Ø¸´ÈË id 
-ÄÚÈÝ 
-»Ø¸´Ê±¼ä 
-±»»Ø¸´ÈË id 
-»Ø¸´ÀàÐÍ(µçÄÔ "p c " ,ÒÆ¶¯¶Ë 
+å›žå¤äºº id 
+å†…å®¹ 
+å›žå¤æ—¶é—´ 
+è¢«å›žå¤äºº id 
+å›žå¤ç±»åž‹(ç”µè„‘ "p c " ,ç§»åŠ¨ç«¯ 
 
 "mo b ile ") 
 
-¸¸½Úµã id 
-¸ù½Úµã id 
-±»£ÀÈËÔ±µÄ ID ºÍÐÕÃûÐÅÏ¢
+çˆ¶èŠ‚ç‚¹ id 
+æ ¹èŠ‚ç‚¹ id 
+è¢«ï¼ äººå‘˜çš„ ID å’Œå§“åä¿¡æ¯
 
-£¨JSON ¸ñÊ½£© 
+ï¼ˆJSON æ ¼å¼ï¼‰ 
 
 I.73 SHOW_IMAGE 
 
@@ -7062,13 +7063,13 @@ Code
 Data Type 
 
 ID 
-Ðã°É ID 
-ÐãÈ¦ ID 
+ç§€å§ ID 
+ç§€åœˆ ID 
 
-´´½¨ÈË ID 
+åˆ›å»ºäºº ID 
 
-Í¼Æ¬´´½¨Ê±¼ä 
-Í¼Æ¬ÀàÐÍ 
+å›¾ç‰‡åˆ›å»ºæ—¶é—´ 
+å›¾ç‰‡ç±»åž‹ 
 
 ID 
 SHOWBAR_ID 
@@ -7092,10 +7093,10 @@ FALSE
 
 Comment 
 
-Ðã°É ID 
-ÐãÈ¦ ID 
+ç§€å§ ID 
+ç§€åœˆ ID 
 
-´´½¨ÈË ID 
+åˆ›å»ºäºº ID 
 
 Da te & T ime 
 Sho rt inte g e r 
@@ -7103,13 +7104,13 @@ Sho rt inte g e r
 FALSE 
 FALSE 
 
-Í¼Æ¬´´½¨Ê±¼ä 
-Í¼Æ¬ÀàÐÍ£¨0£ºÔ¤ÖÆ·âÃæ¡¢
-1£º×Ô¶¨Òå·âÃæ¡¢2£ºÐãÈ¦Í¼
-Æ¬¡¢3£ºÁÙÊ±£¬¸ôÈÕ±»É¾³ý£© 
-Í¼Æ¬Ãû³Æ 
+å›¾ç‰‡åˆ›å»ºæ—¶é—´ 
+å›¾ç‰‡ç±»åž‹ï¼ˆ0ï¼šé¢„åˆ¶å°é¢ã€
+1ï¼šè‡ªå®šä¹‰å°é¢ã€2ï¼šç§€åœˆå›¾
+ç‰‡ã€3ï¼šä¸´æ—¶ï¼Œéš”æ—¥è¢«åˆ é™¤ï¼‰ 
+å›¾ç‰‡åç§° 
 
-Í¼Æ¬Ãû³Æ 
+å›¾ç‰‡åç§° 
 
 IMAGE_NAME 
 
@@ -7128,17 +7129,17 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-Í¼Æ¬ºó×º 
+å›¾ç‰‡åŽç¼€ 
 
-ÅÅÐòºÅ£¨ÓÃÓÚÐã
-È¦¶àÕÅÍ¼Æ¬ÅÅ
-Ðò£© 
-ÎÄ¼þ´óÐ¡£¨µ¥Î»
+æŽ’åºå·ï¼ˆç”¨äºŽç§€
+åœˆå¤šå¼ å›¾ç‰‡æŽ’
+åºï¼‰ 
+æ–‡ä»¶å¤§å°ï¼ˆå•ä½
 
-B£© 
+Bï¼‰ 
 
-Í¼Æ¬ÎÄ¼þµÄ¸ß 
-Í¼Æ¬ÎÄ¼þµÄ¿í 
+å›¾ç‰‡æ–‡ä»¶çš„é«˜ 
+å›¾ç‰‡æ–‡ä»¶çš„å®½ 
 
 IMAGE_POST FI
 X 
@@ -7150,12 +7151,12 @@ Inte g e r
 
 FALSE 
 
-Í¼Æ¬ºó×º 
+å›¾ç‰‡åŽç¼€ 
 
 FALSE 
 
-ÅÅÐòºÅ£¨ÓÃÓÚÐãÈ¦¶àÕÅÍ¼Æ¬ÅÅ
-Ðò£© 
+æŽ’åºå·ï¼ˆç”¨äºŽç§€åœˆå¤šå¼ å›¾ç‰‡æŽ’
+åºï¼‰ 
 
 IMAGE_SIZE 
 
@@ -7163,7 +7164,7 @@ Lo ng inte g e r
 
 FALSE 
 
-ÎÄ¼þ´óÐ¡£¨µ¥Î» B£© 
+æ–‡ä»¶å¤§å°ï¼ˆå•ä½ Bï¼‰ 
 
 IMAGE_HEIGHT 
 IMAGE_W IDT H 
@@ -7174,8 +7175,8 @@ Inte g e r
 FALSE 
 FALSE 
 
-Í¼Æ¬ÎÄ¼þµÄ¸ß 
-Í¼Æ¬ÎÄ¼þµÄ¿í 
+å›¾ç‰‡æ–‡ä»¶çš„é«˜ 
+å›¾ç‰‡æ–‡ä»¶çš„å®½ 
 
 I.74 SHOW_PRAISE 
 
@@ -7190,12 +7191,12 @@ Code
 
 Data Type 
 
-µãÔÞ ID 
+ç‚¹èµž ID 
 
-µãÔÞ¶ÔÏó ID 
-µãÔÞÈËÔ± ID 
-µãÔÞÊ±¼ä 
-µãÔÞÀàÐÍ 
+ç‚¹èµžå¯¹è±¡ ID 
+ç‚¹èµžäººå‘˜ ID 
+ç‚¹èµžæ—¶é—´ 
+ç‚¹èµžç±»åž‹ 
 
 ID 
 PRAISE_ID 
@@ -7219,12 +7220,12 @@ FALSE
 
 Comment 
 
-µãÔÞ id 
+ç‚¹èµž id 
 
-µãÔÞ¶ÔÏó id 
-µãÔÞÈËÔ± id 
-µãÔÞÊ±¼ä 
-µãÔÞÀàÐÍ(ÐãÈ¦ 1,Í¼Æ¬ 2) 
+ç‚¹èµžå¯¹è±¡ id 
+ç‚¹èµžäººå‘˜ id 
+ç‚¹èµžæ—¶é—´ 
+ç‚¹èµžç±»åž‹(ç§€åœˆ 1,å›¾ç‰‡ 2) 
 
 I.75 SHOWBAR_AUTH 
 
@@ -7240,9 +7241,9 @@ Code
 Data Type 
 
 ID 
-Ðã°É ID 
+ç§€å§ ID 
 
-ÊÚÈ¨·¶Î§ 
+æŽˆæƒèŒƒå›´ 
 
 ID 
 SHOWBAR_ID 
@@ -7258,7 +7259,7 @@ T RUE
 FALSE 
 FALSE 
 
-×éÖ¯»ú¹¹ÀàÐÍ 
+ç»„ç»‡æœºæž„ç±»åž‹ 
 
 ORGENT _T YPE Sho rt inte g e r 
 
@@ -7266,21 +7267,21 @@ FALSE
 
 Comment 
 
-Ðã°É ID 
+ç§€å§ ID 
 
-ÊÚÈ¨·¶Î§(0£ºÈ«²¿¡¢1£ºÈ«²¿
-³ýÍâ²¿ÈËÔ±¡¢2£º²¿·Ö) 
+æŽˆæƒèŒƒå›´(0ï¼šå…¨éƒ¨ã€1ï¼šå…¨éƒ¨
+é™¤å¤–éƒ¨äººå‘˜ã€2ï¼šéƒ¨åˆ†) 
 
-×éÖ¯»ú¹¹ÀàÐÍ£º         
-        0£ºAcco unt, 
-        1£ºDe p a rtme nt, 
-        2£ºT e am, 
-        3£ºMemb e r, 
-        4£ºRo le , 
-        5£ºPo s t, 
-        6£ºLe ve l 
+ç»„ç»‡æœºæž„ç±»åž‹ï¼š         
+        0ï¼šAcco unt, 
+        1ï¼šDe p a rtme nt, 
+        2ï¼šT e am, 
+        3ï¼šMemb e r, 
+        4ï¼šRo le , 
+        5ï¼šPo s t, 
+        6ï¼šLe ve l 
 
-×éÖ¯ÀàÐÍ¶ÔÓ¦Ôª
+ç»„ç»‡ç±»åž‹å¯¹åº”å…ƒ
 
 ORGENT _ID 
 
@@ -7288,13 +7289,13 @@ Lo ng inte g e r
 
 FALSE 
 
-×éÖ¯ÀàÐÍ¶ÔÓ¦ÔªËØµÄ ID£¨Èç
+ç»„ç»‡ç±»åž‹å¯¹åº”å…ƒç´ çš„ IDï¼ˆå¦‚
 
-ËØµÄ ID 
+ç´ çš„ ID 
 
-ORGENT _T YPE ÎªÈËÔ±£¬Ôò
+ORGENT _T YPE ä¸ºäººå‘˜ï¼Œåˆ™
 
-µ±Ç°×Ö¶ÎÎªÈËÔ±µÄ ID£© 
+å½“å‰å­—æ®µä¸ºäººå‘˜çš„ IDï¼‰ 
 
 I.76 SHOWBAR_INFO 
 
@@ -7340,63 +7341,63 @@ FALSE
 
 Comment 
 
-Ðã°É´´½¨ÈË ID 
+ç§€å§åˆ›å»ºäºº ID 
 
-ËùÊôµ¥Î» ID 
-´´½¨Ê±¼ä 
-×î½üÐÞ¸ÄÈË ID 
+æ‰€å±žå•ä½ ID 
+åˆ›å»ºæ—¶é—´ 
+æœ€è¿‘ä¿®æ”¹äºº ID 
 
-×î½üÐÞ¸ÄÊ±¼ä 
-´´½¨×Ô£¨0£ºPC¡¢1£ºM1£© 
-×´Ì¬±êÊ¶£º0 É¾³ý£¬1 Õý³£ 
-Ðã°ÉÃû³Æ 
+æœ€è¿‘ä¿®æ”¹æ—¶é—´ 
+åˆ›å»ºè‡ªï¼ˆ0ï¼šPCã€1ï¼šM1ï¼‰ 
+çŠ¶æ€æ ‡è¯†ï¼š0 åˆ é™¤ï¼Œ1 æ­£å¸¸ 
+ç§€å§åç§° 
 
-Ðã°É¿ªÊ¼Ê±¼ä 
-Ðã°É½áÊøÊ±¼ä 
-Ðã°É»î¶¯µØÖ· 
-
-FALSE 
-
-Ðã°É¼ò½é 
+ç§€å§å¼€å§‹æ—¶é—´ 
+ç§€å§ç»“æŸæ—¶é—´ 
+ç§€å§æ´»åŠ¨åœ°å€ 
 
 FALSE 
-FALSE 
+
+ç§€å§ç®€ä»‹ 
+
 FALSE 
 FALSE 
 FALSE 
+FALSE 
+FALSE 
 
-ÖÃ¶¥Ê±¼ä£¨Î´ÖÃ¶¥ÔòÎª¿Õ£© 
-ä¯ÀÀ´ÎÊý 
-µãÔÞ´ÎÊý 
-ÕÕÆ¬×ÜÊý 
-ÆÀÂÛ×ÜÊý 
+ç½®é¡¶æ—¶é—´ï¼ˆæœªç½®é¡¶åˆ™ä¸ºç©ºï¼‰ 
+æµè§ˆæ¬¡æ•° 
+ç‚¹èµžæ¬¡æ•° 
+ç…§ç‰‡æ€»æ•° 
+è¯„è®ºæ€»æ•° 
 
 ID 
 
-Ðã°É´´½¨ÈË ID 
+ç§€å§åˆ›å»ºäºº ID 
 
-ËùÊôµ¥Î» ID 
-´´½¨Ê±¼ä 
-×î½üÐÞ¸ÄÈË ID 
+æ‰€å±žå•ä½ ID 
+åˆ›å»ºæ—¶é—´ 
+æœ€è¿‘ä¿®æ”¹äºº ID 
 
-×î½üÐÞ¸ÄÊ±¼ä 
-´´½¨×Ô 
-×´Ì¬±êÊ¶ 
-Ðã°ÉÃû³Æ 
+æœ€è¿‘ä¿®æ”¹æ—¶é—´ 
+åˆ›å»ºè‡ª 
+çŠ¶æ€æ ‡è¯† 
+ç§€å§åç§° 
 
-Ðã°É¿ªÊ¼Ê±¼ä 
-Ðã°É½áÊøÊ±¼ä 
-Ðã°É»î¶¯µØÖ· 
+ç§€å§å¼€å§‹æ—¶é—´ 
+ç§€å§ç»“æŸæ—¶é—´ 
+ç§€å§æ´»åŠ¨åœ°å€ 
 
-Ðã°É¼ò½é 
+ç§€å§ç®€ä»‹ 
 
-ÖÃ¶¥Ê±¼ä 
-ä¯ÀÀ´ÎÊý 
-µãÔÞ´ÎÊý 
-ÕÕÆ¬×ÜÊý 
-ÆÀÂÛ×ÜÊý 
+ç½®é¡¶æ—¶é—´ 
+æµè§ˆæ¬¡æ•° 
+ç‚¹èµžæ¬¡æ•° 
+ç…§ç‰‡æ€»æ•° 
+è¯„è®ºæ€»æ•° 
 
-·âÃæÍ¼Æ¬ ID 
+å°é¢å›¾ç‰‡ ID 
 
 Lo ng inte g e r 
 Lo ng inte g e r 
@@ -7446,10 +7447,10 @@ M
 COVER_PICT U
 RE 
 
-¼ÇÂ¼ÅÅÐòÐÅÏ¢ 
-¼ÇÂ¼×îÐÂµÄµÄÍ¼
+è®°å½•æŽ’åºä¿¡æ¯ 
+è®°å½•æœ€æ–°çš„çš„å›¾
 
-Æ¬ ID 
+ç‰‡ ID 
 
 ORDER_NUM 
 LAST _IMAGE_I
@@ -7459,9 +7460,9 @@ Lo ng inte g e r
 
 FALSE 
 
-·âÃæÍ¼Æ¬ ID (¶ÔÓ¦
+å°é¢å›¾ç‰‡ ID (å¯¹åº”
 
-show_img a e ±í) 
+show_img a e è¡¨) 
 
 Inte g e r 
 Lo ng inte g e r 
@@ -7469,8 +7470,8 @@ Lo ng inte g e r
 FALSE 
 FALSE 
 
-¼ÇÂ¼ÅÅÐòÐÅÏ¢ 
-¼ÇÂ¼×îÐÂµÄµÄÍ¼Æ¬ ID 
+è®°å½•æŽ’åºä¿¡æ¯ 
+è®°å½•æœ€æ–°çš„çš„å›¾ç‰‡ ID 
 
 I.77 SHOWPOST_INFO 
 
@@ -7486,15 +7487,15 @@ Code
 Data Type 
 
 ID 
-Ðã°É ID 
+ç§€å§ ID 
 
-Ðã°É´´½¨ÈË ID 
+ç§€å§åˆ›å»ºäºº ID 
 
-ËùÊôµ¥Î» ID 
-´´½¨Ê±¼ä 
-ÕýÎÄÄÚÈÝ 
-µãÔÞ´ÎÊý 
-ÕÕÆ¬×ÜÊý 
+æ‰€å±žå•ä½ ID 
+åˆ›å»ºæ—¶é—´ 
+æ­£æ–‡å†…å®¹ 
+ç‚¹èµžæ¬¡æ•° 
+ç…§ç‰‡æ€»æ•° 
 
 ID 
 SHOWBAR_ID 
@@ -7530,15 +7531,15 @@ FALSE
 
 Comment 
 
-Ðã°É ID 
+ç§€å§ ID 
 
-Ðã°É´´½¨ÈË ID 
+ç§€å§åˆ›å»ºäºº ID 
 
-ËùÊôµ¥Î» ID 
-´´½¨Ê±¼ä 
-ÕýÎÄÄÚÈÝ 
-µãÔÞ´ÎÊý 
-ÕÕÆ¬×ÜÊý 
+æ‰€å±žå•ä½ ID 
+åˆ›å»ºæ—¶é—´ 
+æ­£æ–‡å†…å®¹ 
+ç‚¹èµžæ¬¡æ•° 
+ç…§ç‰‡æ€»æ•° 
 
 Powe rDe s ig ne r 
 
@@ -7550,21 +7551,21 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-ÆÀÂÛ×ÜÊý 
+è¯„è®ºæ€»æ•° 
 
-ÖÃ¶¥Ê±¼ä£¨Î´ÖÃ
-¶¥ÔòÎª¿Õ£© 
-×´Ì¬±êÊ¶ 
-´´½¨×Ô£¨PC¡¢
+ç½®é¡¶æ—¶é—´ï¼ˆæœªç½®
+é¡¶åˆ™ä¸ºç©ºï¼‰ 
+çŠ¶æ€æ ‡è¯† 
+åˆ›å»ºè‡ªï¼ˆPCã€
 
-M1£© 
+M1ï¼‰ 
 
-ÐãÈ¦ÐÅÏ¢·¢ËÍµØ
-ÀíÎ»ÖÃ 
-±»£ÀÈËÔ±µÄ ID
-ºÍÐÕÃûÐÅÏ¢
+ç§€åœˆä¿¡æ¯å‘é€åœ°
+ç†ä½ç½® 
+è¢«ï¼ äººå‘˜çš„ ID
+å’Œå§“åä¿¡æ¯
 
-£¨JSON ¸ñÊ½£© 
+ï¼ˆJSON æ ¼å¼ï¼‰ 
 
 COMMENT _NU
 M 
@@ -7574,13 +7575,13 @@ Inte g e r
 
 FALSE 
 
-ÆÀÂÛ×ÜÊý 
+è¯„è®ºæ€»æ•° 
 
 Da te & T ime 
 
 FALSE 
 
-ÖÃ¶¥Ê±¼ä£¨Î´ÖÃ¶¥ÔòÎª¿Õ£© 
+ç½®é¡¶æ—¶é—´ï¼ˆæœªç½®é¡¶åˆ™ä¸ºç©ºï¼‰ 
 
 ST AT US 
 Sho rt inte g e r 
@@ -7604,14 +7605,14 @@ FALSE
 
 FALSE 
 
-×´Ì¬±êÊ¶£º0 É¾³ý£¬1 Õý³£ 
-´´½¨×Ô£¨0£ºPC¡¢1£ºM1£© 
+çŠ¶æ€æ ‡è¯†ï¼š0 åˆ é™¤ï¼Œ1 æ­£å¸¸ 
+åˆ›å»ºè‡ªï¼ˆ0ï¼šPCã€1ï¼šM1ï¼‰ 
 
-ÓÃÓÚ´æ´¢·¢ËÍÐãÈ¦ÐÅÏ¢µÄµØÀí
-Î»ÖÃ 
-±»£ÀÈËÔ±µÄ ID ºÍÐÕÃûÐÅÏ¢
+ç”¨äºŽå­˜å‚¨å‘é€ç§€åœˆä¿¡æ¯çš„åœ°ç†
+ä½ç½® 
+è¢«ï¼ äººå‘˜çš„ ID å’Œå§“åä¿¡æ¯
 
-£¨JSON ¸ñÊ½£© 
+ï¼ˆJSON æ ¼å¼ï¼‰ 
 
 I.78 THIRDPARTY_MSG_PENDING_CFG 
 
@@ -7626,29 +7627,29 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-×¢²áÓ¦ÓÃ ID 
-ÏûÏ¢´ý°ì»ñÈ¡Ä£
-Ê½ÍÆ/À­ 
-´©Í¸Ä£Ê½ 
-ÊÇÏûÏ¢ÅäÖÃ»¹ÊÇ
-´ý°ìÅäÖÃ±ØÌî 
-½Ó¿Ú·þÎñµØÖ· 
+æ³¨å†Œåº”ç”¨ ID 
+æ¶ˆæ¯å¾…åŠžèŽ·å–æ¨¡
+å¼æŽ¨/æ‹‰ 
+ç©¿é€æ¨¡å¼ 
+æ˜¯æ¶ˆæ¯é…ç½®è¿˜æ˜¯
+å¾…åŠžé…ç½®å¿…å¡« 
+æŽ¥å£æœåŠ¡åœ°å€ 
 
-ANDROID Æô¶¯
+ANDROID å¯åŠ¨
 
-ÃüÁî 
-IOS Æô¶¯ÃüÁî 
+å‘½ä»¤ 
+IOS å¯åŠ¨å‘½ä»¤ 
 
-ÊÇ·ñÆôÓÃ 
+æ˜¯å¦å¯ç”¨ 
 
 CREAT E_DAT
 E 
 UPDAT E_DAT
 E 
 
-Ê±¼ä¼ä¸ô 
+æ—¶é—´é—´éš” 
 
 ID 
 REGIST ER_ID 
@@ -7666,10 +7667,10 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-×¢²áÓ¦ÓÃ ID 
-ÏûÏ¢´ý°ì»ñÈ¡Ä£Ê½ÍÆ/À­ 
+æ³¨å†Œåº”ç”¨ ID 
+æ¶ˆæ¯å¾…åŠžèŽ·å–æ¨¡å¼æŽ¨/æ‹‰ 
 
 LINK_MODE 
 T YPE 
@@ -7680,8 +7681,8 @@ Sho rt inte g e r
 FALSE 
 FALSE 
 
-´©Í¸Ä£Ê½ 
-ÊÇÏûÏ¢ÅäÖÃ»¹ÊÇ´ý°ìÅäÖÃ±ØÌî 
+ç©¿é€æ¨¡å¼ 
+æ˜¯æ¶ˆæ¯é…ç½®è¿˜æ˜¯å¾…åŠžé…ç½®å¿…å¡« 
 
 SERVICE_URL 
 
@@ -7703,20 +7704,20 @@ CREAT E_DAT E Da te & T ime
 
 FALSE 
 
-½Ó¿Ú·þÎñµØÖ· 
+æŽ¥å£æœåŠ¡åœ°å€ 
 
 FALSE 
 
-ANDROID Æô¶¯ÃüÁî 
+ANDROID å¯åŠ¨å‘½ä»¤ 
 
 FALSE 
 
-IOS Æô¶¯ÃüÁî 
+IOS å¯åŠ¨å‘½ä»¤ 
 
 FALSE 
 FALSE 
 
-ÊÇ·ñÆôÓÃ£¨0£º·ñ£»1£ºÊÇ£© 
+æ˜¯å¦å¯ç”¨ï¼ˆ0ï¼šå¦ï¼›1ï¼šæ˜¯ï¼‰ 
 
 UPDAT E_DAT E Da te & T ime 
 
@@ -7730,7 +7731,7 @@ cha ra c te rs (255)
 
 FALSE 
 
-Ê±¼ä¼ä¸ô 
+æ—¶é—´é—´éš” 
 
 I.79 THIRDPARTY_PENDING 
 
@@ -7745,7 +7746,7 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
 ID 
 
@@ -7755,7 +7756,7 @@ Mandator
 y 
 T RUE 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
 Comment 
 
@@ -7769,17 +7770,17 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-µÚÈý·½´ý°ìÖ÷¼ü
+ç¬¬ä¸‰æ–¹å¾…åŠžä¸»é”®
 
 T ASK_ID 
 
 ID 
 
-±êÌâ 
+æ ‡é¢˜ 
 
 T IT LE 
 
-·¢ÆðÕß OA ÖÐµÄ
+å‘èµ·è€… OA ä¸­çš„
 
 SENDER_ID 
 
@@ -7791,52 +7792,52 @@ Lo ng inte g e r
 
 FALSE 
 
-µÚÈý·½´ý°ìÖ÷¼ü ID 
+ç¬¬ä¸‰æ–¹å¾…åŠžä¸»é”® ID 
 
 FALSE 
 
-±êÌâ 
+æ ‡é¢˜ 
 
 FALSE 
 
-·¢ÆðÕß OA ÖÐµÄ ID 
+å‘èµ·è€… OA ä¸­çš„ ID 
 
 ID 
 
-µÚÈý·½·¢ÆðÕß
+ç¬¬ä¸‰æ–¹å‘èµ·è€…
 
 ID 
 
-·¢ÆðÈËÐÕÃû 
+å‘èµ·äººå§“å 
 
-½ÓÊÕÈË ID 
-µÚÈý·½½ÓÊÕÕß
+æŽ¥æ”¶äºº ID 
+ç¬¬ä¸‰æ–¹æŽ¥æ”¶è€…
 
 ID 
-Ó¦ÓÃ ID 
+åº”ç”¨ ID 
 
-ÒµÎñ·ÖÀà 
+ä¸šåŠ¡åˆ†ç±» 
 
-ÕýÎÄÀàÐÍ 
+æ­£æ–‡ç±»åž‹ 
 
-Êý¾ÝÄÚÈÝ 
+æ•°æ®å†…å®¹ 
 
-PC ¶ËÍâ²¿Á´½Ó 
+PC ç«¯å¤–éƒ¨é“¾æŽ¥ 
 
-ÒÆ¶¯²ÎÊý 
+ç§»åŠ¨å‚æ•° 
 
-ÈÎÎñ´´½¨Ê±¼ä 
+ä»»åŠ¡åˆ›å»ºæ—¶é—´ 
 
-ÈÎÎñ×´Ì¬ 
+ä»»åŠ¡çŠ¶æ€ 
 
-ÏêÏ¸ÈÎÎñ×´Ì¬ 
+è¯¦ç»†ä»»åŠ¡çŠ¶æ€ 
 
 CREAT E_DAT
 E 
 UPDAT E_DAT
 E 
 
-ÒÆ¶¯¶Ë H5 Á´½Ó H5URL 
+ç§»åŠ¨ç«¯ H5 é“¾æŽ¥ H5URL 
 
 T H IRD_SENDE
 R_ID 
@@ -7878,48 +7879,48 @@ PCURL
 
 FALSE 
 
-µÚÈý·½·¢ÆðÕß ID 
+ç¬¬ä¸‰æ–¹å‘èµ·è€… ID 
 
 FALSE 
 
-·¢ÆðÈËÐÕÃû 
-
-FALSE 
-FALSE 
+å‘èµ·äººå§“å 
 
 FALSE 
 FALSE 
 
-½ÓÊÕÈË ID 
-µÚÈý·½½ÓÊÕÕß ID 
+FALSE 
+FALSE 
 
-Ó¦ÓÃ ID 
+æŽ¥æ”¶äºº ID 
+ç¬¬ä¸‰æ–¹æŽ¥æ”¶è€… ID 
 
-ÒµÎñ·ÖÀà 
+åº”ç”¨ ID 
+
+ä¸šåŠ¡åˆ†ç±» 
 
 FALSE 
 
-ÕýÎÄÀàÐÍ 
+æ­£æ–‡ç±»åž‹ 
 
 FALSE 
 
-Êý¾ÝÄÚÈÝ 
+æ•°æ®å†…å®¹ 
 
 FALSE 
 
-PC ¶ËÍâ²¿Á´½Ó 
+PC ç«¯å¤–éƒ¨é“¾æŽ¥ 
 
 FALSE 
 
-ÒÆ¶¯¶Ë H5 Á´½Ó 
+ç§»åŠ¨ç«¯ H5 é“¾æŽ¥ 
 
 FALSE 
 
-ÒÆ¶¯²ÎÊý 
+ç§»åŠ¨å‚æ•° 
 
 FALSE 
 
-ÈÎÎñ´´½¨Ê±¼ä 
+ä»»åŠ¡åˆ›å»ºæ—¶é—´ 
 
 CREAT ION_DA
 T E 
@@ -7940,9 +7941,9 @@ UPDAT E_DAT E Da te & T ime
 
 FALSE 
 
-ÈÎÎñ×´Ì¬£¨0:Î´°ìÀí£»1:ÒÑ°ì
-Àí£© 
-×ÓÈÎÎñ×´Ì¬ 
+ä»»åŠ¡çŠ¶æ€ï¼ˆ0:æœªåŠžç†ï¼›1:å·²åŠž
+ç†ï¼‰ 
+å­ä»»åŠ¡çŠ¶æ€ 
 
 I.80 THIRDPARTY_PORTAL_CONFIG 
 
@@ -7957,14 +7958,14 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-×¢²áÓ¦ÓÃ ID 
-ÈÏÖ¤Ä£Ê½ 
+æ³¨å†Œåº”ç”¨ ID 
+è®¤è¯æ¨¡å¼ 
 
-SSO ÈÏÖ¤µØÖ· 
+SSO è®¤è¯åœ°å€ 
 
-PC ·þÎñµØÖ· 
+PC æœåŠ¡åœ°å€ 
 
 ID 
 REGIST ER_ID 
@@ -7974,7 +7975,7 @@ SSO_LOGIN_U
 RL 
 PC_PAGE_URL 
 
-H5 ·þÎñµØÖ· 
+H5 æœåŠ¡åœ°å€ 
 
 H5_PAGE_URL 
 
@@ -7997,22 +7998,22 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-×¢²áÓ¦ÓÃ ID 
-ÈÏÖ¤Ä£Ê½ 
-
-FALSE 
-
-SSO ÈÏÖ¤µØÖ· 
+æ³¨å†Œåº”ç”¨ ID 
+è®¤è¯æ¨¡å¼ 
 
 FALSE 
 
-PC ·þÎñµØÖ· 
+SSO è®¤è¯åœ°å€ 
 
 FALSE 
 
-H5 ·þÎñµØÖ· 
+PC æœåŠ¡åœ°å€ 
+
+FALSE 
+
+H5 æœåŠ¡åœ°å€ 
 
 Powe rDe s ig ne r 
 
@@ -8024,14 +8025,14 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-ÊÇ·ñÆôÓÃ 
+æ˜¯å¦å¯ç”¨ 
 
 CREAT E_DAT
 E 
 UPDAT E_DAT
 E 
 
-Æô¶¯ÃüÁî 
+å¯åŠ¨å‘½ä»¤ 
 
 IS_ENABLE 
 Sho rt inte g e r 
@@ -8040,7 +8041,7 @@ CREAT E_DAT E Da te & T ime
 FALSE 
 FALSE 
 
-ÊÇ·ñÆôÓÃ£¨0:·ñ£¬1£ºÊÇ£© 
+æ˜¯å¦å¯ç”¨ï¼ˆ0:å¦ï¼Œ1ï¼šæ˜¯ï¼‰ 
 
 UPDAT E_DAT E Da te & T ime 
 
@@ -8054,7 +8055,7 @@ cha ra c te rs (2000)
 
 FALSE 
 
-Æô¶¯ÃüÁî 
+å¯åŠ¨å‘½ä»¤ 
 
 I.81 THIRDPARTY_REGISTER 
 
@@ -8069,9 +8070,9 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-×¢²áÃû³Æ 
+æ³¨å†Œåç§° 
 
 ID 
 APP_NAME 
@@ -8080,21 +8081,21 @@ ICON_PC
 
 ICON_PC 
 
-ÒÆ¶¯×¢²áÍ¼±ê 
+ç§»åŠ¨æ³¨å†Œå›¾æ ‡ 
 
 ICON_H5 
 
-PC ×¢²áÍ¼±ê 
+PC æ³¨å†Œå›¾æ ‡ 
 
-°æ±¾ºÅ 
+ç‰ˆæœ¬å· 
 
-°æ±¾ËµÃ÷ 
+ç‰ˆæœ¬è¯´æ˜Ž 
 
-Ó¦ÓÃ±êÇ©£¨Ó¦ÓÃ
-ÀàÐÍ£© 
-Ó¦ÓÃ·þÎñÉÌ 
+åº”ç”¨æ ‡ç­¾ï¼ˆåº”ç”¨
+ç±»åž‹ï¼‰ 
+åº”ç”¨æœåŠ¡å•† 
 
-½ÓÈë·½Ê½ 
+æŽ¥å…¥æ–¹å¼ 
 
 INT RODUCT IO
 N 
@@ -8129,13 +8130,13 @@ Va ria b le
 cha ra c te rs (50) 
 Sho rt inte g e r 
 
-PC ·þÎñµØÖ· 
+PC æœåŠ¡åœ°å€ 
 
-H5 ·þÎñµØÖ· 
+H5 æœåŠ¡åœ°å€ 
 
-×¢²á±àÂë 
-×¢²áÏµÍ³½ÓÈë·½
-Ê½ 
+æ³¨å†Œç¼–ç  
+æ³¨å†Œç³»ç»ŸæŽ¥å…¥æ–¹
+å¼ 
 
 CREAT E_DAT
 E 
@@ -8149,61 +8150,61 @@ y
 T RUE 
 FALSE 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-×¢²áÃû³Æ 
-
-FALSE 
-
-×¢²áÃû³Æ 
+æ³¨å†Œåç§° 
 
 FALSE 
 
-ÒÆ¶¯×¢²áÍ¼±ê 
+æ³¨å†Œåç§° 
 
 FALSE 
 
-PC ×¢²áÍ¼±ê 
+ç§»åŠ¨æ³¨å†Œå›¾æ ‡ 
 
 FALSE 
 
-°æ±¾ºÅ 
+PC æ³¨å†Œå›¾æ ‡ 
 
 FALSE 
 
-°æ±¾ËµÃ÷ 
+ç‰ˆæœ¬å· 
 
 FALSE 
 
-Ó¦ÓÃ±êÇ©£¨Ó¦ÓÃÀàÐÍ£© 
+ç‰ˆæœ¬è¯´æ˜Ž 
 
 FALSE 
 
-Ó¦ÓÃ·þÎñÉÌ 
+åº”ç”¨æ ‡ç­¾ï¼ˆåº”ç”¨ç±»åž‹ï¼‰ 
 
 FALSE 
 
-½ÓÈë·½Ê½£¨PC(0, "PC"), 
+åº”ç”¨æœåŠ¡å•† 
+
+FALSE 
+
+æŽ¥å…¥æ–¹å¼ï¼ˆPC(0, "PC"), 
 H5(1, "H5"), PCH5(2, 
 "PC&H5"), PCMo b ile (3, 
-"PC&ÒÆ¶¯Ó¦ÓÃ°ü"), 
-H5Mo b ile (4, "H5&ÒÆ¶¯Ó¦ÓÃ°ü
-")£© 
+"PC&ç§»åŠ¨åº”ç”¨åŒ…"), 
+H5Mo b ile (4, "H5&ç§»åŠ¨åº”ç”¨åŒ…
+")ï¼‰ 
 
 FALSE 
 
-PC ·þÎñµØÖ· 
+PC æœåŠ¡åœ°å€ 
 
 FALSE 
 
-H5 ·þÎñµØÖ· 
+H5 æœåŠ¡åœ°å€ 
 
 FALSE 
 FALSE 
 
-×¢²á±àÂë 
-×¢²áÏµÍ³½ÓÈë·½Ê½£¨0£ºurl£¬
-1£ºÒÆ¶¯Ó¦ÓÃ°ü£© 
+æ³¨å†Œç¼–ç  
+æ³¨å†Œç³»ç»ŸæŽ¥å…¥æ–¹å¼ï¼ˆ0ï¼šurlï¼Œ
+1ï¼šç§»åŠ¨åº”ç”¨åŒ…ï¼‰ 
 
 SERVICE_PC_
 URL 
@@ -8250,31 +8251,31 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-×¢²áÓ¦ÓÃ ID 
+æ³¨å†Œåº”ç”¨ ID 
 
-OA ÈËÔ± ID 
+OA äººå‘˜ ID 
 
-µÚÈý·½ÏµÍ³ÈË
+ç¬¬ä¸‰æ–¹ç³»ç»Ÿäºº
 
 ID 
 
-µÚÈý·½ÏµÍ³ÈËÔ±
-µÇÂ¼Ãû³Æ 
-µÚÈý·½ÏµÍ³ÈËÔ±
-Ãû³Æ 
-µÚÈý·½ÏµÍ³ÈËÔ±
-±àÂë 
-µÚÈý·½ÏµÍ³ÈËÔ±
-ÊÖ»úºÅ 
-µÚÈý·½ÏµÍ³ÈËÔ±
-ÓÊ¼þ 
-À©Õ¹²ÎÊý 
+ç¬¬ä¸‰æ–¹ç³»ç»Ÿäººå‘˜
+ç™»å½•åç§° 
+ç¬¬ä¸‰æ–¹ç³»ç»Ÿäººå‘˜
+åç§° 
+ç¬¬ä¸‰æ–¹ç³»ç»Ÿäººå‘˜
+ç¼–ç  
+ç¬¬ä¸‰æ–¹ç³»ç»Ÿäººå‘˜
+æ‰‹æœºå· 
+ç¬¬ä¸‰æ–¹ç³»ç»Ÿäººå‘˜
+é‚®ä»¶ 
+æ‰©å±•å‚æ•° 
 
 PARAM_1 
 
-ÃèÊö 
+æè¿° 
 
 CREAT E_DAT
 E 
@@ -8316,25 +8317,25 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-×¢²áÓ¦ÓÃ ID 
+æ³¨å†Œåº”ç”¨ ID 
 
-OA ÈËÔ± ID 
+OA äººå‘˜ ID 
 
-µÚÈý·½ÏµÍ³ÈË ID 
-
-FALSE 
-
-µÚÈý·½ÏµÍ³ÈËÔ±µÇÂ¼Ãû³Æ 
+ç¬¬ä¸‰æ–¹ç³»ç»Ÿäºº ID 
 
 FALSE 
 
-µÚÈý·½ÏµÍ³ÈËÔ±Ãû³Æ 
+ç¬¬ä¸‰æ–¹ç³»ç»Ÿäººå‘˜ç™»å½•åç§° 
 
 FALSE 
 
-µÚÈý·½ÏµÍ³ÈËÔ±±àÂë 
+ç¬¬ä¸‰æ–¹ç³»ç»Ÿäººå‘˜åç§° 
+
+FALSE 
+
+ç¬¬ä¸‰æ–¹ç³»ç»Ÿäººå‘˜ç¼–ç  
 
 T H IRD_MOBILE Va ria b le 
 cha ra c te rs (255) 
@@ -8346,11 +8347,11 @@ cha ra c te rs (255)
 
 FALSE 
 
-µÚÈý·½ÏµÍ³ÈËÔ±ÊÖ»úºÅ 
+ç¬¬ä¸‰æ–¹ç³»ç»Ÿäººå‘˜æ‰‹æœºå· 
 
 FALSE 
 
-µÚÈý·½ÏµÍ³ÈËÔ±ÓÊ¼þ 
+ç¬¬ä¸‰æ–¹ç³»ç»Ÿäººå‘˜é‚®ä»¶ 
 
 PARAM_0 
 
@@ -8368,15 +8369,15 @@ DESCR IPT ION
 
 FALSE 
 
-À©Õ¹²ÎÊý 
+æ‰©å±•å‚æ•° 
 
 FALSE 
 
-À©Õ¹²ÎÊý 
+æ‰©å±•å‚æ•° 
 
 FALSE 
 
-ÃèÊö 
+æè¿° 
 
 FALSE 
 
@@ -8384,14 +8385,14 @@ UPDAT E_DAT E Da te & T ime
 
 FALSE 
 
-I.83 U8 ³õÊ¼²Ù×÷Ô±ÐÅÏ¢±í 
+I.83 U8 åˆå§‹æ“ä½œå‘˜ä¿¡æ¯è¡¨ 
 
 Code 
 Comment 
 
 U8_SET_USER 
 
-U8 ³õÊ¼²Ù×÷Ô±ÐÅÏ¢±í 
+U8 åˆå§‹æ“ä½œå‘˜ä¿¡æ¯è¡¨ 
 
 Name 
 
@@ -8399,15 +8400,15 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
-ÊÇ·ñÖ÷Êý¾Ý 
-U8 ·þÎñÆ÷Ãû³Æ 
+ä¸»é”® 
+æ˜¯å¦ä¸»æ•°æ® 
+U8 æœåŠ¡å™¨åç§° 
 
-U8 ²Ù×÷Ô± 
+U8 æ“ä½œå‘˜ 
 
-U8 ²Ù×÷Ô±ÃÜÂë 
+U8 æ“ä½œå‘˜å¯†ç  
 
-µÇÂ¼Ê±¼ä 
+ç™»å½•æ—¶é—´ 
 
 ID 
 U8_KEY 
@@ -8419,7 +8420,7 @@ U8_PASSWOR
 D 
 LOGIN_DAT E 
 
-µÇÂ¼ÕËÌ× 
+ç™»å½•è´¦å¥— 
 
 ACCOUNT _NO 
 
@@ -8444,25 +8445,25 @@ FALSE
 
 Comment 
 
-Ö÷¼ü 
-ÊÇ·ñÖ÷Êý¾Ý 
-U8 ·þÎñÆ÷Ãû³Æ 
+ä¸»é”® 
+æ˜¯å¦ä¸»æ•°æ® 
+U8 æœåŠ¡å™¨åç§° 
 
 FALSE 
 
-U8 ²Ù×÷Ô± 
+U8 æ“ä½œå‘˜ 
 
 FALSE 
 
-U8 ²Ù×÷Ô±ÃÜÂë 
+U8 æ“ä½œå‘˜å¯†ç  
 
 FALSE 
 
-µÇÂ¼Ê±¼ä 
+ç™»å½•æ—¶é—´ 
 
 FALSE 
 
-µÇÂ¼ÕËÌ× 
+ç™»å½•è´¦å¥— 
 
 Powe rDe s ig ne r 
 
@@ -8474,13 +8475,13 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-ÕËÌ×Äê¶È 
+è´¦å¥—å¹´åº¦ 
 
 ACCOUNT _YEA
 R 
-Êý¾Ý¿âÁ¬½ÓÐÅÏ¢ DAT ASOURCE 
+æ•°æ®åº“è¿žæŽ¥ä¿¡æ¯ DAT ASOURCE 
 
-U8 ·þÎñÆ÷µØÖ· 
+U8 æœåŠ¡å™¨åœ°å€ 
 
 U8SERVERADD
 RESS 
@@ -8494,24 +8495,24 @@ cha ra c te rs (255)
 
 FALSE 
 
-ÕËÌ×Äê¶È 
+è´¦å¥—å¹´åº¦ 
 
 FALSE 
 
-Êý¾Ý¿âÁ¬½ÓÐÅÏ¢ 
+æ•°æ®åº“è¿žæŽ¥ä¿¡æ¯ 
 
 FALSE 
 
-U8 ·þÎñÆ÷µØÖ· 
+U8 æœåŠ¡å™¨åœ°å€ 
 
-I.84 U8 Í¬²½ÈÕÖ¾±í 
+I.84 U8 åŒæ­¥æ—¥å¿—è¡¨ 
 
 Code 
 Comment 
 
 U8PLUGIN_ORGSYNRECORD 
 
-U8 Í¬²½ÈÕÖ¾±í 
+U8 åŒæ­¥æ—¥å¿—è¡¨ 
 
 Name 
 
@@ -8519,14 +8520,14 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Í¬²½ÈËµÇÂ¼Ãû 
+åŒæ­¥äººç™»å½•å 
 
 ID 
 LOGINNAME 
 
-Í¬²½·½Ê½ 
+åŒæ­¥æ–¹å¼ 
 
 OPT YPE 
 
@@ -8542,20 +8543,20 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Í¬²½ÈËµÇÂ¼Ãû 
+åŒæ­¥äººç™»å½•å 
 
 FALSE 
 
-Í¬²½·½Ê½ 0-×Ô¶¯  1-ÊÖ¶¯ 2-°´
+åŒæ­¥æ–¹å¼ 0-è‡ªåŠ¨  1-æ‰‹åŠ¨ 2-æŒ‰
 
-Í¬²½³É¹¦Êý 
-Í¬²½Ê§°ÜÊý 
-Í¬²½×ÜÊý 
-ÊÇ·ñÓÐÐ§ 
-Ê±¼ä´Á 
-A8 µ¥Î»»ò²¿ÃÅ
+åŒæ­¥æˆåŠŸæ•° 
+åŒæ­¥å¤±è´¥æ•° 
+åŒæ­¥æ€»æ•° 
+æ˜¯å¦æœ‰æ•ˆ 
+æ—¶é—´æˆ³ 
+A8 å•ä½æˆ–éƒ¨é—¨
 
 OKNUM 
 FAILNUM 
@@ -8578,20 +8579,20 @@ FALSE
 T RUE 
 FALSE 
 
-Ðè 
-Í¬²½³É¹¦Êý 
-Í¬²½Ê§°ÜÊý 
-Í¬²½×ÜÊý 
+éœ€ 
+åŒæ­¥æˆåŠŸæ•° 
+åŒæ­¥å¤±è´¥æ•° 
+åŒæ­¥æ€»æ•° 
 
-ÊÇ·ñÓÐÐ§ 0 -ÎÞÐ§  1-ÓÐÐ§ 
+æ˜¯å¦æœ‰æ•ˆ 0 -æ— æ•ˆ  1-æœ‰æ•ˆ 
 
-Ê±¼ä´Á 
-A8 µ¥Î»»ò²¿ÃÅ id 
+æ—¶é—´æˆ³ 
+A8 å•ä½æˆ–éƒ¨é—¨ id 
 
 ID 
-µÚÈý·½µ¥Î»Ö÷¼ü MAP_GU ID 
+ç¬¬ä¸‰æ–¹å•ä½ä¸»é”® MAP_GU ID 
 
-¶ÔÓ¦ÀàÐÍ 
+å¯¹åº”ç±»åž‹ 
 
 MAP_T YPE 
 
@@ -8602,7 +8603,7 @@ cha ra c te rs (255)
 
 FALSE 
 
-Í¬²½ÀàÐÍ 
+åŒæ­¥ç±»åž‹ 
 
 SYN_T YPE 
 
@@ -8610,7 +8611,7 @@ Sho rt inte g e r
 
 FALSE 
 
-Í¬²½±¸×¢ 
+åŒæ­¥å¤‡æ³¨ 
 
 MEMO 
 
@@ -8621,22 +8622,22 @@ FALSE
 
 FALSE 
 
-µÚÈý·½µ¥Î»Ö÷¼ü 
+ç¬¬ä¸‰æ–¹å•ä½ä¸»é”® 
 
-¶ÔÓ¦ÀàÐÍ£¬Èç¹ûµ¥Î»¶ÔÓ¦£¬²¿
-ÃÅ¶ÔÓ¦ 
-Í¬²½ÀàÐÍ£¬Ö°Îñ¼¶±ð:1£¬²¿
-ÃÅ:2£¬¸ÚÎ»:3£¬ÈËÔ±:4 
-Í¬²½±¸×¢ 
+å¯¹åº”ç±»åž‹ï¼Œå¦‚æžœå•ä½å¯¹åº”ï¼Œéƒ¨
+é—¨å¯¹åº” 
+åŒæ­¥ç±»åž‹ï¼ŒèŒåŠ¡çº§åˆ«:1ï¼Œéƒ¨
+é—¨:2ï¼Œå²—ä½:3ï¼Œäººå‘˜:4 
+åŒæ­¥å¤‡æ³¨ 
 
-I.85 U8 Í¬²½ÈÕÖ¾ÏêÏ¸ÐÅÏ¢±í 
+I.85 U8 åŒæ­¥æ—¥å¿—è¯¦ç»†ä¿¡æ¯è¡¨ 
 
 Code 
 Comment 
 
 U8PLUGIN_ORGSYNRECORDDETAIL 
 
-U8 Í¬²½ÈÕÖ¾ÏêÏ¸ÐÅÏ¢±í 
+U8 åŒæ­¥æ—¥å¿—è¯¦ç»†ä¿¡æ¯è¡¨ 
 
 Name 
 
@@ -8644,12 +8645,12 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Ö÷¼ÇÂ¼±í ID 
-Í¬²½Êý¾ÝµÄÏêÏ¸
-ÃèÊö 
-Í¬²½ÊÇ·ñ³É¹¦ 
+ä¸»è®°å½•è¡¨ ID 
+åŒæ­¥æ•°æ®çš„è¯¦ç»†
+æè¿° 
+åŒæ­¥æ˜¯å¦æˆåŠŸ 
 
 ID 
 RECORD_ID 
@@ -8657,7 +8658,7 @@ DAT A
 
 ACT ION 
 
-Í¬²½±¸×¢ËµÃ÷ 
+åŒæ­¥å¤‡æ³¨è¯´æ˜Ž 
 
 MEMO 
 
@@ -8680,18 +8681,18 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Ö÷¼ÇÂ¼±í id 
-Í¬²½Êý¾ÝµÄÏêÏ¸ÃèÊö 
-
-FALSE 
+ä¸»è®°å½•è¡¨ id 
+åŒæ­¥æ•°æ®çš„è¯¦ç»†æè¿° 
 
 FALSE 
 
-Í¬²½ÊÇ³É¹¦£¬Ê§°Ü£¬ºöÂÔµÄÃè
-Êö 
-Í¬²½±¸×¢ËµÃ÷ 
+FALSE 
+
+åŒæ­¥æ˜¯æˆåŠŸï¼Œå¤±è´¥ï¼Œå¿½ç•¥çš„æ
+è¿° 
+åŒæ­¥å¤‡æ³¨è¯´æ˜Ž 
 
 Powe rDe s ig ne r 
 
@@ -8703,14 +8704,14 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-I.86 U8 Êý¾ÝÔ´ÐÅÏ¢±í 
+I.86 U8 æ•°æ®æºä¿¡æ¯è¡¨ 
 
 Code 
 Comment 
 
 U8BUSINESS_DATASOURC E 
 
-±£´æ u8 Êý¾ÝÔ´ 
+ä¿å­˜ u8 æ•°æ®æº 
 
 Comment 
 
@@ -8721,39 +8722,39 @@ FALSE
 
 ID 
 
-ÕËÌ×±àÂë 
+è´¦å¥—ç¼–ç  
 
 FALSE 
 
-Êý¾Ý¿âÀàÐÍ 
+æ•°æ®åº“ç±»åž‹ 
 
 FALSE 
 
-Êý¾Ý¿âÁ¬½Ó URL 
+æ•°æ®åº“è¿žæŽ¥ URL 
 
 FALSE 
 
-Êý¾Ý¿âÓÃ»§ 
+æ•°æ®åº“ç”¨æˆ· 
 
 FALSE 
 
-Êý¾Ý¿âÃÜÂë 
+æ•°æ®åº“å¯†ç  
 
 FALSE 
 FALSE 
 FALSE 
 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
-±¸ÓÃ×Ö¶Î 1 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
+å¤‡ç”¨å­—æ®µ 1 
 
 FALSE 
 
-±¸ÓÃ×Ö¶Î 2 
+å¤‡ç”¨å­—æ®µ 2 
 
 FALSE 
 
-±¸ÓÃ×Ö¶Î 3 
+å¤‡ç”¨å­—æ®µ 3 
 
 Mandator
 y 
@@ -8762,29 +8763,29 @@ T RUE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-U8 ·þÎñÆ÷Ãû³Æ 
-
-FALSE 
-
-WEB ·þÎñÆ÷µØÖ· 
+U8 æœåŠ¡å™¨åç§° 
 
 FALSE 
 
-Íâ²¿×¢²áºÅ 
+WEB æœåŠ¡å™¨åœ°å€ 
 
 FALSE 
 
-U8 °æ±¾ 
+å¤–éƒ¨æ³¨å†Œå· 
+
+FALSE 
+
+U8 ç‰ˆæœ¬ 
 
 FALSE 
 FALSE 
 FALSE 
 
-ÊÇ·ñ°üº¬ U8 
-ÊÇ·ñ°üº¬Íø±¨ 
-ÊÇ·ñ°üº¬ HR ×ÔÖú 
+æ˜¯å¦åŒ…å« U8 
+æ˜¯å¦åŒ…å«ç½‘æŠ¥ 
+æ˜¯å¦åŒ…å« HR è‡ªåŠ© 
 
 Name 
 
@@ -8794,25 +8795,25 @@ Data Type
 
 ID 
 
-ÕËÌ×±àÂë 
+è´¦å¥—ç¼–ç  
 
-Êý¾Ý¿âÀàÐÍ 
+æ•°æ®åº“ç±»åž‹ 
 
-Êý¾Ý¿âÁ¬½Ó
+æ•°æ®åº“è¿žæŽ¥
 
 URL 
 
-Êý¾Ý¿âÓÃ»§ 
+æ•°æ®åº“ç”¨æˆ· 
 
-Êý¾Ý¿âÃÜÂë 
+æ•°æ®åº“å¯†ç  
 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
-±¸ÓÃ×Ö¶Î 1 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
+å¤‡ç”¨å­—æ®µ 1 
 
-±¸ÓÃ×Ö¶Î 2 
+å¤‡ç”¨å­—æ®µ 2 
 
-±¸ÓÃ×Ö¶Î 3 
+å¤‡ç”¨å­—æ®µ 3 
 
 DBURL 
 
@@ -8849,14 +8850,14 @@ EXT _AT T R2
 
 EXT _AT T R3 
 
-I.87 U8 ·þÎñÆ÷ÐÅÏ¢±í 
+I.87 U8 æœåŠ¡å™¨ä¿¡æ¯è¡¨ 
 
 Code 
 Comment 
 
 U8_SERVERS 
 
-U8 ·þÎñÆ÷ÐÅÏ¢±í 
+U8 æœåŠ¡å™¨ä¿¡æ¯è¡¨ 
 
 Name 
 
@@ -8864,13 +8865,13 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-U8 ·þÎñÆ÷Ãû³Æ 
+U8 æœåŠ¡å™¨åç§° 
 
-WEB ·þÎñÆ÷µØ
-Ö· 
-Íâ²¿×¢²áºÅ 
+WEB æœåŠ¡å™¨åœ°
+å€ 
+å¤–éƒ¨æ³¨å†Œå· 
 
 ID 
 U8_SERVER_N
@@ -8880,15 +8881,15 @@ ESS
 
 U8_REG_NO 
 
-U8 °æ±¾ 
+U8 ç‰ˆæœ¬ 
 
 U8_VERSION 
 
-ÊÇ·ñ°üº¬ U8 
-ÊÇ·ñ°üº¬Íø±¨ 
-ÊÇ·ñ°üº¬ HR ×Ô
-Öú 
-ÊÇ·ñÆôÓÃ U8 
+æ˜¯å¦åŒ…å« U8 
+æ˜¯å¦åŒ…å«ç½‘æŠ¥ 
+æ˜¯å¦åŒ…å« HR è‡ª
+åŠ© 
+æ˜¯å¦å¯ç”¨ U8 
 
 HAS_U8 
 HAS_WB 
@@ -8915,9 +8916,9 @@ Inte g e r
 
 FALSE 
 
-ÊÇ·ñÆôÓÃ U8: 1-ÆôÓÃ£¬  0-²»
+æ˜¯å¦å¯ç”¨ U8: 1-å¯ç”¨ï¼Œ  0-ä¸
 
-ÆôÓÃ 
+å¯ç”¨ 
 
 Powe rDe s ig ne r 
 
@@ -8929,7 +8930,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-ÊÇ·ñÆôÓÃÍø±¨ 
+æ˜¯å¦å¯ç”¨ç½‘æŠ¥ 
 
 WB_ENABLE 
 
@@ -8937,13 +8938,13 @@ Inte g e r
 
 FALSE 
 
-ÊÇ·ñÆôÓÃ¿¼ÇÚ²é
-Ñ¯ 
-ÊÇ·ñÆôÓÃ¹¤×Ê²é
-Ñ¯ 
-ÊÇ·ñÆôÓÃ¿¼ÇÚÉê
-Çë 
-U8 ·þÎñÆ÷µØÖ· 
+æ˜¯å¦å¯ç”¨è€ƒå‹¤æŸ¥
+è¯¢ 
+æ˜¯å¦å¯ç”¨å·¥èµ„æŸ¥
+è¯¢ 
+æ˜¯å¦å¯ç”¨è€ƒå‹¤ç”³
+è¯· 
+U8 æœåŠ¡å™¨åœ°å€ 
 
 KC_ENABLE 
 
@@ -8971,24 +8972,24 @@ cha ra c te rs (100)
 
 FALSE 
 
-ÊÇ·ñÆôÓÃÍø±¨: 1-ÆôÓÃ£¬  0-²»
-ÆôÓÃ 
-ÊÇ·ñÆôÓÃ¿¼ÇÚ²éÑ¯£º 1-Æô
-ÓÃ£¬  0-²»ÆôÓÃ 
-ÊÇ·ñÆôÓÃ¹¤×Ê²éÑ¯£º 1-Æô
-ÓÃ£¬  0-²»ÆôÓÃ 
-ÊÇ·ñÆôÓÃ¿¼ÇÚÉêÇë£º 1-Æô
-ÓÃ£¬  0-²»ÆôÓÃ 
-U8 ·þÎñÆ÷µØÖ· 
+æ˜¯å¦å¯ç”¨ç½‘æŠ¥: 1-å¯ç”¨ï¼Œ  0-ä¸
+å¯ç”¨ 
+æ˜¯å¦å¯ç”¨è€ƒå‹¤æŸ¥è¯¢ï¼š 1-å¯
+ç”¨ï¼Œ  0-ä¸å¯ç”¨ 
+æ˜¯å¦å¯ç”¨å·¥èµ„æŸ¥è¯¢ï¼š 1-å¯
+ç”¨ï¼Œ  0-ä¸å¯ç”¨ 
+æ˜¯å¦å¯ç”¨è€ƒå‹¤ç”³è¯·ï¼š 1-å¯
+ç”¨ï¼Œ  0-ä¸å¯ç”¨ 
+U8 æœåŠ¡å™¨åœ°å€ 
 
-I.88 U8 µÇÂ¼ÉèÖÃÐÅÏ¢±í 
+I.88 U8 ç™»å½•è®¾ç½®ä¿¡æ¯è¡¨ 
 
 Code 
 Comment 
 
 U8PLUGIN_U8_USERMAPPER 
 
-U8 µÇÂ¼ÉèÖÃÐÅÏ¢±í 
+U8 ç™»å½•è®¾ç½®ä¿¡æ¯è¡¨ 
 
 Name 
 
@@ -9004,11 +9005,11 @@ cha ra c te rs (255)
 
 FALSE 
 
-HR ×ÔÖúÕÊÌ×Äê¶È 
+HR è‡ªåŠ©å¸å¥—å¹´åº¦ 
 
-A8 ÓÃ»§ ID 
+A8 ç”¨æˆ· ID 
 A8USER ID 
-Êý¾Ý¿âÁ¬½ÓÐÅÏ¢ DAT ASOURCE 
+æ•°æ®åº“è¿žæŽ¥ä¿¡æ¯ DAT ASOURCE 
 
 Lo ng inte g e r 
 Va ria b le 
@@ -9017,18 +9018,18 @@ cha ra c te rs (255)
 FALSE 
 FALSE 
 
-A8 ÓÃ»§ ID 
+A8 ç”¨æˆ· ID 
 
-Êý¾Ý¿âÁ¬½ÓÐÅÏ¢ 
+æ•°æ®åº“è¿žæŽ¥ä¿¡æ¯ 
 
-I.89 U8 ÕËºÅ°ó¶¨±í 
+I.89 U8 è´¦å·ç»‘å®šè¡¨ 
 
 Code 
 Comment 
 
 U8PLUGIN_U8_USER 
 
-U8 ÕËºÅ°ó¶¨±í 
+U8 è´¦å·ç»‘å®šè¡¨ 
 
 Powe rDe s ig ne r 
 
@@ -9036,49 +9037,49 @@ Powe rDe s ig ne r
 
 Pa g e 44 
 
-Ö÷¼ü 
-U8 ·þÎñÆ÷Ãû³Æ 
+ä¸»é”® 
+U8 æœåŠ¡å™¨åç§° 
 
 ID 
 SERVERNAME 
 
-U8 ²Ù×÷Ô± 
+U8 æ“ä½œå‘˜ 
 
 PERAT OR 
 
-ÃÜÂë 
+å¯†ç  
 
 PASSWORD 
 
-Ä¬ÈÏÕÊÌ× 
+é»˜è®¤å¸å¥— 
 
 ACCOUNT NO 
 
-ÕÊÌ×Äê¶È 
+å¸å¥—å¹´åº¦ 
 
-Íø±¨·þÎñÆ÷ 
+ç½‘æŠ¥æœåŠ¡å™¨ 
 
 ACCOUNT YEA
 R 
 WB_SERVER 
 
-Íø±¨Ä¬ÈÏÕÊÌ× 
+ç½‘æŠ¥é»˜è®¤å¸å¥— 
 
-Íø±¨ÕÊÌ×Äê¶È 
+ç½‘æŠ¥å¸å¥—å¹´åº¦ 
 
 WB_ACCOUNT
 NO 
 WB_ACCOUNT
 YEAR 
-HR ×ÔÖú·þÎñÆ÷ HR_SERVER 
+HR è‡ªåŠ©æœåŠ¡å™¨ HR_SERVER 
 
 HR_ACCOUNT
 NO 
 
-HR ×ÔÖúÄ¬ÈÏÕÊ
-Ì× 
-HR ×ÔÖúÕÊÌ×Äê
-¶È 
+HR è‡ªåŠ©é»˜è®¤å¸
+å¥— 
+HR è‡ªåŠ©å¸å¥—å¹´
+åº¦ 
 
 Mandator
 y 
@@ -9087,44 +9088,44 @@ T RUE
 
 Comment 
 
-Ö÷¼ü 
-U8 ·þÎñÆ÷Ãû³Æ 
+ä¸»é”® 
+U8 æœåŠ¡å™¨åç§° 
 
 T RUE 
 
-U8 ²Ù×÷Ô± 
+U8 æ“ä½œå‘˜ 
 
 FALSE 
 
-ÃÜÂë 
+å¯†ç  
 
 T RUE 
 
-Ä¬ÈÏÕÊÌ× 
+é»˜è®¤å¸å¥— 
 
 T RUE 
 
-ÕÊÌ×Äê¶È 
+å¸å¥—å¹´åº¦ 
 
 FALSE 
 
-Íø±¨·þÎñÆ÷ 
+ç½‘æŠ¥æœåŠ¡å™¨ 
 
 FALSE 
 
-Íø±¨Ä¬ÈÏÕÊÌ× 
+ç½‘æŠ¥é»˜è®¤å¸å¥— 
 
 FALSE 
 
-Íø±¨ÕÊÌ×Äê¶È 
+ç½‘æŠ¥å¸å¥—å¹´åº¦ 
 
 FALSE 
 
-HR ×ÔÖú·þÎñÆ÷ 
+HR è‡ªåŠ©æœåŠ¡å™¨ 
 
 FALSE 
 
-HR ×ÔÖúÄ¬ÈÏÕÊÌ× 
+HR è‡ªåŠ©é»˜è®¤å¸å¥— 
 
 Lo ng inte g e r 
 Va ria b le 
@@ -9158,14 +9159,14 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
-A8 ÓÃ»§ ID 
+ä¸»é”® ID 
+A8 ç”¨æˆ· ID 
 
-U8 ²Ù×÷Ô±Ãû³Æ 
+U8 æ“ä½œå‘˜åç§° 
 
-U8 ²Ù×÷Ô±±àÂë 
+U8 æ“ä½œå‘˜ç¼–ç  
 
-U8 ·þÎñÆ÷Ãû³Æ 
+U8 æœåŠ¡å™¨åç§° 
 
 ID 
 OAUSER ID 
@@ -9193,27 +9194,27 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
-A8 ÓÃ»§ ID 
+ä¸»é”® ID 
+A8 ç”¨æˆ· ID 
 
-U8 ²Ù×÷Ô±Ãû³Æ 
-
-FALSE 
-
-U8 ²Ù×÷Ô±±àÂë 
+U8 æ“ä½œå‘˜åç§° 
 
 FALSE 
 
-U8 ·þÎñÆ÷Ãû³Æ 
+U8 æ“ä½œå‘˜ç¼–ç  
 
-I.90 UC Í¬²½Ê§°Ü¼ÇÂ¼ 
+FALSE 
+
+U8 æœåŠ¡å™¨åç§° 
+
+I.90 UC åŒæ­¥å¤±è´¥è®°å½• 
 
 Code 
 Comment 
 
 UC_SYN_LOG 
 
-UC Í¬²½Ê§°Ü¼ÇÂ¼ 
+UC åŒæ­¥å¤±è´¥è®°å½• 
 
 Name 
 
@@ -9221,13 +9222,13 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Êý¾Ý 
-ÀàÐÍ 
+æ•°æ® 
+ç±»åž‹ 
 
-µ±Ç°Êý¾Ý°üÍ¬²½
-Ê§°ÜÊ±¼ä 
+å½“å‰æ•°æ®åŒ…åŒæ­¥
+å¤±è´¥æ—¶é—´ 
 
 ID 
 SYN_DAT A 
@@ -9249,14 +9250,14 @@ T RUE
 FALSE 
 FALSE 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Êý¾Ý 
-ÀàÐÍ 
+æ•°æ® 
+ç±»åž‹ 
 
 FALSE 
 
-µ±Ç°Êý¾Ý°üÍ¬²½Ê§°ÜÊ±¼ä 
+å½“å‰æ•°æ®åŒ…åŒæ­¥å¤±è´¥æ—¶é—´ 
 
 I.91 VOUCHER_USERMAPPER 
 
@@ -9273,29 +9274,29 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
-ÈËÔ±Ö÷¼ü 
+ä¸»é”® 
+äººå‘˜ä¸»é”® 
 
-ÓÃ»§ÊµÃû 
+ç”¨æˆ·å®žå 
 
 ID 
 ORG_MEMBER
 _ID 
 USERNAME 
 
-ÓÃ»§ÕËºÅ 
+ç”¨æˆ·è´¦å· 
 
 USERCODE 
 
-ÃÜÂë 
+å¯†ç  
 
 USERPWD 
 
-ÕËÌ×ÀàÐÍ 
+è´¦å¥—ç±»åž‹ 
 
 T YPE 
 
-ÕËÌ×Ö÷¼ü 
+è´¦å¥—ä¸»é”® 
 
 ACCOUNT ID 
 
@@ -9317,28 +9318,28 @@ y
 T RUE 
 FALSE 
 
-Ö÷¼ü 
-ÈËÔ±Ö÷¼ü 
+ä¸»é”® 
+äººå‘˜ä¸»é”® 
 
 FALSE 
 
-ÓÃ»§ÊµÃû 
+ç”¨æˆ·å®žå 
 
 FALSE 
 
-ÓÃ»§ÕËºÅ 
+ç”¨æˆ·è´¦å· 
 
 FALSE 
 
-ÃÜÂë 
+å¯†ç  
 
 FALSE 
 
-ÕËÌ×ÀàÐÍ 
+è´¦å¥—ç±»åž‹ 
 
 FALSE 
 
-ÕËÌ×Ö÷¼ü 
+è´¦å¥—ä¸»é”® 
 
 I.92 WEATHER_AREA_INFO 
 
@@ -9363,39 +9364,39 @@ Code
 
 Data Type 
 
-Õ¾µã ID 
+ç«™ç‚¹ ID 
 
 AREAID 
 
-Õ¾µãÓ¢ÎÄÃû 
+ç«™ç‚¹è‹±æ–‡å 
 
 NAMEEN 
 
-Õ¾µãÖÐÎÄÃû 
+ç«™ç‚¹ä¸­æ–‡å 
 
 NAMECN 
 
-³ÇÊÐÓ¢ÎÄÃû 
+åŸŽå¸‚è‹±æ–‡å 
 
 D IST R ICT EN 
 
-³ÇÊÐÖÐÎÄÃû 
+åŸŽå¸‚ä¸­æ–‡å 
 
 D IST R ICT CN 
 
-Ê¡·ÝÓ¢ÎÄ 
+çœä»½è‹±æ–‡ 
 
 PROVEN 
 
-Ê¡·ÝÖÐÎÄ 
+çœä»½ä¸­æ–‡ 
 
 PROVCN 
 
-¹ú¼ÒÓ¢ÎÄ 
+å›½å®¶è‹±æ–‡ 
 
 NAT IONEN 
 
-¹ú¼ÒÖÐÎÄ 
+å›½å®¶ä¸­æ–‡ 
 
 NAT IONCN 
 
@@ -9422,41 +9423,41 @@ Mandator
 y 
 T RUE 
 
-Õ¾µã ID 
+ç«™ç‚¹ ID 
 
 Comment 
 
 FALSE 
 
-Õ¾µãÓ¢ÎÄÃû 
+ç«™ç‚¹è‹±æ–‡å 
 
 FALSE 
 
-Õ¾µãÖÐÎÄÃû 
+ç«™ç‚¹ä¸­æ–‡å 
 
 FALSE 
 
-³ÇÊÐÓ¢ÎÄÃû 
+åŸŽå¸‚è‹±æ–‡å 
 
 FALSE 
 
-³ÇÊÐÖÐÎÄÃû 
+åŸŽå¸‚ä¸­æ–‡å 
 
 FALSE 
 
-Ê¡·ÝÓ¢ÎÄ 
+çœä»½è‹±æ–‡ 
 
 FALSE 
 
-Ê¡·ÝÖÐÎÄ 
+çœä»½ä¸­æ–‡ 
 
 FALSE 
 
-¹ú¼ÒÓ¢ÎÄ 
+å›½å®¶è‹±æ–‡ 
 
 FALSE 
 
-¹ú¼ÒÖÐÎÄ 
+å›½å®¶ä¸­æ–‡ 
 
 I.93 WF_PROCESS_XML_TEMP 
 
@@ -9472,14 +9473,14 @@ Code
 Data Type 
 
 ID 
-Á÷³Ì ID 
+æµç¨‹ ID 
 
-Á÷³Ì XML 
-½Úµã ID 
+æµç¨‹ XML 
+èŠ‚ç‚¹ ID 
 
-²Ù×÷ÈËÔ± 
-²Ù×÷ÀàÐÍ 
-´´½¨Ê±¼ä 
+æ“ä½œäººå‘˜ 
+æ“ä½œç±»åž‹ 
+åˆ›å»ºæ—¶é—´ 
 
 ID 
 PROCESS_ID 
@@ -9510,24 +9511,24 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
-Á÷³Ì ID 
+ä¸»é”® ID 
+æµç¨‹ ID 
 
-Á÷³Ì XML 
-½Úµã ID 
+æµç¨‹ XML 
+èŠ‚ç‚¹ ID 
 
-²Ù×÷ÈËÔ± 
-²Ù×÷ÀàÐÍ 
-´´½¨Ê±¼ä 
+æ“ä½œäººå‘˜ 
+æ“ä½œç±»åž‹ 
+åˆ›å»ºæ—¶é—´ 
 
-I.94 ÒµÎñµ¼Í¼Ö÷±í 
+I.94 ä¸šåŠ¡å¯¼å›¾ä¸»è¡¨ 
 
 Code 
 Comment 
 
 CTP_BIZ_MAP 
 
-ÒµÎñµ¼Í¼Ö÷±í 
+ä¸šåŠ¡å¯¼å›¾ä¸»è¡¨ 
 
 Name 
 
@@ -9537,15 +9538,15 @@ Data Type
 
 ID 
 
-µ¼Í¼Ãû³Æ 
+å¯¼å›¾åç§° 
 
 ID 
 NAME 
 
-´´½¨Õß ID 
-´´½¨Ê±¼ä 
-×îºóÐÞ¸ÄÕß ID 
-×îºóÐÞ¸ÄÊ±¼ä 
+åˆ›å»ºè€… ID 
+åˆ›å»ºæ—¶é—´ 
+æœ€åŽä¿®æ”¹è€… ID 
+æœ€åŽä¿®æ”¹æ—¶é—´ 
 
 CREAT OR_ID 
 CREAT E_T IME 
@@ -9569,17 +9570,17 @@ FALSE
 
 ID 
 
-µ¼Í¼Ãû³Æ 
+å¯¼å›¾åç§° 
 
 FALSE 
 FALSE 
 FALSE 
 FALSE 
 
-´´½¨Õß ID 
-´´½¨Ê±¼ä 
-×îºóÐÞ¸ÄÕß ID 
-×îºóÐÞ¸ÄÊ±¼ä 
+åˆ›å»ºè€… ID 
+åˆ›å»ºæ—¶é—´ 
+æœ€åŽä¿®æ”¹è€… ID 
+æœ€åŽä¿®æ”¹æ—¶é—´ 
 
 Powe rDe s ig ne r 
 
@@ -9591,7 +9592,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-µ¼Í¼Í¼Æ¬ÔÚ¸½¼þ
+å¯¼å›¾å›¾ç‰‡åœ¨é™„ä»¶
 
 AT T _ID 
 
@@ -9599,12 +9600,12 @@ Lo ng inte g e r
 
 FALSE 
 
-µ¼Í¼Í¼Æ¬ÔÚ¸½¼þ±íµÄ ID 
+å¯¼å›¾å›¾ç‰‡åœ¨é™„ä»¶è¡¨çš„ ID 
 
-±íµÄ ID 
+è¡¨çš„ ID 
 
-²¼¾ÖÀàÐÍ 
-²¼¾Ö·½Ê½ 
+å¸ƒå±€ç±»åž‹ 
+å¸ƒå±€æ–¹å¼ 
 
 LAYOUT T YPE 
 LAYOUT 
@@ -9616,7 +9617,7 @@ cha ra c te rs (255)
 FALSE 
 FALSE 
 
-×´Ì¬ 
+çŠ¶æ€ 
 
 ST AT E 
 
@@ -9624,11 +9625,11 @@ Sho rt inte g e r
 
 FALSE 
 
-É¾³ý±ê¼Ç 
+åˆ é™¤æ ‡è®° 
 
-´æ·Å HTML ´ú
+å­˜æ”¾ HTML ä»£
 
-Âë 
+ç  
 
 DEL_FLAG 
 HTML_CONT EN
@@ -9640,7 +9641,7 @@ T e xt
 FALSE 
 FALSE 
 
-´´½¨ÕßËùÊôµ¥Î»
+åˆ›å»ºè€…æ‰€å±žå•ä½
 
 ORG_ID 
 
@@ -9650,27 +9651,27 @@ FALSE
 
 ID 
 
-²¼¾ÖÀàÐÍ£º1 ²Ëµ¥ 2 À¸Ä¿ 
-²¼¾Ö·½Ê½£ºÎªÁËÍ¨ÓÃ£¬Ê¹ÓÃ
-JSON ¸ñÊ½£¬ËùÓÐ²¼¾ÖÉèÖÃ¶¼
-´æ·ÅÕâ¸ö×Ö¶Î 
-×´Ì¬£¬0 ²Ý¸å£¬1 ÆôÓÃ£¬2 Í£
-ÓÃ 
-É¾³ý±ê¼Ç£¬0 Î´É¾³ý£¬1 É¾³ý 
-ÒÔºóÈç¹û²»ÊÇÍ¼Æ¬£¬×Ô¼º×öÁË
-Éè¼ÆÆ÷£¬ÀïÃæ¾ÍÊÇ´æ·Å HTML
-´úÂë 
-´´½¨ÕßËùÊôµ¥Î» ID£¨SAAS
-·½Ê½±ØÐë£© 
+å¸ƒå±€ç±»åž‹ï¼š1 èœå• 2 æ ç›® 
+å¸ƒå±€æ–¹å¼ï¼šä¸ºäº†é€šç”¨ï¼Œä½¿ç”¨
+JSON æ ¼å¼ï¼Œæ‰€æœ‰å¸ƒå±€è®¾ç½®éƒ½
+å­˜æ”¾è¿™ä¸ªå­—æ®µ 
+çŠ¶æ€ï¼Œ0 è‰ç¨¿ï¼Œ1 å¯ç”¨ï¼Œ2 åœ
+ç”¨ 
+åˆ é™¤æ ‡è®°ï¼Œ0 æœªåˆ é™¤ï¼Œ1 åˆ é™¤ 
+ä»¥åŽå¦‚æžœä¸æ˜¯å›¾ç‰‡ï¼Œè‡ªå·±åšäº†
+è®¾è®¡å™¨ï¼Œé‡Œé¢å°±æ˜¯å­˜æ”¾ HTML
+ä»£ç  
+åˆ›å»ºè€…æ‰€å±žå•ä½ IDï¼ˆSAAS
+æ–¹å¼å¿…é¡»ï¼‰ 
 
-I.95 ÒµÎñ¹ÜÀíÅäÖÃ±í 
+I.95 ä¸šåŠ¡ç®¡ç†é…ç½®è¡¨ 
 
 Code 
 Comment 
 
 CTP_BIZ_CONFIG 
 
-ÒµÎñ¹ÜÀíÅäÖÃ±í 
+ä¸šåŠ¡ç®¡ç†é…ç½®è¡¨ 
 
 Name 
 
@@ -9718,56 +9719,56 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-ÒµÎñ¹ÜÀíÅäÖÃÃû³Æ 
+ä¸šåŠ¡ç®¡ç†é…ç½®åç§° 
 
-Ò»¼¶²Ëµ¥ ID 
-´´½¨ÈË 
-´´½¨Ê±¼ä 
-ÐÞ¸ÄÊ±¼ä 
-±ê¼ÇÒµÎñÅäÖÃ×´Ì¬£¬ -2£ºÎ´
-¼¤»î£»-1£º²¿·Ö¼¤»î£»2£ºÒÑ
-¼¤»î 
-±ê¼ÇÒµÎñÅäÖÃÉ¾³ý×´Ì¬£¬0£¬
-null Î´É¾³ý£¬1 É¾³ý 
-±ê¼ÇÒµÎñÅäÖÃÀàÐÍ 
+ä¸€çº§èœå• ID 
+åˆ›å»ºäºº 
+åˆ›å»ºæ—¶é—´ 
+ä¿®æ”¹æ—¶é—´ 
+æ ‡è®°ä¸šåŠ¡é…ç½®çŠ¶æ€ï¼Œ -2ï¼šæœª
+æ¿€æ´»ï¼›-1ï¼šéƒ¨åˆ†æ¿€æ´»ï¼›2ï¼šå·²
+æ¿€æ´» 
+æ ‡è®°ä¸šåŠ¡é…ç½®åˆ é™¤çŠ¶æ€ï¼Œ0ï¼Œ
+null æœªåˆ é™¤ï¼Œ1 åˆ é™¤ 
+æ ‡è®°ä¸šåŠ¡é…ç½®ç±»åž‹ 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-ÒµÎñ¹ÜÀíÅäÖÃÃû
-³Æ 
-Ò»¼¶²Ëµ¥ ID 
-´´½¨Ê±ÈË 
-´´½¨Ê±¼ä 
-ÐÞ¸ÄÊ±¼ä 
-±ê¼ÇÒµÎñÅäÖÃ×´
-Ì¬ 
+ä¸šåŠ¡ç®¡ç†é…ç½®å
+ç§° 
+ä¸€çº§èœå• ID 
+åˆ›å»ºæ—¶äºº 
+åˆ›å»ºæ—¶é—´ 
+ä¿®æ”¹æ—¶é—´ 
+æ ‡è®°ä¸šåŠ¡é…ç½®çŠ¶
+æ€ 
 
-±ê¼ÇÒµÎñÅäÖÃÉ¾
-³ý×´Ì¬ 
-±ê¼ÇÒµÎñÅäÖÃÀà
-ÐÍ 
+æ ‡è®°ä¸šåŠ¡é…ç½®åˆ 
+é™¤çŠ¶æ€ 
+æ ‡è®°ä¸šåŠ¡é…ç½®ç±»
+åž‹ 
 
-¼þ ID 
+ä»¶ ID 
 
-ÒµÎñ²Ëµ¥ËùÊôµ¥
-Î» 
-±ê¼ÇÒµÎñÅäÖÃ´´
-½¨ÀàÐÍ 
-Á÷³ÌÁÐ±í²Ëµ¥ÊÇ
-·ñºÏ²¢ 
-Á÷³ÌÁÐ±í²Ëµ¥ºÏ
-²¢Ãû³Æ 
+ä¸šåŠ¡èœå•æ‰€å±žå•
+ä½ 
+æ ‡è®°ä¸šåŠ¡é…ç½®åˆ›
+å»ºç±»åž‹ 
+æµç¨‹åˆ—è¡¨èœå•æ˜¯
+å¦åˆå¹¶ 
+æµç¨‹åˆ—è¡¨èœå•åˆ
+å¹¶åç§° 
 
-ÒµÎñÅäÖÃÃèÊö 
+ä¸šåŠ¡é…ç½®æè¿° 
 
-ÒµÎñÅäÖÃÐÞ¸ÄÈË MOD IFY_USER 
+ä¸šåŠ¡é…ç½®ä¿®æ”¹äºº MOD IFY_USER 
 BIZ_DESCR IPT I
 ON 
 BIZ_IMAGE_ID 
 
-²Ëµ¥Í¼±ê¶ÔÓ¦ÎÄ
+èœå•å›¾æ ‡å¯¹åº”æ–‡
 
 Lo ng inte g e r 
 Va ria b le 
@@ -9777,18 +9778,18 @@ Lo ng inte g e r
 FALSE 
 FALSE 
 
-ÒµÎñÅäÖÃÐÞ¸ÄÈË 
-ÒµÎñÅäÖÃÃèÊö 
+ä¸šåŠ¡é…ç½®ä¿®æ”¹äºº 
+ä¸šåŠ¡é…ç½®æè¿° 
 
 FALSE 
 
-²Ëµ¥Í¼±ê¶ÔÓ¦ÎÄ¼þ ID 
+èœå•å›¾æ ‡å¯¹åº”æ–‡ä»¶ ID 
 
 Lo ng inte g e r 
 
 FALSE 
 
-ÒµÎñ²Ëµ¥ËùÊôµ¥Î» 
+ä¸šåŠ¡èœå•æ‰€å±žå•ä½ 
 
 ORG_ACCOUN
 T _ID 
@@ -9814,11 +9815,11 @@ cha ra c te rs (255)
 
 FALSE 
 
-±ê¼ÇÒµÎñÅäÖÃ´´½¨ÀàÐÍ£¬0£º
-×Ô½¨£¬1£ºµ¼Èë 
-Á÷³ÌÁÐ±í²Ëµ¥ÊÇ·ñºÏ²¢£¬0£¬
-²»ºÏ²¢£¬1£ººÏ²¢ 
-Á÷³ÌÁÐ±í²Ëµ¥ºÏ²¢Ãû³Æ 
+æ ‡è®°ä¸šåŠ¡é…ç½®åˆ›å»ºç±»åž‹ï¼Œ0ï¼š
+è‡ªå»ºï¼Œ1ï¼šå¯¼å…¥ 
+æµç¨‹åˆ—è¡¨èœå•æ˜¯å¦åˆå¹¶ï¼Œ0ï¼Œ
+ä¸åˆå¹¶ï¼Œ1ï¼šåˆå¹¶ 
+æµç¨‹åˆ—è¡¨èœå•åˆå¹¶åç§° 
 
 Powe rDe s ig ne r 
 
@@ -9830,12 +9831,12 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-ÒµÎñÅäÖÃ°æ±¾ 
-ÒµÎñÅäÖÃÏà¹ØÐÅ
-Ï¢ 
-ÒÆ¶¯ÒµÎñÅäÖÃ 
+ä¸šåŠ¡é…ç½®ç‰ˆæœ¬ 
+ä¸šåŠ¡é…ç½®ç›¸å…³ä¿¡
+æ¯ 
+ç§»åŠ¨ä¸šåŠ¡é…ç½® 
 
-ÒÆ¶¯¿´°å ID 
+ç§»åŠ¨çœ‹æ¿ ID 
 
 BIZ_VERSION 
 BIZ_SOURCE_I
@@ -9852,29 +9853,29 @@ T e xt
 FALSE 
 FALSE 
 
-ÒµÎñÅäÖÃ°æ±¾ 
-ÒµÎñÅäÖÃÏà¹ØÐÅÏ¢ 
+ä¸šåŠ¡é…ç½®ç‰ˆæœ¬ 
+ä¸šåŠ¡é…ç½®ç›¸å…³ä¿¡æ¯ 
 
 T e xt 
 
 FALSE 
 
-ÒÆ¶¯ÒµÎñÅäÖÃ 
+ç§»åŠ¨ä¸šåŠ¡é…ç½® 
 
 Lo ng inte g e r 
 
 FALSE 
 
-ÒÆ¶¯¿´°å id 
+ç§»åŠ¨çœ‹æ¿ id 
 
-I.96 ¶ªÊ§±¨ËðÐÅÏ¢ÁÐ±í 
+I.96 ä¸¢å¤±æŠ¥æŸä¿¡æ¯åˆ—è¡¨ 
 
 Code 
 Comment 
 
 OFFICE_LOSS_INFO 
 
-¶ªÊ§±¨ËðÐÅÏ¢ÁÐ±í 
+ä¸¢å¤±æŠ¥æŸä¿¡æ¯åˆ—è¡¨ 
 
 Name 
 
@@ -9882,7 +9883,7 @@ Code
 
 Data Type 
 
-¶ªÊ§Îï ID 
+ä¸¢å¤±ç‰© ID 
 
 LOSS_ID 
 RESOURCE_ID 
@@ -9919,27 +9920,27 @@ LOSS_MGE
 Lo ng inte g e r 
 LOSS_MEMO 
 T e xt 
-ÊÇ·ñÉ¾³ýµÄ±êÊ¶ DEL_FLAG 
+æ˜¯å¦åˆ é™¤çš„æ ‡è¯† DEL_FLAG 
 Sho rt inte g e r 
-µ¥Î» ID 
+å•ä½ ID 
 DOMAIN_ID 
 Lo ng inte g e r 
 
-¶ªÊ§ÊýÁ¿ 
-´´½¨Ê±¼ä 
-ÐÞ¸ÄÈÕÆÚ 
-´´½¨ÈË 
-¹ÜÀíÔ± ID 
-±¸×¢ 
+ä¸¢å¤±æ•°é‡ 
+åˆ›å»ºæ—¶é—´ 
+ä¿®æ”¹æ—¥æœŸ 
+åˆ›å»ºäºº 
+ç®¡ç†å‘˜ ID 
+å¤‡æ³¨ 
 
-I.97 ¸öÈËÊÂÏî 
+I.97 ä¸ªäººäº‹é¡¹ 
 
 Code 
 Comment 
 
 CTP_AFFAIR 
 
-¸öÈËÊÂÏî 
+ä¸ªäººäº‹é¡¹ 
 
 Name 
 
@@ -9949,15 +9950,15 @@ Data Type
 
 ID 
 
-ÊÇ·ñ³¬ÆÚ 
+æ˜¯å¦è¶…æœŸ 
 
-ÈËÔ± ID 
+äººå‘˜ ID 
 
-·¢ËÍÈË ID 
-±êÌâ 
+å‘é€äºº ID 
+æ ‡é¢˜ 
 
-Ó¦ÓÃ 
-Ö÷Ó¦ÓÃ ID 
+åº”ç”¨ 
+ä¸»åº”ç”¨ ID 
 
 ID 
 IS_COVER_T IM
@@ -9976,7 +9977,7 @@ FALSE
 
 Comment 
 
-¶ªÊ§Îï ID 
+ä¸¢å¤±ç‰© ID 
 
 RESOURCE_ID 
 
@@ -10001,15 +10002,15 @@ FALSE
 FALSE 
 T RUE 
 
-¶ªÊ§ÊýÁ¿ 
-´´½¨Ê±¼ä 
-ÐÞ¸ÄÈÕÆÚ 
-´´½¨ÈË 
-¹ÜÀíÔ± ID 
-±¸×¢ 
-ÊÇ·ñÉ¾³ýµÄ±êÊ¶ 
+ä¸¢å¤±æ•°é‡ 
+åˆ›å»ºæ—¶é—´ 
+ä¿®æ”¹æ—¥æœŸ 
+åˆ›å»ºäºº 
+ç®¡ç†å‘˜ ID 
+å¤‡æ³¨ 
+æ˜¯å¦åˆ é™¤çš„æ ‡è¯† 
 
-µ¥Î» ID 
+å•ä½ ID 
 
 Mandator
 y 
@@ -10018,9 +10019,9 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-ÊÇ·ñ³¬ÆÚ£¨0 ·ñ£¬1 ÊÇ£© 
+æ˜¯å¦è¶…æœŸï¼ˆ0 å¦ï¼Œ1 æ˜¯ï¼‰ 
 
 Lo ng inte g e r 
 Sho rt inte g e r 
@@ -10039,13 +10040,13 @@ FALSE
 FALSE 
 FALSE 
 
-ÈËÔ± ID 
+äººå‘˜ ID 
 
-·¢ËÍÈË ID 
-±êÌâ 
+å‘é€äºº ID 
+æ ‡é¢˜ 
 
-Ó¦ÓÃ 
-Ö÷Ó¦ÓÃ ID 
+åº”ç”¨ 
+ä¸»åº”ç”¨ ID 
 
 Powe rDe s ig ne r 
 
@@ -10057,12 +10058,12 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-¶ÔÓ¦
+å¯¹åº”
 
 WORKIT EM_I
 D 
 
-×´Ì¬ 
+çŠ¶æ€ 
 
 SUB_OBJECT _I
 D 
@@ -10071,7 +10072,7 @@ Lo ng inte g e r
 
 FALSE 
 
-¶ÔÓ¦ wo rk item_id 
+å¯¹åº” wo rk item_id 
 
 ST AT E 
 
@@ -10079,7 +10080,7 @@ Sho rt inte g e r
 
 FALSE 
 
-×Ó×´Ì¬ 
+å­çŠ¶æ€ 
 
 SUB_ST AT E 
 
@@ -10087,61 +10088,61 @@ Sho rt inte g e r
 
 FALSE 
 
-×´Ì¬£¨1 ´ý·¢£¬2 ÒÑ·¢£¬3 ´ý
-°ì£¬4 ÒÑ°ì£¬5 È¡Ïû£¬6 »Ø
-ÍË£¬7 È¡»Ø£¬8 ¾ºÕùÖ´ÐÐ£¬15
-ÖÕÖ¹£© 
-×Ó×´Ì¬£¨0 ×Ó×´Ì¬Õý³££¬1 ´ý
-·¢²Ý¸å£¬2 ´ý·¢±»»ØÍË£¬3 ´ý
-·¢±»³·Ïú£¬4 ¹«ÎÄ»ØÍËÄâ¸å
-ÈË£¬5 Ð­Í¬³·Ïú£¬11 ´ý°ìÎ´
-¶Á£¬12 ´ý°ìÒÑ¶Á£¬13 ´ý°ìÔÝ
-´æ´ý°ì£¬14 ´ý°ìÖª»á£¬15 ´ý
-°ì±»»ØÍËÔÝ´æ´ý°ì£¬15 ´ý
-°ì£¬Ö÷¶¯Ö¸¶¨»ØÍËµÄ×´Ì¬£¬ÎÒ
-Ö¸¶¨»ØÍË¸ø±ðÈË£¬ÕâÊÇÎÒµÄ×´
-Ì¬£¬16 ´ý°ì--±»Ö¸¶¨»ØÍËµ½µÄ
-ÊÂÏî£¬±ðÈË»ØÍË¸øÎÒ£¬ÕâÊÇÎÒ
-µÄ×´Ì¬£¬17 ´ý°ì--±»Ö¸¶¨»ØÍË
-µ½µÄÊÂÏî£¬ÓÖÖ¸¶¨»ØÍË¸ø±ð
-ÈË£¬ÖÐ¼äÊÂÏîµÄ×´Ì¬£¬18 ´ý
-·¢--Ö¸¶¨»ØÍËµ½·¢ÆðÈË²¢ÇÒÑ¡
-ÔñÁ÷³ÌÖØ×ß£¬ÕâÊÇ·¢ÆðÈËµÄ£¬
-19 ¹«ÎÄ--ÔÚ°ìÊ±£¬Ö¸¶¨ÍË»Ø
-£¨Ö±½ÓÌá½»¸øÎÒ£©ÆÕÍ¨½Úµã£¬
-21 ×´Ì¬ÒÑ°ì-Á÷³ÌÖÕÖ¹£¬31 »á
-Òé-´ý°ì-²Î¼Ó£¬32 »áÒé-´ý°ì -
-²»²Î¼Ó£¬33 »áÒé-´ý°ì-´ý¶¨£¬
-34 ÖÜÆÚÐÔ»áÒé 
-´ß°ì´ÎÊý 
+çŠ¶æ€ï¼ˆ1 å¾…å‘ï¼Œ2 å·²å‘ï¼Œ3 å¾…
+åŠžï¼Œ4 å·²åŠžï¼Œ5 å–æ¶ˆï¼Œ6 å›ž
+é€€ï¼Œ7 å–å›žï¼Œ8 ç«žäº‰æ‰§è¡Œï¼Œ15
+ç»ˆæ­¢ï¼‰ 
+å­çŠ¶æ€ï¼ˆ0 å­çŠ¶æ€æ­£å¸¸ï¼Œ1 å¾…
+å‘è‰ç¨¿ï¼Œ2 å¾…å‘è¢«å›žé€€ï¼Œ3 å¾…
+å‘è¢«æ’¤é”€ï¼Œ4 å…¬æ–‡å›žé€€æ‹Ÿç¨¿
+äººï¼Œ5 ååŒæ’¤é”€ï¼Œ11 å¾…åŠžæœª
+è¯»ï¼Œ12 å¾…åŠžå·²è¯»ï¼Œ13 å¾…åŠžæš‚
+å­˜å¾…åŠžï¼Œ14 å¾…åŠžçŸ¥ä¼šï¼Œ15 å¾…
+åŠžè¢«å›žé€€æš‚å­˜å¾…åŠžï¼Œ15 å¾…
+åŠžï¼Œä¸»åŠ¨æŒ‡å®šå›žé€€çš„çŠ¶æ€ï¼Œæˆ‘
+æŒ‡å®šå›žé€€ç»™åˆ«äººï¼Œè¿™æ˜¯æˆ‘çš„çŠ¶
+æ€ï¼Œ16 å¾…åŠž--è¢«æŒ‡å®šå›žé€€åˆ°çš„
+äº‹é¡¹ï¼Œåˆ«äººå›žé€€ç»™æˆ‘ï¼Œè¿™æ˜¯æˆ‘
+çš„çŠ¶æ€ï¼Œ17 å¾…åŠž--è¢«æŒ‡å®šå›žé€€
+åˆ°çš„äº‹é¡¹ï¼ŒåˆæŒ‡å®šå›žé€€ç»™åˆ«
+äººï¼Œä¸­é—´äº‹é¡¹çš„çŠ¶æ€ï¼Œ18 å¾…
+å‘--æŒ‡å®šå›žé€€åˆ°å‘èµ·äººå¹¶ä¸”é€‰
+æ‹©æµç¨‹é‡èµ°ï¼Œè¿™æ˜¯å‘èµ·äººçš„ï¼Œ
+19 å…¬æ–‡--åœ¨åŠžæ—¶ï¼ŒæŒ‡å®šé€€å›ž
+ï¼ˆç›´æŽ¥æäº¤ç»™æˆ‘ï¼‰æ™®é€šèŠ‚ç‚¹ï¼Œ
+21 çŠ¶æ€å·²åŠž-æµç¨‹ç»ˆæ­¢ï¼Œ31 ä¼š
+è®®-å¾…åŠž-å‚åŠ ï¼Œ32 ä¼šè®®-å¾…åŠž -
+ä¸å‚åŠ ï¼Œ33 ä¼šè®®-å¾…åŠž-å¾…å®šï¼Œ
+34 å‘¨æœŸæ€§ä¼šè®® 
+å‚¬åŠžæ¬¡æ•° 
 
-ÌáÐÑÊ±¼ä 
-½ÚµãÆÚÏÞ 
+æé†’æ—¶é—´ 
+èŠ‚ç‚¹æœŸé™ 
 
-´ß°ì´ÎÊý 
+å‚¬åŠžæ¬¡æ•° 
 
-ÌáÐÑÊ±¼ä 
-½ÚµãÆÚÏÞ 
+æé†’æ—¶é—´ 
+èŠ‚ç‚¹æœŸé™ 
 
-ÊÇ·ñµ½ÆÚÌáÐÑ 
+æ˜¯å¦åˆ°æœŸæé†’ 
 
-´´½¨Ê±¼ä 
-½ÓÊÜÊ±¼ä 
-Íê³ÉÊ±¼ä 
+åˆ›å»ºæ—¶é—´ 
+æŽ¥å—æ—¶é—´ 
+å®Œæˆæ—¶é—´ 
 
-ÌáÐÑÖÜÆÚ 
+æé†’å‘¨æœŸ 
 
-ÊÇ·ñ±»É¾³ý 
-ÊÇ·ñ¸ú×Ù 
+æ˜¯å¦è¢«åˆ é™¤ 
+æ˜¯å¦è·Ÿè¸ª 
 
-¹éµµ ID 
+å½’æ¡£ ID 
 
-ÊôÐÔ 
+å±žæ€§ 
 
-À©Õ¹ÊôÐÔ 
+æ‰©å±•å±žæ€§ 
 
-¸üÐÂÊ±¼ä 
-ÊÇ·ñ½áÊø 
+æ›´æ–°æ—¶é—´ 
+æ˜¯å¦ç»“æŸ 
 
 Sho rt inte g e r 
 
@@ -10191,41 +10192,41 @@ FALSE
 
 FALSE 
 
-ÊÇ·ñµ½ÆÚÌáÐÑ 
+æ˜¯å¦åˆ°æœŸæé†’ 
 
 FALSE 
 FALSE 
 FALSE 
 
-´´½¨Ê±¼ä 
-½ÓÊÜÊ±¼ä 
-Íê³ÉÊ±¼ä 
+åˆ›å»ºæ—¶é—´ 
+æŽ¥å—æ—¶é—´ 
+å®Œæˆæ—¶é—´ 
 
 FALSE 
 
-ÌáÐÑÖÜÆÚ 
+æé†’å‘¨æœŸ 
 
 FALSE 
 FALSE 
 FALSE 
 FALSE 
 
-ÊÇ·ñ±»É¾³ý£¨0 ·ñ£¬1 ÊÇ£© 
-ÊÇ·ñ¸ú×Ù£¨0 ·ñ£¬1 ÊÇ£© 
+æ˜¯å¦è¢«åˆ é™¤ï¼ˆ0 å¦ï¼Œ1 æ˜¯ï¼‰ 
+æ˜¯å¦è·Ÿè¸ªï¼ˆ0 å¦ï¼Œ1 æ˜¯ï¼‰ 
 
-¹éµµ ID 
+å½’æ¡£ ID 
 
-ÊôÐÔ 
-
-FALSE 
-
-À©Õ¹ÊôÐÔ 
+å±žæ€§ 
 
 FALSE 
+
+æ‰©å±•å±žæ€§ 
+
+FALSE 
 FALSE 
 
-¸üÐÂÊ±¼ä 
-ÊÇ·ñ½áÊø£¨0 ·ñ£¬1 ÊÇ£© 
+æ›´æ–°æ—¶é—´ 
+æ˜¯å¦ç»“æŸï¼ˆ0 å¦ï¼Œ1 æ˜¯ï¼‰ 
 
 Powe rDe s ig ne r 
 
@@ -10237,51 +10238,51 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-ÕýÎÄÀàÐÍ 
+æ­£æ–‡ç±»åž‹ 
 
 BODY_T YPE 
 
-ÖØÒª³Ì¶È 
+é‡è¦ç¨‹åº¦ 
 
-ÖØ¸´´ÎÊý 
-×ª·¢ÈË 
+é‡å¤æ¬¡æ•° 
+è½¬å‘äºº 
 
-±êÊ¶·û 
+æ ‡è¯†ç¬¦ 
 
-´úÀíÈË 
+ä»£ç†äºº 
 
-½ÚµãÈ¨ÏÞ 
+èŠ‚ç‚¹æƒé™ 
 
-¹¤×÷Á÷½Úµã ID 
-±íµ¥Ó¦ÓÃ ID 
-±íµ¥ÊÓÍ¼ ID 
-±íµ¥²Ù×÷ ID 
+å·¥ä½œæµèŠ‚ç‚¹ ID 
+è¡¨å•åº”ç”¨ ID 
+è¡¨å•è§†å›¾ ID 
+è¡¨å•æ“ä½œ ID 
 
-Ä£°å ID 
+æ¨¡æ¿ ID 
 
-/ /¼ÓÇ©¡¢Öª»á¡¢
-»áÇ©µÈ²Ù×÷£¬À´
-Ô´ÈËµÄ ID 
-°´¹¤×÷Ê±¼ä¼ÆËã
-³¬ÆÚÊ±¼ä 
-°´¹¤×÷Ê±¼ä¼ÆËã
-ÔËÐÐÊ±¼ä 
-°´×ÔÈ»Ê±¼ä¼ÆËã
-³¬ÆÚÊ±¼ä 
-°´×ÔÈ»Ê±¼ä¼ÆËã
-ÔËÐÐÊ±¼ä 
-´¦ÀíÆÚÏÞµ½´¦Àí
-ÀàÐÍ£¨0-½öÏûÏ¢
-ÌáÐÑ;1-×ª¸øÖ¸
-¶¨ÈË;2-×Ô¶¯Ìø
-¹ý£© 
-´¦ÀíÆÚÏÞµ½´¦Àí
-ÀàÐÍ 1 µÄ¸¨Öú
+/ /åŠ ç­¾ã€çŸ¥ä¼šã€
+ä¼šç­¾ç­‰æ“ä½œï¼Œæ¥
+æºäººçš„ ID 
+æŒ‰å·¥ä½œæ—¶é—´è®¡ç®—
+è¶…æœŸæ—¶é—´ 
+æŒ‰å·¥ä½œæ—¶é—´è®¡ç®—
+è¿è¡Œæ—¶é—´ 
+æŒ‰è‡ªç„¶æ—¶é—´è®¡ç®—
+è¶…æœŸæ—¶é—´ 
+æŒ‰è‡ªç„¶æ—¶é—´è®¡ç®—
+è¿è¡Œæ—¶é—´ 
+å¤„ç†æœŸé™åˆ°å¤„ç†
+ç±»åž‹ï¼ˆ0-ä»…æ¶ˆæ¯
+æé†’;1-è½¬ç»™æŒ‡
+å®šäºº;2-è‡ªåŠ¨è·³
+è¿‡ï¼‰ 
+å¤„ç†æœŸé™åˆ°å¤„ç†
+ç±»åž‹ 1 çš„è¾…åŠ©
 
-Öµ 1£ºUSER ID 
+å€¼ 1ï¼šUSER ID 
 
-×ÓÓ¦ÓÃ ID 
-Ö´ÐÐÊ±¼ä 
+å­åº”ç”¨ ID 
+æ‰§è¡Œæ—¶é—´ 
 
 ORG_ACCOU
 NT _ID 
@@ -10290,11 +10291,11 @@ PROCESS_ID
 IS_PROCESS_
 OVER_T IME 
 
-¼ÇÂ¼ÊÓÍ¼È¨ÏÞ
+è®°å½•è§†å›¾æƒé™
 
-ID ´® 
+ID ä¸² 
 
-»ØÍËÈËµÄ ID 
+å›žé€€äººçš„ ID 
 
 Va ria b le 
 cha ra c te rs (255) 
@@ -10319,29 +10320,29 @@ Lo ng inte g e r
 
 FALSE 
 
-ÕýÎÄÀàÐÍ 
+æ­£æ–‡ç±»åž‹ 
 
 FALSE 
 
 FALSE 
 FALSE 
 
-ÖØÒª³Ì¶È£¨1 ÆÕÍ¨£¬2 ÖØÒª£¬
-3 ·Ç³£ÖØÒª£© 
-ÖØ¸´´ÎÊý 
-×ª·¢ÈË 
+é‡è¦ç¨‹åº¦ï¼ˆ1 æ™®é€šï¼Œ2 é‡è¦ï¼Œ
+3 éžå¸¸é‡è¦ï¼‰ 
+é‡å¤æ¬¡æ•° 
+è½¬å‘äºº 
 
 FALSE 
 
-±êÊ¶·û 
+æ ‡è¯†ç¬¦ 
 
 FALSE 
 
-´úÀíÈË 
+ä»£ç†äºº 
 
 FALSE 
 
-½ÚµãÈ¨ÏÞ 
+èŠ‚ç‚¹æƒé™ 
 
 FALSE 
 FALSE 
@@ -10351,27 +10352,27 @@ FALSE
 FALSE 
 FALSE 
 
-¹¤×÷Á÷½Úµã Id 
-±íµ¥Ó¦ÓÃ id 
-±íµ¥ÊÓÍ¼ ID 
-±íµ¥²Ù×÷ ID 
+å·¥ä½œæµèŠ‚ç‚¹ Id 
+è¡¨å•åº”ç”¨ id 
+è¡¨å•è§†å›¾ ID 
+è¡¨å•æ“ä½œ ID 
 
-Ä£°å ID 
+æ¨¡æ¿ ID 
 
-/ /¼ÓÇ©¡¢Öª»á¡¢»áÇ©µÈ²Ù×÷£¬
-À´Ô´ÈËµÄ Id 
+/ /åŠ ç­¾ã€çŸ¥ä¼šã€ä¼šç­¾ç­‰æ“ä½œï¼Œ
+æ¥æºäººçš„ Id 
 
 Lo ng inte g e r 
 
 FALSE 
 
-°´¹¤×÷Ê±¼ä¼ÆËã³¬ÆÚÊ±¼ä 
+æŒ‰å·¥ä½œæ—¶é—´è®¡ç®—è¶…æœŸæ—¶é—´ 
 
 Lo ng inte g e r 
 
 FALSE 
 
-°´¹¤×÷Ê±¼ä¼ÆËãÔËÐÐÊ±¼ä 
+æŒ‰å·¥ä½œæ—¶é—´è®¡ç®—è¿è¡Œæ—¶é—´ 
 
 IMPORT ANT _L
 EVEL 
@@ -10405,7 +10406,7 @@ Lo ng inte g e r
 
 FALSE 
 
-°´×ÔÈ»Ê±¼ä¼ÆËã³¬ÆÚÊ±¼ä 
+æŒ‰è‡ªç„¶æ—¶é—´è®¡ç®—è¶…æœŸæ—¶é—´ 
 
 RUN_T IME 
 
@@ -10413,7 +10414,7 @@ Lo ng inte g e r
 
 FALSE 
 
-°´×ÔÈ»Ê±¼ä¼ÆËãÔËÐÐÊ±¼ä 
+æŒ‰è‡ªç„¶æ—¶é—´è®¡ç®—è¿è¡Œæ—¶é—´ 
 
 DEAL_T ERM_T
 YPE 
@@ -10422,9 +10423,9 @@ Sho rt inte g e r
 
 FALSE 
 
-´¦ÀíÆÚÏÞµ½´¦ÀíÀàÐÍ£¨0-½öÏû
-Ï¢ÌáÐÑ;1-×ª¸øÖ¸¶¨ÈË;2 -×Ô¶¯
-Ìø¹ý£© 
+å¤„ç†æœŸé™åˆ°å¤„ç†ç±»åž‹ï¼ˆ0-ä»…æ¶ˆ
+æ¯æé†’;1-è½¬ç»™æŒ‡å®šäºº;2 -è‡ªåŠ¨
+è·³è¿‡ï¼‰ 
 
 DEAL_T ERM_U
 SER ID 
@@ -10448,9 +10449,9 @@ Lo ng inte g e r
 
 FALSE 
 
-´¦ÀíÆÚÏÞµ½´¦ÀíÀàÐÍ 1 µÄ¸¨Öú
+å¤„ç†æœŸé™åˆ°å¤„ç†ç±»åž‹ 1 çš„è¾…åŠ©
 
-Öµ 1£ºuse rid 
+å€¼ 1ï¼šuse rid 
 
 Sho rt inte g e r 
 Da te & T ime 
@@ -10458,8 +10459,8 @@ Da te & T ime
 FALSE 
 FALSE 
 
-×ÓÓ¦ÓÃ ID 
-Ö´ÐÐÊ±¼ä 
+å­åº”ç”¨ ID 
+æ‰§è¡Œæ—¶é—´ 
 
 Lo ng inte g e r 
 
@@ -10480,17 +10481,17 @@ PROCESS_ID
 
 FALSE 
 
-Á÷³Ì³¬ÆÚ£¨null ·ñ£¬1 ÊÇ£© 
+æµç¨‹è¶…æœŸï¼ˆnull å¦ï¼Œ1 æ˜¯ï¼‰ 
 
 FALSE 
 
-¼ÇÂ¼ÊÓÍ¼È¨ÏÞ ID ´® 
+è®°å½•è§†å›¾æƒé™ ID ä¸² 
 
 Lo ng inte g e r 
 
 FALSE 
 
-»ØÍËÈËµÄ id 
+å›žé€€äººçš„ id 
 
 Powe rDe s ig ne r 
 
@@ -10509,20 +10510,20 @@ FORM_RELAT I
 VE_QUERY_ID
 S 
 
-ÊÇ·ñÊÕ²Ø 
+æ˜¯å¦æ”¶è— 
 
-¼ÓÇ©¡¢Öª»á¡¢»á
-Ç©µÈ²Ù×÷ÀàÐÍ 
-±íµ¥Êý¾Ý¼ÇÂ¼
+åŠ ç­¾ã€çŸ¥ä¼šã€ä¼š
+ç­¾ç­‰æ“ä½œç±»åž‹ 
+è¡¨å•æ•°æ®è®°å½•
 
 ID 
-Á÷³Ì CASE_ID 
+æµç¨‹ CASE_ID 
 
-Êý¾Ý¹ØÁª ID 
+æ•°æ®å…³è” ID 
 
-Ê×´Î²é¿´Ê±³¤
-(²é¿´Ê±¼ä-½ÓÊÕ
-Ê±¼ä) 
+é¦–æ¬¡æŸ¥çœ‹æ—¶é•¿
+(æŸ¥çœ‹æ—¶é—´-æŽ¥æ”¶
+æ—¶é—´) 
 
 FORM_RELAT I
 VE_ST AT IC_ID
@@ -10542,20 +10543,20 @@ A_ID
 FIRST VIEW _PE
 R IOD 
 
-Ê×´Î²é¿´Ê±¼äµã FIRST VIEW _DA
+é¦–æ¬¡æŸ¥çœ‹æ—¶é—´ç‚¹ FIRST VIEW _DA
 T E 
 FIRST RESPON
 SE_PER IOD 
 
-Ê×´ÎÏìÓ¦ºÄÊ± 
+é¦–æ¬¡å“åº”è€—æ—¶ 
 
-Ê×´Î²é¿´ºÄÊ±
-£¨²é¿´¹Ø±ÕÊ±¼ä
--²é¿´Ê±¼ä£© 
-ÉÏÒ»´¦ÀíÈË 
+é¦–æ¬¡æŸ¥çœ‹è€—æ—¶
+ï¼ˆæŸ¥çœ‹å…³é—­æ—¶é—´
+-æŸ¥çœ‹æ—¶é—´ï¼‰ 
+ä¸Šä¸€å¤„ç†äºº 
 
-ÊÇ·ñÊÇ×Ô¶¯·¢Æð
-µÄÁ÷³Ì 
+æ˜¯å¦æ˜¯è‡ªåŠ¨å‘èµ·
+çš„æµç¨‹ 
 
 SIGNLEVIEW _P
 ER IOD 
@@ -10578,19 +10579,19 @@ Sho rt inte g e r
 
 FALSE 
 
-ÊÇ·ñÊÕ²Ø£¨0£º·ñ£¬1£ºÊÇ£© 
+æ˜¯å¦æ”¶è—ï¼ˆ0ï¼šå¦ï¼Œ1ï¼šæ˜¯ï¼‰ 
 
 Sho rt inte g e r 
 
 FALSE 
 
-¼ÓÇ©¡¢Öª»á¡¢»áÇ©µÈ²Ù×÷ÀàÐÍ 
+åŠ ç­¾ã€çŸ¥ä¼šã€ä¼šç­¾ç­‰æ“ä½œç±»åž‹ 
 
 Lo ng inte g e r 
 
 FALSE 
 
-±íµ¥Êý¾Ý¼ÇÂ¼ ID 
+è¡¨å•æ•°æ®è®°å½• ID 
 
 Lo ng inte g e r 
 Lo ng inte g e r 
@@ -10598,22 +10599,22 @@ Lo ng inte g e r
 FALSE 
 FALSE 
 
-Á÷³Ì CASE_ID 
+æµç¨‹ CASE_ID 
 
-Êý¾Ý¹ØÁª id 
+æ•°æ®å…³è” id 
 
 Lo ng inte g e r 
 
 FALSE 
 
-Ê×´Î²é¿´Ê±³¤(²é¿´Ê±¼ä-½ÓÊÕ
-Ê±¼ä) 
+é¦–æ¬¡æŸ¥çœ‹æ—¶é•¿(æŸ¥çœ‹æ—¶é—´-æŽ¥æ”¶
+æ—¶é—´) 
 
 Da te & T ime 
 
 FALSE 
 
-Ê×´Î²é¿´Ê±¼äµã 
+é¦–æ¬¡æŸ¥çœ‹æ—¶é—´ç‚¹ 
 
 Lo ng inte g e r 
 
@@ -10623,32 +10624,32 @@ Lo ng inte g e r
 
 FALSE 
 
-Ê×´ÎÏìÓ¦ºÄÊ±£¨Ê×´Î²Ù×÷-½Ó
-ÊÕÊ±¼ä£© 
-Ê×´Î²é¿´ºÄÊ±£¨²é¿´¹Ø±ÕÊ±¼ä
--²é¿´Ê±¼ä£© 
+é¦–æ¬¡å“åº”è€—æ—¶ï¼ˆé¦–æ¬¡æ“ä½œ-æŽ¥
+æ”¶æ—¶é—´ï¼‰ 
+é¦–æ¬¡æŸ¥çœ‹è€—æ—¶ï¼ˆæŸ¥çœ‹å…³é—­æ—¶é—´
+-æŸ¥çœ‹æ—¶é—´ï¼‰ 
 
 Lo ng inte g e r 
 
 FALSE 
 
-ÉÏÒ»´¦ÀíÈË 
+ä¸Šä¸€å¤„ç†äºº 
 
 Sho rt inte g e r 
 
 FALSE 
 
-ÊÇ·ñÊÇ×Ô¶¯·¢ÆðµÄÁ÷³Ì(0¡¢
-·ñ£»1¡¢ÊÇ) 
+æ˜¯å¦æ˜¯è‡ªåŠ¨å‘èµ·çš„æµç¨‹(0ã€
+å¦ï¼›1ã€æ˜¯) 
 
-I.98 ¸öÈËÊÂÏî£¨×ª´¢Ê±£© 
+I.98 ä¸ªäººäº‹é¡¹ï¼ˆè½¬å‚¨æ—¶ï¼‰ 
 
 Code 
 Comment 
 
 CTP_AFFAIR_HIS 
 
-¸öÈËÊÂÏî£¨×ª´¢Ê±£© 
+ä¸ªäººäº‹é¡¹ï¼ˆè½¬å‚¨æ—¶ï¼‰ 
 
 Name 
 
@@ -10658,21 +10659,21 @@ Data Type
 
 ID 
 
-ÊÇ·ñ³¬ÆÚ 
+æ˜¯å¦è¶…æœŸ 
 
-ÈËÔ± ID 
+äººå‘˜ ID 
 
-·¢ËÍÈË ID 
-±êÌâ 
+å‘é€äºº ID 
+æ ‡é¢˜ 
 
-Ó¦ÓÃ 
-Ö÷Ó¦ÓÃ ID 
-¶ÔÓ¦
+åº”ç”¨ 
+ä¸»åº”ç”¨ ID 
+å¯¹åº”
 
 WORKIT EM_I
 D 
 
-×´Ì¬ 
+çŠ¶æ€ 
 
 ID 
 IS_COVER_T IM
@@ -10696,9 +10697,9 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-ÊÇ·ñ³¬ÆÚ£¨0 ·ñ£¬1 ÊÇ£© 
+æ˜¯å¦è¶…æœŸï¼ˆ0 å¦ï¼Œ1 æ˜¯ï¼‰ 
 
 Lo ng inte g e r 
 Lo ng inte g e r 
@@ -10716,15 +10717,15 @@ FALSE
 FALSE 
 FALSE 
 
-ÈËÔ± ID 
+äººå‘˜ ID 
 
-·¢ËÍÈË ID 
-±êÌâ 
+å‘é€äºº ID 
+æ ‡é¢˜ 
 
-Ó¦ÓÃ 
-Ö÷Ó¦ÓÃ ID 
+åº”ç”¨ 
+ä¸»åº”ç”¨ ID 
 
-¶ÔÓ¦ wo rk item_id 
+å¯¹åº” wo rk item_id 
 
 ST AT E 
 
@@ -10732,8 +10733,8 @@ Sho rt inte g e r
 
 FALSE 
 
-×´Ì¬£¨1 ´ý·¢£¬2 ÒÑ·¢£¬3 ´ý
-°ì£¬4 ÒÑ°ì£¬5 È¡Ïû£¬6 »Ø
+çŠ¶æ€ï¼ˆ1 å¾…å‘ï¼Œ2 å·²å‘ï¼Œ3 å¾…
+åŠžï¼Œ4 å·²åŠžï¼Œ5 å–æ¶ˆï¼Œ6 å›ž
 
 Powe rDe s ig ne r 
 
@@ -10745,7 +10746,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-×Ó×´Ì¬ 
+å­çŠ¶æ€ 
 
 SUB_ST AT E 
 
@@ -10753,115 +10754,115 @@ Sho rt inte g e r
 
 FALSE 
 
-ÍË£¬7 È¡»Ø£¬8 ¾ºÕùÖ´ÐÐ£¬15
-ÖÕÖ¹£© 
-×Ó×´Ì¬£¨0 ×Ó×´Ì¬Õý³££¬1 ´ý
-·¢²Ý¸å£¬2 ´ý·¢±»»ØÍË£¬3 ´ý
-·¢±»³·Ïú£¬4 ¹«ÎÄ»ØÍËÄâ¸å
-ÈË£¬5 Ð­Í¬³·Ïú£¬11 ´ý°ìÎ´
-¶Á£¬12 ´ý°ìÒÑ¶Á£¬13 ´ý°ìÔÝ
-´æ´ý°ì£¬14 ´ý°ìÖª»á£¬15 ´ý
-°ì±»»ØÍËÔÝ´æ´ý°ì£¬15 ´ý
-°ì£¬Ö÷¶¯Ö¸¶¨»ØÍËµÄ×´Ì¬£¬ÎÒ
-Ö¸¶¨»ØÍË¸ø±ðÈË£¬ÕâÊÇÎÒµÄ×´
-Ì¬£¬16 ´ý°ì--±»Ö¸¶¨»ØÍËµ½µÄ
-ÊÂÏî£¬±ðÈË»ØÍË¸øÎÒ£¬ÕâÊÇÎÒ
-µÄ×´Ì¬£¬17 ´ý°ì--±»Ö¸¶¨»ØÍË
-µ½µÄÊÂÏî£¬ÓÖÖ¸¶¨»ØÍË¸ø±ð
-ÈË£¬ÖÐ¼äÊÂÏîµÄ×´Ì¬£¬18 ´ý
-·¢--Ö¸¶¨»ØÍËµ½·¢ÆðÈË²¢ÇÒÑ¡
-ÔñÁ÷³ÌÖØ×ß£¬ÕâÊÇ·¢ÆðÈËµÄ£¬
-19 ¹«ÎÄ--ÔÚ°ìÊ±£¬Ö¸¶¨ÍË»Ø
-£¨Ö±½ÓÌá½»¸øÎÒ£©ÆÕÍ¨½Úµã£¬
-21 ×´Ì¬ÒÑ°ì-Á÷³ÌÖÕÖ¹£¬31 »á
-Òé-´ý°ì-²Î¼Ó£¬32 »áÒé-´ý°ì -
-²»²Î¼Ó£¬33 »áÒé-´ý°ì-´ý¶¨£¬
-34 ÖÜÆÚÐÔ»áÒé 
-´ß°ì´ÎÊý 
+é€€ï¼Œ7 å–å›žï¼Œ8 ç«žäº‰æ‰§è¡Œï¼Œ15
+ç»ˆæ­¢ï¼‰ 
+å­çŠ¶æ€ï¼ˆ0 å­çŠ¶æ€æ­£å¸¸ï¼Œ1 å¾…
+å‘è‰ç¨¿ï¼Œ2 å¾…å‘è¢«å›žé€€ï¼Œ3 å¾…
+å‘è¢«æ’¤é”€ï¼Œ4 å…¬æ–‡å›žé€€æ‹Ÿç¨¿
+äººï¼Œ5 ååŒæ’¤é”€ï¼Œ11 å¾…åŠžæœª
+è¯»ï¼Œ12 å¾…åŠžå·²è¯»ï¼Œ13 å¾…åŠžæš‚
+å­˜å¾…åŠžï¼Œ14 å¾…åŠžçŸ¥ä¼šï¼Œ15 å¾…
+åŠžè¢«å›žé€€æš‚å­˜å¾…åŠžï¼Œ15 å¾…
+åŠžï¼Œä¸»åŠ¨æŒ‡å®šå›žé€€çš„çŠ¶æ€ï¼Œæˆ‘
+æŒ‡å®šå›žé€€ç»™åˆ«äººï¼Œè¿™æ˜¯æˆ‘çš„çŠ¶
+æ€ï¼Œ16 å¾…åŠž--è¢«æŒ‡å®šå›žé€€åˆ°çš„
+äº‹é¡¹ï¼Œåˆ«äººå›žé€€ç»™æˆ‘ï¼Œè¿™æ˜¯æˆ‘
+çš„çŠ¶æ€ï¼Œ17 å¾…åŠž--è¢«æŒ‡å®šå›žé€€
+åˆ°çš„äº‹é¡¹ï¼ŒåˆæŒ‡å®šå›žé€€ç»™åˆ«
+äººï¼Œä¸­é—´äº‹é¡¹çš„çŠ¶æ€ï¼Œ18 å¾…
+å‘--æŒ‡å®šå›žé€€åˆ°å‘èµ·äººå¹¶ä¸”é€‰
+æ‹©æµç¨‹é‡èµ°ï¼Œè¿™æ˜¯å‘èµ·äººçš„ï¼Œ
+19 å…¬æ–‡--åœ¨åŠžæ—¶ï¼ŒæŒ‡å®šé€€å›ž
+ï¼ˆç›´æŽ¥æäº¤ç»™æˆ‘ï¼‰æ™®é€šèŠ‚ç‚¹ï¼Œ
+21 çŠ¶æ€å·²åŠž-æµç¨‹ç»ˆæ­¢ï¼Œ31 ä¼š
+è®®-å¾…åŠž-å‚åŠ ï¼Œ32 ä¼šè®®-å¾…åŠž -
+ä¸å‚åŠ ï¼Œ33 ä¼šè®®-å¾…åŠž-å¾…å®šï¼Œ
+34 å‘¨æœŸæ€§ä¼šè®® 
+å‚¬åŠžæ¬¡æ•° 
 
-ÌáÐÑÊ±¼ä 
-½ÚµãÆÚÏÞ 
-
-FALSE 
-
-FALSE 
-FALSE 
+æé†’æ—¶é—´ 
+èŠ‚ç‚¹æœŸé™ 
 
 FALSE 
 
-ÊÇ·ñµ½ÆÚÌáÐÑ 
-
-FALSE 
-FALSE 
-FALSE 
-
-´´½¨Ê±¼ä 
-½ÓÊÜÊ±¼ä 
-Íê³ÉÊ±¼ä 
-
-FALSE 
-
-ÌáÐÑÖÜÆÚ 
-
-FALSE 
-FALSE 
-FALSE 
-FALSE 
-
-ÊÇ·ñ±»É¾³ý£¨0 ·ñ£¬1 ÊÇ£© 
-
-¹éµµ ID 
-
-ÊÇ·ñ¸ú×Ù£¨0 ·ñ£¬1 ÊÇ£© 
-ÊôÐÔ 
-
-FALSE 
-
-À©Õ¹ÊôÐÔ 
-
-FALSE 
 FALSE 
 FALSE 
 
 FALSE 
 
-¸üÐÂÊ±¼ä 
-ÊÇ·ñ½áÊø£¨0 ·ñ£¬1 ÊÇ£© 
-ÕýÎÄÀàÐÍ 
+æ˜¯å¦åˆ°æœŸæé†’ 
 
-ÖØÒª³Ì¶È£¨1 ÆÕÍ¨£¬2 ÖØÒª£¬
-3 ·Ç³£ÖØÒª£© 
-ÖØ¸´´ÎÊý 
+FALSE 
+FALSE 
+FALSE 
 
-´ß°ì´ÎÊý 
+åˆ›å»ºæ—¶é—´ 
+æŽ¥å—æ—¶é—´ 
+å®Œæˆæ—¶é—´ 
 
-ÌáÐÑÊ±¼ä 
-½ÚµãÆÚÏÞ 
+FALSE 
 
-ÊÇ·ñµ½ÆÚÌáÐÑ 
+æé†’å‘¨æœŸ 
 
-´´½¨Ê±¼ä 
-½ÓÊÜÊ±¼ä 
-Íê³ÉÊ±¼ä 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
 
-ÌáÐÑÖÜÆÚ 
+æ˜¯å¦è¢«åˆ é™¤ï¼ˆ0 å¦ï¼Œ1 æ˜¯ï¼‰ 
 
-ÊÇ·ñ±»É¾³ý 
+å½’æ¡£ ID 
 
-¹éµµ ID 
+æ˜¯å¦è·Ÿè¸ªï¼ˆ0 å¦ï¼Œ1 æ˜¯ï¼‰ 
+å±žæ€§ 
 
-ÊÇ·ñ¸ú×Ù 
-ÊôÐÔ 
+FALSE 
 
-À©Õ¹ÊôÐÔ 
+æ‰©å±•å±žæ€§ 
 
-¸üÐÂÊ±¼ä 
-ÊÇ·ñ½áÊø 
-ÕýÎÄÀàÐÍ 
+FALSE 
+FALSE 
+FALSE 
 
-ÖØÒª³Ì¶È 
+FALSE 
 
-ÖØ¸´´ÎÊý 
+æ›´æ–°æ—¶é—´ 
+æ˜¯å¦ç»“æŸï¼ˆ0 å¦ï¼Œ1 æ˜¯ï¼‰ 
+æ­£æ–‡ç±»åž‹ 
+
+é‡è¦ç¨‹åº¦ï¼ˆ1 æ™®é€šï¼Œ2 é‡è¦ï¼Œ
+3 éžå¸¸é‡è¦ï¼‰ 
+é‡å¤æ¬¡æ•° 
+
+å‚¬åŠžæ¬¡æ•° 
+
+æé†’æ—¶é—´ 
+èŠ‚ç‚¹æœŸé™ 
+
+æ˜¯å¦åˆ°æœŸæé†’ 
+
+åˆ›å»ºæ—¶é—´ 
+æŽ¥å—æ—¶é—´ 
+å®Œæˆæ—¶é—´ 
+
+æé†’å‘¨æœŸ 
+
+æ˜¯å¦è¢«åˆ é™¤ 
+
+å½’æ¡£ ID 
+
+æ˜¯å¦è·Ÿè¸ª 
+å±žæ€§ 
+
+æ‰©å±•å±žæ€§ 
+
+æ›´æ–°æ—¶é—´ 
+æ˜¯å¦ç»“æŸ 
+æ­£æ–‡ç±»åž‹ 
+
+é‡è¦ç¨‹åº¦ 
+
+é‡å¤æ¬¡æ•° 
 
 Sho rt inte g e r 
 
@@ -10961,19 +10962,19 @@ Lo ng inte g e r
 
 FALSE 
 
-×ª·¢ÈË 
+è½¬å‘äºº 
 
 FALSE 
 
-±êÊ¶·û 
+æ ‡è¯†ç¬¦ 
 
 FALSE 
 
-´úÀíÈË 
+ä»£ç†äºº 
 
 FALSE 
 
-½ÚµãÈ¨ÏÞ 
+èŠ‚ç‚¹æƒé™ 
 
 FALSE 
 FALSE 
@@ -10983,15 +10984,15 @@ FALSE
 FALSE 
 FALSE 
 
-¹¤×÷Á÷½Úµã Id 
-±íµ¥Ó¦ÓÃ id 
-±íµ¥ÊÓÍ¼ ID 
-±íµ¥²Ù×÷ ID 
+å·¥ä½œæµèŠ‚ç‚¹ Id 
+è¡¨å•åº”ç”¨ id 
+è¡¨å•è§†å›¾ ID 
+è¡¨å•æ“ä½œ ID 
 
-Ä£°å ID 
+æ¨¡æ¿ ID 
 
-/ /¼ÓÇ©¡¢Öª»á¡¢»áÇ©µÈ²Ù×÷£¬
-À´Ô´ÈËµÄ Id 
+/ /åŠ ç­¾ã€çŸ¥ä¼šã€ä¼šç­¾ç­‰æ“ä½œï¼Œ
+æ¥æºäººçš„ Id 
 
 OVER_WORKT I
 ME 
@@ -11003,13 +11004,13 @@ Lo ng inte g e r
 
 FALSE 
 
-°´¹¤×÷Ê±¼ä¼ÆËã³¬ÆÚÊ±¼ä 
+æŒ‰å·¥ä½œæ—¶é—´è®¡ç®—è¶…æœŸæ—¶é—´ 
 
 Lo ng inte g e r 
 
 FALSE 
 
-°´¹¤×÷Ê±¼ä¼ÆËãÔËÐÐÊ±¼ä 
+æŒ‰å·¥ä½œæ—¶é—´è®¡ç®—è¿è¡Œæ—¶é—´ 
 
 OVER_T IME 
 
@@ -11017,7 +11018,7 @@ Lo ng inte g e r
 
 FALSE 
 
-°´×ÔÈ»Ê±¼ä¼ÆËã³¬ÆÚÊ±¼ä 
+æŒ‰è‡ªç„¶æ—¶é—´è®¡ç®—è¶…æœŸæ—¶é—´ 
 
 RUN_T IME 
 
@@ -11025,7 +11026,7 @@ Lo ng inte g e r
 
 FALSE 
 
-°´×ÔÈ»Ê±¼ä¼ÆËãÔËÐÐÊ±¼ä 
+æŒ‰è‡ªç„¶æ—¶é—´è®¡ç®—è¿è¡Œæ—¶é—´ 
 
 DEAL_T ERM_T
 YPE 
@@ -11034,9 +11035,9 @@ Sho rt inte g e r
 
 FALSE 
 
-´¦ÀíÆÚÏÞµ½´¦ÀíÀàÐÍ£¨0-½öÏû
-Ï¢ÌáÐÑ;1-×ª¸øÖ¸¶¨ÈË;2 -×Ô¶¯
-Ìø¹ý£© 
+å¤„ç†æœŸé™åˆ°å¤„ç†ç±»åž‹ï¼ˆ0-ä»…æ¶ˆ
+æ¯æé†’;1-è½¬ç»™æŒ‡å®šäºº;2 -è‡ªåŠ¨
+è·³è¿‡ï¼‰ 
 
 DEAL_T ERM_U
 SER ID 
@@ -11052,9 +11053,9 @@ Lo ng inte g e r
 
 FALSE 
 
-´¦ÀíÆÚÏÞµ½´¦ÀíÀàÐÍ 1 µÄ¸¨Öú
+å¤„ç†æœŸé™åˆ°å¤„ç†ç±»åž‹ 1 çš„è¾…åŠ©
 
-Öµ 1£ºuse rid 
+å€¼ 1ï¼šuse rid 
 
 Sho rt inte g e r 
 Da te & T ime 
@@ -11062,8 +11063,8 @@ Da te & T ime
 FALSE 
 FALSE 
 
-×ÓÓ¦ÓÃ ID 
-Ö´ÐÐÊ±¼ä 
+å­åº”ç”¨ ID 
+æ‰§è¡Œæ—¶é—´ 
 
 Lo ng inte g e r 
 
@@ -11081,46 +11082,46 @@ PROCESS_ID
 
 FALSE 
 
-Á÷³Ì³¬ÆÚ£¨null ·ñ£¬1 ÊÇ£© 
+æµç¨‹è¶…æœŸï¼ˆnull å¦ï¼Œ1 æ˜¯ï¼‰ 
 
-×ª·¢ÈË 
+è½¬å‘äºº 
 
-±êÊ¶·û 
+æ ‡è¯†ç¬¦ 
 
-´úÀíÈË 
+ä»£ç†äºº 
 
-½ÚµãÈ¨ÏÞ 
+èŠ‚ç‚¹æƒé™ 
 
-¹¤×÷Á÷½Úµã ID 
-±íµ¥Ó¦ÓÃ ID 
-±íµ¥ÊÓÍ¼ ID 
-±íµ¥²Ù×÷ ID 
+å·¥ä½œæµèŠ‚ç‚¹ ID 
+è¡¨å•åº”ç”¨ ID 
+è¡¨å•è§†å›¾ ID 
+è¡¨å•æ“ä½œ ID 
 
-Ä£°å ID 
+æ¨¡æ¿ ID 
 
-/ /¼ÓÇ©¡¢Öª»á¡¢
-»áÇ©µÈ²Ù×÷£¬À´
-Ô´ÈËµÄ ID 
-°´¹¤×÷Ê±¼ä¼ÆËã
-³¬ÆÚÊ±¼ä 
-°´¹¤×÷Ê±¼ä¼ÆËã
-ÔËÐÐÊ±¼ä 
-°´×ÔÈ»Ê±¼ä¼ÆËã
-³¬ÆÚÊ±¼ä 
-°´×ÔÈ»Ê±¼ä¼ÆËã
-ÔËÐÐÊ±¼ä 
-´¦ÀíÆÚÏÞµ½´¦Àí
-ÀàÐÍ£¨0-½öÏûÏ¢
-ÌáÐÑ;1-×ª¸øÖ¸
-¶¨ÈË;2-×Ô¶¯Ìø
-¹ý£© 
-´¦ÀíÆÚÏÞµ½´¦Àí
-ÀàÐÍ 1 µÄ¸¨Öú
+/ /åŠ ç­¾ã€çŸ¥ä¼šã€
+ä¼šç­¾ç­‰æ“ä½œï¼Œæ¥
+æºäººçš„ ID 
+æŒ‰å·¥ä½œæ—¶é—´è®¡ç®—
+è¶…æœŸæ—¶é—´ 
+æŒ‰å·¥ä½œæ—¶é—´è®¡ç®—
+è¿è¡Œæ—¶é—´ 
+æŒ‰è‡ªç„¶æ—¶é—´è®¡ç®—
+è¶…æœŸæ—¶é—´ 
+æŒ‰è‡ªç„¶æ—¶é—´è®¡ç®—
+è¿è¡Œæ—¶é—´ 
+å¤„ç†æœŸé™åˆ°å¤„ç†
+ç±»åž‹ï¼ˆ0-ä»…æ¶ˆæ¯
+æé†’;1-è½¬ç»™æŒ‡
+å®šäºº;2-è‡ªåŠ¨è·³
+è¿‡ï¼‰ 
+å¤„ç†æœŸé™åˆ°å¤„ç†
+ç±»åž‹ 1 çš„è¾…åŠ©
 
-Öµ 1£ºUSER ID 
+å€¼ 1ï¼šUSER ID 
 
-×ÓÓ¦ÓÃ ID 
-Ö´ÐÐÊ±¼ä 
+å­åº”ç”¨ ID 
+æ‰§è¡Œæ—¶é—´ 
 
 ORG_ACCOU
 NT _ID 
@@ -11132,14 +11133,14 @@ OVER_T IME
 IS_PROCESS_
 OVER_T IME 
 
-I.99 ¸öÈË´æ´¢¿Õ¼ä±í 
+I.99 ä¸ªäººå­˜å‚¨ç©ºé—´è¡¨ 
 
 Code 
 Comment 
 
 DOC_STORAGE_SPACES 
 
-¼ÇÂ¼¸öÈËµÄ´æ´¢¿Õ¼äÊ¹ÓÃÇé¿ö£¨°üÀ¨ÓÊ¼þ¡¢²©¿Í£©¡£ 
+è®°å½•ä¸ªäººçš„å­˜å‚¨ç©ºé—´ä½¿ç”¨æƒ…å†µï¼ˆåŒ…æ‹¬é‚®ä»¶ã€åšå®¢ï¼‰ã€‚ 
 
 Name 
 
@@ -11147,7 +11148,7 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
 ID 
 
@@ -11157,7 +11158,7 @@ Mandator
 y 
 T RUE 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
 Comment 
 
@@ -11177,15 +11178,15 @@ Lo ng inte g e r
 T RUE 
 T RUE 
 
-ÓÃ»§ ID 
+ç”¨æˆ· ID 
 
-ÎÄµµÊ¹ÓÃ¿Õ¼ä 
+æ–‡æ¡£ä½¿ç”¨ç©ºé—´ 
 
 Lo ng inte g e r 
 
 T RUE 
 
-ÎÄµµ·ÖÅä¿Õ¼ä 
+æ–‡æ¡£åˆ†é…ç©ºé—´ 
 
 Sho rt inte g e r 
 
@@ -11203,23 +11204,23 @@ MAIL_USED_SP
 ACE 
 MAIL_ST AT US 
 
-ÓÃ»§ ID 
+ç”¨æˆ· ID 
 
-ÎÄµµÊ¹ÓÃ¿Õ¼ä 
+æ–‡æ¡£ä½¿ç”¨ç©ºé—´ 
 
-ÎÄµµ·ÖÅä¿Õ¼ä 
+æ–‡æ¡£åˆ†é…ç©ºé—´ 
 
-ÎÄµµ¿Õ¼ä×´Ì¬ 
+æ–‡æ¡£ç©ºé—´çŠ¶æ€ 
 
-ÓÊ¼þ·ÖÅä¿Õ¼ä 
-ÓÊ¼þÊ¹ÓÃ¿Õ¼ä 
+é‚®ä»¶åˆ†é…ç©ºé—´ 
+é‚®ä»¶ä½¿ç”¨ç©ºé—´ 
 
-ÓÊ¼þ¿Õ¼ä×´Ì¬ 
+é‚®ä»¶ç©ºé—´çŠ¶æ€ 
 
-²©¿Í·ÖÅä¿Õ¼ä 
-²©¿ÍÊ¹ÓÃ¿Õ¼ä 
+åšå®¢åˆ†é…ç©ºé—´ 
+åšå®¢ä½¿ç”¨ç©ºé—´ 
 
-²©¿Í¿Õ¼ä×´Ì¬ 
+åšå®¢ç©ºé—´çŠ¶æ€ 
 
 Lo ng inte g e r 
 Lo ng inte g e r 
@@ -11245,27 +11246,27 @@ FALSE
 
 T RUE 
 
-ÎÄµµ¿Õ¼ä×´Ì¬£º100-Î´·ÖÅä£¬
-0-¿ÕÏÐ£¬1-¾¯Ê¾£¬2-ÒÑÂú 
-ÓÊ¼þ·ÖÅä¿Õ¼ä 
-ÓÊ¼þÊ¹ÓÃ¿Õ¼ä 
+æ–‡æ¡£ç©ºé—´çŠ¶æ€ï¼š100-æœªåˆ†é…ï¼Œ
+0-ç©ºé—²ï¼Œ1-è­¦ç¤ºï¼Œ2-å·²æ»¡ 
+é‚®ä»¶åˆ†é…ç©ºé—´ 
+é‚®ä»¶ä½¿ç”¨ç©ºé—´ 
 
-ÓÊ¼þ¿Õ¼ä×´Ì¬£º100-Î´·ÖÅä£¬
-0-¿ÕÏÐ£¬1-¾¯Ê¾£¬2-ÒÑÂú 
-²©¿Í·ÖÅä¿Õ¼ä 
-²©¿ÍÊ¹ÓÃ¿Õ¼ä 
+é‚®ä»¶ç©ºé—´çŠ¶æ€ï¼š100-æœªåˆ†é…ï¼Œ
+0-ç©ºé—²ï¼Œ1-è­¦ç¤ºï¼Œ2-å·²æ»¡ 
+åšå®¢åˆ†é…ç©ºé—´ 
+åšå®¢ä½¿ç”¨ç©ºé—´ 
 
-²©¿Í¿Õ¼ä×´Ì¬£º100-Î´·ÖÅä£¬
-0-¿ÕÏÐ£¬1-¾¯Ê¾£¬2-ÒÑÂú 
+åšå®¢ç©ºé—´çŠ¶æ€ï¼š100-æœªåˆ†é…ï¼Œ
+0-ç©ºé—²ï¼Œ1-è­¦ç¤ºï¼Œ2-å·²æ»¡ 
 
-I.100 ¸öÈË¿Õ¼äÅÅÐò 
+I.100 ä¸ªäººç©ºé—´æŽ’åº 
 
 Code 
 Comment 
 
 PORTAL_SPACE_SORT 
 
-¸öÈËµÄ¿Õ¼äÅÅÐò±í 
+ä¸ªäººçš„ç©ºé—´æŽ’åºè¡¨ 
 
 Name 
 
@@ -11273,16 +11274,16 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
-ÈËÔ± ID 
-¿Õ¼ä ID 
+ä¸»é”® ID 
+äººå‘˜ ID 
+ç©ºé—´ ID 
 
-ÅÅÐòºÅ 
-ÀàÐÍ 
+æŽ’åºå· 
+ç±»åž‹ 
 
-µ¥Î» ID 
+å•ä½ ID 
 
-ÊÇ·ñÒþ²Ø 
+æ˜¯å¦éšè— 
 
 ID 
 MEMBER_ID 
@@ -11315,18 +11316,18 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
-ÈËÔ± ID 
-¿Õ¼ä ID 
+ä¸»é”® ID 
+äººå‘˜ ID 
+ç©ºé—´ ID 
 
-ÅÅÐòºÅ 
-ÀàÐÍ 
+æŽ’åºå· 
+ç±»åž‹ 
 
-µ¥Î» ID 
+å•ä½ ID 
 
-0£ºÏÔÊ¾£»1£ºÒþ²Ø 
+0ï¼šæ˜¾ç¤ºï¼›1ï¼šéšè— 
 
-I.101 ¸öÐÔ»¯ÉèÖÃ 
+I.101 ä¸ªæ€§åŒ–è®¾ç½® 
 
 Code 
 Comment 
@@ -11340,11 +11341,11 @@ Code
 Data Type 
 
 ID 
-ÓÃ»§ ID 
+ç”¨æˆ· ID 
 
-ÃÅ»§±àÂë 
+é—¨æˆ·ç¼–ç  
 
-À¸Ä¿±àÂë 
+æ ç›®ç¼–ç  
 
 ID 
 NUMBER ID 
@@ -11352,11 +11353,11 @@ PORT ALCODE
 
 COLUMNCODE 
 
-ÅÅÐò ID ¼¯ 
+æŽ’åº ID é›† 
 
 CUST OM 
 
-×´Ì¬ 
+çŠ¶æ€ 
 
 ISENABLE 
 
@@ -11379,21 +11380,21 @@ T RUE
 FALSE 
 FALSE 
 
-ÓÃ»§ id 
+ç”¨æˆ· id 
 
-ÃÅ»§±àÂë 
-
-FALSE 
-
-À¸Ä¿±àÂë 
+é—¨æˆ·ç¼–ç  
 
 FALSE 
 
-ÅÅÐò id ¼¯ 
+æ ç›®ç¼–ç  
 
 FALSE 
 
-×´Ì¬ 
+æŽ’åº id é›† 
+
+FALSE 
+
+çŠ¶æ€ 
 
 Powe rDe s ig ne r 
 
@@ -11405,9 +11406,9 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-±¸ÓÃÖµ 0 
+å¤‡ç”¨å€¼ 0 
 
-±¸ÓÃÖµ 1 
+å¤‡ç”¨å€¼ 1 
 
 BACKUPVALUE
 0 
@@ -11421,20 +11422,20 @@ cha ra c te rs (255)
 
 FALSE 
 
-±¸ÓÃÖµ 0 
+å¤‡ç”¨å€¼ 0 
 
 FALSE 
 
-±¸ÓÃÖµ 1 
+å¤‡ç”¨å€¼ 1 
 
-I.102 ÊÂ¼þ¾ßÌåÐÅÏ¢ÁÐ±í 
+I.102 äº‹ä»¶å…·ä½“ä¿¡æ¯åˆ—è¡¨ 
 
 Code 
 Comment 
 
 CAL_EVENT 
 
-ÊÂ¼þ¾ßÌåÐÅÏ¢ÁÐ±í 
+äº‹ä»¶å…·ä½“ä¿¡æ¯åˆ—è¡¨ 
 
 Name 
 
@@ -11442,19 +11443,19 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-ÌâÄ¿ 
+é¢˜ç›® 
 
-¿ªÊ¼Ê±¼ä 
-½áÊøÊ±¼ä 
-ÌáÐÑµÄ±êÊ¶ 
-ÌáÐÑÊ±¼ä 
-¹¤×÷ÀàÐÍ 
+å¼€å§‹æ—¶é—´ 
+ç»“æŸæ—¶é—´ 
+æé†’çš„æ ‡è¯† 
+æé†’æ—¶é—´ 
+å·¥ä½œç±»åž‹ 
 
-ÊÂ¼þÀàÐÍ 
+äº‹ä»¶ç±»åž‹ 
 
-ÖØÒª³Ì¶È 
+é‡è¦ç¨‹åº¦ 
 
 ID 
 SUBJECT 
@@ -11492,7 +11493,7 @@ Lo ng inte g e r
 
 FALSE 
 
-ÓÅÏÈ¼¶ÀàÐÍ 
+ä¼˜å…ˆçº§ç±»åž‹ 
 
 PR IOR IT Y_T YP
 E 
@@ -11501,7 +11502,7 @@ Lo ng inte g e r
 
 FALSE 
 
-¹²ÏíÀàÐÍ 
+å…±äº«ç±»åž‹ 
 
 SHARE_T YPE 
 
@@ -11516,47 +11517,47 @@ y
 T RUE 
 T RUE 
 
-Ö÷¼ü id 
+ä¸»é”® id 
 
-ÌâÄ¿ 
+é¢˜ç›® 
 
-¿ªÊ¼Ê±¼ä 
-½áÊøÊ±¼ä 
-ÌáÐÑ±êÊ¶(1:ÓÐÌáÐÑ,0 :ÎÞÌáÐÑ) 
-ÌáÐÑÊ±¼ä 
-¹¤×÷ÀàÐÍ£¨1.×Ô°ì 2.¶½°ì 3 .Ð­
-°ì£© 
-ÊÂ¼þÀàÐÍ£¨0.³õÊÔ×´Ì¬ 1.ÒÑ°²
-ÅÅ 2.ÒÑÎ¯ÍÐ£© 
-ÖØÒª³Ì¶È£¨1.ÖØÒª½ô¼± 2 .²»ÖØ
-Òª½ô¼± 3.ÖØÒª²»½ô¼± 4 .²»ÖØ
-Òª²»½ô¼±£© 
-ÓÅÏÈ¼¶ÀàÐÍ£¨1.µÍ 2.ÖÐ 3 .¸ß£©
-[ÓÀÔ¶ÊÇÄ¬ÈÏÖµ 1] 
-¹²ÏíÀàÐÍ£¨1.Ë½ÈËÊÂ¼þ 2 .¹«¿ª
-ÊÂ¼þ 3.¹²Ïí¸øÉÏ¼¶ 4.¹²Ïí¸ø
-ÏÂ¼¶ 5.¹²Ïí¸ø²¿ÃÅ 6.¹²Ïí¸ø
-ÏîÄ¿ 7.ÃØÊéºÍÖúÊÖ£© 
+å¼€å§‹æ—¶é—´ 
+ç»“æŸæ—¶é—´ 
+æé†’æ ‡è¯†(1:æœ‰æé†’,0 :æ— æé†’) 
+æé†’æ—¶é—´ 
+å·¥ä½œç±»åž‹ï¼ˆ1.è‡ªåŠž 2.ç£åŠž 3 .å
+åŠžï¼‰ 
+äº‹ä»¶ç±»åž‹ï¼ˆ0.åˆè¯•çŠ¶æ€ 1.å·²å®‰
+æŽ’ 2.å·²å§”æ‰˜ï¼‰ 
+é‡è¦ç¨‹åº¦ï¼ˆ1.é‡è¦ç´§æ€¥ 2 .ä¸é‡
+è¦ç´§æ€¥ 3.é‡è¦ä¸ç´§æ€¥ 4 .ä¸é‡
+è¦ä¸ç´§æ€¥ï¼‰ 
+ä¼˜å…ˆçº§ç±»åž‹ï¼ˆ1.ä½Ž 2.ä¸­ 3 .é«˜ï¼‰
+[æ°¸è¿œæ˜¯é»˜è®¤å€¼ 1] 
+å…±äº«ç±»åž‹ï¼ˆ1.ç§äººäº‹ä»¶ 2 .å…¬å¼€
+äº‹ä»¶ 3.å…±äº«ç»™ä¸Šçº§ 4.å…±äº«ç»™
+ä¸‹çº§ 5.å…±äº«ç»™éƒ¨é—¨ 6.å…±äº«ç»™
+é¡¹ç›® 7.ç§˜ä¹¦å’ŒåŠ©æ‰‹ï¼‰ 
 
-¹²Ïí¶ÔÏó
+å…±äº«å¯¹è±¡
 
 NAME 
 
-½ÓÊÜµÄ¶ÔÏó ID 
+æŽ¥å—çš„å¯¹è±¡ ID 
 
-Êµ¼ÊÍê³ÉÊ±¼ä 
+å®žé™…å®Œæˆæ—¶é—´ 
 
-ÊÂ¼þÍê³ÉÀàÐÍ 
+äº‹ä»¶å®Œæˆç±»åž‹ 
 
-ÊÂ¼þµ±Ç°ÀàÐÍ±ê
-Ê¶ 
-Íê³ÉÂÊ 
+äº‹ä»¶å½“å‰ç±»åž‹æ ‡
+è¯† 
+å®ŒæˆçŽ‡ 
 
-´´½¨Õß 
+åˆ›å»ºè€… 
 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
-ÊÇ·ñÓÐ¸½¼þ 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
+æ˜¯å¦æœ‰é™„ä»¶ 
 
 SHARE_T ARGE
 T 
@@ -11574,15 +11575,15 @@ Flo a t
 
 FALSE 
 
-¹²Ïí¶ÔÏó name 
+å…±äº«å¯¹è±¡ name 
 
 FALSE 
 
-½ÓÊÜµÄ¶ÔÏó id 
+æŽ¥å—çš„å¯¹è±¡ id 
 
 FALSE 
 
-Êµ¼ÊÍê³ÉÊ±¼ä 
+å®žé™…å®Œæˆæ—¶é—´ 
 
 Lo ng inte g e r 
 
@@ -11607,26 +11608,26 @@ Numb e r (19)
 
 Lo ng inte g e r 
 
-ÊÂ¼þÍê³ÉÀàÐÍ£¨1.Î´°²ÅÅ 2.ÒÑ
-°²ÅÅ 3.½øÐÐÖÐ 4.ÒÑÍê³É£© 
-ÊÂ¼þµ±Ç°ÀàÐÍ±êÊ¶£¨0.³õÊÔ×´
-Ì¬ 1.ÒÑ°²ÅÅ 2.ÒÑÎ¯ÍÐ£© 
-Íê³ÉÂÊ 
+äº‹ä»¶å®Œæˆç±»åž‹ï¼ˆ1.æœªå®‰æŽ’ 2.å·²
+å®‰æŽ’ 3.è¿›è¡Œä¸­ 4.å·²å®Œæˆï¼‰ 
+äº‹ä»¶å½“å‰ç±»åž‹æ ‡è¯†ï¼ˆ0.åˆè¯•çŠ¶
+æ€ 1.å·²å®‰æŽ’ 2.å·²å§”æ‰˜ï¼‰ 
+å®ŒæˆçŽ‡ 
 
 T RUE 
 
 FALSE 
 
-´´½¨Õß 
+åˆ›å»ºè€… 
 
 FALSE 
 FALSE 
 FALSE 
 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
-ÊÇ·ñÓÐ¸½¼þ(1:ÓÐ¸½¼þ,0 :ÎÞ¸½
-¼þ£¬Ä¬ÈÏ:0) 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
+æ˜¯å¦æœ‰é™„ä»¶(1:æœ‰é™„ä»¶,0 :æ— é™„
+ä»¶ï¼Œé»˜è®¤:0) 
 
 Powe rDe s ig ne r 
 
@@ -11638,11 +11639,11 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-ÊÂ¼þ½ÓÊÕÕß ID 
+äº‹ä»¶æŽ¥æ”¶è€… ID 
 
 RECEIVE_MEM
 BER_ID 
-ÊÂ¼þ½ÓÊÕÕßÃû×Ö RECEIVE_MEM
+äº‹ä»¶æŽ¥æ”¶è€…åå­— RECEIVE_MEM
 BER_NAME 
 FROM_T YPE 
 
@@ -11652,17 +11653,17 @@ T e xt
 
 FALSE 
 
-ÊÂ¼þ½ÓÊÕÕß id 
+äº‹ä»¶æŽ¥æ”¶è€… id 
 
 FALSE 
 
-ÊÂ¼þ½ÓÊÕÕßÃû×Ö 
+äº‹ä»¶æŽ¥æ”¶è€…åå­— 
 
 Numb e r (3) 
 
 FALSE 
 
-ÆäËûÄ£¿é×ªÈÕ³ÌµÄÀàÐÍ 
+å…¶ä»–æ¨¡å—è½¬æ—¥ç¨‹çš„ç±»åž‹ 
 
 FROM_ID 
 
@@ -11670,27 +11671,27 @@ Lo ng inte g e r
 
 FALSE 
 
-ÆäËûÄ£¿é×ªÈÕ³ÌµÄ id 
+å…¶ä»–æ¨¡å—è½¬æ—¥ç¨‹çš„ id 
 
 Lo ng inte g e r 
 
 FALSE 
 
-Ê±¼äÀàÐÍ(0.ÒµÎñ 1.¹ÜÀí 2.¸ö
+æ—¶é—´ç±»åž‹(0.ä¸šåŠ¡ 1.ç®¡ç† 2.ä¸ª
 
-ÆäËûÄ£¿é×ªÈÕ³Ì
-µÄÀàÐÍ 
-ÆäËûÄ£¿é×ªÈÕ³Ì
+å…¶ä»–æ¨¡å—è½¬æ—¥ç¨‹
+çš„ç±»åž‹ 
+å…¶ä»–æ¨¡å—è½¬æ—¥ç¨‹
 
-µÄ ID 
+çš„ ID 
 
-Ê±¼äÀàÐÍ 
+æ—¶é—´ç±»åž‹ 
 
-ÌáÇ°ÌáÐÑÊ±¼ä 
+æå‰æé†’æ—¶é—´ 
 
-ÖÜÆÚÀàÐÍ 
+å‘¨æœŸç±»åž‹ 
 
-Çø·ÖÎ¯ÍÐ 
+åŒºåˆ†å§”æ‰˜ 
 
 CAL_EVENT _T
 YPE 
@@ -11714,22 +11715,22 @@ Sho rt inte g e r
 
 FALSE 
 
-ÈË 3.ÆäËü ) 
+äºº 3.å…¶å®ƒ ) 
 
-ÌáÇ°ÌáÐÑÊ±¼ä 
+æå‰æé†’æ—¶é—´ 
 
-ÖÜÆÚÀàÐÍ(0:ÎÞ£»1:°´Ìì£»2 :°´
-ÖÜ£»3:°´ÔÂ£»4:°´Äê) 
-ÊÇÓÃÓÚÇø·ÖÎ¯ÍÐ¡¢°²ÅÅÊÂ¼þ,0
-´ú±í°²ÅÅÊÂ¼þ£¬1 ´ú±íÎ¯ÍÐÊÂ
-¼þ 
-ÖÜÆÚÐÔÊÂ¼þ 
+å‘¨æœŸç±»åž‹(0:æ— ï¼›1:æŒ‰å¤©ï¼›2 :æŒ‰
+å‘¨ï¼›3:æŒ‰æœˆï¼›4:æŒ‰å¹´) 
+æ˜¯ç”¨äºŽåŒºåˆ†å§”æ‰˜ã€å®‰æŽ’äº‹ä»¶,0
+ä»£è¡¨å®‰æŽ’äº‹ä»¶ï¼Œ1 ä»£è¡¨å§”æ‰˜äº‹
+ä»¶ 
+å‘¨æœŸæ€§äº‹ä»¶ 
 
-ÖÜÆÚÐÔÊÂ¼þ 
+å‘¨æœŸæ€§äº‹ä»¶ 
 
-´´½¨ÈË´´½¨ÊÂ¼þ
-¶ÔÓ¦µÄ¹«Ë¾ ID 
-À´×Ô±íµ¥ ID 
+åˆ›å»ºäººåˆ›å»ºäº‹ä»¶
+å¯¹åº”çš„å…¬å¸ ID 
+æ¥è‡ªè¡¨å• ID 
 
 PER IOD ICAL_C
 H ILD_ID 
@@ -11746,24 +11747,24 @@ Lo ng inte g e r
 
 FALSE 
 
-´´½¨ÈË´´½¨ÊÂ¼þ¶ÔÓ¦µÄ¹«Ë¾
+åˆ›å»ºäººåˆ›å»ºäº‹ä»¶å¯¹åº”çš„å…¬å¸
 
 Lo ng inte g e r 
 
 FALSE 
 
-À´×Ô±íµ¥ ID 
+æ¥è‡ªè¡¨å• ID 
 
 ID 
 
-I.103 ÊÂ¼þÄÚÈÝÐÅÏ¢ÁÐ±í 
+I.103 äº‹ä»¶å†…å®¹ä¿¡æ¯åˆ—è¡¨ 
 
 Code 
 Comment 
 
 CAL_CONTENT 
 
-ÊÂ¼þÄÚÈÝÐÅÏ¢ÁÐ±í 
+äº‹ä»¶å†…å®¹ä¿¡æ¯åˆ—è¡¨ 
 
 Name 
 
@@ -11771,12 +11772,12 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
-ÊÂ¼þ ID 
+ä¸»é”® ID 
+äº‹ä»¶ ID 
 
-ÕýÎÄ 
-´´½¨Ê±¼ä 
-ÕýÎÄÀàÐÍ 
+æ­£æ–‡ 
+åˆ›å»ºæ—¶é—´ 
+æ­£æ–‡ç±»åž‹ 
 
 ID 
 Lo ng inte g e r 
@@ -11800,21 +11801,21 @@ FALSE
 
 Comment 
 
-Ö÷¼ü id 
-ÊÂ¼þ id    
+ä¸»é”® id 
+äº‹ä»¶ id    
 
-ÕýÎÄ 
-´´½¨Ê±¼ä 
-ÕýÎÄÀàÐÍ£¨ÆúÓÃ£© 
+æ­£æ–‡ 
+åˆ›å»ºæ—¶é—´ 
+æ­£æ–‡ç±»åž‹ï¼ˆå¼ƒç”¨ï¼‰ 
 
-I.104 ÊÂ¼þÖÜÆÚÐÔÉú³Éµ¥¸öÐÅÏ¢±í 
+I.104 äº‹ä»¶å‘¨æœŸæ€§ç”Ÿæˆå•ä¸ªä¿¡æ¯è¡¨ 
 
 Code 
 Comment 
 
 CAL_EVENT_PERIODICAL_RELATION 
 
-ÊÂ¼þÖÜÆÚÐÔÉú³Éµ¥¸öÐÅÏ¢±í 
+äº‹ä»¶å‘¨æœŸæ€§ç”Ÿæˆå•ä¸ªä¿¡æ¯è¡¨ 
 
 Name 
 
@@ -11822,11 +11823,11 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
-ÊÂ¼þ ID 
+ä¸»é”® ID 
+äº‹ä»¶ ID 
 
-Ê±¼äÏßÒªÏÔÊ¾µÄ
-ÀàÐÍ 
+æ—¶é—´çº¿è¦æ˜¾ç¤ºçš„
+ç±»åž‹ 
 
 ID 
 CAL_EVENT _ID 
@@ -11846,12 +11847,12 @@ FALSE
 
 Comment 
 
-Ö÷¼ü id 
-ÊÂ¼þ id 
+ä¸»é”® id 
+äº‹ä»¶ id 
 
-Ê±¼äÏßÒªÏÔÊ¾µÄÀàÐÍ[¸üÃû
+æ—¶é—´çº¿è¦æ˜¾ç¤ºçš„ç±»åž‹[æ›´å
 
-Îª£ºCAL_T IME_LINE] [Í¬
+ä¸ºï¼šCAL_T IME_LINE] [åŒ
 Ap p lica tio nCa te g o ryEnum] 
 
 Powe rDe s ig ne r 
@@ -11864,11 +11865,11 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-´´½¨Ê±¼ä 
+åˆ›å»ºæ—¶é—´ 
 
-ÈËÔ± ID 
+äººå‘˜ ID 
 
-Ê±¼äÏßËùÊôÈË 
+æ—¶é—´çº¿æ‰€å±žäºº 
 
 CREAT E_DAT E Da te & T ime 
 MEMBER_ID 
@@ -11881,20 +11882,20 @@ T RUE
 T RUE 
 T RUE 
 
-´´½¨Ê±¼ä 
+åˆ›å»ºæ—¶é—´ 
 
-ÈËÔ± id 
+äººå‘˜ id 
 
-Ê±¼äÏßËùÊôÈË 
+æ—¶é—´çº¿æ‰€å±žäºº 
 
-I.105 ÊÂ¼þÖÜÆÚÐÔ±í 
+I.105 äº‹ä»¶å‘¨æœŸæ€§è¡¨ 
 
 Code 
 Comment 
 
 CAL_EVENT_PERIODICAL_INFO 
 
-ÊÂ¼þÖÜÆÚÐÔ±í 
+äº‹ä»¶å‘¨æœŸæ€§è¡¨ 
 
 Name 
 
@@ -11932,25 +11933,25 @@ Va ria b le
 cha ra c te rs (20) 
 Inte g e r 
 
-ÖÜÆÚÊÂ¼þ ID 
-ÊÂ¼þÀàÐÍ 
+å‘¨æœŸäº‹ä»¶ ID 
+äº‹ä»¶ç±»åž‹ 
 
-Ã¿ÔÂµÄÈÕÖÜÆÚ 
-Ã¿ÖÜµÄÈÕÖÜÆÚ 
-ÖÜÖÜÆÚ 
-ÔÂÖÜÆÚ 
+æ¯æœˆçš„æ—¥å‘¨æœŸ 
+æ¯å‘¨çš„æ—¥å‘¨æœŸ 
+å‘¨å‘¨æœŸ 
+æœˆå‘¨æœŸ 
 
-ÊÂ¼þ ID 
-ÈËÔ± ID 
+äº‹ä»¶ ID 
+äººå‘˜ ID 
 
-¿ªÊ¼Ê±¼ä 
-½áÊøÊ±¼ä 
-ÖÜ¼¸ 
+å¼€å§‹æ—¶é—´ 
+ç»“æŸæ—¶é—´ 
+å‘¨å‡  
 
-ÓÃ»§Ñ¡Ôñ°´ÔÂÌá
-ÐÑ 
-ÓÃ»§Ñ¡Ôñ°´ÄêÌá
-ÐÑ 
+ç”¨æˆ·é€‰æ‹©æŒ‰æœˆæ
+é†’ 
+ç”¨æˆ·é€‰æ‹©æŒ‰å¹´æ
+é†’ 
 
 Mandator
 y 
@@ -11971,25 +11972,25 @@ FALSE
 
 Comment 
 
-ÖÜÆÚÊÂ¼þ id 
-ÊÂ¼þÀàÐÍ 
+å‘¨æœŸäº‹ä»¶ id 
+äº‹ä»¶ç±»åž‹ 
 
-Ã¿ÔÂµÄÈÕÖÜÆÚ 
-Ã¿ÖÜµÄÈÕÖÜÆÚ 
-ÖÜÖÜÆÚ 
-ÔÂÖÜÆÚ 
+æ¯æœˆçš„æ—¥å‘¨æœŸ 
+æ¯å‘¨çš„æ—¥å‘¨æœŸ 
+å‘¨å‘¨æœŸ 
+æœˆå‘¨æœŸ 
 
-ÊÂ¼þ id 
-ÈËÔ± id 
+äº‹ä»¶ id 
+äººå‘˜ id 
 
-¿ªÊ¼Ê±¼ä 
-½áÊøÊ±¼ä 
-ÖÜ¼¸ 
+å¼€å§‹æ—¶é—´ 
+ç»“æŸæ—¶é—´ 
+å‘¨å‡  
 
-ÓÃ»§Ñ¡Ôñ°´ÔÂÌáÐÑ£¬Ä¬ÈÏÎªÃ¿
-ÔÂµ±Ç°ºÅÌáÐÑ 
-ÓÃ»§Ñ¡Ôñ°´ÄêÌáÐÑ£¬Ä¬ÈÏÎªÃ¿
-Äêµ±Ç°ÔÂµ±Ç°ºÅÌáÐÑ 
+ç”¨æˆ·é€‰æ‹©æŒ‰æœˆæé†’ï¼Œé»˜è®¤ä¸ºæ¯
+æœˆå½“å‰å·æé†’ 
+ç”¨æˆ·é€‰æ‹©æŒ‰å¹´æé†’ï¼Œé»˜è®¤ä¸ºæ¯
+å¹´å½“å‰æœˆå½“å‰å·æé†’ 
 
 SW IT HYEAR 
 
@@ -11997,14 +11998,14 @@ Inte g e r
 
 FALSE 
 
-I.106 ÊÂ¼þ»Ø¸´ÐÅÏ¢ÁÐ±í 
+I.106 äº‹ä»¶å›žå¤ä¿¡æ¯åˆ—è¡¨ 
 
 Code 
 Comment 
 
 CAL_REPLY 
 
-ÊÂ¼þ»Ø¸´ÐÅÏ¢ÁÐ±í 
+äº‹ä»¶å›žå¤ä¿¡æ¯åˆ—è¡¨ 
 
 Name 
 
@@ -12012,18 +12013,18 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
-ÊÂ¼þ ID 
+ä¸»é”® ID 
+äº‹ä»¶ ID 
 
-ÈÕ³ÌÀàÐÍ 
+æ—¥ç¨‹ç±»åž‹ 
 
-»Ø¸´ÄÚÈÝ 
-»Ø¸´Õß ID 
+å›žå¤å†…å®¹ 
+å›žå¤è€… ID 
 
-»Ø¸´Ñ¡Ïî 
+å›žå¤é€‰é¡¹ 
 
-»Ø¸´Ê±¼ä 
-À©Õ¹×Ö¶ÎÃû 1 
+å›žå¤æ—¶é—´ 
+æ‰©å±•å­—æ®µå 1 
 
 ID 
 EVENT _ID 
@@ -12041,10 +12042,10 @@ T RUE
 
 Comment 
 
-Ö÷¼ü id 
-ÊÂ¼þ id 
+ä¸»é”® id 
+äº‹ä»¶ id 
 
-ÈÕ³ÌÀàÐÍ(Í¬
+æ—¥ç¨‹ç±»åž‹(åŒ
 
 REPLY_INFO 
 REPLY_USER_I
@@ -12060,11 +12061,11 @@ Lo ng inte g e r
 FALSE 
 T RUE 
 
-Ap p lica tio nCa te g o ryEnum£¬
+Ap p lica tio nCa te g o ryEnumï¼Œ
 
-Ä¬ÈÏÎª:11,ÈÕ³ÌÊÂ¼þ) 
-»Ø¸´ÄÚÈÝ 
-»Ø¸´Õß id 
+é»˜è®¤ä¸º:11,æ—¥ç¨‹äº‹ä»¶) 
+å›žå¤å†…å®¹ 
+å›žå¤è€… id 
 
 Va ria b le 
 cha ra c te rs (50) 
@@ -12074,13 +12075,13 @@ cha ra c te rs (50)
 
 FALSE 
 
-»Ø¸´Ñ¡Ïî 
+å›žå¤é€‰é¡¹ 
 
 T RUE 
 FALSE 
 
-»Ø¸´Ê±¼ä 
-À©Õ¹×Ö¶ÎÃû 1 
+å›žå¤æ—¶é—´ 
+æ‰©å±•å­—æ®µå 1 
 
 Powe rDe s ig ne r 
 
@@ -12092,7 +12093,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-À©Õ¹×Ö¶Î 2 
+æ‰©å±•å­—æ®µ 2 
 
 EXT 2 
 
@@ -12101,16 +12102,16 @@ cha ra c te rs (50)
 
 FALSE 
 
-À©Õ¹×Ö¶Î 2 
+æ‰©å±•å­—æ®µ 2 
 
-I.107 ÊÂ¼þ°²ÅÅÎ¯ÍÐ×ª·¢ÐÅÏ¢ÁÐ±í 
+I.107 äº‹ä»¶å®‰æŽ’å§”æ‰˜è½¬å‘ä¿¡æ¯åˆ—è¡¨ 
 
 Code 
 Comment 
 
 CAL_EVENT_TRAN 
 
-ÊÂ¼þ°²ÅÅÎ¯ÍÐ×ª·¢ÐÅÏ¢ÁÐ±í 
+äº‹ä»¶å®‰æŽ’å§”æ‰˜è½¬å‘ä¿¡æ¯åˆ—è¡¨ 
 
 Name 
 
@@ -12118,17 +12119,17 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-ÊµÌåµÄ ID 
+å®žä½“çš„ ID 
 
-ÊÂ¼þ ID 
+äº‹ä»¶ ID 
 
-ÊÂ¼þ´´½¨ÕßµÄ
+äº‹ä»¶åˆ›å»ºè€…çš„
 
 ID 
 
-ÊÂ¼þÀàÐÍ 
+äº‹ä»¶ç±»åž‹ 
 
 ID 
 EVENT _ID 
@@ -12148,17 +12149,17 @@ T RUE
 T RUE 
 T RUE 
 
-Ö÷¼ü id 
+ä¸»é”® id 
 
-ÊµÌåµÄ id 
+å®žä½“çš„ id 
 
-ÊÂ¼þ id 
+äº‹ä»¶ id 
 
 Lo ng inte g e r 
 
 FALSE 
 
-ÊÂ¼þ´´½¨ÕßµÄ id 
+äº‹ä»¶åˆ›å»ºè€…çš„ id 
 
 ENT IT Y_ID 
 
@@ -12166,7 +12167,7 @@ Lo ng inte g e r
 
 FALSE 
 
-½ÓÊÕÕß ID 
+æŽ¥æ”¶è€… ID 
 
 RECEIVE_ID 
 
@@ -12174,18 +12175,18 @@ Lo ng inte g e r
 
 FALSE 
 
-ÊÂ¼þÀàÐÍ£¨1.°²ÅÅ 2.Î¯ÍÐ 3 .¹²
-Ïí²¿ÃÅ 4.¹²ÏíÏîÄ¿£© 
-½ÓÊÕÕß id 
+äº‹ä»¶ç±»åž‹ï¼ˆ1.å®‰æŽ’ 2.å§”æ‰˜ 3 .å…±
+äº«éƒ¨é—¨ 4.å…±äº«é¡¹ç›®ï¼‰ 
+æŽ¥æ”¶è€… id 
 
-I.108 ÊÂ¼þÊ±¼äÏß 
+I.108 äº‹ä»¶æ—¶é—´çº¿ 
 
 Code 
 Comment 
 
 CAL_TIME_LINE 
 
-ÊÂ¼þÊ±¼äÏß 
+äº‹ä»¶æ—¶é—´çº¿ 
 
 Name 
 
@@ -12205,14 +12206,14 @@ cha ra c te rs (50)
 Va ria b le 
 cha ra c te rs (50) 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Ê±¼äÏßÉÏ°àÊ±¼ä
-µã 
-Ê±¼äÏßÏÂ°àÊ±¼ä
-µã 
-´´½¨Ê±¼ä 
-ÀàÐÍ 
+æ—¶é—´çº¿ä¸Šç­æ—¶é—´
+ç‚¹ 
+æ—¶é—´çº¿ä¸‹ç­æ—¶é—´
+ç‚¹ 
+åˆ›å»ºæ—¶é—´ 
+ç±»åž‹ 
 
 Mandator
 y 
@@ -12221,13 +12222,13 @@ T RUE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Ê±¼äÏßÉÏ°àÊ±¼äµã 
+æ—¶é—´çº¿ä¸Šç­æ—¶é—´ç‚¹ 
 
 T RUE 
 
-Ê±¼äÏßÏÂ°àÊ±¼äµã 
+æ—¶é—´çº¿ä¸‹ç­æ—¶é—´ç‚¹ 
 
 CREAT E_DAT E Da te & T ime 
 T IME_LINE_T Y
@@ -12238,12 +12239,12 @@ cha ra c te rs (50)
 T RUE 
 FALSE 
 
-´´½¨Ê±¼ä 
-ÀàÐÍ(1:¼Æ»®£¬2:»áÒé£¬ 3 :ÈÎ
-Îñ£¬4:ÊÂ¼þ£¬5:Ð­Í¬,6:¹«ÎÄ ) 
-Ê±¼äÏßËùÊôÈË 
+åˆ›å»ºæ—¶é—´ 
+ç±»åž‹(1:è®¡åˆ’ï¼Œ2:ä¼šè®®ï¼Œ 3 :ä»»
+åŠ¡ï¼Œ4:äº‹ä»¶ï¼Œ5:ååŒ,6:å…¬æ–‡ ) 
+æ—¶é—´çº¿æ‰€å±žäºº 
 
-Ê±¼äÏßËùÊôÈË 
+æ—¶é—´çº¿æ‰€å±žäºº 
 
 CREAT E_USER
 _ID 
@@ -12252,14 +12253,14 @@ Lo ng inte g e r
 
 T RUE 
 
-I.109 ÊÂÏîÍ³¼Æµ÷¶ÈÖÐ¼ä±í 
+I.109 äº‹é¡¹ç»Ÿè®¡è°ƒåº¦ä¸­é—´è¡¨ 
 
 Code 
 Comment 
 
 RPT_MATTER_REPORT 
 
-ÊÂÏîÍ³¼Æµ÷¶ÈÖÐ¼ä±í 
+äº‹é¡¹ç»Ÿè®¡è°ƒåº¦ä¸­é—´è¡¨ 
 
 Name 
 
@@ -12267,9 +12268,9 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-ÓÃ»§Ãû 
+ç”¨æˆ·å 
 
 ID 
 NAME 
@@ -12285,9 +12286,9 @@ y
 T RUE 
 FALSE 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-ÓÃ»§Ãû 
+ç”¨æˆ·å 
 
 Powe rDe s ig ne r 
 
@@ -12299,17 +12300,17 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-²¿ÃÅÃû³Æ 
+éƒ¨é—¨åç§° 
 
-ÓÃ»§ ID 
-²¿ÃÅ ID 
+ç”¨æˆ· ID 
+éƒ¨é—¨ ID 
 
-¼Æ»®Êý 
-ÈÎÎñÊý 
-ÊÂ¼þÊý 
-»áÒéÊý 
-ºÏ¼Æ 
-ÈÕÆÚ 
+è®¡åˆ’æ•° 
+ä»»åŠ¡æ•° 
+äº‹ä»¶æ•° 
+ä¼šè®®æ•° 
+åˆè®¡ 
+æ—¥æœŸ 
 
 DEPARTMENT _
 NAME 
@@ -12337,7 +12338,7 @@ Da te & T ime
 
 FALSE 
 
-²¿ÃÅÃû³Æ 
+éƒ¨é—¨åç§° 
 
 FALSE 
 FALSE 
@@ -12349,17 +12350,17 @@ FALSE
 FALSE 
 FALSE 
 
-ÓÃ»§ ID 
-²¿ÃÅ ID 
+ç”¨æˆ· ID 
+éƒ¨é—¨ ID 
 
-¼Æ»®Êý 
-ÈÎÎñÊý 
-ÊÂ¼þÊý 
-»áÒéÊý 
-ºÏ¼Æ 
-ÈÕÆÚ 
+è®¡åˆ’æ•° 
+ä»»åŠ¡æ•° 
+äº‹ä»¶æ•° 
+ä¼šè®®æ•° 
+åˆè®¡ 
+æ—¥æœŸ 
 
-I.110 ÔÆÓ¦ÓÃÖÐÐÄ 
+I.110 äº‘åº”ç”¨ä¸­å¿ƒ 
 
 Code 
 Comment 
@@ -12407,18 +12408,18 @@ EXPAND_S2
 EXPAND_L1 
 EXPAND_L2 
 
-ÓÃ»§ÔÚÔÆÓ¦ÓÃÖÐ
+ç”¨æˆ·åœ¨äº‘åº”ç”¨ä¸­
 
 EXPAND_L1 
 EXPAND_L2 
 MALLID 
 
-ÐÄ ID 
-ÔÆÓ¦ÓÃÖÐÐÄÕËºÅ MALL_ACCOUN
+å¿ƒ ID 
+äº‘åº”ç”¨ä¸­å¿ƒè´¦å· MALL_ACCOUN
 T 
 IS_ADMIN 
 
-ÊÇ·ñÊÇÔÆ¹ÜÀíÔ± 
+æ˜¯å¦æ˜¯äº‘ç®¡ç†å‘˜ 
 
 Lo ng inte g e r 
 Lo ng inte g e r 
@@ -12473,23 +12474,23 @@ FALSE
 
 Comment 
 
-ÓÃ»§ÔÚÔÆÓ¦ÓÃÖÐÐÄ ID 
+ç”¨æˆ·åœ¨äº‘åº”ç”¨ä¸­å¿ƒ ID 
 
 FALSE 
 
-ÔÆÓ¦ÓÃÖÐÐÄÕËºÅ 
+äº‘åº”ç”¨ä¸­å¿ƒè´¦å· 
 
 FALSE 
 
-ÊÇ·ñÏµÍ³¹ÜÀíÔ± SYST EMADMIN Sho rt inte g e r 
+æ˜¯å¦ç³»ç»Ÿç®¡ç†å‘˜ SYST EMADMIN Sho rt inte g e r 
 
 FALSE 
 
-Ö÷¸Úµ¥Î» 
+ä¸»å²—å•ä½ 
 
 ORG_ACCOUN
 T _ID 
-ÊÇ·ñµ¥Î»¹ÜÀíÔ± ADMIN IST RAT O
+æ˜¯å¦å•ä½ç®¡ç†å‘˜ ADMIN IST RAT O
 R 
 
 Lo ng inte g e r 
@@ -12500,7 +12501,7 @@ Sho rt inte g e r
 
 FALSE 
 
-·þÎñÑéÖ¤Âë 
+æœåŠ¡éªŒè¯ç  
 
 SERVICE_COD
 E 
@@ -12510,15 +12511,15 @@ cha ra c te rs (50)
 
 FALSE 
 
-ÊÇ·ñÊÇÔÆ¹ÜÀíÔ± 0£ºÆÕÍ¨ÓÃ»§ 
-1£ºÔÆ¹ÜÀíÔ± 
-ÏµÍ³¹ÜÀíÔ± 0£º²»ÊÇÏµÍ³¹ÜÀí
-Ô± 1£ºÊÇÏµÍ³¹ÜÀíÔ± 
-Ö÷¸Úµ¥Î» 
+æ˜¯å¦æ˜¯äº‘ç®¡ç†å‘˜ 0ï¼šæ™®é€šç”¨æˆ· 
+1ï¼šäº‘ç®¡ç†å‘˜ 
+ç³»ç»Ÿç®¡ç†å‘˜ 0ï¼šä¸æ˜¯ç³»ç»Ÿç®¡ç†
+å‘˜ 1ï¼šæ˜¯ç³»ç»Ÿç®¡ç†å‘˜ 
+ä¸»å²—å•ä½ 
 
-µ¥Î»¹ÜÀíÔ± 0£º²»ÊÇµ¥Î»¹ÜÀí
-Ô± 1£ºµ¥Î»¹ÜÀíÔ± 
-·þÎñÑéÖ¤Âë 
+å•ä½ç®¡ç†å‘˜ 0ï¼šä¸æ˜¯å•ä½ç®¡ç†
+å‘˜ 1ï¼šå•ä½ç®¡ç†å‘˜ 
+æœåŠ¡éªŒè¯ç  
 
 Powe rDe s ig ne r 
 
@@ -12530,14 +12531,14 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-I.111 ÈË 
+I.111 äºº 
 
 Code 
 Comment 
 
 ORG_MEMBER 
 
-ÈË 
+äºº 
 
 Name 
 
@@ -12545,22 +12546,22 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
-ÐÕÃû 
+ä¸»é”® 
+å§“å 
 
-±àºÅ 
+ç¼–å· 
 
 ID 
 NAME 
 
 CODE 
 
-ÊÇ·ñÊÇÄÚ²¿ 
-ÊÇ·ñ¿ÉÒÔµÇÂ¼ 
-ÊÇ·ñÊÇÐéÄâÕËºÅ 
-ÊÇ·ñÊÇ¹ÜÀíÔ± 
-ÊÇ·ñ±»·ÖÅä 
-ÈËÔ±ÀàÐÍ 
+æ˜¯å¦æ˜¯å†…éƒ¨ 
+æ˜¯å¦å¯ä»¥ç™»å½• 
+æ˜¯å¦æ˜¯è™šæ‹Ÿè´¦å· 
+æ˜¯å¦æ˜¯ç®¡ç†å‘˜ 
+æ˜¯å¦è¢«åˆ†é… 
+äººå‘˜ç±»åž‹ 
 
 IS_INT ERNAL 
 IS_LOGINABLE 
@@ -12593,22 +12594,22 @@ Lo ng inte g e r
 Lo ng inte g e r 
 Lo ng inte g e r 
 
-ÈËÔ±×´Ì¬ 
-ÊÇ·ñÆôÓÃ 
-ÊÇ·ñ±»É¾³ý 
-×´Ì¬ 
+äººå‘˜çŠ¶æ€ 
+æ˜¯å¦å¯ç”¨ 
+æ˜¯å¦è¢«åˆ é™¤ 
+çŠ¶æ€ 
 
-ÅÅÐò 
-Ö÷¸Ú²¿ÃÅ 
+æŽ’åº 
+ä¸»å²—éƒ¨é—¨ 
 
-Ö÷¸Ú¸ÚÎ» 
-Ö÷¸ÚÖ°Îñ¼¶±ð 
-Ö÷¸Úµ¥Î» 
+ä¸»å²—å²—ä½ 
+ä¸»å²—èŒåŠ¡çº§åˆ« 
+ä¸»å²—å•ä½ 
 
-ÃèÊö 
+æè¿° 
 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
 
 EXT _AT T R_1 
 
@@ -12684,21 +12685,16 @@ y
 T RUE 
 FALSE 
 
-Ö÷¼ü id 
+ä¸»é”® id 
 
-ÐÕÃû 
-
-FALSE 
-
-±àºÅ 
+å§“å 
 
 FALSE 
-FALSE 
-FALSE 
-FALSE 
-FALSE 
-FALSE 
 
+ç¼–å· 
+
+FALSE 
+FALSE 
 FALSE 
 FALSE 
 FALSE 
@@ -12706,71 +12702,76 @@ FALSE
 
 FALSE 
 FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
 
 FALSE 
 FALSE 
 FALSE 
 
-ÊÇ·ñÊÇÄÚ²¿ 1:ÊÇ 0:·ñ 
-ÊÇ·ñ¿ÉÒÔµÇÂ¼ 1:ÊÇ 0:·ñ 
-ÊÇ·ñÊÇÐéÄâÕËºÅ 1:ÊÇ 0:·ñ 
-ÊÇ·ñÊÇ¹ÜÀíÔ± 1:ÊÇ 0:·ñ 
-ÊÇ·ñ±»·ÖÅä 1:ÊÇ 0:·ñ 
-Ã¶¾Ù£ºÕýÊ½/·ÇÕýÊ½/ .. 1£ºÕýÊ½ 
-2£º·ÇÕýÊ½ 
-ÔÚÖ°/ÀëÖ° 1£ºÔÚÖ° 2£ºÀëÖ° 
-ÊÇ·ñÆôÓÃ 1:ÆôÓÃ 0 Í£ÓÃ 
-ÊÇ·ñ±»É¾³ý 1:É¾³ý  0:Î´É¾³ý 
-Ã¶¾Ù£ºÔÚÖ°/ÀëÖ°/ ..(´Ë×Ö¶Î×÷
+æ˜¯å¦æ˜¯å†…éƒ¨ 1:æ˜¯ 0:å¦ 
+æ˜¯å¦å¯ä»¥ç™»å½• 1:æ˜¯ 0:å¦ 
+æ˜¯å¦æ˜¯è™šæ‹Ÿè´¦å· 1:æ˜¯ 0:å¦ 
+æ˜¯å¦æ˜¯ç®¡ç†å‘˜ 1:æ˜¯ 0:å¦ 
+æ˜¯å¦è¢«åˆ†é… 1:æ˜¯ 0:å¦ 
+æžšä¸¾ï¼šæ­£å¼/éžæ­£å¼/ .. 1ï¼šæ­£å¼ 
+2ï¼šéžæ­£å¼ 
+åœ¨èŒ/ç¦»èŒ 1ï¼šåœ¨èŒ 2ï¼šç¦»èŒ 
+æ˜¯å¦å¯ç”¨ 1:å¯ç”¨ 0 åœç”¨ 
+æ˜¯å¦è¢«åˆ é™¤ 1:åˆ é™¤  0:æœªåˆ é™¤ 
+æžšä¸¾ï¼šåœ¨èŒ/ç¦»èŒ/ ..(æ­¤å­—æ®µä½œ
 
-·Ï) 
+åºŸ) 
 
-ÅÅÐò 
-Ö÷¸Ú²¿ÃÅ 
+æŽ’åº 
+ä¸»å²—éƒ¨é—¨ 
 
-Ö÷¸Ú¸ÚÎ» 
-Ö÷¸ÚÖ°Îñ¼¶±ð 
-Ö÷¸Úµ¥Î» 
-
-FALSE 
-
-ÃèÊö 
-
-FALSE 
-FALSE 
-FALSE 
-
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
-Ô¤Áô×Ö¶Î 
+ä¸»å²—å²—ä½ 
+ä¸»å²—èŒåŠ¡çº§åˆ« 
+ä¸»å²—å•ä½ 
 
 FALSE 
 
-Ô¤Áô×Ö¶Î 
+æè¿° 
+
+FALSE 
+FALSE 
+FALSE 
+
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
+é¢„ç•™å­—æ®µ 
 
 FALSE 
 
-Ô¤Áô×Ö¶Î 
+é¢„ç•™å­—æ®µ 
 
 FALSE 
 
-Ô¤Áô×Ö¶Î 
+é¢„ç•™å­—æ®µ 
 
 FALSE 
 
-Ô¤Áô×Ö¶Î 
+é¢„ç•™å­—æ®µ 
 
 FALSE 
 
-Ô¤Áô×Ö¶Î 
+é¢„ç•™å­—æ®µ 
 
 FALSE 
 
-Ô¤Áô×Ö¶Î 
+é¢„ç•™å­—æ®µ 
 
 FALSE 
 
-Ô¤Áô×Ö¶Î 
+é¢„ç•™å­—æ®µ 
+
+FALSE 
+
+é¢„ç•™å­—æ®µ 
 
 Powe rDe s ig ne r 
 
@@ -12824,7 +12825,7 @@ EXT _AT T R_37 EXT _AT T R_37
 EXT ERNAL_T Y
 PE 
 
-ÄÚÍâ±êÊ¶ 
+å†…å¤–æ ‡è¯† 
 
 Va ria b le 
 cha ra c te rs (1024) 
@@ -12867,11 +12868,11 @@ Sho rt inte g e r
 
 FALSE 
 
-Ô¤Áô×Ö¶Î 
+é¢„ç•™å­—æ®µ 
 
 FALSE 
 
-Ô¤Áô×Ö¶Î 
+é¢„ç•™å­—æ®µ 
 
 FALSE 
 FALSE 
@@ -12895,56 +12896,56 @@ FALSE
 FALSE 
 FALSE 
 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
-Ô¤Áô×Ö¶Î 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
+é¢„ç•™å­—æ®µ 
 
 FALSE 
 
-Ô¤Áô×Ö¶Î 
+é¢„ç•™å­—æ®µ 
 
 FALSE 
 
-Ô¤Áô×Ö¶Î 
+é¢„ç•™å­—æ®µ 
 
 FALSE 
 
-Ô¤Áô×Ö¶Î 
+é¢„ç•™å­—æ®µ 
 
 FALSE 
 
-Ô¤Áô×Ö¶Î 
+é¢„ç•™å­—æ®µ 
 
 FALSE 
 
-Ô¤Áô×Ö¶Î 
+é¢„ç•™å­—æ®µ 
 
 FALSE 
 FALSE 
 
-Ô¤Áô×Ö¶Î 
-ÄÚÍâ±êÊ¶(0£ºV5 ÈËÔ±£¬Íâ²¿
-ÈËÔ±£»1£º»¥ÁªÆ½Ì¨Íâ²¿ÈËÔ±) 
+é¢„ç•™å­—æ®µ 
+å†…å¤–æ ‡è¯†(0ï¼šV5 äººå‘˜ï¼Œå¤–éƒ¨
+äººå‘˜ï¼›1ï¼šäº’è”å¹³å°å¤–éƒ¨äººå‘˜) 
 
-I.112 ÈËÔ±Í¬²½ÈÕÖ¾±í 
+I.112 äººå‘˜åŒæ­¥æ—¥å¿—è¡¨ 
 
 Code 
 Comment 
@@ -12957,8 +12958,8 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
-ÈËÔ±Ö÷¼ü 
+ä¸»é”® 
+äººå‘˜ä¸»é”® 
 
 ID 
 ORG_MEMBER
@@ -12974,8 +12975,8 @@ y
 T RUE 
 FALSE 
 
-Ö÷¼ü 
-ÈËÔ±Ö÷¼ü 
+ä¸»é”® 
+äººå‘˜ä¸»é”® 
 
 Powe rDe s ig ne r 
 
@@ -12987,7 +12988,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-Í¬²½×´Ì¬ 
+åŒæ­¥çŠ¶æ€ 
 
 ST AT US 
 
@@ -12995,12 +12996,12 @@ Sho rt inte g e r
 
 FALSE 
 
-Ê§°ÜÔ­Òò 
+å¤±è´¥åŽŸå›  
 
 FAIL_REASON 
 
-µ¥Î»Í¬²½ÈÕÖ¾Ö÷
-¼ü 
+å•ä½åŒæ­¥æ—¥å¿—ä¸»
+é”® 
 
 ACCOUNT _SYN
 _LOG 
@@ -13009,26 +13010,26 @@ Va ria b le
 cha ra c te rs (255) 
 Lo ng inte g e r 
 
-Í¬²½×´Ì¬£º0:Ê§°Ü 
-³É¹¦ 
-Ê§°ÜÔ­Òò 
+åŒæ­¥çŠ¶æ€ï¼š0:å¤±è´¥ 
+æˆåŠŸ 
+å¤±è´¥åŽŸå›  
 
-1£º
-
-FALSE 
+1ï¼š
 
 FALSE 
 
-µ¥Î»Í¬²½ÈÕÖ¾Ö÷¼ü 
+FALSE 
 
-I.113 ÈËÔ±Ó³Éä±í 
+å•ä½åŒæ­¥æ—¥å¿—ä¸»é”® 
+
+I.113 äººå‘˜æ˜ å°„è¡¨ 
 
 Code 
 Comment 
 
 VOUCHER_MEMBERMAPPER 
 
-ÈËÔ±Ó³Éä±í 
+äººå‘˜æ˜ å°„è¡¨ 
 
 Name 
 
@@ -13036,11 +13037,11 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-ÕËÌ×²ÎÊý¶ÔÏóÖ÷
-¼ü 
-A8 ÈËÔ±Ö÷¼ü 
+è´¦å¥—å‚æ•°å¯¹è±¡ä¸»
+é”® 
+A8 äººå‘˜ä¸»é”® 
 
 ID 
 ACCOUNT ID 
@@ -13052,23 +13053,23 @@ Lo ng inte g e r
 
 ORGMEMBER I
 D 
-µÚÈý·½ÈËÔ±Ãû³Æ ERP_PERSONN
+ç¬¬ä¸‰æ–¹äººå‘˜åç§° ERP_PERSONN
 Va ria b le 
 AME 
 cha ra c te rs (255) 
-µÚÈý·½ÈËÔ±±àÂë ERP_PERSONC
+ç¬¬ä¸‰æ–¹äººå‘˜ç¼–ç  ERP_PERSONC
 Va ria b le 
 ODE 
 cha ra c te rs (50) 
-µÚÈý·½ÈËÔ±Ö÷¼ü ERP_PERSON I
+ç¬¬ä¸‰æ–¹äººå‘˜ä¸»é”® ERP_PERSON I
 Va ria b le 
 D 
 cha ra c te rs (50) 
-µÚÈý·½²¿ÃÅÃû³Æ ERP_DEPT NAM
+ç¬¬ä¸‰æ–¹éƒ¨é—¨åç§° ERP_DEPT NAM
 Va ria b le 
 E 
 cha ra c te rs (255) 
-µÚÈý·½µ¥Î»Ãû³Æ ERP_UN IT NAM
+ç¬¬ä¸‰æ–¹å•ä½åç§° ERP_UN IT NAM
 Va ria b le 
 E 
 cha ra c te rs (255) 
@@ -13087,25 +13088,25 @@ cha ra c te rs (255)
 Va ria b le 
 cha ra c te rs (255) 
 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
-±¸ÓÃ×Ö¶Î 1 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
+å¤‡ç”¨å­—æ®µ 1 
 
 EXT _AT T R3 
 
-±¸ÓÃ×Ö¶Î 2 
+å¤‡ç”¨å­—æ®µ 2 
 
 EXT _AT T R2 
 
-±¸ÓÃ×Ö¶Î 5 
+å¤‡ç”¨å­—æ®µ 5 
 
 EXT _AT T R5 
 
-±¸ÓÃ×Ö¶Î 4 
+å¤‡ç”¨å­—æ®µ 4 
 
 EXT _AT T R4 
 
-±¸ÓÃ×Ö¶Î 3 
+å¤‡ç”¨å­—æ®µ 3 
 
 Mandator
 y 
@@ -13114,66 +13115,66 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-ÕËÌ×²ÎÊý¶ÔÏóÖ÷¼ü 
-
-FALSE 
-
-A8 ÈËÔ±Ö÷¼ü 
+è´¦å¥—å‚æ•°å¯¹è±¡ä¸»é”® 
 
 FALSE 
 
-µÚÈý·½ÈËÔ±Ãû³Æ 
+A8 äººå‘˜ä¸»é”® 
 
 FALSE 
 
-µÚÈý·½ÈËÔ±±àÂë 
+ç¬¬ä¸‰æ–¹äººå‘˜åç§° 
 
 FALSE 
 
-µÚÈý·½ÈËÔ±Ö÷¼ü 
+ç¬¬ä¸‰æ–¹äººå‘˜ç¼–ç  
 
 FALSE 
 
-µÚÈý·½²¿ÃÅÃû³Æ 
+ç¬¬ä¸‰æ–¹äººå‘˜ä¸»é”® 
 
 FALSE 
 
-µÚÈý·½µ¥Î»Ãû³Æ 
+ç¬¬ä¸‰æ–¹éƒ¨é—¨åç§° 
+
+FALSE 
+
+ç¬¬ä¸‰æ–¹å•ä½åç§° 
 
 FALSE 
 FALSE 
 FALSE 
 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
-±¸ÓÃ×Ö¶Î 1 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
+å¤‡ç”¨å­—æ®µ 1 
 
 FALSE 
 
-±¸ÓÃ×Ö¶Î 2 
+å¤‡ç”¨å­—æ®µ 2 
 
 FALSE 
 
-±¸ÓÃ×Ö¶Î 3 
+å¤‡ç”¨å­—æ®µ 3 
 
 FALSE 
 
-±¸ÓÃ×Ö¶Î 4 
+å¤‡ç”¨å­—æ®µ 4 
 
 FALSE 
 
-±¸ÓÃ×Ö¶Î 5 
+å¤‡ç”¨å­—æ®µ 5 
 
-I.114 ÈËÔ±ÕËºÅ±í 
+I.114 äººå‘˜è´¦å·è¡¨ 
 
 Code 
 Comment 
 
 ORG_PRINCIPAL 
 
-ÈËÔ±ÕËºÅ±í 
+äººå‘˜è´¦å·è¡¨ 
 
 Name 
 
@@ -13181,7 +13182,7 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
+ä¸»é”® 
 
 ID 
 
@@ -13191,7 +13192,7 @@ Mandator
 y 
 T RUE 
 
-Ö÷¼ü 
+ä¸»é”® 
 
 Comment 
 
@@ -13205,19 +13206,19 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-µÇÂ¼Ãû 
+ç™»å½•å 
 
-ÃÜÂëÖµ 
+å¯†ç å€¼ 
 
-¼ÓÃÜ²ßÂÔ 
+åŠ å¯†ç­–ç•¥ 
 
-ÃÜÂë³¬ÆÚÊ±¼ä 
+å¯†ç è¶…æœŸæ—¶é—´ 
 
-ÈËÔ± ID 
+äººå‘˜ ID 
 
-ÊÇ·ñÓÐÐ§ 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
+æ˜¯å¦æœ‰æ•ˆ 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
 
 LOGIN_NAME 
 
@@ -13243,14 +13244,14 @@ CREAT E_T IME
 Da te & T ime 
 UPDAT E_T IME Da te & T ime 
 
-I.115 ´úÀíÉèÖÃÓ¦ÓÃ±í 
+I.115 ä»£ç†è®¾ç½®åº”ç”¨è¡¨ 
 
 Code 
 Comment 
 
 AGENT 
 
-´úÀíÉèÖÃÓ¦ÓÃ±í 
+ä»£ç†è®¾ç½®åº”ç”¨è¡¨ 
 
 Name 
 
@@ -13268,30 +13269,30 @@ CREAT E_DAT E Da te & T ime
 
 FALSE 
 
-µÇÂ¼Ãû 
+ç™»å½•å 
 
 FALSE 
 
-ÃÜÂëÖµ 
+å¯†ç å€¼ 
 
 FALSE 
 
-¼ÓÃÜ²ßÂÔ 
+åŠ å¯†ç­–ç•¥ 
 
 FALSE 
 
-ÃÜÂë³¬ÆÚÊ±¼ä 
+å¯†ç è¶…æœŸæ—¶é—´ 
 
 FALSE 
 FALSE 
 FALSE 
 FALSE 
 
-ÈËÔ± Id 
+äººå‘˜ Id 
 
-ÊÇ·ñÓÐÐ§  1:ÆôÓÃ 0 Í£ÓÃ 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
+æ˜¯å¦æœ‰æ•ˆ  1:å¯ç”¨ 0 åœç”¨ 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
 
 Mandator
 y 
@@ -13302,11 +13303,11 @@ FALSE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-´úÀíÈË ID 
-±»´úÀíÈË ID 
-´úÀíÐÅÏ¢´´½¨Ê±¼ä 
+ä»£ç†äºº ID 
+è¢«ä»£ç†äºº ID 
+ä»£ç†ä¿¡æ¯åˆ›å»ºæ—¶é—´ 
 
 ST ART _DAT E 
 
@@ -13314,7 +13315,7 @@ Da te & T ime
 
 FALSE 
 
-´úÀíÆÚÏÞ¿ªÊ¼Ê±¼ä 
+ä»£ç†æœŸé™å¼€å§‹æ—¶é—´ 
 
 END_DAT E 
 
@@ -13322,49 +13323,49 @@ Da te & T ime
 
 FALSE 
 
-´úÀíÆÚÏÞ½áÊøÊ±¼ä 
+ä»£ç†æœŸé™ç»“æŸæ—¶é—´ 
 
 CANCEL_DAT E Da te & T ime 
 
 FALSE 
 
-´úÀíÐÅÏ¢È¡ÏûÊ±¼ä 
+ä»£ç†ä¿¡æ¯å–æ¶ˆæ—¶é—´ 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-´úÀíÈË ID 
-±»´úÀíÈË ID 
-´úÀíÐÅÏ¢´´½¨Ê±
-¼ä 
-´úÀíÆÚÏÞ¿ªÊ¼Ê±
-¼ä 
-´úÀíÆÚÏÞ½áÊøÊ±
-¼ä 
-´úÀíÐÅÏ¢È¡ÏûÊ±
-¼ä 
-´úÀíÑ¡Ïî 
+ä»£ç†äºº ID 
+è¢«ä»£ç†äºº ID 
+ä»£ç†ä¿¡æ¯åˆ›å»ºæ—¶
+é—´ 
+ä»£ç†æœŸé™å¼€å§‹æ—¶
+é—´ 
+ä»£ç†æœŸé™ç»“æŸæ—¶
+é—´ 
+ä»£ç†ä¿¡æ¯å–æ¶ˆæ—¶
+é—´ 
+ä»£ç†é€‰é¡¹ 
 
-È¡Ïû±ê¼Ç 
-ÊÇ·ñÌáÐÑ 
-ÊÇ·ñÓÐ´úÀíÌáÐÑ
+å–æ¶ˆæ ‡è®° 
+æ˜¯å¦æé†’ 
+æ˜¯å¦æœ‰ä»£ç†æé†’
 
 1 
 
-ÊÇ·ñÓÐ´úÀíÌáÐÑ
+æ˜¯å¦æœ‰ä»£ç†æé†’
 
 2 
 
-´úÀíÀàÐÍ 
+ä»£ç†ç±»åž‹ 
 
-´úÀíÈËËùÊôµ¥Î»
+ä»£ç†äººæ‰€å±žå•ä½
 
 ID 
 
-±»´úÀíÈËËùÊôµ¥
+è¢«ä»£ç†äººæ‰€å±žå•
 
-Î» ID 
+ä½ ID 
 
-²Ù×÷ÀàÐÍ 
+æ“ä½œç±»åž‹ 
 
 AGENT _OPT IO
 N 
@@ -13386,7 +13387,7 @@ T ION
 
 FALSE 
 
-´úÀíÑ¡Ïî 
+ä»£ç†é€‰é¡¹ 
 
 Va ria b le 
 cha ra c te rs (50) 
@@ -13402,29 +13403,29 @@ Sho rt inte g e r
 
 FALSE 
 
-È¡Ïû±ê¼Ç£¬0-Î´È¡Ïû 1-ÒÑÈ¡Ïû 
-ÊÇ·ñÌáÐÑ£¨Î´Ê¹ÓÃ£© 
-ÊÇ·ñÓÐ´úÀíÌáÐÑ £¬0-Ã»ÓÐÌá
-ÐÑ 1-ÓÐÌáÐÑ 
-ÊÇ·ñÓÐ´úÀíÌáÐÑ £¬0-Ã»ÓÐÌá
-ÐÑ 1-ÓÐÌáÐÑ 
-´úÀíÀàÐÍ £¬1-´úÀíÉèÖÃ  2-Àë
-Ö°½»½Ó 
-´úÀíÈËËùÊôµ¥Î» id   
+å–æ¶ˆæ ‡è®°ï¼Œ0-æœªå–æ¶ˆ 1-å·²å–æ¶ˆ 
+æ˜¯å¦æé†’ï¼ˆæœªä½¿ç”¨ï¼‰ 
+æ˜¯å¦æœ‰ä»£ç†æé†’ ï¼Œ0-æ²¡æœ‰æ
+é†’ 1-æœ‰æé†’ 
+æ˜¯å¦æœ‰ä»£ç†æé†’ ï¼Œ0-æ²¡æœ‰æ
+é†’ 1-æœ‰æé†’ 
+ä»£ç†ç±»åž‹ ï¼Œ1-ä»£ç†è®¾ç½®  2-ç¦»
+èŒäº¤æŽ¥ 
+ä»£ç†äººæ‰€å±žå•ä½ id   
 
 Lo ng inte g e r 
 
 FALSE 
 
-±»´úÀíÈËËùÊôµ¥Î» id 
+è¢«ä»£ç†äººæ‰€å±žå•ä½ id 
 
 Sho rt inte g e r 
 
 FALSE 
 
-²Ù×÷ÀàÐÍ £¨0£º±»´úÀíÈË×Ô
-¼º£» 1£º¼¯ÍÅ¹ÜÀíÔ± £»2£ºµ¥
-Î»¹ÜÀíÔ± £© 
+æ“ä½œç±»åž‹ ï¼ˆ0ï¼šè¢«ä»£ç†äººè‡ª
+å·±ï¼› 1ï¼šé›†å›¢ç®¡ç†å‘˜ ï¼›2ï¼šå•
+ä½ç®¡ç†å‘˜ ï¼‰ 
 
 AGENT _T YPE 
 
@@ -13444,14 +13445,14 @@ Pa g e 63
 
 Lo g ica l Da ta Mo de l 
 
-I.116 ´úÀíÏêÏ¸±í 
+I.116 ä»£ç†è¯¦ç»†è¡¨ 
 
 Code 
 Comment 
 
 AGENT_DETAIL 
 
-´úÀíÏêÏ¸±í 
+ä»£ç†è¯¦ç»†è¡¨ 
 
 CT P2.0 
 
@@ -13461,12 +13462,12 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
-´úÀí ID 
+ä¸»é”® ID 
+ä»£ç† ID 
 
-Ó¦ÓÃ 
+åº”ç”¨ 
 
-ÊµÌå ID 
+å®žä½“ ID 
 
 ID 
 AGENT _ID 
@@ -13487,21 +13488,21 @@ FALSE
 T RUE 
 FALSE 
 
-Ö÷¼ü ID 
-´úÀí ID 
+ä¸»é”® ID 
+ä»£ç† ID 
 
-Ó¦ÓÃ 
+åº”ç”¨ 
 
-ÊµÌå ID 
+å®žä½“ ID 
 
-I.117 ÈÎÎñÊÂÏîÀúÊ·±í£¨×ª´¢Ê±£© 
+I.117 ä»»åŠ¡äº‹é¡¹åŽ†å²è¡¨ï¼ˆè½¬å‚¨æ—¶ï¼‰ 
 
 Code 
 Comment 
 
 WF_WORKITEM_HISTORY_HIS 
 
-ÈÎÎñÊÂÏîÀúÊ·±í£¨×ª´¢Ê±£© 
+ä»»åŠ¡äº‹é¡¹åŽ†å²è¡¨ï¼ˆè½¬å‚¨æ—¶ï¼‰ 
 
 Name 
 
@@ -13519,104 +13520,104 @@ T RUE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Á÷³ÌÊµÀýÖ÷¼ü 
-Åú´Î 
-ÈÎÎñÊÂÏîÊýÄ¿ 
-ËùÊôÒýÇæÓò 
-
-FALSE 
-
-ÈÎÎñÊÂÏîÃû³Æ 
+æµç¨‹å®žä¾‹ä¸»é”® 
+æ‰¹æ¬¡ 
+ä»»åŠ¡äº‹é¡¹æ•°ç›® 
+æ‰€å±žå¼•æ“ŽåŸŸ 
 
 FALSE 
 
-Á÷³ÌÊµÀýÃû³Æ 
+ä»»åŠ¡äº‹é¡¹åç§° 
+
+FALSE 
+
+æµç¨‹å®žä¾‹åç§° 
 
 T RUE 
 
-Á÷³ÌÄ£°æ ID 
+æµç¨‹æ¨¡ç‰ˆ ID 
 
 T RUE 
 
-Á÷³ÌÄ£°æË÷Òý 
+æµç¨‹æ¨¡ç‰ˆç´¢å¼• 
 
 FALSE 
 
-Á÷³ÌÄ£°æÃû³Æ 
+æµç¨‹æ¨¡ç‰ˆåç§° 
 
 T RUE 
 
-ËùÊô½Úµã id 
+æ‰€å±žèŠ‚ç‚¹ id 
 
 FALSE 
 
-ËùÊô½ÚµãÃû³Æ 
+æ‰€å±žèŠ‚ç‚¹åç§° 
 
 FALSE 
 
-Ö´ÐÐÈË 
+æ‰§è¡Œäºº 
 
 FALSE 
 
-Íê³ÉÈË 
+å®Œæˆäºº 
 
 FALSE 
 
-ËùÊôÈË 
+æ‰€å±žäºº 
 
 FALSE 
 
-Î¯ÍÐÈË 
+å§”æ‰˜äºº 
 
 FALSE 
 
-´úÀíÈË 
+ä»£ç†äºº 
 
 T RUE 
 T RUE 
 
 le ve lnum 
 
-ÊÇ·ñ¿ÉÒÔÖØÐÂ·ÖÅä 
+æ˜¯å¦å¯ä»¥é‡æ–°åˆ†é… 
 
-0:·ñ 
+0:å¦ 
 
-Ö÷¼ü 
-Á÷³ÌÊµÀýÖ÷¼ü 
-Åú´Î 
-ÈÎÎñÊÂÏîÊýÄ¿ 
-ËùÊôÒýÇæÓò 
+ä¸»é”® 
+æµç¨‹å®žä¾‹ä¸»é”® 
+æ‰¹æ¬¡ 
+ä»»åŠ¡äº‹é¡¹æ•°ç›® 
+æ‰€å±žå¼•æ“ŽåŸŸ 
 
-ÈÎÎñÊÂÏîÃû³Æ 
+ä»»åŠ¡äº‹é¡¹åç§° 
 
-Á÷³ÌÊµÀýÃû³Æ 
+æµç¨‹å®žä¾‹åç§° 
 
-Á÷³ÌÄ£°æ ID 
+æµç¨‹æ¨¡ç‰ˆ ID 
 
-Á÷³ÌÄ£°æË÷Òý 
+æµç¨‹æ¨¡ç‰ˆç´¢å¼• 
 
-Á÷³ÌÄ£°æÃû³Æ 
+æµç¨‹æ¨¡ç‰ˆåç§° 
 
-ËùÊô½Úµã ID 
+æ‰€å±žèŠ‚ç‚¹ ID 
 
-ËùÊô½ÚµãÃû³Æ 
+æ‰€å±žèŠ‚ç‚¹åç§° 
 
-Ö´ÐÐÈË 
+æ‰§è¡Œäºº 
 
-Íê³ÉÈË 
+å®Œæˆäºº 
 
-ËùÊôÈË 
+æ‰€å±žäºº 
 
-Î¯ÍÐÈË 
+å§”æ‰˜äºº 
 
-´úÀíÈË 
+ä»£ç†äºº 
 
 LEVELNUM 
 
-ÊÇ·ñ¿ÉÒÔÖØÐÂ·Ö
-Åä 
+æ˜¯å¦å¯ä»¥é‡æ–°åˆ†
+é… 
 
 NAME 
 
@@ -13692,7 +13693,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-ÊÇ·ñ¿ÉÒÔ»ØÍË 
+æ˜¯å¦å¯ä»¥å›žé€€ 
 
 CANRET URN 
 
@@ -13700,14 +13701,14 @@ Inte g e r
 
 T RUE 
 
-ÊÇ·ñ¿ÉÒÔ»ØÍË 
+æ˜¯å¦å¯ä»¥å›žé€€ 
 
-1:ÊÇ 
+1:æ˜¯ 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
-ÊÇ·ñ¿ÉÒÔ´úÀí 
+æ˜¯å¦å¯ä»¥ä»£ç† 
 
 CANDELEGAT E 
 
@@ -13715,9 +13716,9 @@ Inte g e r
 
 T RUE 
 
-ÊÇ·ñ¿ÉÒÔ´úÀí 
+æ˜¯å¦å¯ä»¥ä»£ç† 
 
-ÊÇ·ñ¿ÉÒÔÎ¯ÍÐ 
+æ˜¯å¦å¯ä»¥å§”æ‰˜ 
 
 CANENT RUST 
 
@@ -13725,9 +13726,9 @@ Inte g e r
 
 T RUE 
 
-ÊÇ·ñ¿ÉÒÔÎ¯ÍÐ 
+æ˜¯å¦å¯ä»¥å§”æ‰˜ 
 
-ÊÇ·ñ¿ÉÒÔ²é¿´ 
+æ˜¯å¦å¯ä»¥æŸ¥çœ‹ 
 
 CANREVIEW 
 
@@ -13735,26 +13736,26 @@ Inte g e r
 
 T RUE 
 
-ÊÇ·ñ¿ÉÒÔ²é¿´ 
+æ˜¯å¦å¯ä»¥æŸ¥çœ‹ 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
-ÏÂÒ»½Úµã×´Ì¬ 
+ä¸‹ä¸€èŠ‚ç‚¹çŠ¶æ€ 
 
 NEXT ST AT US 
 
-ÏÂÒ»½ÚµãÁ¬Ïß
+ä¸‹ä¸€èŠ‚ç‚¹è¿žçº¿
 
 NEXT LINKID 
 
 ID 
 
-Êý¾Ý¼¯ºÏ¶ÔÏó 
-Ö®Ç°×´Ì¬ 
+æ•°æ®é›†åˆå¯¹è±¡ 
+ä¹‹å‰çŠ¶æ€ 
 
 DAT AMAP 
 OLDST AT E 
@@ -13766,59 +13767,59 @@ cha ra c te rs (36)
 Lo ng b ina ry 
 Inte g e r 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
 FALSE 
 
-ÏÂÒ»½Úµã×´Ì¬ 
+ä¸‹ä¸€èŠ‚ç‚¹çŠ¶æ€ 
 
 FALSE 
 
-ÏÂÒ»½ÚµãÁ¬Ïß id 
+ä¸‹ä¸€èŠ‚ç‚¹è¿žçº¿ id 
 
 FALSE 
 FALSE 
 
-Êý¾Ý¼¯ºÏ¶ÔÏó 
-Ö®Ç°×´Ì¬ 
+æ•°æ®é›†åˆå¯¹è±¡ 
+ä¹‹å‰çŠ¶æ€ 
 
-1:È¡Ïû 
+1:å–æ¶ˆ 
 
-2:ÈÎÎñ´¦ÓÚÒÑÍê³É×´Ì¬ 
-3:ÈÎÎñ´¦ÓÚÉú³É´ý·ÖÅä×´Ì¬ 
-4:ÈÎÎñ´¦ÓÚÐèÒªÖØ×ö×´Ì¬ 
-41:ÈÎÎñ´¦ÓÚÐèÒªÖØ×ö×´Ì¬ :Ìá
-½»¸øÎÒ 
-5:ÈÎÎñ´¦ÓÚ´ýÉóºË×´Ì¬ 
-6:ÈÎÎñ´¦ÓÚ¹ÒÆð×´Ì¬ 
-7:ÈÎÎñ´¦ÓÚ´ýÖ´ÐÐ×´Ì¬ 
-8:ÈÎÎñ´¦ÓÚÉú³É´ýÈÏÁì×´Ì¬ 
-9:ÈÎÎñ´¦ÓÚÖÕÖ¹×´Ì¬ 
-µ±Ç°×´Ì¬ 
+2:ä»»åŠ¡å¤„äºŽå·²å®ŒæˆçŠ¶æ€ 
+3:ä»»åŠ¡å¤„äºŽç”Ÿæˆå¾…åˆ†é…çŠ¶æ€ 
+4:ä»»åŠ¡å¤„äºŽéœ€è¦é‡åšçŠ¶æ€ 
+41:ä»»åŠ¡å¤„äºŽéœ€è¦é‡åšçŠ¶æ€ :æ
+äº¤ç»™æˆ‘ 
+5:ä»»åŠ¡å¤„äºŽå¾…å®¡æ ¸çŠ¶æ€ 
+6:ä»»åŠ¡å¤„äºŽæŒ‚èµ·çŠ¶æ€ 
+7:ä»»åŠ¡å¤„äºŽå¾…æ‰§è¡ŒçŠ¶æ€ 
+8:ä»»åŠ¡å¤„äºŽç”Ÿæˆå¾…è®¤é¢†çŠ¶æ€ 
+9:ä»»åŠ¡å¤„äºŽç»ˆæ­¢çŠ¶æ€ 
+å½“å‰çŠ¶æ€ 
 
-1:È¡Ïû 
+1:å–æ¶ˆ 
 
-2:ÈÎÎñ´¦ÓÚÒÑÍê³É×´Ì¬ 
-3:ÈÎÎñ´¦ÓÚÉú³É´ý·ÖÅä×´Ì¬ 
-4:ÈÎÎñ´¦ÓÚÐèÒªÖØ×ö×´Ì¬ 
-41:ÈÎÎñ´¦ÓÚÐèÒªÖØ×ö×´Ì¬ :Ìá
-½»¸øÎÒ 
-5:ÈÎÎñ´¦ÓÚ´ýÉóºË×´Ì¬ 
-6:ÈÎÎñ´¦ÓÚ¹ÒÆð×´Ì¬ 
-7:ÈÎÎñ´¦ÓÚ´ýÖ´ÐÐ×´Ì¬ 
-8:ÈÎÎñ´¦ÓÚÉú³É´ýÈÏÁì×´Ì¬ 
-9:ÈÎÎñ´¦ÓÚÖÕÖ¹×´Ì¬ 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
-´¦ÀíÆÚÏÞ 
-¶¯×÷×´Ì¬ 
+2:ä»»åŠ¡å¤„äºŽå·²å®ŒæˆçŠ¶æ€ 
+3:ä»»åŠ¡å¤„äºŽç”Ÿæˆå¾…åˆ†é…çŠ¶æ€ 
+4:ä»»åŠ¡å¤„äºŽéœ€è¦é‡åšçŠ¶æ€ 
+41:ä»»åŠ¡å¤„äºŽéœ€è¦é‡åšçŠ¶æ€ :æ
+äº¤ç»™æˆ‘ 
+5:ä»»åŠ¡å¤„äºŽå¾…å®¡æ ¸çŠ¶æ€ 
+6:ä»»åŠ¡å¤„äºŽæŒ‚èµ·çŠ¶æ€ 
+7:ä»»åŠ¡å¤„äºŽå¾…æ‰§è¡ŒçŠ¶æ€ 
+8:ä»»åŠ¡å¤„äºŽç”Ÿæˆå¾…è®¤é¢†çŠ¶æ€ 
+9:ä»»åŠ¡å¤„äºŽç»ˆæ­¢çŠ¶æ€ 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
+å¤„ç†æœŸé™ 
+åŠ¨ä½œçŠ¶æ€ 
 
 T RUE 
 
-ÅÅÐò 
+æŽ’åº 
 
-µ±Ç°×´Ì¬ 
+å½“å‰çŠ¶æ€ 
 
 ST AT E 
 
@@ -13826,17 +13827,17 @@ Inte g e r
 
 T RUE 
 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
-´¦ÀíÆÚÏÞ 
-¶¯×÷×´Ì¬ 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
+å¤„ç†æœŸé™ 
+åŠ¨ä½œçŠ¶æ€ 
 
 CREAT EDAT E 
 UPDAT EDAT E 
 DEADLINE 
 ACT IONST AT E 
 
-ÅÅÐò 
+æŽ’åº 
 
 SORT 
 
@@ -13862,14 +13863,14 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-I.118 ÈÎÎñÊÂÏîÀúÊ·±í£¨ÔËÐÐÊ±£© 
+I.118 ä»»åŠ¡äº‹é¡¹åŽ†å²è¡¨ï¼ˆè¿è¡Œæ—¶ï¼‰ 
 
 Code 
 Comment 
 
 WF_WORKITEM_HISTORY 
 
-ÈÎÎñÊÂÏîÀúÊ·±í£¨ÔËÐÐÊ±£© 
+ä»»åŠ¡äº‹é¡¹åŽ†å²è¡¨ï¼ˆè¿è¡Œæ—¶ï¼‰ 
 
 Name 
 
@@ -13887,105 +13888,105 @@ T RUE
 
 Comment 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-Á÷³ÌÊµÀýÖ÷¼ü 
-Åú´Î 
-ÈÎÎñÊÂÏîÊýÄ¿ 
-ËùÊôÒýÇæÓò 
-
-FALSE 
-
-ÈÎÎñÊÂÏîÃû³Æ 
+æµç¨‹å®žä¾‹ä¸»é”® 
+æ‰¹æ¬¡ 
+ä»»åŠ¡äº‹é¡¹æ•°ç›® 
+æ‰€å±žå¼•æ“ŽåŸŸ 
 
 FALSE 
 
-Á÷³ÌÊµÀýÃû³Æ 
+ä»»åŠ¡äº‹é¡¹åç§° 
+
+FALSE 
+
+æµç¨‹å®žä¾‹åç§° 
 
 T RUE 
 
-Á÷³ÌÄ£°æ ID 
+æµç¨‹æ¨¡ç‰ˆ ID 
 
 T RUE 
 
-Á÷³ÌÄ£°æË÷Òý 
+æµç¨‹æ¨¡ç‰ˆç´¢å¼• 
 
 FALSE 
 
-Á÷³ÌÄ£°æÃû³Æ 
+æµç¨‹æ¨¡ç‰ˆåç§° 
 
 T RUE 
 
-ËùÊô½Úµã id 
+æ‰€å±žèŠ‚ç‚¹ id 
 
 FALSE 
 
-ËùÊô½ÚµãÃû³Æ 
+æ‰€å±žèŠ‚ç‚¹åç§° 
 
 FALSE 
 
-Ö´ÐÐÈË 
+æ‰§è¡Œäºº 
 
 FALSE 
 
-Íê³ÉÈË 
+å®Œæˆäºº 
 
 FALSE 
 
-ËùÊôÈË 
+æ‰€å±žäºº 
 
 FALSE 
 
-Î¯ÍÐÈË 
+å§”æ‰˜äºº 
 
 FALSE 
 
-´úÀíÈË 
+ä»£ç†äºº 
 
 T RUE 
 T RUE 
 
 le ve lnum 
 
-ÊÇ·ñ¿ÉÒÔÖØÐÂ·ÖÅä 
+æ˜¯å¦å¯ä»¥é‡æ–°åˆ†é… 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
-Ö÷¼ü 
-Á÷³ÌÊµÀýÖ÷¼ü 
-Åú´Î 
-ÈÎÎñÊÂÏîÊýÄ¿ 
-ËùÊôÒýÇæÓò 
+ä¸»é”® 
+æµç¨‹å®žä¾‹ä¸»é”® 
+æ‰¹æ¬¡ 
+ä»»åŠ¡äº‹é¡¹æ•°ç›® 
+æ‰€å±žå¼•æ“ŽåŸŸ 
 
-ÈÎÎñÊÂÏîÃû³Æ 
+ä»»åŠ¡äº‹é¡¹åç§° 
 
-Á÷³ÌÊµÀýÃû³Æ 
+æµç¨‹å®žä¾‹åç§° 
 
-Á÷³ÌÄ£°æ ID 
+æµç¨‹æ¨¡ç‰ˆ ID 
 
-Á÷³ÌÄ£°æË÷Òý 
+æµç¨‹æ¨¡ç‰ˆç´¢å¼• 
 
-Á÷³ÌÄ£°æÃû³Æ 
+æµç¨‹æ¨¡ç‰ˆåç§° 
 
-ËùÊô½Úµã ID 
+æ‰€å±žèŠ‚ç‚¹ ID 
 
-ËùÊô½ÚµãÃû³Æ 
+æ‰€å±žèŠ‚ç‚¹åç§° 
 
-Ö´ÐÐÈË 
+æ‰§è¡Œäºº 
 
-Íê³ÉÈË 
+å®Œæˆäºº 
 
-ËùÊôÈË 
+æ‰€å±žäºº 
 
-Î¯ÍÐÈË 
+å§”æ‰˜äºº 
 
-´úÀíÈË 
+ä»£ç†äºº 
 
 LEVELNUM 
 
-ÊÇ·ñ¿ÉÒÔÖØÐÂ·Ö
-Åä 
+æ˜¯å¦å¯ä»¥é‡æ–°åˆ†
+é… 
 
 NAME 
 
@@ -14051,7 +14052,7 @@ DELEGAT ER
 LEVELNUM 
 CANREASSIGN 
 
-ÊÇ·ñ¿ÉÒÔ»ØÍË 
+æ˜¯å¦å¯ä»¥å›žé€€ 
 
 CANRET URN 
 
@@ -14059,12 +14060,12 @@ Inte g e r
 
 T RUE 
 
-ÊÇ·ñ¿ÉÒÔ»ØÍË 
+æ˜¯å¦å¯ä»¥å›žé€€ 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
-ÊÇ·ñ¿ÉÒÔ´úÀí 
+æ˜¯å¦å¯ä»¥ä»£ç† 
 
 CANDELEGAT E 
 
@@ -14072,12 +14073,12 @@ Inte g e r
 
 T RUE 
 
-ÊÇ·ñ¿ÉÒÔ´úÀí 
+æ˜¯å¦å¯ä»¥ä»£ç† 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
-ÊÇ·ñ¿ÉÒÔÎ¯ÍÐ 
+æ˜¯å¦å¯ä»¥å§”æ‰˜ 
 
 CANENT RUST 
 
@@ -14085,9 +14086,9 @@ Inte g e r
 
 T RUE 
 
-ÊÇ·ñ¿ÉÒÔÎ¯ÍÐ 
+æ˜¯å¦å¯ä»¥å§”æ‰˜ 
 
-ÊÇ·ñ¿ÉÒÔ²é¿´ 
+æ˜¯å¦å¯ä»¥æŸ¥çœ‹ 
 
 CANREVIEW 
 
@@ -14095,13 +14096,13 @@ Inte g e r
 
 T RUE 
 
-ÊÇ·ñ¿ÉÒÔ²é¿´ 
+æ˜¯å¦å¯ä»¥æŸ¥çœ‹ 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
 Powe rDe s ig ne r 
 
@@ -14113,18 +14114,18 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-ÏÂÒ»½Úµã×´Ì¬ 
+ä¸‹ä¸€èŠ‚ç‚¹çŠ¶æ€ 
 
 NEXT ST AT US 
 
-ÏÂÒ»½ÚµãÁ¬Ïß
+ä¸‹ä¸€èŠ‚ç‚¹è¿žçº¿
 
 NEXT LINKID 
 
 ID 
 
-Êý¾Ý¼¯ºÏ¶ÔÏó 
-Ö®Ç°×´Ì¬ 
+æ•°æ®é›†åˆå¯¹è±¡ 
+ä¹‹å‰çŠ¶æ€ 
 
 DAT AMAP 
 OLDST AT E 
@@ -14138,50 +14139,50 @@ Inte g e r
 
 FALSE 
 
-ÏÂÒ»½Úµã×´Ì¬ 
+ä¸‹ä¸€èŠ‚ç‚¹çŠ¶æ€ 
 
 FALSE 
 
-ÏÂÒ»½ÚµãÁ¬Ïß id 
+ä¸‹ä¸€èŠ‚ç‚¹è¿žçº¿ id 
 
 FALSE 
 FALSE 
 
-Êý¾Ý¼¯ºÏ¶ÔÏó 
-Ö®Ç°×´Ì¬ 
+æ•°æ®é›†åˆå¯¹è±¡ 
+ä¹‹å‰çŠ¶æ€ 
 
-1:È¡Ïû 
+1:å–æ¶ˆ 
 
-2:ÈÎÎñ´¦ÓÚÒÑÍê³É×´Ì¬ 
-3:ÈÎÎñ´¦ÓÚÉú³É´ý·ÖÅä×´Ì¬ 
-4:ÈÎÎñ´¦ÓÚÐèÒªÖØ×ö×´Ì¬ 
-41:ÈÎÎñ´¦ÓÚÐèÒªÖØ×ö×´Ì¬ :Ìá
-½»¸øÎÒ 
-5:ÈÎÎñ´¦ÓÚ´ýÉóºË×´Ì¬ 
-6:ÈÎÎñ´¦ÓÚ¹ÒÆð×´Ì¬ 
-7:ÈÎÎñ´¦ÓÚ´ýÖ´ÐÐ×´Ì¬ 
-8:ÈÎÎñ´¦ÓÚÉú³É´ýÈÏÁì×´Ì¬ 
-9:ÈÎÎñ´¦ÓÚÖÕÖ¹×´Ì¬ 
-µ±Ç°×´Ì¬ 
+2:ä»»åŠ¡å¤„äºŽå·²å®ŒæˆçŠ¶æ€ 
+3:ä»»åŠ¡å¤„äºŽç”Ÿæˆå¾…åˆ†é…çŠ¶æ€ 
+4:ä»»åŠ¡å¤„äºŽéœ€è¦é‡åšçŠ¶æ€ 
+41:ä»»åŠ¡å¤„äºŽéœ€è¦é‡åšçŠ¶æ€ :æ
+äº¤ç»™æˆ‘ 
+5:ä»»åŠ¡å¤„äºŽå¾…å®¡æ ¸çŠ¶æ€ 
+6:ä»»åŠ¡å¤„äºŽæŒ‚èµ·çŠ¶æ€ 
+7:ä»»åŠ¡å¤„äºŽå¾…æ‰§è¡ŒçŠ¶æ€ 
+8:ä»»åŠ¡å¤„äºŽç”Ÿæˆå¾…è®¤é¢†çŠ¶æ€ 
+9:ä»»åŠ¡å¤„äºŽç»ˆæ­¢çŠ¶æ€ 
+å½“å‰çŠ¶æ€ 
 
-1:È¡Ïû 
+1:å–æ¶ˆ 
 
-2:ÈÎÎñ´¦ÓÚÒÑÍê³É×´Ì¬ 
-3:ÈÎÎñ´¦ÓÚÉú³É´ý·ÖÅä×´Ì¬ 
-4:ÈÎÎñ´¦ÓÚÐèÒªÖØ×ö×´Ì¬ 
-41:ÈÎÎñ´¦ÓÚÐèÒªÖØ×ö×´Ì¬ :Ìá
-½»¸øÎÒ 
-5:ÈÎÎñ´¦ÓÚ´ýÉóºË×´Ì¬ 
-6:ÈÎÎñ´¦ÓÚ¹ÒÆð×´Ì¬ 
-7:ÈÎÎñ´¦ÓÚ´ýÖ´ÐÐ×´Ì¬ 
-8:ÈÎÎñ´¦ÓÚÉú³É´ýÈÏÁì×´Ì¬ 
-9:ÈÎÎñ´¦ÓÚÖÕÖ¹×´Ì¬ 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
-´¦ÀíÆÚÏÞ 
-¶¯×÷×´Ì¬ 
+2:ä»»åŠ¡å¤„äºŽå·²å®ŒæˆçŠ¶æ€ 
+3:ä»»åŠ¡å¤„äºŽç”Ÿæˆå¾…åˆ†é…çŠ¶æ€ 
+4:ä»»åŠ¡å¤„äºŽéœ€è¦é‡åšçŠ¶æ€ 
+41:ä»»åŠ¡å¤„äºŽéœ€è¦é‡åšçŠ¶æ€ :æ
+äº¤ç»™æˆ‘ 
+5:ä»»åŠ¡å¤„äºŽå¾…å®¡æ ¸çŠ¶æ€ 
+6:ä»»åŠ¡å¤„äºŽæŒ‚èµ·çŠ¶æ€ 
+7:ä»»åŠ¡å¤„äºŽå¾…æ‰§è¡ŒçŠ¶æ€ 
+8:ä»»åŠ¡å¤„äºŽç”Ÿæˆå¾…è®¤é¢†çŠ¶æ€ 
+9:ä»»åŠ¡å¤„äºŽç»ˆæ­¢çŠ¶æ€ 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
+å¤„ç†æœŸé™ 
+åŠ¨ä½œçŠ¶æ€ 
 
-µ±Ç°×´Ì¬ 
+å½“å‰çŠ¶æ€ 
 
 ST AT E 
 
@@ -14189,17 +14190,17 @@ Inte g e r
 
 T RUE 
 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
-´¦ÀíÆÚÏÞ 
-¶¯×÷×´Ì¬ 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
+å¤„ç†æœŸé™ 
+åŠ¨ä½œçŠ¶æ€ 
 
 CREAT EDAT E 
 UPDAT EDAT E 
 DEADLINE 
 ACT IONST AT E 
 
-ÅÅÐò 
+æŽ’åº 
 
 SORT 
 
@@ -14217,16 +14218,16 @@ FALSE
 
 T RUE 
 
-ÅÅÐò 
+æŽ’åº 
 
-I.119 ÈÎÎñÊÂÏî±í£¨×ª´¢Ê±£© 
+I.119 ä»»åŠ¡äº‹é¡¹è¡¨ï¼ˆè½¬å‚¨æ—¶ï¼‰ 
 
 Code 
 Comment 
 
 WF_WORKITEM_RUN_HIS 
 
-ÈÎÎñÊÂÏî±í£¨×ª´¢Ê±£© 
+ä»»åŠ¡äº‹é¡¹è¡¨ï¼ˆè½¬å‚¨æ—¶ï¼‰ 
 
 Name 
 
@@ -14234,11 +14235,11 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
-Á÷³ÌÊµÀýÖ÷¼ü 
-Åú´Î 
-ÈÎÎñÊÂÏîÊýÄ¿ 
-ËùÊôÒýÇæÓò 
+ä¸»é”® 
+æµç¨‹å®žä¾‹ä¸»é”® 
+æ‰¹æ¬¡ 
+ä»»åŠ¡äº‹é¡¹æ•°ç›® 
+æ‰€å±žå¼•æ“ŽåŸŸ 
 
 ID 
 CASEID 
@@ -14263,12 +14264,12 @@ T RUE
 
 Comment 
 
-Ö÷¼ü id 
+ä¸»é”® id 
 
-Á÷³ÌÊµÀýÖ÷¼ü 
-Åú´Î 
-ÈÎÎñÊÂÏîÊýÄ¿ 
-ËùÊôÒýÇæÓò 
+æµç¨‹å®žä¾‹ä¸»é”® 
+æ‰¹æ¬¡ 
+ä»»åŠ¡äº‹é¡¹æ•°ç›® 
+æ‰€å±žå¼•æ“ŽåŸŸ 
 
 Powe rDe s ig ne r 
 
@@ -14280,34 +14281,34 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-ÈÎÎñÊÂÏîÃû³Æ 
+ä»»åŠ¡äº‹é¡¹åç§° 
 
-Á÷³ÌÊµÀýÃû³Æ 
+æµç¨‹å®žä¾‹åç§° 
 
-Á÷³ÌÄ£°æ ID 
+æµç¨‹æ¨¡ç‰ˆ ID 
 
-Á÷³ÌÄ£°æË÷Òý 
+æµç¨‹æ¨¡ç‰ˆç´¢å¼• 
 
-Á÷³ÌÄ£°æÃû³Æ 
+æµç¨‹æ¨¡ç‰ˆåç§° 
 
-ËùÊô½Úµã ID 
+æ‰€å±žèŠ‚ç‚¹ ID 
 
-ËùÊô½ÚµãÃû³Æ 
+æ‰€å±žèŠ‚ç‚¹åç§° 
 
-Ö´ÐÐÈË 
+æ‰§è¡Œäºº 
 
-Íê³ÉÈË 
+å®Œæˆäºº 
 
-ËùÊôÈË 
+æ‰€å±žäºº 
 
-Î¯ÍÐÈË 
+å§”æ‰˜äºº 
 
-´úÀíÈË 
+ä»£ç†äºº 
 
 LEVELNUM 
 
-ÊÇ·ñ¿ÉÒÔÖØÐÂ·Ö
-Åä 
+æ˜¯å¦å¯ä»¥é‡æ–°åˆ†
+é… 
 
 NAME 
 
@@ -14363,63 +14364,63 @@ DELEGAT ER
 
 FALSE 
 
-ÈÎÎñÊÂÏîÃû³Æ 
+ä»»åŠ¡äº‹é¡¹åç§° 
 
 FALSE 
 
-Á÷³ÌÊµÀýÃû³Æ 
+æµç¨‹å®žä¾‹åç§° 
 
 T RUE 
 
-Á÷³ÌÄ£°æ ID 
+æµç¨‹æ¨¡ç‰ˆ ID 
 
 T RUE 
 
-Á÷³ÌÄ£°æË÷Òý 
+æµç¨‹æ¨¡ç‰ˆç´¢å¼• 
 
 FALSE 
 
-Á÷³ÌÄ£°æÃû³Æ 
+æµç¨‹æ¨¡ç‰ˆåç§° 
 
 T RUE 
 
-ËùÊô½Úµã id 
+æ‰€å±žèŠ‚ç‚¹ id 
 
 FALSE 
 
-ËùÊô½ÚµãÃû³Æ 
+æ‰€å±žèŠ‚ç‚¹åç§° 
 
 FALSE 
 
-Ö´ÐÐÈË 
+æ‰§è¡Œäºº 
 
 FALSE 
 
-Íê³ÉÈË 
+å®Œæˆäºº 
 
 FALSE 
 
-ËùÊôÈË 
+æ‰€å±žäºº 
 
 FALSE 
 
-Î¯ÍÐÈË 
+å§”æ‰˜äºº 
 
 FALSE 
 
-´úÀíÈË 
+ä»£ç†äºº 
 
 T RUE 
 T RUE 
 
 le ve lnum 
 
-ÊÇ·ñ¿ÉÒÔÖØÐÂ·ÖÅä 
+æ˜¯å¦å¯ä»¥é‡æ–°åˆ†é… 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
-ÊÇ·ñ¿ÉÒÔ»ØÍË 
+æ˜¯å¦å¯ä»¥å›žé€€ 
 
 CANRET URN 
 
@@ -14427,12 +14428,12 @@ Inte g e r
 
 T RUE 
 
-ÊÇ·ñ¿ÉÒÔ»ØÍË 
+æ˜¯å¦å¯ä»¥å›žé€€ 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
-ÊÇ·ñ¿ÉÒÔ´úÀí 
+æ˜¯å¦å¯ä»¥ä»£ç† 
 
 CANDELEGAT E 
 
@@ -14440,9 +14441,9 @@ Inte g e r
 
 T RUE 
 
-ÊÇ·ñ¿ÉÒÔ´úÀí 
+æ˜¯å¦å¯ä»¥ä»£ç† 
 
-ÊÇ·ñ¿ÉÒÔÎ¯ÍÐ 
+æ˜¯å¦å¯ä»¥å§”æ‰˜ 
 
 CANENT RUST 
 
@@ -14450,9 +14451,9 @@ Inte g e r
 
 T RUE 
 
-ÊÇ·ñ¿ÉÒÔÎ¯ÍÐ 
+æ˜¯å¦å¯ä»¥å§”æ‰˜ 
 
-ÊÇ·ñ¿ÉÒÔ²é¿´ 
+æ˜¯å¦å¯ä»¥æŸ¥çœ‹ 
 
 CANREVIEW 
 
@@ -14460,26 +14461,26 @@ Inte g e r
 
 T RUE 
 
-ÊÇ·ñ¿ÉÒÔ²é¿´ 
+æ˜¯å¦å¯ä»¥æŸ¥çœ‹ 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
-ÏÂÒ»½Úµã×´Ì¬ 
+ä¸‹ä¸€èŠ‚ç‚¹çŠ¶æ€ 
 
 NEXT ST AT US 
 
-ÏÂÒ»½ÚµãÁ¬Ïß
+ä¸‹ä¸€èŠ‚ç‚¹è¿žçº¿
 
 NEXT LINKID 
 
 ID 
 
-Êý¾Ý¼¯ºÏ¶ÔÏó 
-Ö®Ç°×´Ì¬ 
+æ•°æ®é›†åˆå¯¹è±¡ 
+ä¹‹å‰çŠ¶æ€ 
 
 DAT AMAP 
 OLDST AT E 
@@ -14491,31 +14492,31 @@ cha ra c te rs (36)
 Lo ng b ina ry 
 Inte g e r 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
 FALSE 
 
-ÏÂÒ»½Úµã×´Ì¬ 
+ä¸‹ä¸€èŠ‚ç‚¹çŠ¶æ€ 
 
 FALSE 
 
-ÏÂÒ»½ÚµãÁ¬Ïß id 
+ä¸‹ä¸€èŠ‚ç‚¹è¿žçº¿ id 
 
 FALSE 
 FALSE 
 
-Êý¾Ý¼¯ºÏ¶ÔÏó 
-Ö®Ç°×´Ì¬ 
+æ•°æ®é›†åˆå¯¹è±¡ 
+ä¹‹å‰çŠ¶æ€ 
 
-1:È¡Ïû 
+1:å–æ¶ˆ 
 
-2:ÈÎÎñ´¦ÓÚÒÑÍê³É×´Ì¬ 
-3:ÈÎÎñ´¦ÓÚÉú³É´ý·ÖÅä×´Ì¬ 
-4:ÈÎÎñ´¦ÓÚÐèÒªÖØ×ö×´Ì¬ 
-41:ÈÎÎñ´¦ÓÚÐèÒªÖØ×ö×´Ì¬ :Ìá
-½»¸øÎÒ 
-5:ÈÎÎñ´¦ÓÚ´ýÉóºË×´Ì¬ 
+2:ä»»åŠ¡å¤„äºŽå·²å®ŒæˆçŠ¶æ€ 
+3:ä»»åŠ¡å¤„äºŽç”Ÿæˆå¾…åˆ†é…çŠ¶æ€ 
+4:ä»»åŠ¡å¤„äºŽéœ€è¦é‡åšçŠ¶æ€ 
+41:ä»»åŠ¡å¤„äºŽéœ€è¦é‡åšçŠ¶æ€ :æ
+äº¤ç»™æˆ‘ 
+5:ä»»åŠ¡å¤„äºŽå¾…å®¡æ ¸çŠ¶æ€ 
 
 Powe rDe s ig ne r 
 
@@ -14527,7 +14528,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-µ±Ç°×´Ì¬ 
+å½“å‰çŠ¶æ€ 
 
 ST AT E 
 
@@ -14535,40 +14536,40 @@ Inte g e r
 
 T RUE 
 
-6:ÈÎÎñ´¦ÓÚ¹ÒÆð×´Ì¬ 
-7:ÈÎÎñ´¦ÓÚ´ýÖ´ÐÐ×´Ì¬ 
-8:ÈÎÎñ´¦ÓÚÉú³É´ýÈÏÁì×´Ì¬ 
-9:ÈÎÎñ´¦ÓÚÖÕÖ¹×´Ì¬ 
-µ±Ç°×´Ì¬ 
+6:ä»»åŠ¡å¤„äºŽæŒ‚èµ·çŠ¶æ€ 
+7:ä»»åŠ¡å¤„äºŽå¾…æ‰§è¡ŒçŠ¶æ€ 
+8:ä»»åŠ¡å¤„äºŽç”Ÿæˆå¾…è®¤é¢†çŠ¶æ€ 
+9:ä»»åŠ¡å¤„äºŽç»ˆæ­¢çŠ¶æ€ 
+å½“å‰çŠ¶æ€ 
 
-1:È¡Ïû 
+1:å–æ¶ˆ 
 
-2:ÈÎÎñ´¦ÓÚÒÑÍê³É×´Ì¬ 
-3:ÈÎÎñ´¦ÓÚÉú³É´ý·ÖÅä×´Ì¬ 
-4:ÈÎÎñ´¦ÓÚÐèÒªÖØ×ö×´Ì¬ 
-41:ÈÎÎñ´¦ÓÚÐèÒªÖØ×ö×´Ì¬ :Ìá
-½»¸øÎÒ 
-5:ÈÎÎñ´¦ÓÚ´ýÉóºË×´Ì¬ 
-6:ÈÎÎñ´¦ÓÚ¹ÒÆð×´Ì¬ 
-7:ÈÎÎñ´¦ÓÚ´ýÖ´ÐÐ×´Ì¬ 
-8:ÈÎÎñ´¦ÓÚÉú³É´ýÈÏÁì×´Ì¬ 
-9:ÈÎÎñ´¦ÓÚÖÕÖ¹×´Ì¬ 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
-´¦ÀíÆÚÏÞ 
-¶¯×÷×´Ì¬ 
+2:ä»»åŠ¡å¤„äºŽå·²å®ŒæˆçŠ¶æ€ 
+3:ä»»åŠ¡å¤„äºŽç”Ÿæˆå¾…åˆ†é…çŠ¶æ€ 
+4:ä»»åŠ¡å¤„äºŽéœ€è¦é‡åšçŠ¶æ€ 
+41:ä»»åŠ¡å¤„äºŽéœ€è¦é‡åšçŠ¶æ€ :æ
+äº¤ç»™æˆ‘ 
+5:ä»»åŠ¡å¤„äºŽå¾…å®¡æ ¸çŠ¶æ€ 
+6:ä»»åŠ¡å¤„äºŽæŒ‚èµ·çŠ¶æ€ 
+7:ä»»åŠ¡å¤„äºŽå¾…æ‰§è¡ŒçŠ¶æ€ 
+8:ä»»åŠ¡å¤„äºŽç”Ÿæˆå¾…è®¤é¢†çŠ¶æ€ 
+9:ä»»åŠ¡å¤„äºŽç»ˆæ­¢çŠ¶æ€ 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
+å¤„ç†æœŸé™ 
+åŠ¨ä½œçŠ¶æ€ 
 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
-´¦ÀíÆÚÏÞ 
-¶¯×÷×´Ì¬ 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
+å¤„ç†æœŸé™ 
+åŠ¨ä½œçŠ¶æ€ 
 
 CREAT EDAT E 
 UPDAT EDAT E 
 DEADLINE 
 ACT IONST AT E 
 
-ÅÅÐò 
+æŽ’åº 
 
 SORT 
 
@@ -14579,14 +14580,14 @@ Va ria b le
 cha ra c te rs (500) 
 Inte g e r 
 
-I.120 ÈÎÎñÊÂÏî±í£¨ÔËÐÐÊ±£© 
+I.120 ä»»åŠ¡äº‹é¡¹è¡¨ï¼ˆè¿è¡Œæ—¶ï¼‰ 
 
 Code 
 Comment 
 
 WF_WORKITEM_RUN 
 
-ÈÎÎñÊÂÏî±í£¨ÔËÐÐÊ±£© 
+ä»»åŠ¡äº‹é¡¹è¡¨ï¼ˆè¿è¡Œæ—¶ï¼‰ 
 
 Name 
 
@@ -14594,25 +14595,25 @@ Code
 
 Data Type 
 
-Ö÷¼ü 
-Á÷³ÌÊµÀýÖ÷¼ü 
-Åú´Î 
-ÈÎÎñÊÂÏîÊýÄ¿ 
-ËùÊôÒýÇæÓò 
+ä¸»é”® 
+æµç¨‹å®žä¾‹ä¸»é”® 
+æ‰¹æ¬¡ 
+ä»»åŠ¡äº‹é¡¹æ•°ç›® 
+æ‰€å±žå¼•æ“ŽåŸŸ 
 
-ÈÎÎñÊÂÏîÃû³Æ 
+ä»»åŠ¡äº‹é¡¹åç§° 
 
-Á÷³ÌÊµÀýÃû³Æ 
+æµç¨‹å®žä¾‹åç§° 
 
-Á÷³ÌÄ£°æ ID 
+æµç¨‹æ¨¡ç‰ˆ ID 
 
-Á÷³ÌÄ£°æË÷Òý 
+æµç¨‹æ¨¡ç‰ˆç´¢å¼• 
 
-Á÷³ÌÄ£°æÃû³Æ 
+æµç¨‹æ¨¡ç‰ˆåç§° 
 
-ËùÊô½Úµã ID 
+æ‰€å±žèŠ‚ç‚¹ ID 
 
-ËùÊô½ÚµãÃû³Æ 
+æ‰€å±žèŠ‚ç‚¹åç§° 
 
 NAME 
 
@@ -14660,7 +14661,7 @@ FALSE
 
 T RUE 
 
-ÅÅÐò 
+æŽ’åº 
 
 Mandator
 y 
@@ -14672,40 +14673,40 @@ FALSE
 
 Comment 
 
-Ö÷¼ü id 
+ä¸»é”® id 
 
-Á÷³ÌÊµÀýÖ÷¼ü 
-Åú´Î 
-ÈÎÎñÊÂÏîÊýÄ¿ 
-ËùÊôÒýÇæÓò 
-
-FALSE 
-
-ÈÎÎñÊÂÏîÃû³Æ 
+æµç¨‹å®žä¾‹ä¸»é”® 
+æ‰¹æ¬¡ 
+ä»»åŠ¡äº‹é¡¹æ•°ç›® 
+æ‰€å±žå¼•æ“ŽåŸŸ 
 
 FALSE 
 
-Á÷³ÌÊµÀýÃû³Æ 
+ä»»åŠ¡äº‹é¡¹åç§° 
 
 FALSE 
 
-Á÷³ÌÄ£°æ ID 
+æµç¨‹å®žä¾‹åç§° 
 
 FALSE 
 
-Á÷³ÌÄ£°æË÷Òý 
+æµç¨‹æ¨¡ç‰ˆ ID 
 
 FALSE 
 
-Á÷³ÌÄ£°æÃû³Æ 
+æµç¨‹æ¨¡ç‰ˆç´¢å¼• 
 
 FALSE 
 
-ËùÊô½Úµã id 
+æµç¨‹æ¨¡ç‰ˆåç§° 
 
 FALSE 
 
-ËùÊô½ÚµãÃû³Æ 
+æ‰€å±žèŠ‚ç‚¹ id 
+
+FALSE 
+
+æ‰€å±žèŠ‚ç‚¹åç§° 
 
 Powe rDe s ig ne r 
 
@@ -14717,20 +14718,20 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-Ö´ÐÐÈË 
+æ‰§è¡Œäºº 
 
-Íê³ÉÈË 
+å®Œæˆäºº 
 
-ËùÊôÈË 
+æ‰€å±žäºº 
 
-Î¯ÍÐÈË 
+å§”æ‰˜äºº 
 
-´úÀíÈË 
+ä»£ç†äºº 
 
 LEVELNUM 
 
-ÊÇ·ñ¿ÉÒÔÖØÐÂ·Ö
-Åä 
+æ˜¯å¦å¯ä»¥é‡æ–°åˆ†
+é… 
 
 PERFORMER 
 
@@ -14760,35 +14761,35 @@ Inte g e r
 
 FALSE 
 
-Ö´ÐÐÈË 
+æ‰§è¡Œäºº 
 
 FALSE 
 
-Íê³ÉÈË 
+å®Œæˆäºº 
 
 FALSE 
 
-ËùÊôÈË 
+æ‰€å±žäºº 
 
 FALSE 
 
-Î¯ÍÐÈË 
+å§”æ‰˜äºº 
 
 FALSE 
 
-´úÀíÈË 
+ä»£ç†äºº 
 
 FALSE 
 FALSE 
 
 le ve lnum 
 
-ÊÇ·ñ¿ÉÒÔÖØÐÂ·ÖÅä 
+æ˜¯å¦å¯ä»¥é‡æ–°åˆ†é… 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
-ÊÇ·ñ¿ÉÒÔ»ØÍË 
+æ˜¯å¦å¯ä»¥å›žé€€ 
 
 CANRET URN 
 
@@ -14796,12 +14797,12 @@ Inte g e r
 
 FALSE 
 
-ÊÇ·ñ¿ÉÒÔ»ØÍË 
+æ˜¯å¦å¯ä»¥å›žé€€ 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
-ÊÇ·ñ¿ÉÒÔ´úÀí 
+æ˜¯å¦å¯ä»¥ä»£ç† 
 
 CANDELEGAT E 
 
@@ -14809,9 +14810,9 @@ Inte g e r
 
 FALSE 
 
-ÊÇ·ñ¿ÉÒÔ´úÀí 
+æ˜¯å¦å¯ä»¥ä»£ç† 
 
-ÊÇ·ñ¿ÉÒÔÎ¯ÍÐ 
+æ˜¯å¦å¯ä»¥å§”æ‰˜ 
 
 CANENT RUST 
 
@@ -14819,15 +14820,15 @@ Inte g e r
 
 FALSE 
 
-ÊÇ·ñ¿ÉÒÔÎ¯ÍÐ 
+æ˜¯å¦å¯ä»¥å§”æ‰˜ 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
-ÊÇ·ñ¿ÉÒÔ²é¿´ 
+æ˜¯å¦å¯ä»¥æŸ¥çœ‹ 
 
 CANREVIEW 
 
@@ -14835,20 +14836,20 @@ Inte g e r
 
 FALSE 
 
-ÊÇ·ñ¿ÉÒÔ²é¿´ 
+æ˜¯å¦å¯ä»¥æŸ¥çœ‹ 
 
-ÏÂÒ»½Úµã×´Ì¬ 
+ä¸‹ä¸€èŠ‚ç‚¹çŠ¶æ€ 
 
 NEXT ST AT US 
 
-ÏÂÒ»½ÚµãÁ¬Ïß
+ä¸‹ä¸€èŠ‚ç‚¹è¿žçº¿
 
 NEXT LINKID 
 
 ID 
 
-Êý¾Ý¼¯ºÏ¶ÔÏó 
-Ö®Ç°×´Ì¬ 
+æ•°æ®é›†åˆå¯¹è±¡ 
+ä¹‹å‰çŠ¶æ€ 
 
 DAT AMAP 
 OLDST AT E 
@@ -14860,26 +14861,26 @@ cha ra c te rs (36)
 Lo ng b ina ry 
 Inte g e r 
 
-0:·ñ 
-1:ÊÇ 
+0:å¦ 
+1:æ˜¯ 
 
 FALSE 
 
-ÏÂÒ»½Úµã×´Ì¬ 
+ä¸‹ä¸€èŠ‚ç‚¹çŠ¶æ€ 
 
 FALSE 
 
-ÏÂÒ»½ÚµãÁ¬Ïß id 
+ä¸‹ä¸€èŠ‚ç‚¹è¿žçº¿ id 
 
 FALSE 
 FALSE 
 
-Êý¾Ý¼¯ºÏ¶ÔÏó 
-Ö®Ç°×´Ì¬ 
+æ•°æ®é›†åˆå¯¹è±¡ 
+ä¹‹å‰çŠ¶æ€ 
 
-1:È¡Ïû 
+1:å–æ¶ˆ 
 
-µ±Ç°×´Ì¬ 
+å½“å‰çŠ¶æ€ 
 
 ST AT E 
 
@@ -14887,25 +14888,25 @@ Inte g e r
 
 FALSE 
 
-2:ÈÎÎñ´¦ÓÚÒÑÍê³É×´Ì¬ 
-3:ÈÎÎñ´¦ÓÚÉú³É´ý·ÖÅä×´Ì¬ 
-4:ÈÎÎñ´¦ÓÚÐèÒªÖØ×ö×´Ì¬ 
-41:ÈÎÎñ´¦ÓÚÐèÒªÖØ×ö×´Ì¬ :Ìá
-½»¸øÎÒ 
-5:ÈÎÎñ´¦ÓÚ´ýÉóºË×´Ì¬ 
-6:ÈÎÎñ´¦ÓÚ¹ÒÆð×´Ì¬ 
-7:ÈÎÎñ´¦ÓÚ´ýÖ´ÐÐ×´Ì¬ 
-8:ÈÎÎñ´¦ÓÚÉú³É´ýÈÏÁì×´Ì¬ 
-9:ÈÎÎñ´¦ÓÚÖÕÖ¹×´Ì¬ 
-µ±Ç°×´Ì¬ 
+2:ä»»åŠ¡å¤„äºŽå·²å®ŒæˆçŠ¶æ€ 
+3:ä»»åŠ¡å¤„äºŽç”Ÿæˆå¾…åˆ†é…çŠ¶æ€ 
+4:ä»»åŠ¡å¤„äºŽéœ€è¦é‡åšçŠ¶æ€ 
+41:ä»»åŠ¡å¤„äºŽéœ€è¦é‡åšçŠ¶æ€ :æ
+äº¤ç»™æˆ‘ 
+5:ä»»åŠ¡å¤„äºŽå¾…å®¡æ ¸çŠ¶æ€ 
+6:ä»»åŠ¡å¤„äºŽæŒ‚èµ·çŠ¶æ€ 
+7:ä»»åŠ¡å¤„äºŽå¾…æ‰§è¡ŒçŠ¶æ€ 
+8:ä»»åŠ¡å¤„äºŽç”Ÿæˆå¾…è®¤é¢†çŠ¶æ€ 
+9:ä»»åŠ¡å¤„äºŽç»ˆæ­¢çŠ¶æ€ 
+å½“å‰çŠ¶æ€ 
 
-1:È¡Ïû 
+1:å–æ¶ˆ 
 
-2:ÈÎÎñ´¦ÓÚÒÑÍê³É×´Ì¬ 
-3:ÈÎÎñ´¦ÓÚÉú³É´ý·ÖÅä×´Ì¬ 
-4:ÈÎÎñ´¦ÓÚÐèÒªÖØ×ö×´Ì¬ 
-41:ÈÎÎñ´¦ÓÚÐèÒªÖØ×ö×´Ì¬ :Ìá
-½»¸øÎÒ 
+2:ä»»åŠ¡å¤„äºŽå·²å®ŒæˆçŠ¶æ€ 
+3:ä»»åŠ¡å¤„äºŽç”Ÿæˆå¾…åˆ†é…çŠ¶æ€ 
+4:ä»»åŠ¡å¤„äºŽéœ€è¦é‡åšçŠ¶æ€ 
+41:ä»»åŠ¡å¤„äºŽéœ€è¦é‡åšçŠ¶æ€ :æ
+äº¤ç»™æˆ‘ 
 
 Powe rDe s ig ne r 
 
@@ -14917,15 +14918,15 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-5:ÈÎÎñ´¦ÓÚ´ýÉóºË×´Ì¬ 
-6:ÈÎÎñ´¦ÓÚ¹ÒÆð×´Ì¬ 
-7:ÈÎÎñ´¦ÓÚ´ýÖ´ÐÐ×´Ì¬ 
-8:ÈÎÎñ´¦ÓÚÉú³É´ýÈÏÁì×´Ì¬ 
-9:ÈÎÎñ´¦ÓÚÖÕÖ¹×´Ì¬ 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
-´¦ÀíÆÚÏÞ 
-¶¯×÷×´Ì¬ 
+5:ä»»åŠ¡å¤„äºŽå¾…å®¡æ ¸çŠ¶æ€ 
+6:ä»»åŠ¡å¤„äºŽæŒ‚èµ·çŠ¶æ€ 
+7:ä»»åŠ¡å¤„äºŽå¾…æ‰§è¡ŒçŠ¶æ€ 
+8:ä»»åŠ¡å¤„äºŽç”Ÿæˆå¾…è®¤é¢†çŠ¶æ€ 
+9:ä»»åŠ¡å¤„äºŽç»ˆæ­¢çŠ¶æ€ 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
+å¤„ç†æœŸé™ 
+åŠ¨ä½œçŠ¶æ€ 
 
 FALSE 
 FALSE 
@@ -14934,7 +14935,7 @@ FALSE
 
 FALSE 
 
-ÅÅÐò 
+æŽ’åº 
 
 Mandator
 y 
@@ -14943,12 +14944,12 @@ T RUE
 
 Comment 
 
-ÈÎÎñÖ÷¼ü ID 
-ÈÎÎñ±êÌâ 
+ä»»åŠ¡ä¸»é”® ID 
+ä»»åŠ¡æ ‡é¢˜ 
 
 T RUE 
 
-ÈÎÎñ¼Æ»®¿ªÊ¼Ê±¼ä 
+ä»»åŠ¡è®¡åˆ’å¼€å§‹æ—¶é—´ 
 
 Lo ng inte g e r 
 Va ria b le 
@@ -14959,7 +14960,7 @@ Da te & T ime
 
 T RUE 
 
-ÈÎÎñ¼Æ»®½áÊøÊ±¼ä 
+ä»»åŠ¡è®¡åˆ’ç»“æŸæ—¶é—´ 
 
 Numb e r (3) 
 Da te & T ime 
@@ -14967,38 +14968,38 @@ Da te & T ime
 T RUE 
 FALSE 
 
-ÊÇ·ñÎªÈ«ÈÕÊÂ¼þ 
-ÈÎÎñÊµ¼Ê¿ªÊ¼Ê±¼ä 
+æ˜¯å¦ä¸ºå…¨æ—¥äº‹ä»¶ 
+ä»»åŠ¡å®žé™…å¼€å§‹æ—¶é—´ 
 
 Da te & T ime 
 
 FALSE 
 
-ÈÎÎñÊµ¼Ê½áÊøÊ±¼ä 
+ä»»åŠ¡å®žé™…ç»“æŸæ—¶é—´ 
 
 Numb e r (10) 
 
 T RUE 
 
-¿ªÊ¼Ç°ÌáÐÑÊ±¼ä¼ä¸ô 
+å¼€å§‹å‰æé†’æ—¶é—´é—´éš” 
 
 Numb e r (10) 
 
 T RUE 
 
-½áÊøÇ°ÌáÐÑÊ±¼ä¼ä¸ô 
+ç»“æŸå‰æé†’æ—¶é—´é—´éš” 
 
-´´½¨Ê±¼ä 
-¸üÐÂÊ±¼ä 
-´¦ÀíÆÚÏÞ 
-¶¯×÷×´Ì¬ 
+åˆ›å»ºæ—¶é—´ 
+æ›´æ–°æ—¶é—´ 
+å¤„ç†æœŸé™ 
+åŠ¨ä½œçŠ¶æ€ 
 
 CREAT EDAT E 
 UPDAT EDAT E 
 DEADLINE 
 ACT IONST AT E 
 
-ÅÅÐò 
+æŽ’åº 
 
 SORT 
 
@@ -15009,14 +15010,14 @@ Va ria b le
 cha ra c te rs (500) 
 Inte g e r 
 
-I.121 ÈÎÎñÐÅÏ¢Ö÷±í 
+I.121 ä»»åŠ¡ä¿¡æ¯ä¸»è¡¨ 
 
 Code 
 Comment 
 
 TASK_INFO 
 
-ÈÎÎñÐÅÏ¢Ö÷±í 
+ä»»åŠ¡ä¿¡æ¯ä¸»è¡¨ 
 
 Name 
 
@@ -15024,17 +15025,17 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-ÈÎÎñ±êÌâ 
+ä»»åŠ¡æ ‡é¢˜ 
 
 ID 
 SUBJECT 
 
-ÈÎÎñ¼Æ»®¿ªÊ¼Ê±
-¼ä 
-ÈÎÎñ¼Æ»®½áÊøÊ±
-¼ä 
+ä»»åŠ¡è®¡åˆ’å¼€å§‹æ—¶
+é—´ 
+ä»»åŠ¡è®¡åˆ’ç»“æŸæ—¶
+é—´ 
 
 PLANNED_ST A
 RT _T IME 
@@ -15042,7 +15043,7 @@ RT _T IME
 PLANNED_END
 _T IME 
 
-ÊÇ·ñÎªÈ«ÈÕÊÂ¼þ FULL_T IME 
+æ˜¯å¦ä¸ºå…¨æ—¥äº‹ä»¶ FULL_T IME 
 ACT UAL_ST AR
 T _T IME 
 
@@ -15055,22 +15056,22 @@ T _T IME
 REMIND_END_
 T IME 
 
-ÈÎÎñÊµ¼Ê¿ªÊ¼Ê±
-¼ä 
-ÈÎÎñÊµ¼Ê½áÊøÊ±
-¼ä 
-¿ªÊ¼Ç°ÌáÐÑÊ±¼ä
-¼ä¸ô 
-½áÊøÇ°ÌáÐÑÊ±¼ä
-¼ä¸ô 
-ÈÎÎñ´´½¨ÈË 
-ÈÎÎñ´´½¨Ê±¼ä 
-ÈÎÎñ¸ºÔðÈË 
-ÈÎÎñ²ÎÓëÈË 
+ä»»åŠ¡å®žé™…å¼€å§‹æ—¶
+é—´ 
+ä»»åŠ¡å®žé™…ç»“æŸæ—¶
+é—´ 
+å¼€å§‹å‰æé†’æ—¶é—´
+é—´éš” 
+ç»“æŸå‰æé†’æ—¶é—´
+é—´éš” 
+ä»»åŠ¡åˆ›å»ºäºº 
+ä»»åŠ¡åˆ›å»ºæ—¶é—´ 
+ä»»åŠ¡è´Ÿè´£äºº 
+ä»»åŠ¡å‚ä¸Žäºº 
 
-ÈÎÎñÐÞ¸ÄÈË 
-ÈÎÎñÐÞ¸ÄÊ±¼ä 
-ÈÎÎñÖØÒª³Ì¶È 
+ä»»åŠ¡ä¿®æ”¹äºº 
+ä»»åŠ¡ä¿®æ”¹æ—¶é—´ 
+ä»»åŠ¡é‡è¦ç¨‹åº¦ 
 
 CREAT E_USER Lo ng inte g e r 
 CREAT E_T IME 
@@ -15095,7 +15096,7 @@ T RUE
 T RUE 
 T RUE 
 
-ÈÎÎñ×´Ì¬ 
+ä»»åŠ¡çŠ¶æ€ 
 
 ST AT US 
 
@@ -15103,7 +15104,7 @@ Numb e r (3)
 
 T RUE 
 
-¼Æ»®ÈÎÎñ¹¤Ê± 
+è®¡åˆ’ä»»åŠ¡å·¥æ—¶ 
 
 PLANNED_T AS
 K_T IME 
@@ -15112,19 +15113,19 @@ Flo a t
 
 T RUE 
 
-ÈÎÎñ´´½¨ÈË 
-ÈÎÎñ´´½¨Ê±¼ä 
-ÈÎÎñ¸ºÔðÈË 
-ÈÎÎñ²ÎÓëÈË 
+ä»»åŠ¡åˆ›å»ºäºº 
+ä»»åŠ¡åˆ›å»ºæ—¶é—´ 
+ä»»åŠ¡è´Ÿè´£äºº 
+ä»»åŠ¡å‚ä¸Žäºº 
 
-ÈÎÎñÐÞ¸ÄÈË 
-ÈÎÎñÐÞ¸ÄÊ±¼ä 
-ÈÎÎñÖØÒª³Ì¶È£¨1.ÖØÒª½ô¼±£»
-2.²»ÖØÒª½ô¼±£»3.ÖØÒª²»½ô
-¼±£»4.²»ÖØÒª²»½ô¼±£© 
-ÈÎÎñ×´Ì¬(1:Î´¿ªÊ¼£»2:½øÐÐ
-ÖÐ£»4:ÒÑÍê³É£»5:ÒÑÈ¡Ïû ) 
-¼Æ»®ÈÎÎñ¹¤Ê± 
+ä»»åŠ¡ä¿®æ”¹äºº 
+ä»»åŠ¡ä¿®æ”¹æ—¶é—´ 
+ä»»åŠ¡é‡è¦ç¨‹åº¦ï¼ˆ1.é‡è¦ç´§æ€¥ï¼›
+2.ä¸é‡è¦ç´§æ€¥ï¼›3.é‡è¦ä¸ç´§
+æ€¥ï¼›4.ä¸é‡è¦ä¸ç´§æ€¥ï¼‰ 
+ä»»åŠ¡çŠ¶æ€(1:æœªå¼€å§‹ï¼›2:è¿›è¡Œ
+ä¸­ï¼›4:å·²å®Œæˆï¼›5:å·²å–æ¶ˆ ) 
+è®¡åˆ’ä»»åŠ¡å·¥æ—¶ 
 
 Powe rDe s ig ne r 
 
@@ -15151,7 +15152,7 @@ Flo a t
 
 FALSE 
 
-Êµ¼ÊÈÎÎñ¹¤Ê± 
+å®žé™…ä»»åŠ¡å·¥æ—¶ 
 
 Flo a t 
 Numb e r (3) 
@@ -15159,8 +15160,8 @@ Numb e r (3)
 T RUE 
 T RUE 
 
-Íê³É°Ù·ÖÂÊ 
-ÈÎÎñ·çÏÕ¼¶±ð£¨0: ÎÞ£»1:µÍ£»
+å®Œæˆç™¾åˆ†çŽ‡ 
+ä»»åŠ¡é£Žé™©çº§åˆ«ï¼ˆ0: æ— ï¼›1:ä½Žï¼›
 
 Numb e r (3) 
 
@@ -15170,15 +15171,15 @@ Numb e r (3)
 
 T RUE 
 
-2:ÖÐ£»3:¸ß£© 
+2:ä¸­ï¼›3:é«˜ï¼‰ 
 
-ÊÇ·ñ°üº¬¸½¼þ(1:ÓÐ¸½¼þ£»0 :²»
-´æÔÚ¸½¼þ) 
-ÊÇ·ñµ¼Èëµ½ÈÕ³ÌÊÓÍ¼(ÔÝ²»Ê¹
+æ˜¯å¦åŒ…å«é™„ä»¶(1:æœ‰é™„ä»¶ï¼›0 :ä¸
+å­˜åœ¨é™„ä»¶) 
+æ˜¯å¦å¯¼å…¥åˆ°æ—¥ç¨‹è§†å›¾(æš‚ä¸ä½¿
 
 Lo ng inte g e r 
 
-ÉÏ¼¶ÈÎÎñ±êÌâ 
+ä¸Šçº§ä»»åŠ¡æ ‡é¢˜ 
 
 PARENT _T ASK
 _ID 
@@ -15186,60 +15187,60 @@ PARENT _T ASK
 Va ria b le 
 _SUBJECT 
 cha ra c te rs (255) 
-ÈÎÎñµÄÂß¼­Â·¾¶ LOGICAL_PAT H Va ria b le 
+ä»»åŠ¡çš„é€»è¾‘è·¯å¾„ LOGICAL_PAT H Va ria b le 
 cha ra c te rs (500) 
 Numb e r (3) 
 
-ÓÃ) 
+ç”¨) 
 
 T RUE 
 
-ÉÏ¼¶ÈÎÎñ ID 
+ä¸Šçº§ä»»åŠ¡ ID 
 
 FALSE 
 
-ÉÏ¼¶ÈÎÎñ±êÌâ 
+ä¸Šçº§ä»»åŠ¡æ ‡é¢˜ 
 
 T RUE 
 
-ÈÎÎñµÄÂß¼­Â·¾¶ 
+ä»»åŠ¡çš„é€»è¾‘è·¯å¾„ 
 
 T RUE 
 
-ÈÎÎñµÄÂß¼­²ã¼¶Éî¶È 
+ä»»åŠ¡çš„é€»è¾‘å±‚çº§æ·±åº¦ 
 
-Êµ¼ÊÈÎÎñ¹¤Ê± 
+å®žé™…ä»»åŠ¡å·¥æ—¶ 
 
-Íê³É°Ù·ÖÂÊ 
-ÈÎÎñ·çÏÕ¼¶±ð 
+å®Œæˆç™¾åˆ†çŽ‡ 
+ä»»åŠ¡é£Žé™©çº§åˆ« 
 
-ÊÇ·ñ°üº¬¸½¼þ 
+æ˜¯å¦åŒ…å«é™„ä»¶ 
 
-ÊÇ·ñµ¼Èëµ½ÈÕ³Ì
-ÊÓÍ¼ 
-ÉÏ¼¶ÈÎÎñ ID 
+æ˜¯å¦å¯¼å…¥åˆ°æ—¥ç¨‹
+è§†å›¾ 
+ä¸Šçº§ä»»åŠ¡ ID 
 
-ÈÎÎñµÄÂß¼­²ã¼¶
-Éî¶È 
-¹ØÁªµÄÏîÄ¿ ID 
-¹ØÁªµÄÏîÄ¿½×¶Î
+ä»»åŠ¡çš„é€»è¾‘å±‚çº§
+æ·±åº¦ 
+å…³è”çš„é¡¹ç›® ID 
+å…³è”çš„é¡¹ç›®é˜¶æ®µ
 
 ID 
 
-È¨ÖØ 
+æƒé‡ 
 
-ÓÃÓÚÅÐ¶ÏÊÇ·ñÊÇ
-Àï³Ì±®ÈÎÎñ 
-¼ì²éÈË±àºÅ 
+ç”¨äºŽåˆ¤æ–­æ˜¯å¦æ˜¯
+é‡Œç¨‹ç¢‘ä»»åŠ¡ 
+æ£€æŸ¥äººç¼–å· 
 
-µ¥Î» ID 
+å•ä½ ID 
 
-ÓÃÓÚ±£´æÆäËûÒµ
-Îñ×ªÈÎÎñµÄÀ´Ô´
-±àºÅ 
-ÓÃÓÚ±£´æÆäËûÒµ
-Îñ×ªÈÎÎñµÄÀ´Ô´
-ÀàÐÍ 
+ç”¨äºŽä¿å­˜å…¶ä»–ä¸š
+åŠ¡è½¬ä»»åŠ¡çš„æ¥æº
+ç¼–å· 
+ç”¨äºŽä¿å­˜å…¶ä»–ä¸š
+åŠ¡è½¬ä»»åŠ¡çš„æ¥æº
+ç±»åž‹ 
 
 LOGICAL_DEPT
 H 
@@ -15255,8 +15256,8 @@ Lo ng inte g e r
 T RUE 
 T RUE 
 
-¹ØÁªµÄÏîÄ¿ ID 
-¹ØÁªµÄÏîÄ¿½×¶Î ID 
+å…³è”çš„é¡¹ç›® ID 
+å…³è”çš„é¡¹ç›®é˜¶æ®µ ID 
 
 Flo a t 
 
@@ -15287,41 +15288,41 @@ SOURCE_T YPE Sho rt inte g e r
 
 T RUE 
 
-È¨ÖØ£¬ÓÃÓÚÉèÖÃ×ÓÈÎÎñËùÕ¼±È
-Àý 
-ÓÃÓÚÅÐ¶ÏÊÇ·ñÊÇÀï³Ì±®ÈÎÎñ£¬
-1 ´ú±íÊÇ£¬0 ´ú±í·ñ 
-ÓÃÓÚ±£´æ¼ì²éÈË±àºÅ 
-ÓÃÓÚ±£´æ»ã±¨ÈËËùÔÚµ¥Î»µÄ±à
-ºÅ 
-ÓÃÓÚ±£´æÆäËûÒµÎñ×ªÈÎÎñµÄÀ´
-Ô´±àºÅ 
+æƒé‡ï¼Œç”¨äºŽè®¾ç½®å­ä»»åŠ¡æ‰€å æ¯”
+ä¾‹ 
+ç”¨äºŽåˆ¤æ–­æ˜¯å¦æ˜¯é‡Œç¨‹ç¢‘ä»»åŠ¡ï¼Œ
+1 ä»£è¡¨æ˜¯ï¼Œ0 ä»£è¡¨å¦ 
+ç”¨äºŽä¿å­˜æ£€æŸ¥äººç¼–å· 
+ç”¨äºŽä¿å­˜æ±‡æŠ¥äººæ‰€åœ¨å•ä½çš„ç¼–
+å· 
+ç”¨äºŽä¿å­˜å…¶ä»–ä¸šåŠ¡è½¬ä»»åŠ¡çš„æ¥
+æºç¼–å· 
 
-ÓÃÓÚ±£´æÆäËûÒµÎñ×ªÈÎÎñµÄÀ´
-Ô´ÀàÐÍ 
-0£ºÈ«¾Ö 
- 1£ºÐ­Í¬Ó¦ÓÃ 
- 2£º±íµ¥ 
- 3£ºÖªÊ¶¹ÜÀí 
- 4£º¹«ÎÄ 
- 5£º¼Æ»® 
- 6£º»áÒé 
- 7£º¹«¸æ 
- 8£ºÐÂÎÅ 
- 9£ºÌÖÂÛ 
+ç”¨äºŽä¿å­˜å…¶ä»–ä¸šåŠ¡è½¬ä»»åŠ¡çš„æ¥
+æºç±»åž‹ 
+0ï¼šå…¨å±€ 
+ 1ï¼šååŒåº”ç”¨ 
+ 2ï¼šè¡¨å• 
+ 3ï¼šçŸ¥è¯†ç®¡ç† 
+ 4ï¼šå…¬æ–‡ 
+ 5ï¼šè®¡åˆ’ 
+ 6ï¼šä¼šè®® 
+ 7ï¼šå…¬å‘Š 
+ 8ï¼šæ–°é—» 
+ 9ï¼šè®¨è®º 
 
- 10£ºµ÷²é 
+ 10ï¼šè°ƒæŸ¥ 
 
- 11£ºÈÕ³ÌÊÂ¼þ 
+ 11ï¼šæ—¥ç¨‹äº‹ä»¶ 
 
- 12£ºÓÊ¼þ 
- 13:×éÖ¯Ä£ÐÍ 
- 14£ºÏîÄ¿ 
+ 12ï¼šé‚®ä»¶ 
+ 13:ç»„ç»‡æ¨¡åž‹ 
+ 14ï¼šé¡¹ç›® 
 
- 15£º¹ØÁªÈËÔ± 
+ 15ï¼šå…³è”äººå‘˜ 
 
- 16£º½»»» 
- 17 :ÈËÁ¦×ÊÔ´ 
+ 16ï¼šäº¤æ¢ 
+ 17 :äººåŠ›èµ„æº 
 
 Powe rDe s ig ne r 
 
@@ -15333,60 +15334,60 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
- 18 :²©¿Í 
- 19 :·¢ÎÄ 
- 20 :ÊÕÎÄ 
- 21 :Ç©±¨  
- 22 :´ý·¢ËÍ¹«ÎÄ 
- 23 :´ýÇ©ÊÕ¹«ÎÄ 
- 24 :´ýµÇ¼Ç¹«ÎÄ 
- 25 :ÔÚÏß½»Á÷ 
- 26:×ÛºÏ°ì¹« 
- 27:´úÀíÉèÖÃ 
- 28 :ÃÜÂëÐÞ¸Ä 
- 29 :»áÒéÊÒ 
- 30 :ÈÎÎñ¹ÜÀí 
- 31 :ÁôÑÔ°å 
- 32 :ÐÅÏ¢±¨ ËÍ 
- 33  :ÐÅÏ¢±¨ËÍÍ³¼Æ 
- 34:ÊÕÎÄ·Ö·¢ 
- 35  :¹«Ê¾°å 
- 36 : Ç©µ½ 
- 37 :ÒÆ¶¯Ó¦ÓÃ½ÓÈë-html5 Ó¦ÓÃ
+ 18 :åšå®¢ 
+ 19 :å‘æ–‡ 
+ 20 :æ”¶æ–‡ 
+ 21 :ç­¾æŠ¥  
+ 22 :å¾…å‘é€å…¬æ–‡ 
+ 23 :å¾…ç­¾æ”¶å…¬æ–‡ 
+ 24 :å¾…ç™»è®°å…¬æ–‡ 
+ 25 :åœ¨çº¿äº¤æµ 
+ 26:ç»¼åˆåŠžå…¬ 
+ 27:ä»£ç†è®¾ç½® 
+ 28 :å¯†ç ä¿®æ”¹ 
+ 29 :ä¼šè®®å®¤ 
+ 30 :ä»»åŠ¡ç®¡ç† 
+ 31 :ç•™è¨€æ¿ 
+ 32 :ä¿¡æ¯æŠ¥ é€ 
+ 33  :ä¿¡æ¯æŠ¥é€ç»Ÿè®¡ 
+ 34:æ”¶æ–‡åˆ†å‘ 
+ 35  :å…¬ç¤ºæ¿ 
+ 36 : ç­¾åˆ° 
+ 37 :ç§»åŠ¨åº”ç”¨æŽ¥å…¥-html5 åº”ç”¨
 
-°ü 
+åŒ… 
 
- 38 :sa p ²å¼þ 
- 39 :µÚÈý·½ÕûºÏ 
-Ô´ ID 
-
-Lo ng inte g e r 
-
-FALSE 
+ 38 :sa p æ’ä»¶ 
+ 39 :ç¬¬ä¸‰æ–¹æ•´åˆ 
+æº ID 
 
 Lo ng inte g e r 
 
 FALSE 
 
-ÈÎÎñ¸ù ID 
+Lo ng inte g e r 
 
-Ô´ ID 
+FALSE 
 
-ÈÎÎñ¸ù ID 
+ä»»åŠ¡æ ¹ ID 
+
+æº ID 
+
+ä»»åŠ¡æ ¹ ID 
 
 SOURCE_REC
 ORD_ID 
 ROOT _T ASK_I
 D 
 
-I.122 ÈÎÎñÄÚÈÝ±í 
+I.122 ä»»åŠ¡å†…å®¹è¡¨ 
 
 Code 
 Comment 
 
 TASK_INFO_BODY 
 
-ÈÎÎñÄÚÈÝ±í 
+ä»»åŠ¡å†…å®¹è¡¨ 
 
 Name 
 
@@ -15394,12 +15395,12 @@ Code
 
 Data Type 
 
-Ö÷¼ü ID 
+ä¸»é”® ID 
 
-ÈÎÎñÄÚÈÝ 
-ÈÎÎñÄÚÈÝÐ´ÈëÊ±
-¼ä 
-ÈÎÎñÕýÎÄÀàÐÍ 
+ä»»åŠ¡å†…å®¹ 
+ä»»åŠ¡å†…å®¹å†™å…¥æ—¶
+é—´ 
+ä»»åŠ¡æ­£æ–‡ç±»åž‹ 
 
 ID 
 Lo ng inte g e r 
@@ -15412,7 +15413,7 @@ BODY_T YPE
 Va ria b le 
 cha ra c te rs (20) 
 
-ÕýÎÄÃû³Æ 
+æ­£æ–‡åç§° 
 
 CONT ENT _NA
 ME 
@@ -15422,7 +15423,7 @@ cha ra c te rs (50)
 
 FALSE 
 
-I.123 ÈÎÎñ·´À¡±í 
+I.123 ä»»åŠ¡åé¦ˆè¡¨ 
 
 Code 
 
@@ -15436,18 +15437,18 @@ T RUE
 
 Comment 
 
-ÈÎÎñÄÚÈÝ±íÖ÷¼ü ID 
-ÈÎÎñÄÚÈÝ 
-ÈÎÎñÄÚÈÝÐ´ÈëÊ±¼ä 
+ä»»åŠ¡å†…å®¹è¡¨ä¸»é”® ID 
+ä»»åŠ¡å†…å®¹ 
+ä»»åŠ¡å†…å®¹å†™å…¥æ—¶é—´ 
 
 T RUE 
 
-ÈÎÎñÕýÎÄÀàÐÍ(Í¬
+ä»»åŠ¡æ­£æ–‡ç±»åž‹(åŒ
 
-Ma inb o d yT ype£¬ÔÝÊ±Ê¹ÓÃ
+Ma inb o d yT ypeï¼Œæš‚æ—¶ä½¿ç”¨
 
-10£¬µ«ÊÇÃ»ÓÐÊµ¼ÊÒâÒå) 
-ÕýÎÄÃû³Æ 
+10ï¼Œä½†æ˜¯æ²¡æœ‰å®žé™…æ„ä¹‰) 
+æ­£æ–‡åç§° 
 
 Powe rDe s ig ne r 
 
