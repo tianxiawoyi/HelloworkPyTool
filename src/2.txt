@@ -1,0 +1,15457 @@
+Sybase PowerDesigner 
+Logical Data Model Report 
+
+Model: 
+
+CTP2.0 
+
+Report: 
+
+Report 4 
+
+Author: 
+
+Seeyon 
+
+Version: 
+
+Date: 
+
+2017-6-9 
+
+Summary: 
+
+Logical Data Model CTP2.0 
+
+Report Report 4 
+
+Table of Contents 
+
+The 'Table of Contents ' fie ld ne eds to be updated! 
+
+Sybase PowerDesigner 
+
+2017-6-9 
+
+Page 2 of 364 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 3 
+
+I V5 数据字典 
+
+I.1 ADDRESSBOOK 
+
+Code 
+Comment 
+
+ADDRESSBOOK 
+
+Name 
+
+Code 
+
+Data Type 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 
+
+ID 
+Lo ng inte g e r 
+MEMBER_ID 
+Lo ng inte g e r 
+CREAT E_DAT E Da te & T ime 
+UPDAT E_DAT E Da te & T ime 
+EXT _AT T R_1 
+Va ria b le 
+cha ra c te rs (1024) 
+
+主键 
+
+人员 ID  
+
+人员 id  
+
+创建日期 
+最后修改日期 
+文本类型扩展字
+
+创建日期 
+最后修改日期 
+文本类型扩展字段 1 
+
+段 1 
+
+文本类型扩展字
+
+段 2 
+
+EXT _AT T R_2 
+
+Va ria b le 
+cha ra c te rs (1024) 
+
+FALSE 
+
+文本类型扩展字段 2 
+
+文本类型扩展字
+
+段 3 
+
+EXT _AT T R_3 
+
+Va ria b le 
+cha ra c te rs (1024) 
+
+FALSE 
+
+文本类型扩展字段 3 
+
+文本类型扩展字
+
+段 4 
+
+EXT _AT T R_4 
+
+Va ria b le 
+cha ra c te rs (1024) 
+
+FALSE 
+
+文本类型扩展字段 4 
+
+文本类型扩展字
+
+段 5 
+
+EXT _AT T R_5 
+
+Va ria b le 
+cha ra c te rs (1024) 
+
+FALSE 
+
+文本类型扩展字段 5 
+
+文本类型扩展字
+
+段 6 
+
+EXT _AT T R_6 
+
+Va ria b le 
+cha ra c te rs (1024) 
+
+FALSE 
+
+文本类型扩展字段 6 
+
+文本类型扩展字
+
+段 7 
+
+EXT _AT T R_7 
+
+Va ria b le 
+cha ra c te rs (1024) 
+
+FALSE 
+
+文本类型扩展字段 7 
+
+文本类型扩展字
+
+段 8 
+
+EXT _AT T R_8 
+
+Va ria b le 
+cha ra c te rs (1024) 
+
+FALSE 
+
+文本类型扩展字段 8 
+
+文本类型扩展字
+
+段 9 
+
+EXT _AT T R_9 
+
+Va ria b le 
+cha ra c te rs (1024) 
+
+FALSE 
+
+文本类型扩展字段 9 
+
+文本类型扩展字
+
+段 10 
+
+EXT _AT T R_10 
+
+Va ria b le 
+cha ra c te rs (1024) 
+
+FALSE 
+
+文本类型扩展字段 10 
+
+数字类型扩展字
+
+段 1 
+
+EXT _AT T R_11 
+
+Numb e r (19,4) 
+
+FALSE 
+
+数字类型扩展字段 1 
+
+数字类型扩展字
+
+段 2 
+
+EXT _AT T R_12 
+
+Numb e r (19,4) 
+
+FALSE 
+
+数字类型扩展字段 2 
+
+数字类型扩展字
+
+段 3 
+
+EXT _AT T R_13 
+
+Numb e r (19,4) 
+
+FALSE 
+
+数字类型扩展字段 3 
+
+数字类型扩展字
+
+段 4 
+
+EXT _AT T R_14 
+
+Numb e r (19,4) 
+
+FALSE 
+
+数字类型扩展字段 4 
+
+数字类型扩展字
+
+段 5 
+
+EXT _AT T R_15 
+
+Numb e r (19,4) 
+
+FALSE 
+
+数字类型扩展字段 5 
+
+数字类型扩展字
+
+段 6 
+
+EXT _AT T R_16 
+
+Numb e r (19,4) 
+
+FALSE 
+
+数字类型扩展字段 6 
+
+数字类型扩展字
+
+段 7 
+
+EXT _AT T R_17 
+
+Numb e r (19,4) 
+
+FALSE 
+
+数字类型扩展字段 7 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 4 
+
+数字类型扩展字
+
+段 8 
+
+EXT _AT T R_18 
+
+Numb e r (19,4) 
+
+FALSE 
+
+数字类型扩展字段 8 
+
+数字类型扩展字
+
+段 9 
+
+EXT _AT T R_19 
+
+Numb e r (19,4) 
+
+FALSE 
+
+数字类型扩展字段 9 
+
+数字类型扩展字
+
+段 10 
+
+EXT _AT T R_20 
+
+Numb e r (19,4) 
+
+FALSE 
+
+数字类型扩展字段 10 
+
+日期类型扩展字
+
+段 1 
+
+EXT _AT T R_21 
+
+Da te & T ime 
+
+FALSE 
+
+日期类型扩展字段 1 
+
+日期类型扩展字
+
+段 2 
+
+EXT _AT T R_22 
+
+Da te & T ime 
+
+FALSE 
+
+日期类型扩展字段 2 
+
+日期类型扩展字
+
+段 3 
+
+EXT _AT T R_23 
+
+Da te & T ime 
+
+FALSE 
+
+日期类型扩展字段 3 
+
+日期类型扩展字
+
+段 4 
+
+EXT _AT T R_24 
+
+Da te & T ime 
+
+FALSE 
+
+日期类型扩展字段 4 
+
+日期类型扩展字
+
+段 5 
+
+EXT _AT T R_25 
+
+Da te & T ime 
+
+FALSE 
+
+日期类型扩展字段 5 
+
+日期类型扩展字
+
+段 6 
+
+EXT _AT T R_26 
+
+Da te & T ime 
+
+FALSE 
+
+日期类型扩展字段 6 
+
+日期类型扩展字
+
+段 7 
+
+EXT _AT T R_27 
+
+Da te & T ime 
+
+FALSE 
+
+日期类型扩展字段 7 
+
+日期类型扩展字
+
+段 8 
+
+EXT _AT T R_28 
+
+Da te & T ime 
+
+FALSE 
+
+日期类型扩展字段 8 
+
+日期类型扩展字
+
+段 9 
+
+EXT _AT T R_29 
+
+Da te & T ime 
+
+FALSE 
+
+日期类型扩展字段 9 
+
+日期类型扩展字
+
+段 10 
+
+EXT _AT T R_30 
+
+Da te & T ime 
+
+FALSE 
+
+日期类型扩展字段 10 
+
+I.2 ALL-IN-ONE 用户绑定表 
+
+Code 
+Comment 
+
+U8PLUGIN_AIOUSER_MAPP ING 
+All- In-One 用户绑定表 
+
+Name 
+
+Code 
+
+Data Type 
+
+Mandator
+y 
+T RUE 
+T RUE 
+T RUE 
+
+Comment 
+
+主键 ID 
+用户 ID 
+ALL-IN -ONE 登
+
+ID 
+OAUSER_ID 
+AIO_LOGIN_NA
+ME 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (50) 
+
+主键 ID 
+主键 OA 用户 ID 
+ALL-IN -ONE 登录名 
+
+录名 
+
+ALL-IN -ONE 密
+
+码 
+
+AIO_PWD 
+
+Va ria b le 
+cha ra c te rs (50) 
+
+FALSE 
+
+ALL-IN -ONE 密码 
+
+I.3 CA 管理 
+
+Code 
+Comment 
+
+CA_ACCOUNT 
+CA 管理 
+
+Name 
+
+Code 
+
+Data Type 
+
+Mandator
+y 
+
+Comment 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+ID 
+
+CA 证书唯一标
+识 
+
+人员 ID 
+
+模块 
+
+停启用状态 
+是否必须使用
+
+CA 登录 
+
+移动设备访问是
+否受控制 
+登陆时是否同时
+检查账号密码 
+
+ID 
+KEY_NUM 
+
+MEMBER_ID 
+WH ICH_MODUL
+E 
+CA_ST AT E 
+CA_ENABLE 
+
+MOBILE_ENAB
+LE 
+
+CHECK_ENABL
+E 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Numb e r (3) 
+Numb e r (3) 
+
+T RUE 
+FALSE 
+
+T RUE 
+FALSE 
+
+T RUE 
+T RUE 
+
+主键 ID 
+
+CA 证书唯一标识 
+
+人员 ID 
+
+模块 
+
+停启用状态，0-停用 1-启用 
+是否必须使用 CA 登录，0-否 
+
+1-是 
+
+Numb e r (3) 
+
+T RUE 
+
+移动设备访问是否受控制，0-
+
+Numb e r (3) 
+
+T RUE 
+
+登陆时是否同时检查账号密
+
+否 1-是 
+
+码，0-否 1-是 
+
+I.4 CIP 同步初始化过滤设置 
+
+Code 
+Comment 
+
+CIP_ORG_FILTERCONFIG 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+
+ID 
+同步初始化主键 SCHEMEIN IT _I
+D 
+T YPE 
+
+过滤类型 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Sho rt inte g e r 
+
+FALSE 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+主键 
+同步初始化主键 
+
+过滤第三方系统
+组织主键 
+过滤组织主键 
+
+修改时间 
+
+T H IRDPART Y_
+ORGID 
+
+Va ria b le 
+cha ra c te rs (100) 
+
+FALSE 
+
+FILT ER_ORGID 
+
+Va ria b le 
+cha ra c te rs (100) 
+UPDAT E_T IME Da te & T ime 
+
+FALSE 
+
+过滤组织主键 
+
+FALSE 
+
+修改时间 
+
+过滤类型  1：部门  2：岗位   
+3：职务   4：人员 
+过滤第三方系统组织主键 
+
+I.5 CIP 同步方案基础设置 
+
+Code 
+Comment 
+
+CIP_ORG_SYNSCHEME 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+方案名称 
+
+产品编码 
+
+同步方向 
+
+驱动模式 
+
+同步方式 
+
+ID 
+NAME 
+
+PRODUCT _CO
+DE 
+SYN_D IRECT IO
+N 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (20) 
+Sho rt inte g e r 
+
+DR IVE_MODE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+SYN_MODE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+主键 
+方案名称 
+
+FALSE 
+
+产品编码 
+
+FALSE 
+
+同步方向，1：第三方系统->
+协同，0：协同->第三方系统 
+驱动模式，1：人工/定时驱
+动，0：实时驱动 
+同步方式，1：中间表，2：
+视图，3：接口 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 5 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+接口设置主键 
+
+数据库驱动 
+
+INT ERFACE_SE
+T T ING 
+DB_DR IVER 
+
+数据库 URL 
+
+DB_URL 
+
+用户 
+
+密码 
+
+DB_USER 
+
+DB_PWD 
+
+视图脚本 ID 
+是否已创建中间
+表 
+人员档案信息同
+步设置 
+扩展字段 1 
+扩展字段 2 
+
+VIEW _ID 
+IS_CREAT E_MI
+DT AB 
+
+PERSON_INFO
+R_CONFIG 
+
+EXT _AT T R_1 
+EXT _AT T R_2 
+
+扩展字段 3 
+
+EXT _AT T R_3 
+
+扩展字段 4 
+
+EXT _AT T R_4 
+
+扩展字段 5 
+
+EXT _AT T R_5 
+
+Lo ng inte g e r 
+
+FALSE 
+
+接口设置主键 
+
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (100) 
+Lo ng inte g e r 
+Sho rt inte g e r 
+
+T e xt 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+FALSE 
+
+数据库驱动 
+
+FALSE 
+
+数据库 url 
+
+FALSE 
+
+FALSE 
+
+FALSE 
+FALSE 
+
+FALSE 
+
+用户 
+
+密码 
+
+视图脚本 ID 
+是否已创建中间表，1：已创
+建，0：未创建 
+人员档案信息同步设置 
+
+FALSE 
+FALSE 
+
+扩展字段 1 
+扩展字段 2 
+
+FALSE 
+
+扩展字段 3 
+
+FALSE 
+
+扩展字段 4 
+
+FALSE 
+
+扩展字段 5 
+
+I.6 CIP 同步日志 
+
+Code 
+Comment 
+
+CIP_ORG_SYNRECORD 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+登录名 
+
+ID 
+LOGINNAME 
+
+同步方式 
+成功数 
+失败数 
+总数 
+是否有效 
+时间戳 
+
+OPT YPE 
+OKNUM 
+FAILNUM 
+T OT AL 
+ISVALID 
+DT 
+同步初始化主键 SCHEMEIN IT ID 
+SYN_T YPE 
+
+同步类型 
+
+备注 
+
+MEMO 
+
+外部系统组织名
+称 
+
+T H IRDORGNAM
+E 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Sho rt inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Sho rt inte g e r 
+Da te & T ime 
+Lo ng inte g e r 
+Sho rt inte g e r 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (500) 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+主键 
+登录名 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+同步方式：0-自动  1-手动 
+成功数 
+失败数 
+总数 
+是否有效：0 -无效  1-有效 
+时间戳 
+同步初始化主键 
+同步类型：0：集团   1：单位  
+3：部门 2 职务  4 岗位 5 人员 
+
+FALSE 
+
+备注 
+
+FALSE 
+
+外部系统组织名称 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 6 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+I.7 CIP 同步日志明细 
+
+Code 
+Comment 
+
+CIP_ORG_SYNRECORDDETAIL 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+同步日志主键 
+数据描述 
+
+ID 
+RECORD_ID 
+DAT A 
+
+操作 
+
+备注 
+
+ACT ION 
+
+MEMO 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (4000) 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 
+同步日志主键 
+数据描述 
+
+FALSE 
+
+FALSE 
+
+操作 
+
+备注 
+
+I.8 CIP 定时同步设置 
+
+Code 
+Comment 
+
+CIP_ORG_SYNQUARTZ 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+ENT IT YIDS 
+T IME_CONFIG 
+
+Lo ng inte g e r 
+T e xt 
+T e xt 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 
+自动同步组织 
+定时同步时间设置 
+
+主键 
+自动同步组织 
+定时同步时间设
+置 
+是否启用 
+修改时间 
+
+IS_ENABLE 
+Sho rt inte g e r 
+UPDAT E_T IME Da te & T ime 
+
+FALSE 
+FALSE 
+
+是否启用（1 是，0 否） 
+修改时间 
+
+I.9 CIP 接口注册表 
+
+Code 
+Comment 
+
+CIP_INTERFACE_REGIS TER 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+产品标示 
+
+接口分类 ID 
+接口名称 
+
+描述 
+
+系统约束 
+
+业务约束 
+
+调用说明 
+
+ID 
+PRODUCT _FLA
+G 
+CAT EGORY_ID 
+INT ERFACE_N
+AME 
+INT ERFACE_D
+ES 
+SYST EM_CONS
+T RAINT 
+BUSINESS_CO
+NST RAINT 
+CALL_DES 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+主键 ID 
+
+产品标示 
+
+FALSE 
+FALSE 
+
+接口分类 ID 
+接口名称 
+
+FALSE 
+
+描述 
+
+FALSE 
+
+系统约束 
+
+FALSE 
+
+业务约束 
+
+FALSE 
+
+调用说明 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 7 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+场景描述 
+
+接口创建时间 
+接口修改时间 
+扩展参数 
+
+关联产品 ID 
+关联资源包 
+
+SCENE_DES 
+
+Va ria b le 
+cha ra c te rs (4000) 
+CREAT E_DAT E Da te & T ime 
+UPDAT E_DAT E Da te & T ime 
+PARAM_0 
+Va ria b le 
+cha ra c te rs (255) 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (2000) 
+
+PRODUCT _ID 
+RESOURCE_PA
+CKAGE 
+
+I.10 CIP 本地代理表 
+
+Code 
+Comment 
+
+CIP_AGENT 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+
+登记接口 ID 
+
+适配器 ID 
+
+ID 
+CIP_INT ERFAC
+E_ID 
+ADAPT ER_ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+功能与约束说明 AGENT _DESCR
+IPT ION 
+AGENT _INT RO
+DUCE 
+AGENT _SIMPL
+E_DES 
+PARAM_0 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+CREAT E_DAT E Da te & T ime 
+UPDAT E_DAT E Da te & T ime 
+
+创建时间 
+修改时间 
+
+使用说明 
+
+代理描述 
+
+扩展参数 
+
+FALSE 
+
+场景描述 
+
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
+
+接口创建时间 
+接口修改时间 
+扩展参数 
+
+关联产品 ID 
+关联资源包 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+登记接口 ID 
+
+FALSE 
+
+适配器 ID 
+
+FALSE 
+
+功能与约束说明 
+
+FALSE 
+
+使用说明 
+
+FALSE 
+
+代理描述 
+
+FALSE 
+
+扩展参数 
+
+FALSE 
+FALSE 
+
+创建时间 
+修改时间 
+
+I.11 CIP 监控日志表 
+
+Code 
+Comment 
+
+CIP_LOG 
+
+监控日志表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+应用类别 
+
+ID 
+LOG_APPLICAT
+ION 
+
+Lo ng inte g e r 
+Sho rt inte g e r 
+
+活动 
+
+日志 
+
+LOG_ACT ION 
+
+LOG_DET AIL 
+
+操作人 
+
+MEMBER_ID 
+
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (1024) 
+Lo ng inte g e r 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+FALSE 
+
+Comment 
+
+主键 ID 
+
+应用类别,1:基础设置,2:组织
+
+机构同步,3:门户集成,4:E IP ,5 :
+
+业务流程集成,6:第三方接口
+库 
+活动 
+
+FALSE 
+
+日志 
+
+FALSE 
+
+操作人 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 8 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+扩展参数 
+
+创建时间 
+更新时间 
+第三方操作人 
+
+PARAM_0 
+
+Va ria b le 
+cha ra c te rs (255) 
+CREAT E_DAT E Da te & T ime 
+UPDAT E_DAT E Da te & T ime 
+T H IRD_PART Y 
+Va ria b le 
+cha ra c te rs (255) 
+
+FALSE 
+
+扩展参数 
+
+FALSE 
+FALSE 
+FALSE 
+
+创建时间 
+更新时间 
+第三方操作人 
+
+I.12 CIP 资源管理表 
+
+Code 
+Comment 
+
+CIP_RESOURCE_PACKAGE 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+登记产品 ID 
+登记产品系列编
+码 
+资源编码 
+
+资源名称 
+
+资源文件 ID 
+
+资源列表 
+
+资源部署说明 
+
+资源依赖说明 
+
+资源备注 
+
+扩展参数 
+
+资源创建时间 
+资源修改时间 
+
+ID 
+PRODUCT _ID 
+PRODUCT _VER
+SION_ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Lo ng inte g e r 
+
+RESOURCE_C
+ODE 
+RESOURCE_N
+AME 
+RESOURCE_FI
+LE_ID 
+RESOURCE_LI
+ST 
+RESOURCE_D
+EPLOY 
+RESOURCE_D
+EPENDENT 
+RESOURCE_M
+EMO 
+PARAM_0 
+
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+CREAT E_DAT E Da te & T ime 
+UPDAT E_DAT E Da te & T ime 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 ID 
+
+登记产品 ID 
+登记产品系列编码 
+
+FALSE 
+
+资源编码 
+
+FALSE 
+
+资源名称 
+
+FALSE 
+
+资源文件 ID 
+
+FALSE 
+
+资源列表 
+
+FALSE 
+
+资源部署说明 
+
+FALSE 
+
+资源依赖说明 
+
+FALSE 
+
+资源备注 
+
+FALSE 
+
+扩展参数 
+
+FALSE 
+FALSE 
+
+资源创建时间 
+资源修改时间 
+
+I.13 CM P 应用授权信息管理 
+
+Code 
+Comment 
+
+CMP_APP_AUTHENTICATION 
+
+CMP 应用授权信息管理 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+
+被授权用户 ID 
+
+ID 
+USER_ID 
+被授权用户名称 USER_NAME 
+
+应用 ID 
+
+应用类型 
+
+APP_ID 
+APP_T YPE 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (1024) 
+Lo ng inte g e r 
+Inte g e r 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+T RUE 
+T RUE 
+
+Comment 
+
+ID 
+
+被授权用户 ID 
+被授权用户名称 
+
+应用 ID 
+
+应用类型，1=html 应用， 2=
+原生应用  
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 9 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+应用开启状态 
+
+APP_ST AT US 
+
+Inte g e r 
+
+ACCOUNT _ID 
+DEPARTMENT
+_ID 
+
+ACCOUNT _ID 
+DEPARTMENT _
+ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+应用开启状态，1=启用，2 =
+禁用 
+
+T RUE 
+
+FALSE 
+FALSE 
+
+I.14 CONNECT_FORMTALK_MAPPER 
+
+Code 
+Comment 
+
+CONNECT_FORMTALK_MAPPER 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+表单主键 
+
+FORMT ALK 表
+
+ID 
+FORM_ID 
+FORMT ALK_ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+
+单主键 
+映射数据 
+创建时间 
+修改时间 
+配置名称 
+
+表单类型 
+流程模板主键 
+预留字段 
+
+配置传送方向 
+
+MAPPER_DAT A T e xt 
+CREAT E_T IME 
+Da te & T ime 
+UPDAT E_T IME Da te & T ime 
+CONNECT _FO
+Va ria b le 
+RMT ALK_NAME 
+cha ra c te rs (255) 
+FORM_T YPE 
+Sho rt inte g e r 
+T EMPLAT E_ID 
+Lo ng inte g e r 
+EXT _AT T R1 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+T RANS_T YPE 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 
+表单主键 
+
+FORMT ALK 表单主键 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+
+映射数据 
+创建时间 
+修改时间 
+配置名称 
+
+表单类型 
+流程模板主键 
+预留字段 
+
+FALSE 
+
+配置传送方向(0、未指定；
+
+1、fo rmta lk 推向 V5 ； 2、
+V5 推向 fo rmta lk ；3、V5 生
+成 fo rmta lk 二维码) 
+
+I.15 CTP_EVERYBODYWORK_DATA 
+
+Code 
+Comment 
+
+CTP_EVERYBODYWORK_DATA 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+ID 
+MEMBER_ID 
+MEMBER_ID 
+ACCESS_T OK
+ACCESS_T OKE
+EN 
+N 
+T OKEN_T YPE T OKEN_T YPE 
+
+REFRESH_T O
+KEN 
+EXPIRES_IN 
+APPLY_T IME 
+REFRESH_T I
+ME 
+
+REFRESH_T OK
+EN 
+EXPIRES_IN 
+APPLY_T IME 
+REFRESH_T IM
+E 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (20) 
+Va ria b le 
+cha ra c te rs (50) 
+Lo ng inte g e r 
+Da te & T ime 
+Da te & T ime 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+T RUE 
+T RUE 
+
+T RUE 
+
+暂不支持 
+
+T RUE 
+
+T RUE 
+T RUE 
+T RUE 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 10 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+EWACCOUNT EWACCOUNT 
+
+EXPAND_S1 
+
+EXPAND_S1 
+
+EXPAND_S2 
+
+EXPAND_S2 
+
+EXPAND_L1 
+EXPAND_L2 
+
+EXPAND_L1 
+EXPAND_L2 
+
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (50) 
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+FALSE 
+
+FALSE 
+
+FALSE 
+
+FALSE 
+FALSE 
+
+I.16 CTP_FORMULAS 
+
+Code 
+Comment 
+
+CTP_FORMULAS 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+
+公式的类型 
+
+ID 
+FORMULA_T YP
+E 
+
+Lo ng inte g e r 
+Sho rt inte g e r 
+
+公式的名称 
+
+公式的显示名称 FORMULA_ALI
+AS 
+FORMULA_NA
+ME 
+DESCR IPT ION 
+
+PARAMS 
+
+公式的描述，说
+明公式的用途 
+公式的参数对象
+
+的 JSON 表述 
+
+公式的表达式：
+变量的值/函数
+的代码 
+公式数据类型 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+Va ria b le 
+cha ra c te rs (4000) 
+
+FORMULA_EXP
+RESSION 
+
+Va ria b le 
+cha ra c te rs (4000) 
+
+FALSE 
+
+公式的表达式：变量的值/函
+数的代码 
+
+DAT A_T YPE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+ID 
+
+公式类型：0-常量，1-变量，
+
+2-Gro o vy 函数，3-Ja va 函数 
+
+FALSE 
+
+公式的显示名称 
+
+FALSE 
+
+公式的名称 
+
+FALSE 
+
+公式的描述，说明公式的用途 
+
+FALSE 
+
+公式的参数对象的 jso n 表述 
+
+公式数据类型:1-文本，2-数
+值，3-日期时间，4-布尔值，
+
+11-人员，12-部门，13 -岗
+
+位，14-职务级别，15-单位， 
+
+16-角色 
+
+应用范围:  0-全部,1-协同模
+板,2-表单制作,3-公文模板 ,4 -
+指定模板 
+示例脚本 
+
+应用范围 
+
+CAT EGORY 
+
+Sho rt inte g e r 
+
+FALSE 
+
+示例脚本 
+
+示例的期望值 
+
+模板编号，
+
+CAT EGORY 为
+
+4 时有值，多个
+模板逗号分隔 
+创建者 ID 
+创建时间 
+更新时间 
+
+SAMPLE 
+
+Va ria b le 
+cha ra c te rs (1024) 
+EXPECT VALUE Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+T EMPLAT ES 
+
+FALSE 
+
+FALSE 
+
+示例的期望值 
+
+FALSE 
+
+模板编号，ca te g o ry 为 4 时
+
+有值，多个模板逗号分隔 
+
+CREAT OR 
+Lo ng inte g e r 
+CREAT E_T IME 
+Da te & T ime 
+UPDAT E_T IME Da te & T ime 
+
+FALSE 
+FALSE 
+FALSE 
+
+创建者 Id 
+创建时间 
+更新时间 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 11 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+I.17 CTP_METADATA_CATEGORY 
+
+Code 
+Comment 
+
+CTP_METADATA_CATEGORY 
+
+Name 
+
+Code 
+
+Data Type 
+
+记录编号 
+类别名称 
+
+所属功能模块的
+类型 
+创建人 
+创建时间 
+修改时间 
+
+ID 
+CAT E_NAME 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (500) 
+MODULE_T YPE Sho rt inte g e r 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+记录编号 
+类别名称 
+
+FALSE 
+
+所属功能模块的类型 
+
+CREAT E_USER Lo ng inte g e r 
+CREAT E_T IME 
+Da te & T ime 
+UPDAT E_T IME Da te & T ime 
+
+FALSE 
+FALSE 
+FALSE 
+
+创建人 
+创建时间 
+修改时间 
+
+I.18 CTP_METADATA_COLUMN 
+
+Code 
+Comment 
+
+CTP_METADATA_COLUMN 
+
+Name 
+
+Code 
+
+Data Type 
+
+记录编号 
+显示名称 
+
+字段名 
+
+字段别名 
+
+ID 
+LABEL 
+
+NAME 
+
+ALIAS 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+记录编号 
+显示名称 
+
+FALSE 
+
+字段名，与 PO 中的名称一致 
+
+FALSE 
+
+数据类型 
+
+T YPE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+字段数据类型 
+
+DAT AT YPE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+字段别名，在同一 T a b le 中必
+须唯一。也不能与同一 T a b le
+
+中的 Co lumn 的 name 冲突 
+
+数据类型（0：文本，1：数
+值，2：日期，3：枚举，4：
+选人控件） 
+字段的数据类型（0：文本，
+1：整数，2：小数，3：枚
+举，4：日期，5：日期时
+间，6：选择人员，7：选择
+部门，8：选择单位） 
+用户自定义规则（校验规则） 
+
+comp 对应，如 ca le nd a r、
+se le c tPe o p le 
+
+排序字段 
+是否用于查询（1：是，0：
+否） 
+是否启用：1：启用，0：停
+用 
+备注 
+
+用户自定义规则 COLUMN_RULE Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (1024) 
+
+录入组件名称 
+
+COMPONENT 
+
+FALSE 
+
+FALSE 
+
+录入组件名称，与前端组件的
+
+排序字段 
+是否用于查询 
+
+SORT 
+IS_SEACH 
+
+Inte g e r 
+Sho rt inte g e r 
+
+FALSE 
+FALSE 
+
+是否启用 
+
+IS_ENABLE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+备注 
+
+DESCR IPT ION 
+
+Va ria b le 
+cha ra c te rs (4000) 
+
+FALSE 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 12 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+Lo ng inte g e r 
+
+FALSE 
+
+所属单位:null/集团 id : 全集团;
+
+元数据表 ID 
+类别信息 ID 
+创建人 
+创建时间 
+修改时间 
+是否删除 
+
+T ABLE_ID 
+Lo ng inte g e r 
+CAT EGORY_ID 
+Lo ng inte g e r 
+CREAT E_USER Lo ng inte g e r 
+CREAT E_T IME 
+Da te & T ime 
+UPDAT E_T IME Da te & T ime 
+IS_DELET E 
+Sho rt inte g e r 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+是否显示在人员
+信息界面 
+
+IS_SHOW INPE
+RSON INFO 
+
+是否显示在人员
+卡片 
+
+IS_SHOW INPE
+RSONCARD 
+
+所属单位 
+
+ORG_ACCOUN
+T _ID 
+
+Sho rt inte g e r 
+
+FALSE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+是否预置属性 
+
+IS_PRESET 
+
+Sho rt inte g e r 
+
+FALSE 
+
+I.19 CTP_METADATA_TABLE 
+
+Code 
+Comment 
+
+CTP_METADATA_ TABLE 
+
+Name 
+
+Code 
+
+Data Type 
+
+记录编号，主键 
+
+T ABLE 名称，
+
+作为程序调用的
+唯一标识 
+
+ID 
+T ABLE_NAME 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (500) 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+CLASS_NAME CLASS_NAME 
+
+Va ria b le 
+cha ra c te rs (500) 
+
+FALSE 
+
+元数据表 ID 
+类别信息 Id 
+创建人 
+创建时间 
+修改时间 
+是否删除：1：删除，0：未
+删除 
+是否显示在人员信息界面（针
+对通讯录设置添加，1：是，
+0：否） 
+是否显示在人员卡片（针对通
+讯录设置添加，1：是，0：
+否） 
+
+单位 id：指定单位 
+
+是否预置属性：is_p re se t，
+1：预置属性; 0/null: 非预置
+
+属性 
+
+Comment 
+
+记录编号，主键 
+T a b le 名称，作为程序调用的
+唯一标识 
+
+取得 T a b le 描述的 PO 的
+c la ssName，如
+com.se e yo n.c tp .o rg a niza tio n.
+p o .OrgMemb e r 
+
+模型...... 
+
+创建人 
+创建时间 
+更改时间 
+
+显示名称 
+
+LABEL 
+
+应用模块类型 
+
+APPLICAT IONC
+AT EGORY 
+
+Va ria b le 
+cha ra c te rs (500) 
+Sho rt inte g e r 
+
+FALSE 
+
+显示名称 
+
+FALSE 
+
+应用模块类型：协同/公文/织
+
+创建人 
+创建时间 
+更改时间 
+
+CREAT E_USER Lo ng inte g e r 
+CREAT E_T IME 
+Da te & T ime 
+UPDAT E_T IME Da te & T ime 
+
+FALSE 
+FALSE 
+FALSE 
+
+I.20 CTP_OFFICE_BAKFILE 
+
+Code 
+Comment 
+
+CTP_OFFICE_BAKFILE 
+
+Name 
+
+Code 
+
+Data Type 
+
+Mandator
+y 
+
+Comment 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 13 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+主键 ID 
+
+备份后新文件
+
+ID 
+FILE_ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+T RUE 
+FALSE 
+
+主键 id 
+
+备份后新文件 ID 
+
+ID 
+
+原文件 ID 
+
+SOURCE_FILE_
+ID 
+
+Lo ng inte g e r 
+
+FALSE 
+
+原文件 ID 
+
+I.21 DEE 属性表 
+
+Code 
+Comment 
+
+CTP_SECTION_DEE_PROPS 
+DEE 属性表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+栏目 ID 
+
+属性名称 
+
+ID 
+DEE_SECT ION
+_ID 
+PROP_NAME 
+
+属性值 
+
+PROP_VALUE 
+
+属性类型 
+
+PROP_MET A 
+
+是否显示 
+排序 
+
+ISSHOW 
+SORT 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Sho rt inte g e r 
+Inte g e r 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+T RUE 
+
+主键 ID 
+栏目 ID 
+
+FALSE 
+
+属性名称 
+
+FALSE 
+
+属性值 
+
+FALSE 
+
+属性类型 
+
+FALSE 
+FALSE 
+
+是否显示：1-隐藏  0-显示 
+排序 
+
+I.22 DEE 授权表 
+
+Code 
+Comment 
+
+CTP_SECTION_DEE_SECURITY 
+DEE 授权表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+栏目 ID 
+
+实体 ID 
+
+实体类型 
+
+ID 
+DEE_SECT ION
+_ID 
+ENT IT Y_ID 
+ENT IT Y_T YPE 
+
+排序号 
+
+SORT 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Sho rt inte g e r 
+
+Mandator
+y 
+T RUE 
+T RUE 
+
+主键 ID 
+栏目 ID 
+
+T RUE 
+T RUE 
+
+实体 ID 
+
+实体类型 
+
+FALSE 
+
+排序号 
+
+Comment 
+
+I.23 DEE 栏目表 
+
+Code 
+Comment 
+
+CTP_SECTION_DEE 
+DEE 栏目表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+交换任务 ID 
+
+ID 
+FLOW _ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Mandator
+y 
+T RUE 
+T RUE 
+
+Comment 
+
+主键 ID 
+
+交换任务 ID 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 14 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+模块名称 
+
+栏目默认高度 
+栏目名称 
+
+交换任务显示名
+称 
+
+MODULE_NAM
+E 
+PAGE_HEIGHT 
+DEE_SECT ION
+_NAME 
+FLOW _D ISNAM
+E 
+
+Va ria b le 
+cha ra c te rs (50) 
+Sho rt inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+PORT ALST YL
+E 
+CHART ST YLE CHART ST YLE 
+
+PORT ALST YLE Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+T RUE 
+
+模块名称 
+
+T RUE 
+T RUE 
+
+栏目默认高度 
+栏目名称 
+
+T RUE 
+
+交换任务显示名称 
+
+T RUE 
+
+PORT ALST YLE 
+
+FALSE 
+
+CHART ST YLE 
+
+I.24 HR_SALARY_TRANSFER_RECORD 
+
+Code 
+Comment 
+
+HR_SALARY_TRANSFER_RECORD 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+移交人 ID 
+接收人 ID 
+
+人员 ID 
+
+移交人单位 ID 
+工资年份 
+工资月份 
+移交日期 
+
+ID 
+CREAT OR_ID 
+ACCEPT _ID 
+ST AFF_ID 
+ACCOUNT _ID 
+YEAR 
+MONT H 
+T RANSFER_T I
+MEST AMP 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Inte g e r 
+Inte g e r 
+Da te & T ime 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 
+移交人 id 
+接收人 id 
+
+人员 id 
+
+移交人单位 id 
+工资年份 
+工资月份 
+移交日期 
+
+I.25 HTML 专业签章迁移增加表 
+
+Code 
+Comment 
+
+CTP_ISIGNATURE_HTML 
+
+HTML 专业签章迁移增加表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+文档 ID 
+
+签章数据 
+
+用户 ID 
+
+主机名 
+
+ID 
+DOCUMENT _ID 
+SIGNAT URE 
+USER_ID 
+HOST _NAME 
+
+签章时间 
+
+公文 HTML 签
+
+章功能 
+
+SIGN_DAT E 
+DOCUMENT _T
+YPE 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng b ina ry 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (50) 
+Da te & T ime 
+Sho rt inte g e r 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+主键 ID 
+文档 ID 
+
+签章数据 
+
+用户 ID 
+
+主机名 
+
+FALSE 
+FALSE 
+
+签章时间 
+公文 HTML 签章功能 
+
+I.26 HTML 签章 
+
+Code 
+
+SIGNET_HTM_DOCUMENT 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 15 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+Comment 
+
+html签章 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+文单 ID 
+
+字段名称 
+
+签章数据 
+用户名称 
+
+ID 
+SUMMARY_ID 
+FIELD_NAME 
+
+FIELD_VALUE 
+USER_NAME 
+
+签名主机 
+
+HOST _NAME 
+
+签章时间 
+是否系统落款用
+户可选 
+签批类型 
+
+DAT E_T IME 
+AFFAIR_ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (50) 
+T e xt 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (50) 
+Da te & T ime 
+Lo ng inte g e r 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+T RUE 
+FALSE 
+
+FALSE 
+FALSE 
+
+ID 
+文单 ID 
+
+字段名称 
+
+签章数据 
+用户名称 
+
+FALSE 
+
+签名主机 
+
+FALSE 
+FALSE 
+
+签章时间 
+是否系统落款用户可选 
+
+SIGNET _T YPE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+签批类型：0：html 签批，1 :
+公文文单落款签批 
+
+I.27 HTML 签章历史 
+
+Code 
+Comment 
+
+SIGNET_HISTORY 
+html签章历史 
+
+Comment 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+文单 ID 
+
+字段名称 
+
+ID 
+SUMMARY_ID 
+FIELD_NAME 
+
+签章名称 
+
+MARK_NAME 
+
+用户名称 
+
+USER_NAME 
+
+签名主机 
+
+HOST _NAME 
+
+签章时间 
+序列号 
+
+DAT E_T IME 
+MARK_GU ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (50) 
+Da te & T ime 
+Va ria b le 
+cha ra c te rs (128) 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+ID 
+文单 ID 
+
+字段名称 
+
+FALSE 
+
+签章名称 
+
+FALSE 
+
+用户名称 
+
+FALSE 
+
+签名主机 
+
+FALSE 
+FALSE 
+
+签章时间 
+序列号 
+
+I.28 JK_BLOB_TRIGGERS 
+
+Code 
+Comment 
+
+JK_BLOB_TRIGGERS 
+
+jk 前缀的是第三方表 
+
+Name 
+
+Code 
+
+Data Type 
+
+T R IGGER_NA
+ME 
+T R IGGER_GR
+OUP 
+
+T R IGGER_NAM
+E 
+T R IGGER_GRO
+UP 
+
+Va ria b le 
+cha ra c te rs (80) 
+Va ria b le 
+cha ra c te rs (80) 
+
+Mandator
+y 
+T RUE 
+
+T RUE 
+
+Comment 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 16 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+BLOB_DAT A 
+
+BLOB_DAT A 
+
+Lo ng b ina ry 
+
+FALSE 
+
+I.29 JK_CALENDARS 
+
+Code 
+Comment 
+
+JK_CALENDARS 
+
+jk 前缀的是第三方表 
+
+Name 
+
+Code 
+
+Data Type 
+
+CALENDAR_N
+AME 
+CALENDAR 
+
+CALENDAR_NA
+ME 
+CALENDAR 
+
+Va ria b le 
+cha ra c te rs (80) 
+Lo ng b ina ry 
+
+Mandator
+y 
+T RUE 
+
+T RUE 
+
+Comment 
+
+Comment 
+
+Comment 
+
+I.30 JK_CRON_TRIGGERS 
+
+Code 
+Comment 
+
+JK_CRON_TRIGGERS 
+
+jk 前缀的是第三方表 
+
+Name 
+
+Code 
+
+Data Type 
+
+T R IGGER_NA
+ME 
+T R IGGER_GR
+OUP 
+CRON_EXPRE
+SSION 
+T IME_ZONE_I
+D 
+
+T R IGGER_NAM
+E 
+T R IGGER_GRO
+UP 
+CRON_EXPRES
+SION 
+T IME_ZONE_ID 
+
+Va ria b le 
+cha ra c te rs (80) 
+Va ria b le 
+cha ra c te rs (80) 
+Va ria b le 
+cha ra c te rs (80) 
+Va ria b le 
+cha ra c te rs (80) 
+
+Mandator
+y 
+T RUE 
+
+T RUE 
+
+T RUE 
+
+FALSE 
+
+I.31 JK_FIRED_TRIGGERS 
+
+Code 
+Comment 
+
+JK_FIRED_TRIGGERS 
+
+jk 前缀的是第三方表 
+
+Name 
+
+Code 
+
+Data Type 
+
+ENT RY_ID 
+
+ENT RY_ID 
+
+T R IGGER_NA
+ME 
+T R IGGER_GR
+OUP 
+IS_VOLAT ILE 
+
+T R IGGER_NAM
+E 
+T R IGGER_GRO
+UP 
+IS_VOLAT ILE 
+
+INST ANCE_NA
+ME 
+FIRED_T IME 
+PR IOR IT Y 
+ST AT E 
+
+INST ANCE_NA
+ME 
+FIRED_T IME 
+PR IOR IT Y 
+ST AT E 
+
+JOB_NAME 
+
+JOB_NAME 
+
+Va ria b le 
+cha ra c te rs (95) 
+Va ria b le 
+cha ra c te rs (80) 
+Va ria b le 
+cha ra c te rs (80) 
+Va ria b le 
+cha ra c te rs (1) 
+Va ria b le 
+cha ra c te rs (80) 
+Lo ng inte g e r 
+Inte g e r 
+Va ria b le 
+cha ra c te rs (16) 
+Va ria b le 
+cha ra c te rs (80) 
+
+Mandator
+y 
+T RUE 
+
+T RUE 
+
+T RUE 
+
+T RUE 
+
+T RUE 
+
+T RUE 
+T RUE 
+T RUE 
+
+FALSE 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 17 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+JOB_GROUP 
+
+JOB_GROUP 
+
+IS_ST AT EFUL 
+
+IS_ST AT EFUL 
+
+REQUEST S_R
+ECOVERY 
+
+REQUEST S_RE
+COVERY 
+
+Va ria b le 
+cha ra c te rs (80) 
+Va ria b le 
+cha ra c te rs (1) 
+Va ria b le 
+cha ra c te rs (1) 
+
+FALSE 
+
+FALSE 
+
+FALSE 
+
+I.32 JK_JOB_DETAILS 
+
+Code 
+Comment 
+
+JK_JOB_DETAILS 
+
+jk 前缀的是第三方表 
+
+Name 
+
+Code 
+
+Data Type 
+
+JOB_NAME 
+
+JOB_NAME 
+
+JOB_GROUP 
+
+JOB_GROUP 
+
+DESCR IPT ION DESCR IPT ION 
+
+JOB_CLASS_
+NAME 
+IS_DURABLE 
+
+JOB_CLASS_N
+AME 
+IS_DURABLE 
+
+IS_VOLAT ILE 
+
+IS_VOLAT ILE 
+
+IS_ST AT EFUL 
+
+IS_ST AT EFUL 
+
+REQUEST S_R
+ECOVERY 
+JOB_DAT A 
+
+REQUEST S_RE
+COVERY 
+JOB_DAT A 
+
+Va ria b le 
+cha ra c te rs (80) 
+Va ria b le 
+cha ra c te rs (80) 
+Va ria b le 
+cha ra c te rs (120) 
+Va ria b le 
+cha ra c te rs (128) 
+Va ria b le 
+cha ra c te rs (1) 
+Va ria b le 
+cha ra c te rs (1) 
+Va ria b le 
+cha ra c te rs (1) 
+Va ria b le 
+cha ra c te rs (1) 
+Lo ng b ina ry 
+
+Mandator
+y 
+T RUE 
+
+T RUE 
+
+FALSE 
+
+T RUE 
+
+T RUE 
+
+T RUE 
+
+T RUE 
+
+T RUE 
+
+FALSE 
+
+Comment 
+
+I.33 JK_JOB_LISTENERS 
+
+Code 
+Comment 
+
+JK_JOB_LISTENERS 
+
+jk 前缀的是第三方表 
+
+Name 
+
+Code 
+
+Data Type 
+
+JOB_NAME 
+
+JOB_GROUP 
+
+JOB_LIST ENE
+R 
+
+JOB_NAME 
+
+JOB_GROUP 
+
+Va ria b le 
+cha ra c te rs (80) 
+Va ria b le 
+cha ra c te rs (80) 
+JOB_LIST ENER Va ria b le 
+cha ra c te rs (80) 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+
+T RUE 
+
+T RUE 
+
+I.34 JK_LOCKS 
+
+Code 
+Comment 
+
+JK_LOCKS 
+
+jk 前缀的是第三方表 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 18 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+Name 
+
+Code 
+
+Data Type 
+
+LOCK_NAME 
+
+LOCK_NAME 
+
+Va ria b le 
+cha ra c te rs (40) 
+
+Mandator
+y 
+T RUE 
+
+Comment 
+
+I.35 JK_PAUSED_TRIGGER_GRPS 
+
+Code 
+Comment 
+
+JK_PAUSED_TRIGGER_GRPS 
+
+jk 前缀的是第三方表 
+
+Name 
+
+Code 
+
+Data Type 
+
+T R IGGER_GR
+OUP 
+
+T R IGGER_GRO
+UP 
+
+Va ria b le 
+cha ra c te rs (80) 
+
+Mandator
+y 
+T RUE 
+
+Comment 
+
+I.36 JK_SCHEDULER_STATE 
+
+Code 
+Comment 
+
+JK_SCHEDULER_STATE 
+
+jk 前缀的是第三方表 
+
+Name 
+
+Code 
+
+Data Type 
+
+INST ANCE_NA
+ME 
+LAST _CHECKI
+N_T IME 
+CHECKIN_INT
+ERVAL 
+
+INST ANCE_NA
+ME 
+LAST _CHECKIN
+_T IME 
+CHECKIN_INT E
+RVAL 
+
+Va ria b le 
+cha ra c te rs (80) 
+Lo ng inte g e r 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+
+T RUE 
+
+Lo ng inte g e r 
+
+T RUE 
+
+I.37 JK_SIMPLE_TRIGGERS 
+
+Code 
+Comment 
+
+JK_SIMPLE_TRIGGERS 
+
+jk 前缀的是第三方表 
+
+Name 
+
+Code 
+
+Data Type 
+
+T R IGGER_NA
+ME 
+T R IGGER_GR
+OUP 
+REPEAT _COU
+NT 
+REPEAT _INT E
+RVAL 
+T IMES_T R IGG
+ERED 
+
+T R IGGER_NAM
+E 
+T R IGGER_GRO
+UP 
+REPEAT _COUN
+T 
+REPEAT _INT ER
+VAL 
+T IMES_T R IGGE
+RED 
+
+Va ria b le 
+cha ra c te rs (80) 
+Va ria b le 
+cha ra c te rs (80) 
+Lo ng inte g e r 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+
+T RUE 
+
+T RUE 
+
+Lo ng inte g e r 
+
+T RUE 
+
+Lo ng inte g e r 
+
+T RUE 
+
+I.38 JK_TRIGGER_LISTENERS 
+
+Code 
+
+JK_TRIGGER_LIS TENERS 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 19 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+Comment 
+
+jk 前缀的是第三方表 
+
+Name 
+
+Code 
+
+Data Type 
+
+T R IGGER_NA
+ME 
+T R IGGER_GR
+OUP 
+T R IGGER_LIS
+T ENER 
+
+T R IGGER_NAM
+E 
+T R IGGER_GRO
+UP 
+T R IGGER_LIST
+ENER 
+
+Va ria b le 
+cha ra c te rs (80) 
+Va ria b le 
+cha ra c te rs (80) 
+Va ria b le 
+cha ra c te rs (80) 
+
+Mandator
+y 
+T RUE 
+
+T RUE 
+
+T RUE 
+
+I.39 JK_TRIGGERS 
+
+Code 
+Comment 
+
+JK_TRIGGERS 
+
+jk 前缀的是第三方表 
+
+Name 
+
+Code 
+
+Data Type 
+
+Comment 
+
+Comment 
+
+T R IGGER_NA
+ME 
+T R IGGER_GR
+OUP 
+JOB_NAME 
+
+T R IGGER_NAM
+E 
+T R IGGER_GRO
+UP 
+JOB_NAME 
+
+JOB_GROUP 
+
+JOB_GROUP 
+
+IS_VOLAT ILE 
+
+IS_VOLAT ILE 
+
+DESCR IPT ION DESCR IPT ION 
+
+NEXT _FIRE_T I
+ME 
+PREV_FIRE_T I
+ME 
+PR IOR IT Y 
+T R IGGER_ST
+AT E 
+T R IGGER_T Y
+PE 
+ST ART _T IME 
+END_T IME 
+CALENDAR_N
+AME 
+MISFIRE_INST
+R 
+JOB_DAT A 
+
+NEXT _FIRE_T I
+ME 
+PREV_FIRE_T I
+ME 
+PR IOR IT Y 
+T R IGGER_ST A
+T E 
+T R IGGER_T YP
+E 
+ST ART _T IME 
+END_T IME 
+CALENDAR_NA
+ME 
+MISFIRE_INST
+R 
+JOB_DAT A 
+
+Va ria b le 
+cha ra c te rs (80) 
+Va ria b le 
+cha ra c te rs (80) 
+Va ria b le 
+cha ra c te rs (80) 
+Va ria b le 
+cha ra c te rs (80) 
+Va ria b le 
+cha ra c te rs (1) 
+Va ria b le 
+cha ra c te rs (120) 
+Lo ng inte g e r 
+
+Mandator
+y 
+T RUE 
+
+T RUE 
+
+T RUE 
+
+T RUE 
+
+T RUE 
+
+FALSE 
+
+FALSE 
+
+Lo ng inte g e r 
+
+FALSE 
+
+Inte g e r 
+Va ria b le 
+cha ra c te rs (16) 
+Va ria b le 
+cha ra c te rs (8) 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (80) 
+Sho rt inte g e r 
+
+FALSE 
+T RUE 
+
+T RUE 
+
+T RUE 
+FALSE 
+FALSE 
+
+FALSE 
+
+Lo ng b ina ry 
+
+FALSE 
+
+I.40 M 3_APP_BEHAVIOR 
+
+Code 
+Comment 
+
+M3_APP_BEHAVIOR 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 20 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+用户 ID 
+应用 ID 
+
+应用名称 
+
+ID 
+MEMBER_ID 
+APP_ID 
+APP_NAME 
+
+应用点击时间 
+
+单位 ID 
+
+HANDLE_T IME 
+ACCOUNT _ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Da te & T ime 
+Lo ng inte g e r 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+FALSE 
+
+ID 
+用户 ID 
+应用 ID 
+
+应用名称 
+
+FALSE 
+FALSE 
+
+应用点击时间 
+
+单位 ID 
+
+I.41 M 3_APP_VERSION 
+
+Code 
+Comment 
+
+M3_APP_VERSION 
+
+Name 
+
+Code 
+
+Data Type 
+
+APP_CODE 
+
+开发版本 
+
+图标 
+
+主键 
+对应主表
+
+ID 
+APP_BUSINES
+S_ID 
+BU ILD_VERSIO
+N 
+ICON_FILE 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (20) 
+Va ria b le 
+cha ra c te rs (100) 
+URL_SCHEMES Va ria b le 
+cha ra c te rs (100) 
+应用包唯一名称 BUNDLE_NAME Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (255) 
+
+BUDLE_IDENT I
+FIER 
+CMP_SHELL_V
+ERSION 
+
+应用访问地址 
+
+应用包唯一值 
+
+支持 CMP 壳版
+本号 
+兼容的版本 
+
+支持的平台 
+
+图标路径 
+
+DOMAIN 
+
+版本 
+
+应用访问页面 
+
+更新 URL 
+
+MD5 码 
+
+创建时间 
+修改时间 
+创建人 ID 
+
+VERSION 
+
+COMPAT IBLE_
+VERSION 
+SUPPORT ED_P
+LAT FORMS 
+SPLASHSCREE
+N 
+T EAM 
+
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (200) 
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (20) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+CREAT E_DAT E Da te & T ime 
+UPDAT E_DAT E Da te & T ime 
+CREAT E_USER
+Lo ng inte g e r 
+_ID 
+
+UPDAT E_URL 
+
+MD5_CODE 
+
+ENT RY 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+主键 
+
+对应主表 APP_CODE 
+
+FALSE 
+
+开发版本 
+
+FALSE 
+
+图标 
+
+FALSE 
+
+应用访问地址 
+
+FALSE 
+
+应用包唯一名称 
+
+FALSE 
+
+应用包唯一值 
+
+FALSE 
+
+支持 CMP 壳版本号 
+
+FALSE 
+
+兼容的版本 
+
+FALSE 
+
+支持的平台 
+
+FALSE 
+
+图标路径 
+
+FALSE 
+
+DOMAIN 
+
+FALSE 
+
+版本 
+
+FALSE 
+
+应用访问页面 
+
+FALSE 
+
+更新 URL 
+
+FALSE 
+
+MD5 码 
+
+FALSE 
+FALSE 
+FALSE 
+
+创建时间 
+修改时间 
+创建人 ID 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 21 
+
+Lo g ica l Da ta Mo de l 
+
+应用包在
+
+V3XFILE 中的
+ID 
+
+APP_FILE_ID 
+
+Va ria b le 
+cha ra c te rs (20) 
+
+FALSE 
+
+应用包在 V3XFILE 中的 ID 
+
+CT P2.0 
+
+版本说明 
+
+APP_RELEASE
+_NOT E 
+应用包中文说明 APP_DESC 
+
+应用注册表主键 REGIST ER_ID 
+
+Va ria b le 
+cha ra c te rs (300) 
+Va ria b le 
+cha ra c te rs (50) 
+Lo ng inte g e r 
+
+FALSE 
+
+版本说明 
+
+FALSE 
+
+应用包中文说明 
+
+FALSE 
+
+应用注册表主键 
+
+I.42 M 3_PNS_MSG_SETTING 
+
+Code 
+Comment 
+
+M3_PNS_MSG_SETTING 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+用户 ID 
+
+按时间段接收消
+息开始时间 
+用户其他设置类
+容，如：应用接
+收消息状态 
+按时间段接收消
+息结束时间 
+
+ID 
+USER_ID 
+ST ART _DAT E 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (20) 
+
+SET T ING_CON
+T ENT 
+
+T e xt 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+FALSE 
+
+Comment 
+
+主键 ID 
+用户 ID 
+
+按时间段接收消息开始时间 
+
+用户其他设置类容，如：应用
+接收消息状态 
+
+END_DAT E 
+
+Va ria b le 
+cha ra c te rs (20) 
+
+FALSE 
+
+按时间段接收消息结束时间 
+
+I.43 M 3_USER_BEHAVIOR 
+
+Code 
+Comment 
+
+M3_USER_BEHAVIOR 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+
+客户端类型 
+
+ID 
+CLIENT _T YPE 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (50) 
+Inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Da te & T ime 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+ID 
+
+客户端类型 
+
+FALSE 
+FALSE 
+FALSE 
+
+人员在线状态 
+
+用户 ID 
+
+用户名 
+
+FALSE 
+
+用户登录 m3 时间 
+
+ST AT US 
+MEMBER_ID 
+MEMBER_NAM
+E 
+LOGIN_T IME 
+
+LOGOUT _T IME Da te & T ime 
+
+FALSE 
+
+用户退出 m3 时间 
+
+ACCOUNT _ID 
+DEPARTMENT _
+ID 
+LOGOUT _T YPE 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+FALSE 
+FALSE 
+
+单位 ID 
+部门 ID 
+
+Inte g e r 
+
+FALSE 
+
+退出类型 
+
+人员在线状态 
+
+用户 ID 
+
+用户名 
+
+用户登录 M3 时
+间 
+用户退出 M3 时
+间 
+
+单位 ID 
+部门 ID 
+
+退出类型 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 22 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+I.44 M 3_USER_FIRST_LOGIN 
+
+Code 
+Comment 
+
+M3_USER_FIRST_LOGIN 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+用户 ID 
+
+用户名 
+
+用户第一次登录
+时间 
+
+ID 
+MEMBER_ID 
+MEMBER_NAM
+E 
+LOGIN_T IME 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Da te & T ime 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+ID 
+用户 ID 
+
+用户名 
+
+FALSE 
+
+用户第一次登录时间 
+
+单位 ID 
+ACCOUNT _ID 
+第一条统计数据 FIRST _DAT A 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (50) 
+
+FALSE 
+FALSE 
+
+单位 ID 
+
+第一条统计数据 
+
+I.45 M 3_XIAOZHI_AUTH 
+
+Code 
+Comment 
+
+M3_XIAOZHI_AUTH 
+
+Name 
+
+Code 
+
+Data Type 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Inte g e r 
+
+ID 
+ACCOUNT _ID 
+ANDROID_COU
+NT 
+
+IPHONE_COUN
+T 
+
+主键 ID 
+单位 ID 
+ANDROID 端授
+
+权总数，默认 0 
+
+IPHONE 端授
+
+权总数，默认是
+
+0 
+
+人员授权的创建
+时间 
+人员授权的修改
+时间 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 ID 
+单位 ID 
+a nd ro id 端授权总数，默认 0 
+
+Inte g e r 
+
+FALSE 
+
+ip ho ne 端授权总数，默认是 0 
+
+CREAT E_DAT E Da te & T ime 
+
+FALSE 
+
+人员授权的创建时间 
+
+UPDAT E_DAT E Da te & T ime 
+
+FALSE 
+
+人员授权的修改时间 
+
+I.46 M 3_XIAOZHI_CLIENT 
+
+Code 
+Comment 
+
+M3_XIAOZHI_CLIENT 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+人员 ID 
+单位 ID 
+
+设备类型 
+
+ID 
+MEMBER_ID 
+ACCOUNT _ID 
+CLIENT _T YPE 
+
+设备标识 
+
+CLIENT _ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (20) 
+Va ria b le 
+cha ra c te rs (50) 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+FALSE 
+
+主键 ID 
+人员 ID 
+单位 ID 
+
+设备类型 
+
+FALSE 
+
+设备标识 
+
+Comment 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 23 
+
+Lo g ica l Da ta Mo de l 
+
+客户端绑定小智
+的时间 
+
+BIND_DAT E 
+
+Da te & T ime 
+
+FALSE 
+
+客户端绑定小智的时间 
+
+CT P2.0 
+
+I.47 M 3_配置人员OFFICE 权限 
+
+Code 
+Comment 
+
+M3_OFFICE_AUTH_USER_KEY 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+实体 ID 
+
+实体类型 
+
+ID 
+UN IT _ID 
+UN IT _T YPE 
+
+是否包含子部门 CONT AIN_SUB
+_DEPARTMENT 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Sho rt inte g e r 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+FALSE 
+
+授权 KEY 
+
+创建日期 
+序号 
+
+OFFICE_KEY 
+CREAT EDAT E 
+SORT 
+
+T e xt 
+Da te & T ime 
+Sho rt inte g e r 
+
+FALSE 
+FALSE 
+FALSE 
+
+Comment 
+
+ID 
+实体 ID 
+实体类型 Acco unt 
+De p a rtme nt Memb e r... 
+
+是否包含子部门 不包含为 0 
+只有在实体类型为
+
+De p a rtme nt 时有用 
+授权 Ke y 
+
+创建日期 
+序号 用来排序 
+
+I.48 M 3 用户推送设备注册信息记录表 
+
+Code 
+Comment 
+
+M3_USER_PNS_CONFIG 
+
+Name 
+
+Code 
+
+Data Type 
+
+唯一主键 ID 
+
+用户 ID 
+
+CONFIG_ID 
+USER_ID 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (30) 
+Va ria b le 
+cha ra c te rs (50) 
+
+MI_CHANNEL_I
+D 
+
+HUAWEI_CHAN
+NEL_ID 
+
+Va ria b le 
+cha ra c te rs (50) 
+
+BAIDU_CHANN
+EL_ID 
+
+Va ria b le 
+cha ra c te rs (50) 
+
+设备类型：IOS, 
+
+DEVICE_T YPE 
+
+Va ria b le 
+cha ra c te rs (16) 
+Sho rt inte g e r 
+
+FALSE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+MI_ST AT US 
+
+HUAWEI_ST AT
+US 
+
+小米推送服务设
+
+备 ID 
+
+华为推送服务设
+
+备 ID 
+
+百度推送服务设
+
+备 ID 
+
+ANDROID 
+
+小米推送服务状
+态 
+华为推送服务状
+态 
+百度推送服务状
+态 
+注册时间（创建
+时间） 
+
+设备 ID 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+唯一主键 ID 
+
+用户 ID 
+
+FALSE 
+
+小米推送服务设备 ID 
+
+FALSE 
+
+华为推送服务设备 ID 
+
+FALSE 
+
+百度推送服务设备 ID 
+
+FALSE 
+
+设备类型：iOS, And ro id 
+
+小米推送服务状态：1 开启，
+0 关闭 
+华为推送服务状态：1 开启，
+0 关闭 
+百度推送服务状态：1 开启，
+0 关闭 
+注册时间（创建时间） 
+
+BAIDU_ST AT US Sho rt inte g e r 
+
+FALSE 
+
+CREAT E_DAT E Va ria b le 
+cha ra c te rs (20) 
+
+FALSE 
+
+DEVICE_ID 
+
+Va ria b le 
+cha ra c te rs (50) 
+
+FALSE 
+
+设备 ID 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 24 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+扩展字段 1 
+
+扩展字段 2 
+
+扩展字段 3 
+
+EXT 1 
+
+EXT 2 
+
+EXT 3 
+
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+
+FALSE 
+
+扩展字段 1 
+
+FALSE 
+
+扩展字段 2 
+
+FALSE 
+
+扩展字段 3 
+
+I.49 M 3 移动应用广告BANNER 
+
+Code 
+Comment 
+
+M3_BANNER 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+BANNER 名称 
+
+BANNER URL
+
+链接 
+是否显示 
+上传日期 
+预留字段 1 
+预留字段 2 
+预留字段 3 
+预留字段 4 
+
+图片 URL 
+
+ID 
+BANNER_NAM
+E 
+BANNER_URL 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (500) 
+BANNER_VIEW Sho rt inte g e r 
+UPLOAD_DAT E Da te & T ime 
+EXT 1 
+T e xt 
+EXT 2 
+T e xt 
+EXT 3 
+T e xt 
+EXT 4 
+T e xt 
+IMAGE_URL 
+T e xt 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+主键 ID 
+Ba nne r 名称 
+
+FALSE 
+
+Ba nne r U rl 链接 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+是否显示（1，是；0，否） 
+上传日期 
+预留字段 1 
+预留字段 2 
+预留字段 3 
+预留字段 4 
+
+图片 URL 
+
+I.50 M OBILE_LOGIN 
+
+Code 
+Comment 
+
+MOBILE_LOGIN 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+默认是否开启 
+
+ID 
+DEFAULT _ON 
+
+Lo ng inte g e r 
+Sho rt inte g e r 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+控制范围 
+
+创建时间 
+修改时间 
+所属单位 ID 
+
+CONT ROL_SC
+OPE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+CREAT E_DAT E Da te & T ime 
+UPDAT E_DAT E Da te & T ime 
+ACCOUNT _ID 
+Lo ng inte g e r 
+
+FALSE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 ID 
+
+默认是否开启：0，不开启；
+1，开启； 
+控制范围：0，所有用户；
+1，指定用户； 
+创建时间 
+修改时间 
+所属单位 ID 
+
+I.51 M OBILE_LOGIN_SCOPE 
+
+Code 
+Comment 
+
+MOBILE_LOGIN_SCOPE 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 25 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+短信登录验证配
+
+置 ID 
+
+ID 
+MOBILE_LOGIN
+_ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+主键 ID 
+
+短信登录验证配置 ID 
+
+组织模型实体
+
+USER_ID 
+
+Lo ng inte g e r 
+
+FALSE 
+
+组织模型实体 ID 
+
+ID 
+
+组织模型实体类
+型 
+
+USER_T YPE 
+
+Va ria b le 
+cha ra c te rs (50) 
+
+FALSE 
+
+组织模型实体类型 
+
+I.52 NC 同步数据记录表 
+
+Code 
+Comment 
+
+NCPLUGIN_ORGSYNRECORDDETAIL 
+
+NC 同步数据记录表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+主记录表 ID 
+同步数据的详细
+描述 
+同步是否成功 
+
+ID 
+RECORD_ID 
+DAT A 
+
+ACT ION 
+
+同步备注说明 
+
+MEMO 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (1024) 
+
+Va ria b le 
+cha ra c te rs (255) 
+
+Va ria b le 
+cha ra c te rs (4000) 
+
+Mandator
+y 
+T RUE 
+T RUE 
+FALSE 
+
+Comment 
+
+主键 ID 
+
+主记录表 id 
+同步数据的详细描述 
+
+FALSE 
+
+FALSE 
+
+同步是成功，失败，忽略的描
+述 
+同步备注说明 
+
+I.53 NC 同步记录表 
+
+Code 
+Comment 
+
+NCPLUGIN_ORGSYNRECORD 
+
+NC 同步记录表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+同步人登录名 
+
+ID 
+LOGINNAME 
+
+同步方式 
+
+OPT YPE 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Sho rt inte g e r 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+主键 ID 
+
+同步人登录名 
+
+FALSE 
+
+同步方式 0-自动  1-手动 2-按
+
+同步成功数 
+同步失败数 
+同步总数 
+是否有效 
+时间戳 
+A8 单位或部门
+
+OKNUM 
+FAILNUM 
+T OT AL 
+ISVALID 
+DT 
+MAP_LOCAL_ID 
+
+Inte g e r 
+Inte g e r 
+Inte g e r 
+Sho rt inte g e r 
+Da te & T ime 
+Lo ng inte g e r 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+T RUE 
+FALSE 
+
+需 
+同步成功数 
+同步失败数 
+同步总数 
+
+是否有效 0 -无效  1-有效 
+
+时间戳 
+A8 单位或部门 id 
+
+ID 
+第三方单位主键 MAP_GU ID 
+
+对应类型 
+
+MAP_T YPE 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+FALSE 
+
+第三方单位主键 
+
+FALSE 
+
+对应类型，如果单位对应，部
+门对应 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 26 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+同步类型 
+
+SYN_T YPE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+同步备注 
+
+MEMO 
+
+Va ria b le 
+cha ra c te rs (255) 
+
+FALSE 
+
+同步类型 ，职务级别:1，部
+门:2，岗位：3，人员:4 
+同步备注 
+
+I.54 NC 集成配置 
+
+Code 
+Comment 
+
+NCBUSINESS_TEMPLATE_BIND 
+
+NC 集成配置 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+模板 ID 
+表单 ID 
+单位 ID 
+
+集成基础配置
+
+ID 
+
+序号 
+是否启用 
+描述 
+
+ID 
+T EMPLET E_ID 
+FORM_ID 
+ORG_ACCOUN
+T _ID 
+NCMULT IJC_ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+SORT _ID 
+IS_ENABLE 
+DESCR IPT ION 
+
+Va ria b le 
+cha ra c te rs (255) 
+Inte g e r 
+Sho rt inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+MEMBER_ID 
+Lo ng inte g e r 
+CREAT E_DAT E Da te & T ime 
+MOD IFY_DAT E Da te & T ime 
+应用扩展属性 1 EXT _AT T R1 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+
+创建人 
+创建日期 
+修改时间 
+
+应用扩展属性 2 EXT _AT T R2 
+
+应用扩展属性 3 EXT _AT T R3 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+FALSE 
+
+ID 
+模板 ID 
+表单 ID 
+单位 ID 
+
+FALSE 
+
+集成基础配置 ID 
+
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+序号 
+是否启用：1-启用 0-不启用 
+描述 
+
+创建人 
+创建日期 
+修改时间 
+应用扩展属性 1 
+
+FALSE 
+
+应用扩展属性 2 
+
+FALSE 
+
+应用扩展属性 3 
+
+I.55 NEIGOU_SSO_LOGINMANAGE 
+
+Code 
+Comment 
+
+NEIGOU_SSO_LOGINMANAGE 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+登录限制实体主
+键 
+登录限制实体类
+型 
+登录限制设置信
+息 
+管理员 ID 
+
+创建时间 
+
+ID 
+ORG_ENT IT Y_I
+D 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+LOGIN_LIMIT _T
+YPE 
+
+Va ria b le 
+cha ra c te rs (50) 
+
+LOGIN_LIMIT _I
+NFO 
+
+Va ria b le 
+cha ra c te rs (255) 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+主键 
+登录限制实体主键 
+
+FALSE 
+
+登录限制实体类型 
+
+FALSE 
+
+登录限制设置信息 
+
+MANAGER_ME
+MBER_ID 
+CREAT E_T IME 
+
+Lo ng inte g e r 
+
+FALSE 
+
+管理员 ID 
+
+Da te & T ime 
+
+FALSE 
+
+创建时间 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 27 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+UPDAT E_T IME UPDAT E_T IME Da te & T ime 
+ORG_ACCOUN
+Lo ng inte g e r 
+T _ID 
+
+登录单位 ID 
+
+FALSE 
+FALSE 
+
+创建时间 
+登录单位 id 
+
+I.56 ORGSYNC_RECORD 
+
+Code 
+Comment 
+
+ORGSYNC_RECORD 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+LOGINNAME 
+
+ID 
+LOGINNAME 
+
+OPT YPE 
+OKNUM 
+FAILNUM 
+T OT AL 
+ISVALID 
+DT 
+MAP_LOCAL_I
+D 
+MAP_GU ID 
+
+OPT YPE 
+OKNUM 
+FAILNUM 
+T OT AL 
+ISVALID 
+DT 
+MAP_LOCAL_ID 
+
+MAP_GU ID 
+
+MAP_T YPE 
+
+MAP_T YPE 
+
+SYN_T YPE 
+MEMO 
+
+SYN_T YPE 
+MEMO 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Sho rt inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Sho rt inte g e r 
+Da te & T ime 
+Lo ng inte g e r 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Sho rt inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+
+FALSE 
+
+FALSE 
+FALSE 
+
+I.57 ORGSYNC_RECORDDETAIL 
+
+Code 
+Comment 
+
+ORGSYNC_RECORDDETAIL 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+RECORD_ID 
+DAT A 
+
+ID 
+RECORD_ID 
+DAT A 
+
+ACT ION 
+
+ACT ION 
+
+MEMO 
+
+MEMO 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (4000) 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+FALSE 
+
+FALSE 
+
+I.58 PAGE_LAYOUT 
+
+Code 
+Comment 
+
+PAGE_LAYOUT 
+
+Comment 
+
+Comment 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 28 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+
+编号 
+
+名称 
+
+主题 
+
+模板编号 
+
+模板类型 
+
+创建时间 
+创建人 
+修改时间 
+
+单位 ID 
+
+状态 
+
+ID 
+CODE 
+
+NAME 
+
+T HEME 
+
+T EMPLAT E_CO
+DE 
+T EMPLAT E_T Y
+PE 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Sho rt inte g e r 
+
+CREAT E_DAT E Da te & T ime 
+CREAT E_USER Lo ng inte g e r 
+UPDAT E_DAT E Da te & T ime 
+ACCOUNT _ID 
+Lo ng inte g e r 
+ST AT E 
+Sho rt inte g e r 
+
+是否系统预置 
+
+SYS_IN IT 
+
+Sho rt inte g e r 
+
+FALSE 
+
+是否默认 
+排序 
+
+SYS_DEFAULT 
+SORT 
+
+Sho rt inte g e r 
+Inte g e r 
+
+FALSE 
+FALSE 
+
+I.59 PAGE_LAYOUT_AUTH 
+
+Code 
+Comment 
+
+PAGE_LAYOUT_AUTH 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+主键 ID 
+
+编号 
+
+FALSE 
+
+FALSE 
+
+名称 
+
+主题 
+
+FALSE 
+
+模板编号 
+
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+模板类型：0，首页布局；
+1，空间布局；2，登录页布
+局 
+创建时间 
+创建人 
+修改时间 
+
+单位 ID 
+
+状态：0，删除；1，启用；
+2，停用 
+是否系统预置：0，否；1，
+是； 
+是否默认：0，否；1，是； 
+排序 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+布局 ID 
+
+ 组织模型 ID 
+组织模型类型 
+
+ID 
+LAYOUT _ID 
+ENT IT Y_ID 
+ENT IT Y_T YPE 
+
+是否允许自定义 CUST OM 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Sho rt inte g e r 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+
+Comment 
+
+主键 ID 
+布局 ID 
+
+ 组织模型 ID 
+组织模型类型 
+
+是否允许自定义：0，不允
+许；1，允许 
+
+I.60 PAGE_LAYOUT_DETAIL 
+
+Code 
+Comment 
+
+PAGE_LAYOUT_DETAIL 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+布局 ID 
+
+详细配置 XML 
+
+ID 
+Lo ng inte g e r 
+LAYOUT _ID 
+Lo ng inte g e r 
+XML_CONT ENT T e xt 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 ID 
+布局 ID 
+
+详细配置 XML 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 29 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+布局样式路径 
+
+主题样式路径 
+
+LAYOUT _CSS_
+PAT H 
+SKIN_CSS_PAT
+H 
+自定义脚本路径 CUST OM_JS_P
+AT H 
+
+Va ria b le 
+cha ra c te rs (2000) 
+Va ria b le 
+cha ra c te rs (2000) 
+Va ria b le 
+cha ra c te rs (2000) 
+
+FALSE 
+
+布局样式路径 
+
+FALSE 
+
+主题样式路径 
+
+FALSE 
+
+自定义脚本路径 
+
+I.61 REST 用户表 
+
+Code 
+Comment 
+
+CTP_REST_USER 
+REST 用户表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+用户名 
+
+登录名 
+
+密码 
+
+ID 
+USER_NAME 
+
+LOGIN_NAME 
+
+PASSWORD 
+
+用户类型 
+
+USER_T YPE 
+
+登录 IP 地址 
+
+LOGIN_IP 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (255) 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+主键 
+用户名 
+
+FALSE 
+
+登录名 
+
+FALSE 
+
+密码 
+
+FALSE 
+
+用户类型 
+
+FALSE 
+
+登录 IP 地址（多个 IP 用符号
+
+是否启用 
+
+ENABLED 
+
+Sho rt inte g e r 
+
+FALSE 
+
+用户排序号 
+用户创建时间 
+用户修改时间 
+资源权限 
+
+USER_ORDER 
+Lo ng inte g e r 
+CREAT E_T IME 
+Da te & T ime 
+UPDAT E_T IME Da te & T ime 
+RESOURCE_A
+Va ria b le 
+UT HOR IT Y 
+cha ra c te rs (500) 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+对于绑定 IP 是
+否校验的开关 
+
+VALIDAT ION_IP Sho rt inte g e r 
+
+FALSE 
+
+“|”分隔，支持*.*.* .*） 
+
+是否启用，1：启用；0：停
+用，默认启用 
+用户排序号 
+用户创建时间 
+用户修改时间 
+资源权限（用字符串 00000 0
+表示，位数根据资源组来定，
+顺序要约定好，每一位代表一
+个资源组。0：无权限，1：
+有权限） 
+对于绑定 IP 是否校验的开
+关，1 为打开，0 为关闭 
+
+I.62 REST 记录访问日志 
+
+Code 
+Comment 
+
+CTP_REST_LOGS 
+
+REST 记录访问日志：后台 rest 的访问记录 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+登录 T OKEN 信
+
+ID 
+T OKEN 
+
+息 
+
+访问 ID 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+ID 
+登录 T OKEN 信息 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+
+USER_ID 
+
+Lo ng inte g e r 
+
+T RUE 
+
+REST T OKEN 访问
+CT P_REST _USER 表
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 30 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+LOGIN_T IME 
+
+Da te & T ime 
+
+FALSE 
+
+REST 用户登录时间 
+
+ID ,SESSION 访问
+ORG_MEMBER 表 ID 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (1024) 
+
+FALSE 
+
+登录 IP 信息 
+
+FALSE 
+
+SESSION 登录：SESSION 
+REST 登录：REST T OKEN 
+否则 inva lid 
+
+FALSE 
+
+请求成功 1，请求失败 0 
+
+FALSE 
+
+执行 REST 的 URL 
+
+REST 用户登录
+时间 
+登录 IP 信息 
+
+LOGIN IP 
+
+登陆类型 
+
+LOGIN_T YPE 
+
+状态 
+
+执行 REST 的
+URL 
+
+ST AT US 
+
+EXEURL 
+
+I.63 REST 资源关系表 
+
+Code 
+Comment 
+
+CTP_RESOURCE_GROUP 
+
+REST 资源关系表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+资源组 ID 
+
+资源 ID 
+
+ID 
+REST _GROUP_
+ID 
+REST _RESOUR
+CE_ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Lo ng inte g e r 
+
+FALSE 
+
+资源 ID 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+主键 
+资源组 ID 
+
+I.64 REST 资源组表 
+
+Code 
+Comment 
+
+CTP_REST_GROUP 
+REST 资源组表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+资源组名称 
+
+ID 
+GROUP_NAME 
+
+资源组类型 
+
+GROUP_T YPE 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (50) 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+主键 
+资源组名称 
+
+FALSE 
+
+资源组类型 
+
+I.65 REST 资源表 
+
+Code 
+Comment 
+
+CTP_REST_RESOURCE 
+REST 资源表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+
+ID 
+
+Lo ng inte g e r 
+
+Mandator
+y 
+T RUE 
+
+主键 
+
+Comment 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 31 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+资源名称 
+
+访问资源 UR I 
+
+资源对应 HT T P
+请求方法 
+是否启用 
+
+RESOURCE_N
+AME 
+RESOURCE_U
+R I 
+REQUEST _MET
+HOD 
+
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (50) 
+
+FALSE 
+
+资源名称 
+
+FALSE 
+
+访问资源 UR I 
+
+FALSE 
+
+资源对应 HT T P 请求方法 
+
+ENABLED 
+
+Sho rt inte g e r 
+
+FALSE 
+
+资源排序号 
+
+资源创建时间 
+资源修改时间 
+
+Lo ng inte g e r 
+
+RESOURCE_O
+RDER 
+CREAT E_T IME 
+Da te & T ime 
+UPDAT E_T IME Da te & T ime 
+
+FALSE 
+
+FALSE 
+FALSE 
+
+是否启用，1：启用；0：停
+用，默认启用 
+资源排序号 
+
+资源创建时间 
+资源修改时间 
+
+I.66 RSS 内容 
+
+Code 
+Comment 
+
+RSS_CHANNEL_ITEMS 
+RSS 内容 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+
+标题 
+
+ID 
+T IT LE 
+
+链接地址 
+
+RSS_LINK 
+
+描述 
+
+DESCR IBSE 
+
+发布时间 
+作者 
+
+PUB_DAT E 
+AUT HOR 
+
+分类 
+
+CAT EGORY 
+
+评论链接 
+
+COMMENT S 
+
+永久链接 
+
+GU ID 
+
+RSS 频道源 
+
+SOURCE 
+
+附加媒体对象 
+
+ENCLOSURE 
+
+频道 ID 
+
+频道信息 ID 
+
+CAT EGORY_C
+HANNEL_ID 
+CHANNEL_INF
+O_ID 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (4000) 
+Da te & T ime 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+Lo ng inte g e r 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+T RUE 
+
+ID 
+
+标题 
+
+T RUE 
+
+链接地址 
+
+FALSE 
+
+描述 
+
+FALSE 
+FALSE 
+
+发布时间 
+作者 
+
+FALSE 
+
+分类 
+
+FALSE 
+
+评论链接 
+
+FALSE 
+
+永久链接 
+
+FALSE 
+
+RSS 频道源 
+
+FALSE 
+
+附加媒体对象 
+
+T RUE 
+
+频道 id 
+
+Lo ng inte g e r 
+
+T RUE 
+
+频道信息 id 
+
+I.67 RSS 类别 
+
+Code 
+Comment 
+
+RSS_CATEGORY 
+RSS 类别 
+
+Name 
+
+Code 
+
+Data Type 
+
+Mandator
+y 
+
+Comment 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 32 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+ID 
+
+名称 
+
+ID 
+NAME 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (500) 
+Lo ng inte g e r 
+
+创建用户 ID 
+
+排序号 
+创建时间 
+最近修改用户 
+最近修改时间 
+
+CREAT E_USER
+_ID 
+ORDER_NUM 
+Inte g e r 
+CREAT E_DAT E Da te & T ime 
+LAST _USER_ID 
+Lo ng inte g e r 
+LAST _UPDAT E Da te & T ime 
+
+I.68 RSS 订阅 
+
+Code 
+Comment 
+
+RSS_SUBSCRIBE 
+RSS 订阅 
+
+Name 
+
+Code 
+
+Data Type 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+Inte g e r 
+Sho rt inte g e r 
+Inte g e r 
+Lo ng inte g e r 
+
+ID 
+
+订阅用户 ID 
+订阅用户类型 
+
+ID 
+USER_ID 
+USER_T YPE 
+
+订阅名称 
+
+NAME 
+
+订阅地址 
+
+URL 
+
+显示条数 
+是否展开 
+排序号 
+创建人 ID 
+
+创建时间 
+最近修改人 ID 
+最近修改时间 
+
+频道 ID 
+
+SHOW _NUM 
+DEPLOY 
+ORDER_NUM 
+CREAT E_USER
+_ID 
+CREAT E_DAT E Da te & T ime 
+LAST _USER_ID 
+Lo ng inte g e r 
+LAST _UPDAT E Da te & T ime 
+CAT EGORY_C
+Lo ng inte g e r 
+HANNEL_ID 
+
+T RUE 
+T RUE 
+
+ID 
+
+名称 
+
+FALSE 
+
+创建用户 id 
+
+FALSE 
+T RUE 
+FALSE 
+T RUE 
+
+排序号 
+创建时间 
+最近修改用户 
+最近修改时间 
+
+Mandator
+y 
+T RUE 
+T RUE 
+T RUE 
+
+Comment 
+
+ID 
+
+订阅用户 id 
+订阅用户类型 
+
+T RUE 
+
+订阅名称 
+
+T RUE 
+
+订阅地址 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+T RUE 
+FALSE 
+T RUE 
+T RUE 
+
+显示条数 
+是否展开 
+排序号 
+创建人 id 
+
+创建时间 
+最近修改人 id 
+最近修改时间 
+
+频道 id 
+
+I.69 RSS 订阅状态表 
+
+Code 
+Comment 
+
+RSS_ITEM_STATUS 
+
+RSS 订阅状态表 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+
+状态 
+订阅用户 
+
+RSS 内容 ID 
+RSS 订阅 ID 
+
+ID 
+ST AT US 
+UESR_ID 
+RSS_IT EM_ID 
+RSS_SUBSCR I
+BE_ID 
+
+Lo ng inte g e r 
+Sho rt inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Mandator
+y 
+T RUE 
+T RUE 
+FALSE 
+T RUE 
+T RUE 
+
+Comment 
+
+ID 
+
+状态（字段暂未使用） 
+订阅用户 
+
+RSS 内容 id 
+RSS 订阅 id 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 33 
+
+Lo g ica l Da ta Mo de l 
+
+I.70 RSS 频道 
+
+Code 
+Comment 
+
+RSS_CATEGORY_CHANNEL 
+RSS 频道 
+
+CT P2.0 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+
+名称 
+
+ID 
+NAME 
+
+URL 地址 
+
+URL 
+
+排序号 
+创建用户 ID 
+
+创建日期 
+最近修改用户
+
+ID 
+
+最近修改日期 
+
+类别 ID 
+
+描述 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+Inte g e r 
+Lo ng inte g e r 
+
+ORDER_NUM 
+CREAT E_USER
+_ID 
+CREAT E_DAT E Da te & T ime 
+LAST _USER_ID 
+Lo ng inte g e r 
+
+LAST _UPDAT E Da te & T ime 
+CAT EGORY_ID 
+Lo ng inte g e r 
+DESCR IPT ION 
+Va ria b le 
+cha ra c te rs (500) 
+
+I.71 RSS 频道信息 
+
+Code 
+Comment 
+
+RSS_CHANNEL_INFO 
+
+RSS 频道信息 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+
+频道地址 
+
+ID 
+RSS_LINK 
+
+频道标题 
+
+T IT LE 
+
+使用语言 
+
+LANGUAGE 
+
+版权声明 
+
+COPYR IGHT 
+
+描述 
+
+DESCR IBSE 
+
+责任编辑 
+
+技术支持 
+
+MANAGING_ED
+IT OR 
+WEBMAST ER 
+
+发布日期 
+
+PUB_DAT E 
+
+最后修改日期 
+
+所属分类 
+
+LAST _BU ILD_D
+AT E 
+CAT EGORY 
+
+生成者 
+
+GENERAT OR 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (2000) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+T RUE 
+
+名称 
+
+FALSE 
+
+URL 地址 
+
+FALSE 
+FALSE 
+
+T RUE 
+FALSE 
+
+T RUE 
+T RUE 
+FALSE 
+
+排序号只能为整数 
+创建用户 id 
+
+创建日期 
+最近修改用户 id 
+
+最近修改日期 
+
+类别 id 
+
+描述 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+ID 
+
+频道地址 
+
+FALSE 
+
+频道标题 
+
+FALSE 
+
+使用语言 
+
+FALSE 
+
+版权声明 
+
+FALSE 
+
+描述 
+
+FALSE 
+
+责任编辑 
+
+FALSE 
+
+技术支持 
+
+FALSE 
+
+发布日期 
+
+FALSE 
+
+最后修改日期 
+
+FALSE 
+
+所属分类 
+
+FALSE 
+
+生成者 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 34 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+缓存时间 
+
+图片 URL 
+
+T T L 
+IMAGE_URL 
+
+图片标题 
+
+IMAGE_T IT LE 
+
+图片链接 
+
+IMAGE_LINK 
+
+频道 ID 
+
+CAT EGORY_C
+HANNEL_ID 
+
+Inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (255) 
+Lo ng inte g e r 
+
+FALSE 
+FALSE 
+
+缓存时间 
+
+图片 URL 
+
+FALSE 
+
+图片标题 
+
+FALSE 
+
+图片链接 
+
+T RUE 
+
+频道 id 
+
+I.72 SHOW_COMMENT 
+
+Code 
+Comment 
+
+SHOW_COMMENT 
+
+Name 
+
+Code 
+
+Data Type 
+
+回复 ID 
+秀圈 ID 
+
+回复人 ID 
+内容 
+回复时间 
+被回复人 ID 
+回复类型 
+
+ID 
+SHOW _POST _I
+D 
+REPLY_ID 
+CONT ENT 
+CREAT E_T IME 
+REPLY_T O_ID 
+REPLY_T YPE 
+
+父节点 ID 
+根节点 ID 
+被＠人员的 ID
+和姓名信息
+
+（JSON 格式） 
+
+P_ID 
+ROOT _ID 
+AT _INFO 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Lo ng inte g e r 
+T e xt 
+Da te & T ime 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (20) 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (1024) 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+回复 id 
+秀圈 id 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+
+回复人 id 
+内容 
+回复时间 
+被回复人 id 
+回复类型(电脑 "p c " ,移动端 
+
+"mo b ile ") 
+
+父节点 id 
+根节点 id 
+被＠人员的 ID 和姓名信息
+
+（JSON 格式） 
+
+I.73 SHOW_IMAGE 
+
+Code 
+Comment 
+
+SHOW_IMAGE 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+秀吧 ID 
+秀圈 ID 
+
+创建人 ID 
+
+图片创建时间 
+图片类型 
+
+ID 
+SHOWBAR_ID 
+SHOWPOST _ID 
+CREAT E_USER
+_ID 
+CREAT E_T IME 
+IMAGE_T YPE 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+FALSE 
+
+Comment 
+
+秀吧 ID 
+秀圈 ID 
+
+创建人 ID 
+
+Da te & T ime 
+Sho rt inte g e r 
+
+FALSE 
+FALSE 
+
+图片创建时间 
+图片类型（0：预制封面、
+1：自定义封面、2：秀圈图
+片、3：临时，隔日被删除） 
+图片名称 
+
+图片名称 
+
+IMAGE_NAME 
+
+Va ria b le 
+cha ra c te rs (255) 
+
+FALSE 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 35 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+图片后缀 
+
+排序号（用于秀
+圈多张图片排
+序） 
+文件大小（单位
+
+B） 
+
+图片文件的高 
+图片文件的宽 
+
+IMAGE_POST FI
+X 
+SORT _NUM 
+
+Inte g e r 
+
+Inte g e r 
+
+FALSE 
+
+图片后缀 
+
+FALSE 
+
+排序号（用于秀圈多张图片排
+序） 
+
+IMAGE_SIZE 
+
+Lo ng inte g e r 
+
+FALSE 
+
+文件大小（单位 B） 
+
+IMAGE_HEIGHT 
+IMAGE_W IDT H 
+
+Inte g e r 
+Inte g e r 
+
+FALSE 
+FALSE 
+
+图片文件的高 
+图片文件的宽 
+
+I.74 SHOW_PRAISE 
+
+Code 
+Comment 
+
+SHOW_PRAISE 
+
+Name 
+
+Code 
+
+Data Type 
+
+点赞 ID 
+
+点赞对象 ID 
+点赞人员 ID 
+点赞时间 
+点赞类型 
+
+ID 
+PRAISE_ID 
+CREAT E_ID 
+CREAT E_T IME 
+PRAISE_T YPE 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Da te & T ime 
+Sho rt inte g e r 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+Comment 
+
+点赞 id 
+
+点赞对象 id 
+点赞人员 id 
+点赞时间 
+点赞类型(秀圈 1,图片 2) 
+
+I.75 SHOWBAR_AUTH 
+
+Code 
+Comment 
+
+SHOWBAR_AUTH 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+秀吧 ID 
+
+授权范围 
+
+ID 
+SHOWBAR_ID 
+SCOPE 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Sho rt inte g e r 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+组织机构类型 
+
+ORGENT _T YPE Sho rt inte g e r 
+
+FALSE 
+
+Comment 
+
+秀吧 ID 
+
+授权范围(0：全部、1：全部
+除外部人员、2：部分) 
+
+组织机构类型：         
+        0：Acco unt, 
+        1：De p a rtme nt, 
+        2：T e am, 
+        3：Memb e r, 
+        4：Ro le , 
+        5：Po s t, 
+        6：Le ve l 
+
+组织类型对应元
+
+ORGENT _ID 
+
+Lo ng inte g e r 
+
+FALSE 
+
+组织类型对应元素的 ID（如
+
+素的 ID 
+
+ORGENT _T YPE 为人员，则
+
+当前字段为人员的 ID） 
+
+I.76 SHOWBAR_INFO 
+
+Code 
+
+SHOWBAR_INFO 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 36 
+
+Lo g ica l Da ta Mo de l 
+
+Comment 
+
+Name 
+
+Code 
+
+Data Type 
+
+CT P2.0 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+
+Comment 
+
+秀吧创建人 ID 
+
+所属单位 ID 
+创建时间 
+最近修改人 ID 
+
+最近修改时间 
+创建自（0：PC、1：M1） 
+状态标识：0 删除，1 正常 
+秀吧名称 
+
+秀吧开始时间 
+秀吧结束时间 
+秀吧活动地址 
+
+FALSE 
+
+秀吧简介 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+置顶时间（未置顶则为空） 
+浏览次数 
+点赞次数 
+照片总数 
+评论总数 
+
+ID 
+
+秀吧创建人 ID 
+
+所属单位 ID 
+创建时间 
+最近修改人 ID 
+
+最近修改时间 
+创建自 
+状态标识 
+秀吧名称 
+
+秀吧开始时间 
+秀吧结束时间 
+秀吧活动地址 
+
+秀吧简介 
+
+置顶时间 
+浏览次数 
+点赞次数 
+照片总数 
+评论总数 
+
+封面图片 ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Lo ng inte g e r 
+Da te & T ime 
+Lo ng inte g e r 
+
+ID 
+CREAT E_USER
+_ID 
+ACCOUNT _ID 
+CREAT E_T IME 
+UPDAT E_USER
+_ID 
+UPDAT E_T IME Da te & T ime 
+CREAT E_FROM Sho rt inte g e r 
+ST AT US 
+Sho rt inte g e r 
+SHOWBAR_NA
+Va ria b le 
+ME 
+cha ra c te rs (255) 
+ST ART _DAT E 
+Da te & T ime 
+END_DAT E 
+Da te & T ime 
+ADDRESS 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (1024) 
+Da te & T ime 
+Inte g e r 
+Inte g e r 
+Inte g e r 
+Inte g e r 
+
+SUMMARY 
+
+SET T OP_T IME 
+VIEW _NUM 
+LIKE_NUM 
+IMG_NUM 
+COMMENT _NU
+M 
+COVER_PICT U
+RE 
+
+记录排序信息 
+记录最新的的图
+
+片 ID 
+
+ORDER_NUM 
+LAST _IMAGE_I
+D 
+
+Lo ng inte g e r 
+
+FALSE 
+
+封面图片 ID (对应
+
+show_img a e 表) 
+
+Inte g e r 
+Lo ng inte g e r 
+
+FALSE 
+FALSE 
+
+记录排序信息 
+记录最新的的图片 ID 
+
+I.77 SHOWPOST_INFO 
+
+Code 
+Comment 
+
+SHOWPOST_INFO 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+秀吧 ID 
+
+秀吧创建人 ID 
+
+所属单位 ID 
+创建时间 
+正文内容 
+点赞次数 
+照片总数 
+
+ID 
+SHOWBAR_ID 
+CREAT E_USER
+_ID 
+ACCOUNT _ID 
+CREAT E_T IME 
+CONT ENT 
+LIKE_NUM 
+IMG_NUM 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Lo ng inte g e r 
+Da te & T ime 
+T e xt 
+Inte g e r 
+Inte g e r 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+Comment 
+
+秀吧 ID 
+
+秀吧创建人 ID 
+
+所属单位 ID 
+创建时间 
+正文内容 
+点赞次数 
+照片总数 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 37 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+评论总数 
+
+置顶时间（未置
+顶则为空） 
+状态标识 
+创建自（PC、
+
+M1） 
+
+秀圈信息发送地
+理位置 
+被＠人员的 ID
+和姓名信息
+
+（JSON 格式） 
+
+COMMENT _NU
+M 
+SET T OP_T IME 
+
+Inte g e r 
+
+FALSE 
+
+评论总数 
+
+Da te & T ime 
+
+FALSE 
+
+置顶时间（未置顶则为空） 
+
+ST AT US 
+Sho rt inte g e r 
+CREAT E_FROM Sho rt inte g e r 
+
+PUBLISH_LOCA
+T ION 
+
+Va ria b le 
+cha ra c te rs (2000) 
+
+AT _INFO 
+
+Va ria b le 
+cha ra c te rs (1024) 
+
+FALSE 
+FALSE 
+
+FALSE 
+
+FALSE 
+
+状态标识：0 删除，1 正常 
+创建自（0：PC、1：M1） 
+
+用于存储发送秀圈信息的地理
+位置 
+被＠人员的 ID 和姓名信息
+
+（JSON 格式） 
+
+I.78 THIRDPARTY_MSG_PENDING_CFG 
+
+Code 
+Comment 
+
+THIRDPARTY_MSG_P ENDING_CFG 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+注册应用 ID 
+消息待办获取模
+式推/拉 
+穿透模式 
+是消息配置还是
+待办配置必填 
+接口服务地址 
+
+ANDROID 启动
+
+命令 
+IOS 启动命令 
+
+是否启用 
+
+CREAT E_DAT
+E 
+UPDAT E_DAT
+E 
+
+时间间隔 
+
+ID 
+REGIST ER_ID 
+GET _MODE 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Sho rt inte g e r 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 ID 
+
+注册应用 ID 
+消息待办获取模式推/拉 
+
+LINK_MODE 
+T YPE 
+
+Sho rt inte g e r 
+Sho rt inte g e r 
+
+FALSE 
+FALSE 
+
+穿透模式 
+是消息配置还是待办配置必填 
+
+SERVICE_URL 
+
+ANDROID_ST A
+RT _COMMAND 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+IOS_ST ART _C
+Va ria b le 
+OMMAND 
+cha ra c te rs (255) 
+IS_ENABLE 
+Sho rt inte g e r 
+CREAT E_DAT E Da te & T ime 
+
+FALSE 
+
+接口服务地址 
+
+FALSE 
+
+ANDROID 启动命令 
+
+FALSE 
+
+IOS 启动命令 
+
+FALSE 
+FALSE 
+
+是否启用（0：否；1：是） 
+
+UPDAT E_DAT E Da te & T ime 
+
+FALSE 
+
+T IME_INT ERVA
+L 
+
+Va ria b le 
+cha ra c te rs (255) 
+
+FALSE 
+
+时间间隔 
+
+I.79 THIRDPARTY_PENDING 
+
+Code 
+Comment 
+
+THIRDPARTY_P ENDING 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+ID 
+
+Lo ng inte g e r 
+
+Mandator
+y 
+T RUE 
+
+主键 ID 
+
+Comment 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 38 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+第三方待办主键
+
+T ASK_ID 
+
+ID 
+
+标题 
+
+T IT LE 
+
+发起者 OA 中的
+
+SENDER_ID 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Lo ng inte g e r 
+
+FALSE 
+
+第三方待办主键 ID 
+
+FALSE 
+
+标题 
+
+FALSE 
+
+发起者 OA 中的 ID 
+
+ID 
+
+第三方发起者
+
+ID 
+
+发起人姓名 
+
+接收人 ID 
+第三方接收者
+
+ID 
+应用 ID 
+
+业务分类 
+
+正文类型 
+
+数据内容 
+
+PC 端外部链接 
+
+移动参数 
+
+任务创建时间 
+
+任务状态 
+
+详细任务状态 
+
+CREAT E_DAT
+E 
+UPDAT E_DAT
+E 
+
+移动端 H5 链接 H5URL 
+
+T H IRD_SENDE
+R_ID 
+SENDER_NAM
+E 
+RECEIVER_ID 
+T H IRD_RECEIV
+ER_ID 
+REGIST ER_ID 
+CLASSIFY 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+CONT ENT T YPE Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (4000) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (2000) 
+Da te & T ime 
+
+APPPARAM 
+
+CONT ENT 
+
+PCURL 
+
+FALSE 
+
+第三方发起者 ID 
+
+FALSE 
+
+发起人姓名 
+
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
+
+接收人 ID 
+第三方接收者 ID 
+
+应用 ID 
+
+业务分类 
+
+FALSE 
+
+正文类型 
+
+FALSE 
+
+数据内容 
+
+FALSE 
+
+PC 端外部链接 
+
+FALSE 
+
+移动端 H5 链接 
+
+FALSE 
+
+移动参数 
+
+FALSE 
+
+任务创建时间 
+
+CREAT ION_DA
+T E 
+ST AT E 
+
+Sho rt inte g e r 
+
+FALSE 
+
+SUBST AT E 
+Sho rt inte g e r 
+CREAT E_DAT E Da te & T ime 
+
+FALSE 
+FALSE 
+
+UPDAT E_DAT E Da te & T ime 
+
+FALSE 
+
+任务状态（0:未办理；1:已办
+理） 
+子任务状态 
+
+I.80 THIRDPARTY_PORTAL_CONFIG 
+
+Code 
+Comment 
+
+THIRDPARTY_PO RTAL_CONFIG 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+注册应用 ID 
+认证模式 
+
+SSO 认证地址 
+
+PC 服务地址 
+
+ID 
+REGIST ER_ID 
+AUT HENT ICAT I
+ON_MODE 
+SSO_LOGIN_U
+RL 
+PC_PAGE_URL 
+
+H5 服务地址 
+
+H5_PAGE_URL 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 ID 
+
+注册应用 ID 
+认证模式 
+
+FALSE 
+
+SSO 认证地址 
+
+FALSE 
+
+PC 服务地址 
+
+FALSE 
+
+H5 服务地址 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 39 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+是否启用 
+
+CREAT E_DAT
+E 
+UPDAT E_DAT
+E 
+
+启动命令 
+
+IS_ENABLE 
+Sho rt inte g e r 
+CREAT E_DAT E Da te & T ime 
+
+FALSE 
+FALSE 
+
+是否启用（0:否，1：是） 
+
+UPDAT E_DAT E Da te & T ime 
+
+FALSE 
+
+ST ART _COMM
+AND 
+
+Va ria b le 
+cha ra c te rs (2000) 
+
+FALSE 
+
+启动命令 
+
+I.81 THIRDPARTY_REGISTER 
+
+Code 
+Comment 
+
+THIRDPARTY_REGISTER 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+注册名称 
+
+ID 
+APP_NAME 
+
+ICON_PC 
+
+ICON_PC 
+
+移动注册图标 
+
+ICON_H5 
+
+PC 注册图标 
+
+版本号 
+
+版本说明 
+
+应用标签（应用
+类型） 
+应用服务商 
+
+接入方式 
+
+INT RODUCT IO
+N 
+VERSION_NO 
+
+VERSION_INT R
+ODUCT ION 
+APP_LABEL 
+
+APP_PROVIDE
+R 
+ACCESS_MET H
+OD 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (255) 
+
+Va ria b le 
+cha ra c te rs (50) 
+Sho rt inte g e r 
+
+PC 服务地址 
+
+H5 服务地址 
+
+注册编码 
+注册系统接入方
+式 
+
+CREAT E_DAT
+E 
+UPDAT E_DAT
+E 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+主键 ID 
+
+注册名称 
+
+FALSE 
+
+注册名称 
+
+FALSE 
+
+移动注册图标 
+
+FALSE 
+
+PC 注册图标 
+
+FALSE 
+
+版本号 
+
+FALSE 
+
+版本说明 
+
+FALSE 
+
+应用标签（应用类型） 
+
+FALSE 
+
+应用服务商 
+
+FALSE 
+
+接入方式（PC(0, "PC"), 
+H5(1, "H5"), PCH5(2, 
+"PC&H5"), PCMo b ile (3, 
+"PC&移动应用包"), 
+H5Mo b ile (4, "H5&移动应用包
+")） 
+
+FALSE 
+
+PC 服务地址 
+
+FALSE 
+
+H5 服务地址 
+
+FALSE 
+FALSE 
+
+注册编码 
+注册系统接入方式（0：url，
+1：移动应用包） 
+
+SERVICE_PC_
+URL 
+SERVICE_H5_U
+RL 
+APP_CODE 
+JOIN_T YPE 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Lo ng inte g e r 
+Sho rt inte g e r 
+
+CREAT E_DAT E Da te & T ime 
+
+FALSE 
+
+UPDAT E_DAT E Da te & T ime 
+
+FALSE 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 40 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+I.82 THIRDPARTY_USER_MAPPER 
+
+Code 
+Comment 
+
+THIRDPARTY_US ER_MAPP ER 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+注册应用 ID 
+
+OA 人员 ID 
+
+第三方系统人
+
+ID 
+
+第三方系统人员
+登录名称 
+第三方系统人员
+名称 
+第三方系统人员
+编码 
+第三方系统人员
+手机号 
+第三方系统人员
+邮件 
+扩展参数 
+
+PARAM_1 
+
+描述 
+
+CREAT E_DAT
+E 
+UPDAT E_DAT
+E 
+
+ID 
+REGIST ER_ID 
+MEMBER_ID 
+T H IRD_USER_I
+D 
+T H IRD_LOGIN_
+NAME 
+
+T H IRD_NAME 
+
+T H IRD_CODE 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+Va ria b le 
+cha ra c te rs (255) 
+
+Va ria b le 
+cha ra c te rs (255) 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 ID 
+
+注册应用 ID 
+
+OA 人员 ID 
+
+第三方系统人 ID 
+
+FALSE 
+
+第三方系统人员登录名称 
+
+FALSE 
+
+第三方系统人员名称 
+
+FALSE 
+
+第三方系统人员编码 
+
+T H IRD_MOBILE Va ria b le 
+cha ra c te rs (255) 
+
+T H IRD_EMAIL 
+
+Va ria b le 
+cha ra c te rs (255) 
+
+FALSE 
+
+第三方系统人员手机号 
+
+FALSE 
+
+第三方系统人员邮件 
+
+PARAM_0 
+
+PARAM_1 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (500) 
+CREAT E_DAT E Da te & T ime 
+
+DESCR IPT ION 
+
+FALSE 
+
+扩展参数 
+
+FALSE 
+
+扩展参数 
+
+FALSE 
+
+描述 
+
+FALSE 
+
+UPDAT E_DAT E Da te & T ime 
+
+FALSE 
+
+I.83 U8 初始操作员信息表 
+
+Code 
+Comment 
+
+U8_SET_USER 
+
+U8 初始操作员信息表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+是否主数据 
+U8 服务器名称 
+
+U8 操作员 
+
+U8 操作员密码 
+
+登录时间 
+
+ID 
+U8_KEY 
+U8_SERVER_N
+AME 
+U8_USER 
+
+U8_PASSWOR
+D 
+LOGIN_DAT E 
+
+登录账套 
+
+ACCOUNT _NO 
+
+Lo ng inte g e r 
+Inte g e r 
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (50) 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 
+是否主数据 
+U8 服务器名称 
+
+FALSE 
+
+U8 操作员 
+
+FALSE 
+
+U8 操作员密码 
+
+FALSE 
+
+登录时间 
+
+FALSE 
+
+登录账套 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 41 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+账套年度 
+
+ACCOUNT _YEA
+R 
+数据库连接信息 DAT ASOURCE 
+
+U8 服务器地址 
+
+U8SERVERADD
+RESS 
+
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+FALSE 
+
+账套年度 
+
+FALSE 
+
+数据库连接信息 
+
+FALSE 
+
+U8 服务器地址 
+
+I.84 U8 同步日志表 
+
+Code 
+Comment 
+
+U8PLUGIN_ORGSYNRECORD 
+
+U8 同步日志表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+同步人登录名 
+
+ID 
+LOGINNAME 
+
+同步方式 
+
+OPT YPE 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Sho rt inte g e r 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+主键 ID 
+
+同步人登录名 
+
+FALSE 
+
+同步方式 0-自动  1-手动 2-按
+
+同步成功数 
+同步失败数 
+同步总数 
+是否有效 
+时间戳 
+A8 单位或部门
+
+OKNUM 
+FAILNUM 
+T OT AL 
+ISVALID 
+DT 
+MAP_LOCAL_ID 
+
+Inte g e r 
+Inte g e r 
+Inte g e r 
+Sho rt inte g e r 
+Da te & T ime 
+Lo ng inte g e r 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+T RUE 
+FALSE 
+
+需 
+同步成功数 
+同步失败数 
+同步总数 
+
+是否有效 0 -无效  1-有效 
+
+时间戳 
+A8 单位或部门 id 
+
+ID 
+第三方单位主键 MAP_GU ID 
+
+对应类型 
+
+MAP_T YPE 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+FALSE 
+
+同步类型 
+
+SYN_T YPE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+同步备注 
+
+MEMO 
+
+Va ria b le 
+cha ra c te rs (255) 
+
+FALSE 
+
+FALSE 
+
+第三方单位主键 
+
+对应类型，如果单位对应，部
+门对应 
+同步类型，职务级别:1，部
+门:2，岗位:3，人员:4 
+同步备注 
+
+I.85 U8 同步日志详细信息表 
+
+Code 
+Comment 
+
+U8PLUGIN_ORGSYNRECORDDETAIL 
+
+U8 同步日志详细信息表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+主记录表 ID 
+同步数据的详细
+描述 
+同步是否成功 
+
+ID 
+RECORD_ID 
+DAT A 
+
+ACT ION 
+
+同步备注说明 
+
+MEMO 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (1024) 
+
+Va ria b le 
+cha ra c te rs (255) 
+
+Va ria b le 
+cha ra c te rs (4000) 
+
+Mandator
+y 
+T RUE 
+T RUE 
+FALSE 
+
+Comment 
+
+主键 ID 
+
+主记录表 id 
+同步数据的详细描述 
+
+FALSE 
+
+FALSE 
+
+同步是成功，失败，忽略的描
+述 
+同步备注说明 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 42 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+I.86 U8 数据源信息表 
+
+Code 
+Comment 
+
+U8BUSINESS_DATASOURC E 
+
+保存 u8 数据源 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+ID 
+
+账套编码 
+
+FALSE 
+
+数据库类型 
+
+FALSE 
+
+数据库连接 URL 
+
+FALSE 
+
+数据库用户 
+
+FALSE 
+
+数据库密码 
+
+FALSE 
+FALSE 
+FALSE 
+
+创建时间 
+更新时间 
+备用字段 1 
+
+FALSE 
+
+备用字段 2 
+
+FALSE 
+
+备用字段 3 
+
+Mandator
+y 
+T RUE 
+T RUE 
+
+Comment 
+
+主键 ID 
+
+U8 服务器名称 
+
+FALSE 
+
+WEB 服务器地址 
+
+FALSE 
+
+外部注册号 
+
+FALSE 
+
+U8 版本 
+
+FALSE 
+FALSE 
+FALSE 
+
+是否包含 U8 
+是否包含网报 
+是否包含 HR 自助 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+
+账套编码 
+
+数据库类型 
+
+数据库连接
+
+URL 
+
+数据库用户 
+
+数据库密码 
+
+创建时间 
+更新时间 
+备用字段 1 
+
+备用字段 2 
+
+备用字段 3 
+
+DBURL 
+
+DBUSER 
+
+ID 
+ACCOUNT COD
+E 
+DBT YPE 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (255) 
+DBPASSWORD Va ria b le 
+cha ra c te rs (255) 
+CREAT E_T IME 
+Da te & T ime 
+UPDAT E_T IME Da te & T ime 
+EXT _AT T R1 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+EXT _AT T R2 
+
+EXT _AT T R3 
+
+I.87 U8 服务器信息表 
+
+Code 
+Comment 
+
+U8_SERVERS 
+
+U8 服务器信息表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+U8 服务器名称 
+
+WEB 服务器地
+址 
+外部注册号 
+
+ID 
+U8_SERVER_N
+AME 
+U8_WEB_ADDR
+ESS 
+
+U8_REG_NO 
+
+U8 版本 
+
+U8_VERSION 
+
+是否包含 U8 
+是否包含网报 
+是否包含 HR 自
+助 
+是否启用 U8 
+
+HAS_U8 
+HAS_WB 
+HAS_ZZ 
+
+U8_SERVER_E
+NABLE 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Inte g e r 
+Inte g e r 
+Inte g e r 
+
+Inte g e r 
+
+FALSE 
+
+是否启用 U8: 1-启用，  0-不
+
+启用 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 43 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+是否启用网报 
+
+WB_ENABLE 
+
+Inte g e r 
+
+FALSE 
+
+是否启用考勤查
+询 
+是否启用工资查
+询 
+是否启用考勤申
+请 
+U8 服务器地址 
+
+KC_ENABLE 
+
+Inte g e r 
+
+FALSE 
+
+GZ_ENABLE 
+
+Inte g e r 
+
+FALSE 
+
+KS_ENABLE 
+
+Inte g e r 
+
+FALSE 
+
+U8_SERVER_A
+DDRESS 
+
+Va ria b le 
+cha ra c te rs (100) 
+
+FALSE 
+
+是否启用网报: 1-启用，  0-不
+启用 
+是否启用考勤查询： 1-启
+用，  0-不启用 
+是否启用工资查询： 1-启
+用，  0-不启用 
+是否启用考勤申请： 1-启
+用，  0-不启用 
+U8 服务器地址 
+
+I.88 U8 登录设置信息表 
+
+Code 
+Comment 
+
+U8PLUGIN_U8_USERMAPPER 
+
+U8 登录设置信息表 
+
+Name 
+
+Code 
+
+Data Type 
+
+HR_ACCOUNT
+YEAR 
+
+Va ria b le 
+cha ra c te rs (255) 
+
+FALSE 
+
+HR 自助帐套年度 
+
+A8 用户 ID 
+A8USER ID 
+数据库连接信息 DAT ASOURCE 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+
+FALSE 
+FALSE 
+
+A8 用户 ID 
+
+数据库连接信息 
+
+I.89 U8 账号绑定表 
+
+Code 
+Comment 
+
+U8PLUGIN_U8_USER 
+
+U8 账号绑定表 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 44 
+
+主键 
+U8 服务器名称 
+
+ID 
+SERVERNAME 
+
+U8 操作员 
+
+PERAT OR 
+
+密码 
+
+PASSWORD 
+
+默认帐套 
+
+ACCOUNT NO 
+
+帐套年度 
+
+网报服务器 
+
+ACCOUNT YEA
+R 
+WB_SERVER 
+
+网报默认帐套 
+
+网报帐套年度 
+
+WB_ACCOUNT
+NO 
+WB_ACCOUNT
+YEAR 
+HR 自助服务器 HR_SERVER 
+
+HR_ACCOUNT
+NO 
+
+HR 自助默认帐
+套 
+HR 自助帐套年
+度 
+
+Mandator
+y 
+T RUE 
+T RUE 
+
+Comment 
+
+主键 
+U8 服务器名称 
+
+T RUE 
+
+U8 操作员 
+
+FALSE 
+
+密码 
+
+T RUE 
+
+默认帐套 
+
+T RUE 
+
+帐套年度 
+
+FALSE 
+
+网报服务器 
+
+FALSE 
+
+网报默认帐套 
+
+FALSE 
+
+网报帐套年度 
+
+FALSE 
+
+HR 自助服务器 
+
+FALSE 
+
+HR 自助默认帐套 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (36) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (4) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+A8 用户 ID 
+
+U8 操作员名称 
+
+U8 操作员编码 
+
+U8 服务器名称 
+
+ID 
+OAUSER ID 
+U8LOGINNAME
+S 
+U8USER IDS 
+
+U8SERVERNA
+ME 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+Mandator
+y 
+T RUE 
+T RUE 
+FALSE 
+
+Comment 
+
+主键 ID 
+A8 用户 ID 
+
+U8 操作员名称 
+
+FALSE 
+
+U8 操作员编码 
+
+FALSE 
+
+U8 服务器名称 
+
+I.90 UC 同步失败记录 
+
+Code 
+Comment 
+
+UC_SYN_LOG 
+
+UC 同步失败记录 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+数据 
+类型 
+
+当前数据包同步
+失败时间 
+
+ID 
+SYN_DAT A 
+SYN_T YPE 
+
+SYN_T IME 
+
+Lo ng inte g e r 
+T e xt 
+Va ria b le 
+cha ra c te rs (10) 
+Da te & T ime 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+主键 ID 
+
+数据 
+类型 
+
+FALSE 
+
+当前数据包同步失败时间 
+
+I.91 VOUCHER_USERMAPPER 
+
+Code 
+Comment 
+
+VOUCHER_USERMAPP ER 
+
+Comment 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+人员主键 
+
+用户实名 
+
+ID 
+ORG_MEMBER
+_ID 
+USERNAME 
+
+用户账号 
+
+USERCODE 
+
+密码 
+
+USERPWD 
+
+账套类型 
+
+T YPE 
+
+账套主键 
+
+ACCOUNT ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Lo ng inte g e r 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+主键 
+人员主键 
+
+FALSE 
+
+用户实名 
+
+FALSE 
+
+用户账号 
+
+FALSE 
+
+密码 
+
+FALSE 
+
+账套类型 
+
+FALSE 
+
+账套主键 
+
+I.92 WEATHER_AREA_INFO 
+
+Code 
+Comment 
+
+WEATHER_AREA_INFO 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 45 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+Name 
+
+Code 
+
+Data Type 
+
+站点 ID 
+
+AREAID 
+
+站点英文名 
+
+NAMEEN 
+
+站点中文名 
+
+NAMECN 
+
+城市英文名 
+
+D IST R ICT EN 
+
+城市中文名 
+
+D IST R ICT CN 
+
+省份英文 
+
+PROVEN 
+
+省份中文 
+
+PROVCN 
+
+国家英文 
+
+NAT IONEN 
+
+国家中文 
+
+NAT IONCN 
+
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+
+Mandator
+y 
+T RUE 
+
+站点 ID 
+
+Comment 
+
+FALSE 
+
+站点英文名 
+
+FALSE 
+
+站点中文名 
+
+FALSE 
+
+城市英文名 
+
+FALSE 
+
+城市中文名 
+
+FALSE 
+
+省份英文 
+
+FALSE 
+
+省份中文 
+
+FALSE 
+
+国家英文 
+
+FALSE 
+
+国家中文 
+
+I.93 WF_PROCESS_XML_TEMP 
+
+Code 
+Comment 
+
+WF_PROCESS_XML_TEMP 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+流程 ID 
+
+流程 XML 
+节点 ID 
+
+操作人员 
+操作类型 
+创建时间 
+
+ID 
+PROCESS_ID 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (110) 
+PROCESS_XML T e xt 
+ACT IVIT Y_ID 
+Lo ng inte g e r 
+USER_ID 
+Lo ng inte g e r 
+ACT ION 
+Sho rt inte g e r 
+CREAT E_T IME 
+Da te & T ime 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 ID 
+流程 ID 
+
+流程 XML 
+节点 ID 
+
+操作人员 
+操作类型 
+创建时间 
+
+I.94 业务导图主表 
+
+Code 
+Comment 
+
+CTP_BIZ_MAP 
+
+业务导图主表 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+
+导图名称 
+
+ID 
+NAME 
+
+创建者 ID 
+创建时间 
+最后修改者 ID 
+最后修改时间 
+
+CREAT OR_ID 
+CREAT E_T IME 
+MOD IFIER_ID 
+MOD IFY_T IME 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Lo ng inte g e r 
+Da te & T ime 
+Lo ng inte g e r 
+Da te & T ime 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+ID 
+
+导图名称 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+创建者 ID 
+创建时间 
+最后修改者 ID 
+最后修改时间 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 46 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+导图图片在附件
+
+AT T _ID 
+
+Lo ng inte g e r 
+
+FALSE 
+
+导图图片在附件表的 ID 
+
+表的 ID 
+
+布局类型 
+布局方式 
+
+LAYOUT T YPE 
+LAYOUT 
+
+Sho rt inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+
+FALSE 
+FALSE 
+
+状态 
+
+ST AT E 
+
+Sho rt inte g e r 
+
+FALSE 
+
+删除标记 
+
+存放 HTML 代
+
+码 
+
+DEL_FLAG 
+HTML_CONT EN
+T 
+
+Sho rt inte g e r 
+T e xt 
+
+FALSE 
+FALSE 
+
+创建者所属单位
+
+ORG_ID 
+
+Lo ng inte g e r 
+
+FALSE 
+
+ID 
+
+布局类型：1 菜单 2 栏目 
+布局方式：为了通用，使用
+JSON 格式，所有布局设置都
+存放这个字段 
+状态，0 草稿，1 启用，2 停
+用 
+删除标记，0 未删除，1 删除 
+以后如果不是图片，自己做了
+设计器，里面就是存放 HTML
+代码 
+创建者所属单位 ID（SAAS
+方式必须） 
+
+I.95 业务管理配置表 
+
+Code 
+Comment 
+
+CTP_BIZ_CONFIG 
+
+业务管理配置表 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+NAME 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+
+MENU_ID 
+Lo ng inte g e r 
+CREAT E_USER Lo ng inte g e r 
+CREAT E_DAT E Da te & T ime 
+UPDAT E_DAT E Da te & T ime 
+BIZ_ST AT E 
+Sho rt inte g e r 
+
+DEL_FLAG 
+
+Sho rt inte g e r 
+
+FALSE 
+
+BIZ_SORT 
+
+Sho rt inte g e r 
+
+FALSE 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 ID 
+
+业务管理配置名称 
+
+一级菜单 ID 
+创建人 
+创建时间 
+修改时间 
+标记业务配置状态， -2：未
+激活；-1：部分激活；2：已
+激活 
+标记业务配置删除状态，0，
+null 未删除，1 删除 
+标记业务配置类型 
+
+主键 ID 
+
+业务管理配置名
+称 
+一级菜单 ID 
+创建时人 
+创建时间 
+修改时间 
+标记业务配置状
+态 
+
+标记业务配置删
+除状态 
+标记业务配置类
+型 
+
+件 ID 
+
+业务菜单所属单
+位 
+标记业务配置创
+建类型 
+流程列表菜单是
+否合并 
+流程列表菜单合
+并名称 
+
+业务配置描述 
+
+业务配置修改人 MOD IFY_USER 
+BIZ_DESCR IPT I
+ON 
+BIZ_IMAGE_ID 
+
+菜单图标对应文
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Lo ng inte g e r 
+
+FALSE 
+FALSE 
+
+业务配置修改人 
+业务配置描述 
+
+FALSE 
+
+菜单图标对应文件 ID 
+
+Lo ng inte g e r 
+
+FALSE 
+
+业务菜单所属单位 
+
+ORG_ACCOUN
+T _ID 
+
+BIZ_CREAT E_T
+YPE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+BIZ_MERGE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+BIZ_MERGE_N
+AME 
+
+Va ria b le 
+cha ra c te rs (255) 
+
+FALSE 
+
+标记业务配置创建类型，0：
+自建，1：导入 
+流程列表菜单是否合并，0，
+不合并，1：合并 
+流程列表菜单合并名称 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 47 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+业务配置版本 
+业务配置相关信
+息 
+移动业务配置 
+
+移动看板 ID 
+
+BIZ_VERSION 
+BIZ_SOURCE_I
+NFO 
+
+MOBILE_BIZ_C
+ONFIG 
+BIZ_DASHBOA
+RD_ID 
+
+Sho rt inte g e r 
+T e xt 
+
+FALSE 
+FALSE 
+
+业务配置版本 
+业务配置相关信息 
+
+T e xt 
+
+FALSE 
+
+移动业务配置 
+
+Lo ng inte g e r 
+
+FALSE 
+
+移动看板 id 
+
+I.96 丢失报损信息列表 
+
+Code 
+Comment 
+
+OFFICE_LOSS_INFO 
+
+丢失报损信息列表 
+
+Name 
+
+Code 
+
+Data Type 
+
+丢失物 ID 
+
+LOSS_ID 
+RESOURCE_ID 
+
+RESOURCE_N
+AME 
+LOSS_FIELD 
+
+LOSS_D IFF 
+
+LOSS_D IFF 
+
+RESOURCE_I
+D 
+RESOURCE_N
+AME 
+LOSS_FIELD 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (20) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (1) 
+Va ria b le 
+cha ra c te rs (1) 
+LOSS_COUNT 
+Inte g e r 
+CREAT E_DAT E Da te & T ime 
+MOD IFY_DAT E Da te & T ime 
+CREAT E_USER Lo ng inte g e r 
+LOSS_MGE 
+Lo ng inte g e r 
+LOSS_MEMO 
+T e xt 
+是否删除的标识 DEL_FLAG 
+Sho rt inte g e r 
+单位 ID 
+DOMAIN_ID 
+Lo ng inte g e r 
+
+丢失数量 
+创建时间 
+修改日期 
+创建人 
+管理员 ID 
+备注 
+
+I.97 个人事项 
+
+Code 
+Comment 
+
+CTP_AFFAIR 
+
+个人事项 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+
+是否超期 
+
+人员 ID 
+
+发送人 ID 
+标题 
+
+应用 
+主应用 ID 
+
+ID 
+IS_COVER_T IM
+E 
+MEMBER_ID 
+SENDER_ID 
+SUBJECT 
+
+APP 
+OBJECT _ID 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+丢失物 ID 
+
+RESOURCE_ID 
+
+FALSE 
+
+RESOURCE_NAME 
+
+FALSE 
+
+LOSS_FIELD 
+
+FALSE 
+
+LOSS_D IFF 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+T RUE 
+
+丢失数量 
+创建时间 
+修改日期 
+创建人 
+管理员 ID 
+备注 
+是否删除的标识 
+
+单位 ID 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+主键 ID 
+
+是否超期（0 否，1 是） 
+
+Lo ng inte g e r 
+Sho rt inte g e r 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (1024) 
+Sho rt inte g e r 
+Lo ng inte g e r 
+
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
+
+人员 ID 
+
+发送人 ID 
+标题 
+
+应用 
+主应用 ID 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 48 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+对应
+
+WORKIT EM_I
+D 
+
+状态 
+
+SUB_OBJECT _I
+D 
+
+Lo ng inte g e r 
+
+FALSE 
+
+对应 wo rk item_id 
+
+ST AT E 
+
+Sho rt inte g e r 
+
+FALSE 
+
+子状态 
+
+SUB_ST AT E 
+
+Sho rt inte g e r 
+
+FALSE 
+
+状态（1 待发，2 已发，3 待
+办，4 已办，5 取消，6 回
+退，7 取回，8 竞争执行，15
+终止） 
+子状态（0 子状态正常，1 待
+发草稿，2 待发被回退，3 待
+发被撤销，4 公文回退拟稿
+人，5 协同撤销，11 待办未
+读，12 待办已读，13 待办暂
+存待办，14 待办知会，15 待
+办被回退暂存待办，15 待
+办，主动指定回退的状态，我
+指定回退给别人，这是我的状
+态，16 待办--被指定回退到的
+事项，别人回退给我，这是我
+的状态，17 待办--被指定回退
+到的事项，又指定回退给别
+人，中间事项的状态，18 待
+发--指定回退到发起人并且选
+择流程重走，这是发起人的，
+19 公文--在办时，指定退回
+（直接提交给我）普通节点，
+21 状态已办-流程终止，31 会
+议-待办-参加，32 会议-待办 -
+不参加，33 会议-待办-待定，
+34 周期性会议 
+催办次数 
+
+提醒时间 
+节点期限 
+
+催办次数 
+
+提醒时间 
+节点期限 
+
+是否到期提醒 
+
+创建时间 
+接受时间 
+完成时间 
+
+提醒周期 
+
+是否被删除 
+是否跟踪 
+
+归档 ID 
+
+属性 
+
+扩展属性 
+
+更新时间 
+是否结束 
+
+Sho rt inte g e r 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Sho rt inte g e r 
+
+HAST EN_T IME
+S 
+REMIND_DAT E 
+DEADLINE_DAT
+E 
+CAN_DUE_REM
+IND 
+CREAT E_DAT E Da te & T ime 
+RECEIVE_T IME Da te & T ime 
+COMPLET E_T I
+Da te & T ime 
+ME 
+REMIND_INT ER
+VAL 
+IS_DELET E 
+T RACK 
+ARCH IVE_ID 
+ADD IT ION 
+
+Sho rt inte g e r 
+Sho rt inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (2000) 
+Va ria b le 
+cha ra c te rs (2000) 
+UPDAT E_DAT E Da te & T ime 
+IS_FIN ISH 
+Sho rt inte g e r 
+
+EXT _PROPS 
+
+Sho rt inte g e r 
+
+FALSE 
+
+FALSE 
+FALSE 
+
+FALSE 
+
+是否到期提醒 
+
+FALSE 
+FALSE 
+FALSE 
+
+创建时间 
+接受时间 
+完成时间 
+
+FALSE 
+
+提醒周期 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+是否被删除（0 否，1 是） 
+是否跟踪（0 否，1 是） 
+
+归档 ID 
+
+属性 
+
+FALSE 
+
+扩展属性 
+
+FALSE 
+FALSE 
+
+更新时间 
+是否结束（0 否，1 是） 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 49 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+正文类型 
+
+BODY_T YPE 
+
+重要程度 
+
+重复次数 
+转发人 
+
+标识符 
+
+代理人 
+
+节点权限 
+
+工作流节点 ID 
+表单应用 ID 
+表单视图 ID 
+表单操作 ID 
+
+模板 ID 
+
+/ /加签、知会、
+会签等操作，来
+源人的 ID 
+按工作时间计算
+超期时间 
+按工作时间计算
+运行时间 
+按自然时间计算
+超期时间 
+按自然时间计算
+运行时间 
+处理期限到处理
+类型（0-仅消息
+提醒;1-转给指
+定人;2-自动跳
+过） 
+处理期限到处理
+类型 1 的辅助
+
+值 1：USER ID 
+
+子应用 ID 
+执行时间 
+
+ORG_ACCOU
+NT _ID 
+PROCESS_ID 
+
+IS_PROCESS_
+OVER_T IME 
+
+记录视图权限
+
+ID 串 
+
+回退人的 ID 
+
+Va ria b le 
+cha ra c te rs (255) 
+Sho rt inte g e r 
+
+Sho rt inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Lo ng inte g e r 
+
+Va ria b le 
+cha ra c te rs (255) 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+FALSE 
+
+正文类型 
+
+FALSE 
+
+FALSE 
+FALSE 
+
+重要程度（1 普通，2 重要，
+3 非常重要） 
+重复次数 
+转发人 
+
+FALSE 
+
+标识符 
+
+FALSE 
+
+代理人 
+
+FALSE 
+
+节点权限 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
+
+工作流节点 Id 
+表单应用 id 
+表单视图 ID 
+表单操作 ID 
+
+模板 ID 
+
+/ /加签、知会、会签等操作，
+来源人的 Id 
+
+Lo ng inte g e r 
+
+FALSE 
+
+按工作时间计算超期时间 
+
+Lo ng inte g e r 
+
+FALSE 
+
+按工作时间计算运行时间 
+
+IMPORT ANT _L
+EVEL 
+
+RESENT _T IME 
+FORWARD_ME
+MBER 
+IDENT IFIER 
+
+T RANSACT OR_
+ID 
+NODE_POLICY 
+
+ACT IVIT Y_ID 
+FORM_APP_ID 
+FORM_ID 
+FORM_OPERA
+T ION_ID 
+T EMPLET E_ID 
+FROM_ID 
+
+OVER_WORKT I
+ME 
+
+RUN_WORKT IM
+E 
+
+OVER_T IME 
+
+Lo ng inte g e r 
+
+FALSE 
+
+按自然时间计算超期时间 
+
+RUN_T IME 
+
+Lo ng inte g e r 
+
+FALSE 
+
+按自然时间计算运行时间 
+
+DEAL_T ERM_T
+YPE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+处理期限到处理类型（0-仅消
+息提醒;1-转给指定人;2 -自动
+跳过） 
+
+DEAL_T ERM_U
+SER ID 
+
+SUB_APP 
+EXPECT ED_PR
+OCESS_T IME 
+ORG_ACCOUN
+T _ID 
+PROCESS_ID 
+
+IS_PROCESS_
+OVER_T IME 
+FORM_MULT I_
+OPERAT ION_ID 
+
+BACK_FROM_I
+D 
+
+Lo ng inte g e r 
+
+FALSE 
+
+处理期限到处理类型 1 的辅助
+
+值 1：use rid 
+
+Sho rt inte g e r 
+Da te & T ime 
+
+FALSE 
+FALSE 
+
+子应用 ID 
+执行时间 
+
+Lo ng inte g e r 
+
+FALSE 
+
+ORG_ACCOUNT _ID 
+
+Va ria b le 
+cha ra c te rs (255) 
+Sho rt inte g e r 
+
+Va ria b le 
+cha ra c te rs (1024) 
+
+FALSE 
+
+PROCESS_ID 
+
+FALSE 
+
+流程超期（null 否，1 是） 
+
+FALSE 
+
+记录视图权限 ID 串 
+
+Lo ng inte g e r 
+
+FALSE 
+
+回退人的 id 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 50 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+FORM_RELAT I
+VE_ST AT IC_ID
+S 
+FORM_RELAT I
+VE_QUERY_ID
+S 
+
+是否收藏 
+
+加签、知会、会
+签等操作类型 
+表单数据记录
+
+ID 
+流程 CASE_ID 
+
+数据关联 ID 
+
+首次查看时长
+(查看时间-接收
+时间) 
+
+FORM_RELAT I
+VE_ST AT IC_ID
+S 
+FORM_RELAT I
+VE_QUERY_ID
+S 
+HAS_FAVOR IT
+E 
+FROM_T YPE 
+
+FORM_RECOR
+D ID 
+CASE_ID 
+RELAT ION_DAT
+A_ID 
+FIRST VIEW _PE
+R IOD 
+
+首次查看时间点 FIRST VIEW _DA
+T E 
+FIRST RESPON
+SE_PER IOD 
+
+首次响应耗时 
+
+首次查看耗时
+（查看关闭时间
+-查看时间） 
+上一处理人 
+
+是否是自动发起
+的流程 
+
+SIGNLEVIEW _P
+ER IOD 
+
+PRE_APPROVE
+R 
+AUT O_RUN 
+
+Va ria b le 
+cha ra c te rs (255) 
+
+FALSE 
+
+Va ria b le 
+cha ra c te rs (255) 
+
+FALSE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+是否收藏（0：否，1：是） 
+
+Sho rt inte g e r 
+
+FALSE 
+
+加签、知会、会签等操作类型 
+
+Lo ng inte g e r 
+
+FALSE 
+
+表单数据记录 ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+FALSE 
+FALSE 
+
+流程 CASE_ID 
+
+数据关联 id 
+
+Lo ng inte g e r 
+
+FALSE 
+
+首次查看时长(查看时间-接收
+时间) 
+
+Da te & T ime 
+
+FALSE 
+
+首次查看时间点 
+
+Lo ng inte g e r 
+
+FALSE 
+
+Lo ng inte g e r 
+
+FALSE 
+
+首次响应耗时（首次操作-接
+收时间） 
+首次查看耗时（查看关闭时间
+-查看时间） 
+
+Lo ng inte g e r 
+
+FALSE 
+
+上一处理人 
+
+Sho rt inte g e r 
+
+FALSE 
+
+是否是自动发起的流程(0、
+否；1、是) 
+
+I.98 个人事项（转储时） 
+
+Code 
+Comment 
+
+CTP_AFFAIR_HIS 
+
+个人事项（转储时） 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+
+是否超期 
+
+人员 ID 
+
+发送人 ID 
+标题 
+
+应用 
+主应用 ID 
+对应
+
+WORKIT EM_I
+D 
+
+状态 
+
+ID 
+IS_COVER_T IM
+E 
+MEMBER_ID 
+SENDER_ID 
+SUBJECT 
+
+APP 
+OBJECT _ID 
+SUB_OBJECT _I
+D 
+
+Lo ng inte g e r 
+Sho rt inte g e r 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+主键 ID 
+
+是否超期（0 否，1 是） 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (1024) 
+Sho rt inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+
+人员 ID 
+
+发送人 ID 
+标题 
+
+应用 
+主应用 ID 
+
+对应 wo rk item_id 
+
+ST AT E 
+
+Sho rt inte g e r 
+
+FALSE 
+
+状态（1 待发，2 已发，3 待
+办，4 已办，5 取消，6 回
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 51 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+子状态 
+
+SUB_ST AT E 
+
+Sho rt inte g e r 
+
+FALSE 
+
+退，7 取回，8 竞争执行，15
+终止） 
+子状态（0 子状态正常，1 待
+发草稿，2 待发被回退，3 待
+发被撤销，4 公文回退拟稿
+人，5 协同撤销，11 待办未
+读，12 待办已读，13 待办暂
+存待办，14 待办知会，15 待
+办被回退暂存待办，15 待
+办，主动指定回退的状态，我
+指定回退给别人，这是我的状
+态，16 待办--被指定回退到的
+事项，别人回退给我，这是我
+的状态，17 待办--被指定回退
+到的事项，又指定回退给别
+人，中间事项的状态，18 待
+发--指定回退到发起人并且选
+择流程重走，这是发起人的，
+19 公文--在办时，指定退回
+（直接提交给我）普通节点，
+21 状态已办-流程终止，31 会
+议-待办-参加，32 会议-待办 -
+不参加，33 会议-待办-待定，
+34 周期性会议 
+催办次数 
+
+提醒时间 
+节点期限 
+
+FALSE 
+
+FALSE 
+FALSE 
+
+FALSE 
+
+是否到期提醒 
+
+FALSE 
+FALSE 
+FALSE 
+
+创建时间 
+接受时间 
+完成时间 
+
+FALSE 
+
+提醒周期 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+是否被删除（0 否，1 是） 
+
+归档 ID 
+
+是否跟踪（0 否，1 是） 
+属性 
+
+FALSE 
+
+扩展属性 
+
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+
+更新时间 
+是否结束（0 否，1 是） 
+正文类型 
+
+重要程度（1 普通，2 重要，
+3 非常重要） 
+重复次数 
+
+催办次数 
+
+提醒时间 
+节点期限 
+
+是否到期提醒 
+
+创建时间 
+接受时间 
+完成时间 
+
+提醒周期 
+
+是否被删除 
+
+归档 ID 
+
+是否跟踪 
+属性 
+
+扩展属性 
+
+更新时间 
+是否结束 
+正文类型 
+
+重要程度 
+
+重复次数 
+
+Sho rt inte g e r 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Sho rt inte g e r 
+
+HAST EN_T IME
+S 
+REMIND_DAT E 
+DEADLINE_DAT
+E 
+CAN_DUE_REM
+IND 
+CREAT E_DAT E Da te & T ime 
+RECEIVE_T IME Da te & T ime 
+COMPLET E_T I
+Da te & T ime 
+ME 
+REMIND_INT ER
+VAL 
+IS_DELET E 
+ARCH IVE_ID 
+T RACK 
+ADD IT ION 
+
+Sho rt inte g e r 
+Sho rt inte g e r 
+Sho rt inte g e r 
+Va ria b le 
+cha ra c te rs (2000) 
+Va ria b le 
+cha ra c te rs (2000) 
+UPDAT E_DAT E Da te & T ime 
+IS_FIN ISH 
+Sho rt inte g e r 
+BODY_T YPE 
+Va ria b le 
+cha ra c te rs (255) 
+Sho rt inte g e r 
+
+EXT _PROPS 
+
+Sho rt inte g e r 
+
+IMPORT ANT _L
+EVEL 
+
+RESENT _T IME 
+
+Sho rt inte g e r 
+
+FALSE 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 52 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+FORWARD_ME
+MBER 
+IDENT IFIER 
+
+T RANSACT OR_
+ID 
+NODE_POLICY 
+
+ACT IVIT Y_ID 
+FORM_APP_ID 
+FORM_ID 
+FORM_OPERA
+T ION_ID 
+T EMPLET E_ID 
+FROM_ID 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Lo ng inte g e r 
+
+Va ria b le 
+cha ra c te rs (255) 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+FALSE 
+
+转发人 
+
+FALSE 
+
+标识符 
+
+FALSE 
+
+代理人 
+
+FALSE 
+
+节点权限 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
+
+工作流节点 Id 
+表单应用 id 
+表单视图 ID 
+表单操作 ID 
+
+模板 ID 
+
+/ /加签、知会、会签等操作，
+来源人的 Id 
+
+OVER_WORKT I
+ME 
+
+RUN_WORKT IM
+E 
+
+Lo ng inte g e r 
+
+FALSE 
+
+按工作时间计算超期时间 
+
+Lo ng inte g e r 
+
+FALSE 
+
+按工作时间计算运行时间 
+
+OVER_T IME 
+
+Lo ng inte g e r 
+
+FALSE 
+
+按自然时间计算超期时间 
+
+RUN_T IME 
+
+Lo ng inte g e r 
+
+FALSE 
+
+按自然时间计算运行时间 
+
+DEAL_T ERM_T
+YPE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+处理期限到处理类型（0-仅消
+息提醒;1-转给指定人;2 -自动
+跳过） 
+
+DEAL_T ERM_U
+SER ID 
+
+SUB_APP 
+EXPECT ED_PR
+OCESS_T IME 
+ORG_ACCOUN
+T _ID 
+PROCESS_ID 
+
+Lo ng inte g e r 
+
+FALSE 
+
+处理期限到处理类型 1 的辅助
+
+值 1：use rid 
+
+Sho rt inte g e r 
+Da te & T ime 
+
+FALSE 
+FALSE 
+
+子应用 ID 
+执行时间 
+
+Lo ng inte g e r 
+
+FALSE 
+
+ORG_ACCOUNT _ID 
+
+Va ria b le 
+cha ra c te rs (255) 
+Sho rt inte g e r 
+
+FALSE 
+
+PROCESS_ID 
+
+FALSE 
+
+流程超期（null 否，1 是） 
+
+转发人 
+
+标识符 
+
+代理人 
+
+节点权限 
+
+工作流节点 ID 
+表单应用 ID 
+表单视图 ID 
+表单操作 ID 
+
+模板 ID 
+
+/ /加签、知会、
+会签等操作，来
+源人的 ID 
+按工作时间计算
+超期时间 
+按工作时间计算
+运行时间 
+按自然时间计算
+超期时间 
+按自然时间计算
+运行时间 
+处理期限到处理
+类型（0-仅消息
+提醒;1-转给指
+定人;2-自动跳
+过） 
+处理期限到处理
+类型 1 的辅助
+
+值 1：USER ID 
+
+子应用 ID 
+执行时间 
+
+ORG_ACCOU
+NT _ID 
+PROCESS_ID 
+
+IS_PROCESS_
+OVER_T IME 
+
+IS_PROCESS_
+OVER_T IME 
+
+I.99 个人存储空间表 
+
+Code 
+Comment 
+
+DOC_STORAGE_SPACES 
+
+记录个人的存储空间使用情况（包括邮件、博客）。 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+ID 
+
+Lo ng inte g e r 
+
+Mandator
+y 
+T RUE 
+
+主键 ID 
+
+Comment 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 53 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+T RUE 
+T RUE 
+
+用户 ID 
+
+文档使用空间 
+
+Lo ng inte g e r 
+
+T RUE 
+
+文档分配空间 
+
+Sho rt inte g e r 
+
+T RUE 
+
+USER_ID 
+USED_SPACE_
+SIZE 
+T OT AL_SPACE
+_SIZE 
+ST AT US 
+
+MAIL_SPACE 
+MAIL_USED_SP
+ACE 
+MAIL_ST AT US 
+
+用户 ID 
+
+文档使用空间 
+
+文档分配空间 
+
+文档空间状态 
+
+邮件分配空间 
+邮件使用空间 
+
+邮件空间状态 
+
+博客分配空间 
+博客使用空间 
+
+博客空间状态 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Va ria b le 
+cha ra c te rs (255) 
+
+BLOG_SPACE 
+BLOG_USED_S
+PACE 
+BLOG_ST AT US Sho rt inte g e r 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+FALSE 
+FALSE 
+
+T RUE 
+
+FALSE 
+FALSE 
+
+T RUE 
+
+文档空间状态：100-未分配，
+0-空闲，1-警示，2-已满 
+邮件分配空间 
+邮件使用空间 
+
+邮件空间状态：100-未分配，
+0-空闲，1-警示，2-已满 
+博客分配空间 
+博客使用空间 
+
+博客空间状态：100-未分配，
+0-空闲，1-警示，2-已满 
+
+I.100 个人空间排序 
+
+Code 
+Comment 
+
+PORTAL_SPACE_SORT 
+
+个人的空间排序表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+人员 ID 
+空间 ID 
+
+排序号 
+类型 
+
+单位 ID 
+
+是否隐藏 
+
+ID 
+MEMBER_ID 
+SPACE_ID 
+
+SORT 
+T YPE 
+ACCOUNT _ID 
+DELET ED 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Inte g e r 
+Sho rt inte g e r 
+Lo ng inte g e r 
+Sho rt inte g e r 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 ID 
+人员 ID 
+空间 ID 
+
+排序号 
+类型 
+
+单位 ID 
+
+0：显示；1：隐藏 
+
+I.101 个性化设置 
+
+Code 
+Comment 
+
+PRO_EIPUSERCUSTOMSORT 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+用户 ID 
+
+门户编码 
+
+栏目编码 
+
+ID 
+NUMBER ID 
+PORT ALCODE 
+
+COLUMNCODE 
+
+排序 ID 集 
+
+CUST OM 
+
+状态 
+
+ISENABLE 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (2000) 
+Va ria b le 
+cha ra c te rs (255) 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+用户 id 
+
+门户编码 
+
+FALSE 
+
+栏目编码 
+
+FALSE 
+
+排序 id 集 
+
+FALSE 
+
+状态 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 54 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+备用值 0 
+
+备用值 1 
+
+BACKUPVALUE
+0 
+BACKUPVALUE
+1 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+FALSE 
+
+备用值 0 
+
+FALSE 
+
+备用值 1 
+
+I.102 事件具体信息列表 
+
+Code 
+Comment 
+
+CAL_EVENT 
+
+事件具体信息列表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+题目 
+
+开始时间 
+结束时间 
+提醒的标识 
+提醒时间 
+工作类型 
+
+事件类型 
+
+重要程度 
+
+ID 
+SUBJECT 
+
+BEGIN_DAT E 
+END_DAT E 
+ALARM_FLAG 
+ALARM_DAT E 
+WORK_T YPE 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (500) 
+Da te & T ime 
+Da te & T ime 
+Numb e r (3) 
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+FALSE 
+FALSE 
+T RUE 
+FALSE 
+FALSE 
+
+EVENT _T YPE 
+
+Lo ng inte g e r 
+
+FALSE 
+
+SIGN IFY_T YPE 
+
+Lo ng inte g e r 
+
+FALSE 
+
+优先级类型 
+
+PR IOR IT Y_T YP
+E 
+
+Lo ng inte g e r 
+
+FALSE 
+
+共享类型 
+
+SHARE_T YPE 
+
+Lo ng inte g e r 
+
+FALSE 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+T RUE 
+
+主键 id 
+
+题目 
+
+开始时间 
+结束时间 
+提醒标识(1:有提醒,0 :无提醒) 
+提醒时间 
+工作类型（1.自办 2.督办 3 .协
+办） 
+事件类型（0.初试状态 1.已安
+排 2.已委托） 
+重要程度（1.重要紧急 2 .不重
+要紧急 3.重要不紧急 4 .不重
+要不紧急） 
+优先级类型（1.低 2.中 3 .高）
+[永远是默认值 1] 
+共享类型（1.私人事件 2 .公开
+事件 3.共享给上级 4.共享给
+下级 5.共享给部门 6.共享给
+项目 7.秘书和助手） 
+
+共享对象
+
+NAME 
+
+接受的对象 ID 
+
+实际完成时间 
+
+事件完成类型 
+
+事件当前类型标
+识 
+完成率 
+
+创建者 
+
+创建时间 
+更新时间 
+是否有附件 
+
+SHARE_T ARGE
+T 
+T RAN_MEMBE
+R_IDS 
+REAL_EST IMAT
+E_T IME 
+ST AT ES 
+
+T e xt 
+
+T e xt 
+
+Flo a t 
+
+FALSE 
+
+共享对象 name 
+
+FALSE 
+
+接受的对象 id 
+
+FALSE 
+
+实际完成时间 
+
+Lo ng inte g e r 
+
+T RUE 
+
+EVENT _FLAG 
+
+Lo ng inte g e r 
+
+FALSE 
+
+Flo a t 
+
+COMPLET E_RA
+T E 
+CREAT E_USER
+_ID 
+CREAT E_DAT E Da te & T ime 
+UPDAT E_DAT E Da te & T ime 
+AT T _FLAG 
+Numb e r (19) 
+
+Lo ng inte g e r 
+
+事件完成类型（1.未安排 2.已
+安排 3.进行中 4.已完成） 
+事件当前类型标识（0.初试状
+态 1.已安排 2.已委托） 
+完成率 
+
+T RUE 
+
+FALSE 
+
+创建者 
+
+FALSE 
+FALSE 
+FALSE 
+
+创建时间 
+更新时间 
+是否有附件(1:有附件,0 :无附
+件，默认:0) 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 55 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+事件接收者 ID 
+
+RECEIVE_MEM
+BER_ID 
+事件接收者名字 RECEIVE_MEM
+BER_NAME 
+FROM_T YPE 
+
+T e xt 
+
+T e xt 
+
+FALSE 
+
+事件接收者 id 
+
+FALSE 
+
+事件接收者名字 
+
+Numb e r (3) 
+
+FALSE 
+
+其他模块转日程的类型 
+
+FROM_ID 
+
+Lo ng inte g e r 
+
+FALSE 
+
+其他模块转日程的 id 
+
+Lo ng inte g e r 
+
+FALSE 
+
+时间类型(0.业务 1.管理 2.个
+
+其他模块转日程
+的类型 
+其他模块转日程
+
+的 ID 
+
+时间类型 
+
+提前提醒时间 
+
+周期类型 
+
+区分委托 
+
+CAL_EVENT _T
+YPE 
+
+BEFOREND_AL
+ARM_DAT E 
+PER IOD ICAL_S
+T YLE 
+
+Numb e r (19) 
+
+T RUE 
+
+Numb e r (3) 
+
+T RUE 
+
+ISENT RUST 
+
+Sho rt inte g e r 
+
+FALSE 
+
+人 3.其它 ) 
+
+提前提醒时间 
+
+周期类型(0:无；1:按天；2 :按
+周；3:按月；4:按年) 
+是用于区分委托、安排事件,0
+代表安排事件，1 代表委托事
+件 
+周期性事件 
+
+周期性事件 
+
+创建人创建事件
+对应的公司 ID 
+来自表单 ID 
+
+PER IOD ICAL_C
+H ILD_ID 
+ACCOUNT ID 
+
+FROM_RECOR
+D_ID 
+
+Lo ng inte g e r 
+
+FALSE 
+
+Lo ng inte g e r 
+
+FALSE 
+
+创建人创建事件对应的公司
+
+Lo ng inte g e r 
+
+FALSE 
+
+来自表单 ID 
+
+ID 
+
+I.103 事件内容信息列表 
+
+Code 
+Comment 
+
+CAL_CONTENT 
+
+事件内容信息列表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+事件 ID 
+
+正文 
+创建时间 
+正文类型 
+
+ID 
+Lo ng inte g e r 
+EVENT _ID 
+Lo ng inte g e r 
+CONT ENT 
+T e xt 
+CREAT E_DAT E Da te & T ime 
+CONT ENT _T YP
+Va ria b le 
+E 
+cha ra c te rs (20) 
+
+Mandator
+y 
+T RUE 
+T RUE 
+FALSE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 id 
+事件 id    
+
+正文 
+创建时间 
+正文类型（弃用） 
+
+I.104 事件周期性生成单个信息表 
+
+Code 
+Comment 
+
+CAL_EVENT_PERIODICAL_RELATION 
+
+事件周期性生成单个信息表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+事件 ID 
+
+时间线要显示的
+类型 
+
+ID 
+CAL_EVENT _ID 
+T IME_LINE_T Y
+PE 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (50) 
+
+Mandator
+y 
+T RUE 
+T RUE 
+FALSE 
+
+Comment 
+
+主键 id 
+事件 id 
+
+时间线要显示的类型[更名
+
+为：CAL_T IME_LINE] [同
+Ap p lica tio nCa te g o ryEnum] 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 56 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+创建时间 
+
+人员 ID 
+
+时间线所属人 
+
+CREAT E_DAT E Da te & T ime 
+MEMBER_ID 
+Lo ng inte g e r 
+CREAT E_USER
+Lo ng inte g e r 
+_ID 
+
+T RUE 
+T RUE 
+T RUE 
+
+创建时间 
+
+人员 id 
+
+时间线所属人 
+
+I.105 事件周期性表 
+
+Code 
+Comment 
+
+CAL_EVENT_PERIODICAL_INFO 
+
+事件周期性表 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+PER IOD ICAL_T
+YPE 
+DAY_DAT E 
+DAY_WEEK 
+WEEK 
+MONT H 
+CAL_EVENT _ID 
+MEMBER_ID 
+BEGINT IME 
+ENDT IME 
+WEEKS 
+
+SW IT HMONT H 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Da te & T ime 
+Da te & T ime 
+Va ria b le 
+cha ra c te rs (20) 
+Inte g e r 
+
+周期事件 ID 
+事件类型 
+
+每月的日周期 
+每周的日周期 
+周周期 
+月周期 
+
+事件 ID 
+人员 ID 
+
+开始时间 
+结束时间 
+周几 
+
+用户选择按月提
+醒 
+用户选择按年提
+醒 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+
+Comment 
+
+周期事件 id 
+事件类型 
+
+每月的日周期 
+每周的日周期 
+周周期 
+月周期 
+
+事件 id 
+人员 id 
+
+开始时间 
+结束时间 
+周几 
+
+用户选择按月提醒，默认为每
+月当前号提醒 
+用户选择按年提醒，默认为每
+年当前月当前号提醒 
+
+SW IT HYEAR 
+
+Inte g e r 
+
+FALSE 
+
+I.106 事件回复信息列表 
+
+Code 
+Comment 
+
+CAL_REPLY 
+
+事件回复信息列表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+事件 ID 
+
+日程类型 
+
+回复内容 
+回复者 ID 
+
+回复选项 
+
+回复时间 
+扩展字段名 1 
+
+ID 
+EVENT _ID 
+CAL_T YPE 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Mandator
+y 
+T RUE 
+T RUE 
+T RUE 
+
+Comment 
+
+主键 id 
+事件 id 
+
+日程类型(同
+
+REPLY_INFO 
+REPLY_USER_I
+D 
+REPLY_OPT IO
+N 
+REPLY_DAT E 
+EXT 1 
+
+T e xt 
+Lo ng inte g e r 
+
+FALSE 
+T RUE 
+
+Ap p lica tio nCa te g o ryEnum，
+
+默认为:11,日程事件) 
+回复内容 
+回复者 id 
+
+Va ria b le 
+cha ra c te rs (50) 
+Da te & T ime 
+Va ria b le 
+cha ra c te rs (50) 
+
+FALSE 
+
+回复选项 
+
+T RUE 
+FALSE 
+
+回复时间 
+扩展字段名 1 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 57 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+扩展字段 2 
+
+EXT 2 
+
+Va ria b le 
+cha ra c te rs (50) 
+
+FALSE 
+
+扩展字段 2 
+
+I.107 事件安排委托转发信息列表 
+
+Code 
+Comment 
+
+CAL_EVENT_TRAN 
+
+事件安排委托转发信息列表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+实体的 ID 
+
+事件 ID 
+
+事件创建者的
+
+ID 
+
+事件类型 
+
+ID 
+EVENT _ID 
+SOURCE_REC
+ORD_ID 
+T YPE 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+T RUE 
+T RUE 
+
+主键 id 
+
+实体的 id 
+
+事件 id 
+
+Lo ng inte g e r 
+
+FALSE 
+
+事件创建者的 id 
+
+ENT IT Y_ID 
+
+Lo ng inte g e r 
+
+FALSE 
+
+接收者 ID 
+
+RECEIVE_ID 
+
+Lo ng inte g e r 
+
+FALSE 
+
+事件类型（1.安排 2.委托 3 .共
+享部门 4.共享项目） 
+接收者 id 
+
+I.108 事件时间线 
+
+Code 
+Comment 
+
+CAL_TIME_LINE 
+
+事件时间线 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+BEGIN_T IME 
+
+END_T IME 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (50) 
+
+Va ria b le 
+cha ra c te rs (50) 
+
+主键 ID 
+
+时间线上班时间
+点 
+时间线下班时间
+点 
+创建时间 
+类型 
+
+Mandator
+y 
+T RUE 
+T RUE 
+
+Comment 
+
+主键 ID 
+
+时间线上班时间点 
+
+T RUE 
+
+时间线下班时间点 
+
+CREAT E_DAT E Da te & T ime 
+T IME_LINE_T Y
+Va ria b le 
+PE 
+cha ra c te rs (50) 
+
+T RUE 
+FALSE 
+
+创建时间 
+类型(1:计划，2:会议， 3 :任
+务，4:事件，5:协同,6:公文 ) 
+时间线所属人 
+
+时间线所属人 
+
+CREAT E_USER
+_ID 
+
+Lo ng inte g e r 
+
+T RUE 
+
+I.109 事项统计调度中间表 
+
+Code 
+Comment 
+
+RPT_MATTER_REPORT 
+
+事项统计调度中间表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+用户名 
+
+ID 
+NAME 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (500) 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+主键 ID 
+
+用户名 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 58 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+部门名称 
+
+用户 ID 
+部门 ID 
+
+计划数 
+任务数 
+事件数 
+会议数 
+合计 
+日期 
+
+DEPARTMENT _
+NAME 
+USER_ID 
+DEPARTMENT _
+ID 
+PLANS 
+T ASKS 
+EVENT S 
+MEET INGS 
+T OT AL 
+QUERY_T IME 
+
+Va ria b le 
+cha ra c te rs (500) 
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Da te & T ime 
+
+FALSE 
+
+部门名称 
+
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+用户 ID 
+部门 ID 
+
+计划数 
+任务数 
+事件数 
+会议数 
+合计 
+日期 
+
+I.110 云应用中心 
+
+Code 
+Comment 
+
+CTP_CLOUDAPP_DATA 
+
+Name 
+
+Code 
+
+Data Type 
+
+CID 
+CID 
+MEMBER_ID 
+MEMBER_ID 
+ACCESS_T OK
+ACCESS_T OKE
+EN 
+N 
+T OKEN_T YPE T OKEN_T YPE 
+
+REFRESH_T O
+REFRESH_T OK
+KEN 
+EN 
+EXPIRES_IN 
+EXPIRES_IN 
+APPLY_T IME 
+APPLY_T IME 
+REFRESH_T I
+REFRESH_T IM
+ME 
+E 
+EWACCOUNT EWACCOUNT 
+
+EXPAND_S1 
+
+EXPAND_S1 
+
+EXPAND_S2 
+
+EXPAND_S2 
+
+EXPAND_L1 
+EXPAND_L2 
+
+用户在云应用中
+
+EXPAND_L1 
+EXPAND_L2 
+MALLID 
+
+心 ID 
+云应用中心账号 MALL_ACCOUN
+T 
+IS_ADMIN 
+
+是否是云管理员 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (20) 
+Va ria b le 
+cha ra c te rs (50) 
+Lo ng inte g e r 
+Da te & T ime 
+Da te & T ime 
+
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (50) 
+Va ria b le 
+cha ra c te rs (50) 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (50) 
+
+Va ria b le 
+cha ra c te rs (150) 
+Sho rt inte g e r 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+
+FALSE 
+
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+
+FALSE 
+
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+
+Comment 
+
+用户在云应用中心 ID 
+
+FALSE 
+
+云应用中心账号 
+
+FALSE 
+
+是否系统管理员 SYST EMADMIN Sho rt inte g e r 
+
+FALSE 
+
+主岗单位 
+
+ORG_ACCOUN
+T _ID 
+是否单位管理员 ADMIN IST RAT O
+R 
+
+Lo ng inte g e r 
+
+FALSE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+服务验证码 
+
+SERVICE_COD
+E 
+
+Va ria b le 
+cha ra c te rs (50) 
+
+FALSE 
+
+是否是云管理员 0：普通用户 
+1：云管理员 
+系统管理员 0：不是系统管理
+员 1：是系统管理员 
+主岗单位 
+
+单位管理员 0：不是单位管理
+员 1：单位管理员 
+服务验证码 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 59 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+I.111 人 
+
+Code 
+Comment 
+
+ORG_MEMBER 
+
+人 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+姓名 
+
+编号 
+
+ID 
+NAME 
+
+CODE 
+
+是否是内部 
+是否可以登录 
+是否是虚拟账号 
+是否是管理员 
+是否被分配 
+人员类型 
+
+IS_INT ERNAL 
+IS_LOGINABLE 
+IS_VIRT UAL 
+IS_ADMIN 
+IS_ASSIGNED 
+T YPE 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+Sho rt inte g e r 
+Sho rt inte g e r 
+Sho rt inte g e r 
+Sho rt inte g e r 
+Sho rt inte g e r 
+Sho rt inte g e r 
+
+Sho rt inte g e r 
+Sho rt inte g e r 
+Sho rt inte g e r 
+Sho rt inte g e r 
+
+Inte g e r 
+Lo ng inte g e r 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+人员状态 
+是否启用 
+是否被删除 
+状态 
+
+排序 
+主岗部门 
+
+主岗岗位 
+主岗职务级别 
+主岗单位 
+
+描述 
+
+创建时间 
+更新时间 
+
+EXT _AT T R_1 
+
+EXT _AT T R_2 
+
+EXT _AT T R_3 
+
+EXT _AT T R_4 
+
+EXT _AT T R_5 
+
+EXT _AT T R_6 
+
+EXT _AT T R_7 
+
+EXT _AT T R_8 
+
+ST AT E 
+IS_ENABLE 
+IS_DELET ED 
+ST AT US 
+
+SORT _ID 
+ORG_DEPART
+MENT _ID 
+ORG_POST _ID 
+ORG_LEVEL_ID 
+ORG_ACCOUN
+T _ID 
+DESCR IPT ION 
+
+EXT _AT T R_4 
+
+EXT _AT T R_3 
+
+EXT _AT T R_2 
+
+Va ria b le 
+cha ra c te rs (4000) 
+CREAT E_T IME 
+Da te & T ime 
+UPDAT E_T IME Da te & T ime 
+EXT _AT T R_1 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+
+EXT _AT T R_5 
+
+EXT _AT T R_6 
+
+EXT _AT T R_7 
+
+EXT _AT T R_8 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+主键 id 
+
+姓名 
+
+FALSE 
+
+编号 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
+FALSE 
+
+是否是内部 1:是 0:否 
+是否可以登录 1:是 0:否 
+是否是虚拟账号 1:是 0:否 
+是否是管理员 1:是 0:否 
+是否被分配 1:是 0:否 
+枚举：正式/非正式/ .. 1：正式 
+2：非正式 
+在职/离职 1：在职 2：离职 
+是否启用 1:启用 0 停用 
+是否被删除 1:删除  0:未删除 
+枚举：在职/离职/ ..(此字段作
+
+废) 
+
+排序 
+主岗部门 
+
+主岗岗位 
+主岗职务级别 
+主岗单位 
+
+FALSE 
+
+描述 
+
+FALSE 
+FALSE 
+FALSE 
+
+创建时间 
+更新时间 
+预留字段 
+
+FALSE 
+
+预留字段 
+
+FALSE 
+
+预留字段 
+
+FALSE 
+
+预留字段 
+
+FALSE 
+
+预留字段 
+
+FALSE 
+
+预留字段 
+
+FALSE 
+
+预留字段 
+
+FALSE 
+
+预留字段 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 60 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+EXT _AT T R_9 
+
+EXT _AT T R_9 
+
+EXT _AT T R_10 EXT _AT T R_10 
+
+EXT _AT T R_11 EXT _AT T R_11 
+EXT _AT T R_12 EXT _AT T R_12 
+EXT _AT T R_13 EXT _AT T R_13 
+EXT _AT T R_14 EXT _AT T R_14 
+EXT _AT T R_15 EXT _AT T R_15 
+EXT _AT T R_16 EXT _AT T R_16 
+EXT _AT T R_17 EXT _AT T R_17 
+EXT _AT T R_18 EXT _AT T R_18 
+EXT _AT T R_19 EXT _AT T R_19 
+EXT _AT T R_20 EXT _AT T R_20 
+EXT _AT T R_21 EXT _AT T R_21 
+EXT _AT T R_22 EXT _AT T R_22 
+EXT _AT T R_23 EXT _AT T R_23 
+EXT _AT T R_24 EXT _AT T R_24 
+EXT _AT T R_25 EXT _AT T R_25 
+EXT _AT T R_26 EXT _AT T R_26 
+EXT _AT T R_27 EXT _AT T R_27 
+EXT _AT T R_28 EXT _AT T R_28 
+EXT _AT T R_29 EXT _AT T R_29 
+EXT _AT T R_30 EXT _AT T R_30 
+EXT _AT T R_31 EXT _AT T R_31 
+
+EXT _AT T R_32 EXT _AT T R_32 
+
+EXT _AT T R_33 EXT _AT T R_33 
+
+EXT _AT T R_34 EXT _AT T R_34 
+
+EXT _AT T R_35 EXT _AT T R_35 
+
+EXT _AT T R_36 EXT _AT T R_36 
+
+EXT _AT T R_37 EXT _AT T R_37 
+EXT ERNAL_T Y
+PE 
+
+内外标识 
+
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+Sho rt inte g e r 
+Sho rt inte g e r 
+Sho rt inte g e r 
+Sho rt inte g e r 
+Sho rt inte g e r 
+Inte g e r 
+Inte g e r 
+Inte g e r 
+Inte g e r 
+Inte g e r 
+Da te & T ime 
+Da te & T ime 
+Da te & T ime 
+Da te & T ime 
+Da te & T ime 
+Da te & T ime 
+Da te & T ime 
+Da te & T ime 
+Da te & T ime 
+Da te & T ime 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+Va ria b le 
+cha ra c te rs (1024) 
+Lo ng inte g e r 
+Sho rt inte g e r 
+
+FALSE 
+
+预留字段 
+
+FALSE 
+
+预留字段 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+预留字段 
+
+FALSE 
+
+预留字段 
+
+FALSE 
+
+预留字段 
+
+FALSE 
+
+预留字段 
+
+FALSE 
+
+预留字段 
+
+FALSE 
+
+预留字段 
+
+FALSE 
+FALSE 
+
+预留字段 
+内外标识(0：V5 人员，外部
+人员；1：互联平台外部人员) 
+
+I.112 人员同步日志表 
+
+Code 
+Comment 
+
+NEIGOU_SYNLOG_DETAIL 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+人员主键 
+
+ID 
+ORG_MEMBER
+_ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+主键 
+人员主键 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 61 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+同步状态 
+
+ST AT US 
+
+Sho rt inte g e r 
+
+FALSE 
+
+失败原因 
+
+FAIL_REASON 
+
+单位同步日志主
+键 
+
+ACCOUNT _SYN
+_LOG 
+
+Va ria b le 
+cha ra c te rs (255) 
+Lo ng inte g e r 
+
+同步状态：0:失败 
+成功 
+失败原因 
+
+1：
+
+FALSE 
+
+FALSE 
+
+单位同步日志主键 
+
+I.113 人员映射表 
+
+Code 
+Comment 
+
+VOUCHER_MEMBERMAPPER 
+
+人员映射表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+账套参数对象主
+键 
+A8 人员主键 
+
+ID 
+ACCOUNT ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Lo ng inte g e r 
+
+ORGMEMBER I
+D 
+第三方人员名称 ERP_PERSONN
+Va ria b le 
+AME 
+cha ra c te rs (255) 
+第三方人员编码 ERP_PERSONC
+Va ria b le 
+ODE 
+cha ra c te rs (50) 
+第三方人员主键 ERP_PERSON I
+Va ria b le 
+D 
+cha ra c te rs (50) 
+第三方部门名称 ERP_DEPT NAM
+Va ria b le 
+E 
+cha ra c te rs (255) 
+第三方单位名称 ERP_UN IT NAM
+Va ria b le 
+E 
+cha ra c te rs (255) 
+CREAT E_T IME 
+Da te & T ime 
+UPDAT E_T IME Da te & T ime 
+EXT _AT T R1 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+
+创建时间 
+更新时间 
+备用字段 1 
+
+EXT _AT T R3 
+
+备用字段 2 
+
+EXT _AT T R2 
+
+备用字段 5 
+
+EXT _AT T R5 
+
+备用字段 4 
+
+EXT _AT T R4 
+
+备用字段 3 
+
+Mandator
+y 
+T RUE 
+FALSE 
+
+Comment 
+
+主键 ID 
+
+账套参数对象主键 
+
+FALSE 
+
+A8 人员主键 
+
+FALSE 
+
+第三方人员名称 
+
+FALSE 
+
+第三方人员编码 
+
+FALSE 
+
+第三方人员主键 
+
+FALSE 
+
+第三方部门名称 
+
+FALSE 
+
+第三方单位名称 
+
+FALSE 
+FALSE 
+FALSE 
+
+创建时间 
+更新时间 
+备用字段 1 
+
+FALSE 
+
+备用字段 2 
+
+FALSE 
+
+备用字段 3 
+
+FALSE 
+
+备用字段 4 
+
+FALSE 
+
+备用字段 5 
+
+I.114 人员账号表 
+
+Code 
+Comment 
+
+ORG_PRINCIPAL 
+
+人员账号表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+
+ID 
+
+Lo ng inte g e r 
+
+Mandator
+y 
+T RUE 
+
+主键 
+
+Comment 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 62 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+登录名 
+
+密码值 
+
+加密策略 
+
+密码超期时间 
+
+人员 ID 
+
+是否有效 
+创建时间 
+更新时间 
+
+LOGIN_NAME 
+
+CREDENT IAL_V
+ALUE 
+CLASS_NAME 
+
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+Va ria b le 
+cha ra c te rs (500) 
+Da te & T ime 
+
+EXPIRAT ION_D
+AT E 
+MEMBER_ID 
+Lo ng inte g e r 
+IS_ENABLE 
+Sho rt inte g e r 
+CREAT E_T IME 
+Da te & T ime 
+UPDAT E_T IME Da te & T ime 
+
+I.115 代理设置应用表 
+
+Code 
+Comment 
+
+AGENT 
+
+代理设置应用表 
+
+Name 
+
+Code 
+
+Data Type 
+
+ID 
+Lo ng inte g e r 
+AGENT _ID 
+Lo ng inte g e r 
+AGENT _T O_ID 
+Lo ng inte g e r 
+CREAT E_DAT E Da te & T ime 
+
+FALSE 
+
+登录名 
+
+FALSE 
+
+密码值 
+
+FALSE 
+
+加密策略 
+
+FALSE 
+
+密码超期时间 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+人员 Id 
+
+是否有效  1:启用 0 停用 
+创建时间 
+更新时间 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 ID 
+
+代理人 ID 
+被代理人 ID 
+代理信息创建时间 
+
+ST ART _DAT E 
+
+Da te & T ime 
+
+FALSE 
+
+代理期限开始时间 
+
+END_DAT E 
+
+Da te & T ime 
+
+FALSE 
+
+代理期限结束时间 
+
+CANCEL_DAT E Da te & T ime 
+
+FALSE 
+
+代理信息取消时间 
+
+主键 ID 
+
+代理人 ID 
+被代理人 ID 
+代理信息创建时
+间 
+代理期限开始时
+间 
+代理期限结束时
+间 
+代理信息取消时
+间 
+代理选项 
+
+取消标记 
+是否提醒 
+是否有代理提醒
+
+1 
+
+是否有代理提醒
+
+2 
+
+代理类型 
+
+代理人所属单位
+
+ID 
+
+被代理人所属单
+
+位 ID 
+
+操作类型 
+
+AGENT _OPT IO
+N 
+CANCEL_FLAG 
+HAS_AWOKE 
+AGENT _REMIN
+D 
+
+AGENT _T O_RE
+MIND 
+
+AGENT _ACCO
+UNT _ID 
+AGENT _T O_AC
+COUNT _ID 
+
+AGENT _OPERA
+T ION 
+
+FALSE 
+
+代理选项 
+
+Va ria b le 
+cha ra c te rs (50) 
+Sho rt inte g e r 
+Sho rt inte g e r 
+Sho rt inte g e r 
+
+FALSE 
+FALSE 
+FALSE 
+
+Sho rt inte g e r 
+
+FALSE 
+
+取消标记，0-未取消 1-已取消 
+是否提醒（未使用） 
+是否有代理提醒 ，0-没有提
+醒 1-有提醒 
+是否有代理提醒 ，0-没有提
+醒 1-有提醒 
+代理类型 ，1-代理设置  2-离
+职交接 
+代理人所属单位 id   
+
+Lo ng inte g e r 
+
+FALSE 
+
+被代理人所属单位 id 
+
+Sho rt inte g e r 
+
+FALSE 
+
+操作类型 （0：被代理人自
+己； 1：集团管理员 ；2：单
+位管理员 ） 
+
+AGENT _T YPE 
+
+Inte g e r 
+
+FALSE 
+
+Lo ng inte g e r 
+
+FALSE 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 63 
+
+Lo g ica l Da ta Mo de l 
+
+I.116 代理详细表 
+
+Code 
+Comment 
+
+AGENT_DETAIL 
+
+代理详细表 
+
+CT P2.0 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+代理 ID 
+
+应用 
+
+实体 ID 
+
+ID 
+AGENT _ID 
+APP 
+ENT IT Y_ID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+Comment 
+
+Mandator
+y 
+T RUE 
+FALSE 
+T RUE 
+FALSE 
+
+主键 ID 
+代理 ID 
+
+应用 
+
+实体 ID 
+
+I.117 任务事项历史表（转储时） 
+
+Code 
+Comment 
+
+WF_WORKITEM_HISTORY_HIS 
+
+任务事项历史表（转储时） 
+
+Name 
+
+Code 
+
+Data Type 
+
+Mandator
+y 
+T RUE 
+T RUE 
+T RUE 
+T RUE 
+T RUE 
+
+Comment 
+
+主键 ID 
+
+流程实例主键 
+批次 
+任务事项数目 
+所属引擎域 
+
+FALSE 
+
+任务事项名称 
+
+FALSE 
+
+流程实例名称 
+
+T RUE 
+
+流程模版 ID 
+
+T RUE 
+
+流程模版索引 
+
+FALSE 
+
+流程模版名称 
+
+T RUE 
+
+所属节点 id 
+
+FALSE 
+
+所属节点名称 
+
+FALSE 
+
+执行人 
+
+FALSE 
+
+完成人 
+
+FALSE 
+
+所属人 
+
+FALSE 
+
+委托人 
+
+FALSE 
+
+代理人 
+
+T RUE 
+T RUE 
+
+le ve lnum 
+
+是否可以重新分配 
+
+0:否 
+
+主键 
+流程实例主键 
+批次 
+任务事项数目 
+所属引擎域 
+
+任务事项名称 
+
+流程实例名称 
+
+流程模版 ID 
+
+流程模版索引 
+
+流程模版名称 
+
+所属节点 ID 
+
+所属节点名称 
+
+执行人 
+
+完成人 
+
+所属人 
+
+委托人 
+
+代理人 
+
+LEVELNUM 
+
+是否可以重新分
+配 
+
+NAME 
+
+CASENAME 
+
+PROCESSID 
+
+ID 
+CASEID 
+BAT CH 
+IT EMNUM 
+WF_DOMAIN 
+
+PROCESSINDE
+X 
+PROCESSNAM
+E 
+ACT IVIT YID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Inte g e r 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (36) 
+ACT IVIT YNAME Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (64) 
+Va ria b le 
+cha ra c te rs (64) 
+Va ria b le 
+cha ra c te rs (64) 
+Va ria b le 
+cha ra c te rs (64) 
+Inte g e r 
+Inte g e r 
+
+FIN ISHER 
+
+OWNER 
+
+PERFORMER 
+
+ENT RUST ER 
+
+DELEGAT ER 
+
+LEVELNUM 
+CANREASSIGN 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 64 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+是否可以回退 
+
+CANRET URN 
+
+Inte g e r 
+
+T RUE 
+
+是否可以回退 
+
+1:是 
+
+0:否 
+1:是 
+
+是否可以代理 
+
+CANDELEGAT E 
+
+Inte g e r 
+
+T RUE 
+
+是否可以代理 
+
+是否可以委托 
+
+CANENT RUST 
+
+Inte g e r 
+
+T RUE 
+
+是否可以委托 
+
+是否可以查看 
+
+CANREVIEW 
+
+Inte g e r 
+
+T RUE 
+
+是否可以查看 
+
+0:否 
+1:是 
+
+0:否 
+1:是 
+
+下一节点状态 
+
+NEXT ST AT US 
+
+下一节点连线
+
+NEXT LINKID 
+
+ID 
+
+数据集合对象 
+之前状态 
+
+DAT AMAP 
+OLDST AT E 
+
+Va ria b le 
+cha ra c te rs (36) 
+Va ria b le 
+cha ra c te rs (36) 
+Lo ng b ina ry 
+Inte g e r 
+
+0:否 
+1:是 
+
+FALSE 
+
+下一节点状态 
+
+FALSE 
+
+下一节点连线 id 
+
+FALSE 
+FALSE 
+
+数据集合对象 
+之前状态 
+
+1:取消 
+
+2:任务处于已完成状态 
+3:任务处于生成待分配状态 
+4:任务处于需要重做状态 
+41:任务处于需要重做状态 :提
+交给我 
+5:任务处于待审核状态 
+6:任务处于挂起状态 
+7:任务处于待执行状态 
+8:任务处于生成待认领状态 
+9:任务处于终止状态 
+当前状态 
+
+1:取消 
+
+2:任务处于已完成状态 
+3:任务处于生成待分配状态 
+4:任务处于需要重做状态 
+41:任务处于需要重做状态 :提
+交给我 
+5:任务处于待审核状态 
+6:任务处于挂起状态 
+7:任务处于待执行状态 
+8:任务处于生成待认领状态 
+9:任务处于终止状态 
+创建时间 
+更新时间 
+处理期限 
+动作状态 
+
+T RUE 
+
+排序 
+
+当前状态 
+
+ST AT E 
+
+Inte g e r 
+
+T RUE 
+
+创建时间 
+更新时间 
+处理期限 
+动作状态 
+
+CREAT EDAT E 
+UPDAT EDAT E 
+DEADLINE 
+ACT IONST AT E 
+
+排序 
+
+SORT 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (500) 
+Inte g e r 
+
+T RUE 
+T RUE 
+FALSE 
+FALSE 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 65 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+I.118 任务事项历史表（运行时） 
+
+Code 
+Comment 
+
+WF_WORKITEM_HISTORY 
+
+任务事项历史表（运行时） 
+
+Name 
+
+Code 
+
+Data Type 
+
+Mandator
+y 
+T RUE 
+T RUE 
+T RUE 
+T RUE 
+T RUE 
+
+Comment 
+
+主键 ID 
+
+流程实例主键 
+批次 
+任务事项数目 
+所属引擎域 
+
+FALSE 
+
+任务事项名称 
+
+FALSE 
+
+流程实例名称 
+
+T RUE 
+
+流程模版 ID 
+
+T RUE 
+
+流程模版索引 
+
+FALSE 
+
+流程模版名称 
+
+T RUE 
+
+所属节点 id 
+
+FALSE 
+
+所属节点名称 
+
+FALSE 
+
+执行人 
+
+FALSE 
+
+完成人 
+
+FALSE 
+
+所属人 
+
+FALSE 
+
+委托人 
+
+FALSE 
+
+代理人 
+
+T RUE 
+T RUE 
+
+le ve lnum 
+
+是否可以重新分配 
+
+0:否 
+1:是 
+
+主键 
+流程实例主键 
+批次 
+任务事项数目 
+所属引擎域 
+
+任务事项名称 
+
+流程实例名称 
+
+流程模版 ID 
+
+流程模版索引 
+
+流程模版名称 
+
+所属节点 ID 
+
+所属节点名称 
+
+执行人 
+
+完成人 
+
+所属人 
+
+委托人 
+
+代理人 
+
+LEVELNUM 
+
+是否可以重新分
+配 
+
+NAME 
+
+CASENAME 
+
+PROCESSID 
+
+ID 
+CASEID 
+BAT CH 
+IT EMNUM 
+WF_DOMAIN 
+
+PROCESSINDE
+X 
+PROCESSNAM
+E 
+ACT IVIT YID 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Inte g e r 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (36) 
+ACT IVIT YNAME Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (64) 
+Va ria b le 
+cha ra c te rs (64) 
+Va ria b le 
+cha ra c te rs (64) 
+Va ria b le 
+cha ra c te rs (64) 
+Inte g e r 
+Inte g e r 
+
+FIN ISHER 
+
+OWNER 
+
+PERFORMER 
+
+ENT RUST ER 
+
+DELEGAT ER 
+
+LEVELNUM 
+CANREASSIGN 
+
+是否可以回退 
+
+CANRET URN 
+
+Inte g e r 
+
+T RUE 
+
+是否可以回退 
+
+0:否 
+1:是 
+
+是否可以代理 
+
+CANDELEGAT E 
+
+Inte g e r 
+
+T RUE 
+
+是否可以代理 
+
+0:否 
+1:是 
+
+是否可以委托 
+
+CANENT RUST 
+
+Inte g e r 
+
+T RUE 
+
+是否可以委托 
+
+是否可以查看 
+
+CANREVIEW 
+
+Inte g e r 
+
+T RUE 
+
+是否可以查看 
+
+0:否 
+1:是 
+
+0:否 
+1:是 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 66 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+下一节点状态 
+
+NEXT ST AT US 
+
+下一节点连线
+
+NEXT LINKID 
+
+ID 
+
+数据集合对象 
+之前状态 
+
+DAT AMAP 
+OLDST AT E 
+
+Va ria b le 
+cha ra c te rs (36) 
+Va ria b le 
+cha ra c te rs (36) 
+Lo ng b ina ry 
+Inte g e r 
+
+FALSE 
+
+下一节点状态 
+
+FALSE 
+
+下一节点连线 id 
+
+FALSE 
+FALSE 
+
+数据集合对象 
+之前状态 
+
+1:取消 
+
+2:任务处于已完成状态 
+3:任务处于生成待分配状态 
+4:任务处于需要重做状态 
+41:任务处于需要重做状态 :提
+交给我 
+5:任务处于待审核状态 
+6:任务处于挂起状态 
+7:任务处于待执行状态 
+8:任务处于生成待认领状态 
+9:任务处于终止状态 
+当前状态 
+
+1:取消 
+
+2:任务处于已完成状态 
+3:任务处于生成待分配状态 
+4:任务处于需要重做状态 
+41:任务处于需要重做状态 :提
+交给我 
+5:任务处于待审核状态 
+6:任务处于挂起状态 
+7:任务处于待执行状态 
+8:任务处于生成待认领状态 
+9:任务处于终止状态 
+创建时间 
+更新时间 
+处理期限 
+动作状态 
+
+当前状态 
+
+ST AT E 
+
+Inte g e r 
+
+T RUE 
+
+创建时间 
+更新时间 
+处理期限 
+动作状态 
+
+CREAT EDAT E 
+UPDAT EDAT E 
+DEADLINE 
+ACT IONST AT E 
+
+排序 
+
+SORT 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (500) 
+Inte g e r 
+
+T RUE 
+T RUE 
+FALSE 
+FALSE 
+
+T RUE 
+
+排序 
+
+I.119 任务事项表（转储时） 
+
+Code 
+Comment 
+
+WF_WORKITEM_RUN_HIS 
+
+任务事项表（转储时） 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+流程实例主键 
+批次 
+任务事项数目 
+所属引擎域 
+
+ID 
+CASEID 
+BAT CH 
+IT EMNUM 
+WF_DOMAIN 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Inte g e r 
+Va ria b le 
+cha ra c te rs (100) 
+
+Mandator
+y 
+T RUE 
+T RUE 
+T RUE 
+T RUE 
+T RUE 
+
+Comment 
+
+主键 id 
+
+流程实例主键 
+批次 
+任务事项数目 
+所属引擎域 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 67 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+任务事项名称 
+
+流程实例名称 
+
+流程模版 ID 
+
+流程模版索引 
+
+流程模版名称 
+
+所属节点 ID 
+
+所属节点名称 
+
+执行人 
+
+完成人 
+
+所属人 
+
+委托人 
+
+代理人 
+
+LEVELNUM 
+
+是否可以重新分
+配 
+
+NAME 
+
+CASENAME 
+
+PROCESSID 
+
+PROCESSINDE
+X 
+PROCESSNAM
+E 
+ACT IVIT YID 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (36) 
+ACT IVIT YNAME Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (64) 
+Va ria b le 
+cha ra c te rs (64) 
+Va ria b le 
+cha ra c te rs (64) 
+Va ria b le 
+cha ra c te rs (64) 
+Inte g e r 
+Inte g e r 
+
+LEVELNUM 
+CANREASSIGN 
+
+FIN ISHER 
+
+OWNER 
+
+PERFORMER 
+
+ENT RUST ER 
+
+DELEGAT ER 
+
+FALSE 
+
+任务事项名称 
+
+FALSE 
+
+流程实例名称 
+
+T RUE 
+
+流程模版 ID 
+
+T RUE 
+
+流程模版索引 
+
+FALSE 
+
+流程模版名称 
+
+T RUE 
+
+所属节点 id 
+
+FALSE 
+
+所属节点名称 
+
+FALSE 
+
+执行人 
+
+FALSE 
+
+完成人 
+
+FALSE 
+
+所属人 
+
+FALSE 
+
+委托人 
+
+FALSE 
+
+代理人 
+
+T RUE 
+T RUE 
+
+le ve lnum 
+
+是否可以重新分配 
+
+0:否 
+1:是 
+
+是否可以回退 
+
+CANRET URN 
+
+Inte g e r 
+
+T RUE 
+
+是否可以回退 
+
+0:否 
+1:是 
+
+是否可以代理 
+
+CANDELEGAT E 
+
+Inte g e r 
+
+T RUE 
+
+是否可以代理 
+
+是否可以委托 
+
+CANENT RUST 
+
+Inte g e r 
+
+T RUE 
+
+是否可以委托 
+
+是否可以查看 
+
+CANREVIEW 
+
+Inte g e r 
+
+T RUE 
+
+是否可以查看 
+
+0:否 
+1:是 
+
+0:否 
+1:是 
+
+下一节点状态 
+
+NEXT ST AT US 
+
+下一节点连线
+
+NEXT LINKID 
+
+ID 
+
+数据集合对象 
+之前状态 
+
+DAT AMAP 
+OLDST AT E 
+
+Va ria b le 
+cha ra c te rs (36) 
+Va ria b le 
+cha ra c te rs (36) 
+Lo ng b ina ry 
+Inte g e r 
+
+0:否 
+1:是 
+
+FALSE 
+
+下一节点状态 
+
+FALSE 
+
+下一节点连线 id 
+
+FALSE 
+FALSE 
+
+数据集合对象 
+之前状态 
+
+1:取消 
+
+2:任务处于已完成状态 
+3:任务处于生成待分配状态 
+4:任务处于需要重做状态 
+41:任务处于需要重做状态 :提
+交给我 
+5:任务处于待审核状态 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 68 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+当前状态 
+
+ST AT E 
+
+Inte g e r 
+
+T RUE 
+
+6:任务处于挂起状态 
+7:任务处于待执行状态 
+8:任务处于生成待认领状态 
+9:任务处于终止状态 
+当前状态 
+
+1:取消 
+
+2:任务处于已完成状态 
+3:任务处于生成待分配状态 
+4:任务处于需要重做状态 
+41:任务处于需要重做状态 :提
+交给我 
+5:任务处于待审核状态 
+6:任务处于挂起状态 
+7:任务处于待执行状态 
+8:任务处于生成待认领状态 
+9:任务处于终止状态 
+创建时间 
+更新时间 
+处理期限 
+动作状态 
+
+创建时间 
+更新时间 
+处理期限 
+动作状态 
+
+CREAT EDAT E 
+UPDAT EDAT E 
+DEADLINE 
+ACT IONST AT E 
+
+排序 
+
+SORT 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (500) 
+Inte g e r 
+
+I.120 任务事项表（运行时） 
+
+Code 
+Comment 
+
+WF_WORKITEM_RUN 
+
+任务事项表（运行时） 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 
+流程实例主键 
+批次 
+任务事项数目 
+所属引擎域 
+
+任务事项名称 
+
+流程实例名称 
+
+流程模版 ID 
+
+流程模版索引 
+
+流程模版名称 
+
+所属节点 ID 
+
+所属节点名称 
+
+NAME 
+
+CASENAME 
+
+PROCESSID 
+
+ID 
+CASEID 
+BAT CH 
+IT EMNUM 
+WF_DOMAIN 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Inte g e r 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (100) 
+Va ria b le 
+cha ra c te rs (36) 
+ACT IVIT YNAME Va ria b le 
+cha ra c te rs (255) 
+
+PROCESSINDE
+X 
+PROCESSNAM
+E 
+ACT IVIT YID 
+
+T RUE 
+T RUE 
+FALSE 
+FALSE 
+
+T RUE 
+
+排序 
+
+Mandator
+y 
+T RUE 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+Comment 
+
+主键 id 
+
+流程实例主键 
+批次 
+任务事项数目 
+所属引擎域 
+
+FALSE 
+
+任务事项名称 
+
+FALSE 
+
+流程实例名称 
+
+FALSE 
+
+流程模版 ID 
+
+FALSE 
+
+流程模版索引 
+
+FALSE 
+
+流程模版名称 
+
+FALSE 
+
+所属节点 id 
+
+FALSE 
+
+所属节点名称 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 69 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+执行人 
+
+完成人 
+
+所属人 
+
+委托人 
+
+代理人 
+
+LEVELNUM 
+
+是否可以重新分
+配 
+
+PERFORMER 
+
+FIN ISHER 
+
+OWNER 
+
+ENT RUST ER 
+
+DELEGAT ER 
+
+LEVELNUM 
+CANREASSIGN 
+
+Va ria b le 
+cha ra c te rs (255) 
+Va ria b le 
+cha ra c te rs (64) 
+Va ria b le 
+cha ra c te rs (64) 
+Va ria b le 
+cha ra c te rs (64) 
+Va ria b le 
+cha ra c te rs (64) 
+Inte g e r 
+Inte g e r 
+
+FALSE 
+
+执行人 
+
+FALSE 
+
+完成人 
+
+FALSE 
+
+所属人 
+
+FALSE 
+
+委托人 
+
+FALSE 
+
+代理人 
+
+FALSE 
+FALSE 
+
+le ve lnum 
+
+是否可以重新分配 
+
+0:否 
+1:是 
+
+是否可以回退 
+
+CANRET URN 
+
+Inte g e r 
+
+FALSE 
+
+是否可以回退 
+
+0:否 
+1:是 
+
+是否可以代理 
+
+CANDELEGAT E 
+
+Inte g e r 
+
+FALSE 
+
+是否可以代理 
+
+是否可以委托 
+
+CANENT RUST 
+
+Inte g e r 
+
+FALSE 
+
+是否可以委托 
+
+0:否 
+1:是 
+
+0:否 
+1:是 
+
+是否可以查看 
+
+CANREVIEW 
+
+Inte g e r 
+
+FALSE 
+
+是否可以查看 
+
+下一节点状态 
+
+NEXT ST AT US 
+
+下一节点连线
+
+NEXT LINKID 
+
+ID 
+
+数据集合对象 
+之前状态 
+
+DAT AMAP 
+OLDST AT E 
+
+Va ria b le 
+cha ra c te rs (36) 
+Va ria b le 
+cha ra c te rs (36) 
+Lo ng b ina ry 
+Inte g e r 
+
+0:否 
+1:是 
+
+FALSE 
+
+下一节点状态 
+
+FALSE 
+
+下一节点连线 id 
+
+FALSE 
+FALSE 
+
+数据集合对象 
+之前状态 
+
+1:取消 
+
+当前状态 
+
+ST AT E 
+
+Inte g e r 
+
+FALSE 
+
+2:任务处于已完成状态 
+3:任务处于生成待分配状态 
+4:任务处于需要重做状态 
+41:任务处于需要重做状态 :提
+交给我 
+5:任务处于待审核状态 
+6:任务处于挂起状态 
+7:任务处于待执行状态 
+8:任务处于生成待认领状态 
+9:任务处于终止状态 
+当前状态 
+
+1:取消 
+
+2:任务处于已完成状态 
+3:任务处于生成待分配状态 
+4:任务处于需要重做状态 
+41:任务处于需要重做状态 :提
+交给我 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 70 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+5:任务处于待审核状态 
+6:任务处于挂起状态 
+7:任务处于待执行状态 
+8:任务处于生成待认领状态 
+9:任务处于终止状态 
+创建时间 
+更新时间 
+处理期限 
+动作状态 
+
+FALSE 
+FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+
+排序 
+
+Mandator
+y 
+T RUE 
+T RUE 
+
+Comment 
+
+任务主键 ID 
+任务标题 
+
+T RUE 
+
+任务计划开始时间 
+
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (255) 
+Da te & T ime 
+
+Da te & T ime 
+
+T RUE 
+
+任务计划结束时间 
+
+Numb e r (3) 
+Da te & T ime 
+
+T RUE 
+FALSE 
+
+是否为全日事件 
+任务实际开始时间 
+
+Da te & T ime 
+
+FALSE 
+
+任务实际结束时间 
+
+Numb e r (10) 
+
+T RUE 
+
+开始前提醒时间间隔 
+
+Numb e r (10) 
+
+T RUE 
+
+结束前提醒时间间隔 
+
+创建时间 
+更新时间 
+处理期限 
+动作状态 
+
+CREAT EDAT E 
+UPDAT EDAT E 
+DEADLINE 
+ACT IONST AT E 
+
+排序 
+
+SORT 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+Lo ng inte g e r 
+Va ria b le 
+cha ra c te rs (500) 
+Inte g e r 
+
+I.121 任务信息主表 
+
+Code 
+Comment 
+
+TASK_INFO 
+
+任务信息主表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+任务标题 
+
+ID 
+SUBJECT 
+
+任务计划开始时
+间 
+任务计划结束时
+间 
+
+PLANNED_ST A
+RT _T IME 
+
+PLANNED_END
+_T IME 
+
+是否为全日事件 FULL_T IME 
+ACT UAL_ST AR
+T _T IME 
+
+ACT UAL_END_
+T IME 
+
+REMIND_ST AR
+T _T IME 
+
+REMIND_END_
+T IME 
+
+任务实际开始时
+间 
+任务实际结束时
+间 
+开始前提醒时间
+间隔 
+结束前提醒时间
+间隔 
+任务创建人 
+任务创建时间 
+任务负责人 
+任务参与人 
+
+任务修改人 
+任务修改时间 
+任务重要程度 
+
+CREAT E_USER Lo ng inte g e r 
+CREAT E_T IME 
+Da te & T ime 
+MANAGERS 
+T e xt 
+PART ICIPAT OR
+T e xt 
+S 
+UPDAT E_USER Numb e r (19) 
+UPDAT E_T IME Da te & T ime 
+IMPORT ANT _L
+Numb e r (3) 
+EVEL 
+
+T RUE 
+T RUE 
+T RUE 
+FALSE 
+
+T RUE 
+T RUE 
+T RUE 
+
+任务状态 
+
+ST AT US 
+
+Numb e r (3) 
+
+T RUE 
+
+计划任务工时 
+
+PLANNED_T AS
+K_T IME 
+
+Flo a t 
+
+T RUE 
+
+任务创建人 
+任务创建时间 
+任务负责人 
+任务参与人 
+
+任务修改人 
+任务修改时间 
+任务重要程度（1.重要紧急；
+2.不重要紧急；3.重要不紧
+急；4.不重要不紧急） 
+任务状态(1:未开始；2:进行
+中；4:已完成；5:已取消 ) 
+计划任务工时 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 71 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+ACT UAL_T ASK
+_T IME 
+FIN ISH_RAT E 
+R ISK_LEVEL 
+
+HAS_AT T ACHM
+ENT S 
+
+IMPORT _T O_C
+ALENDAR 
+
+Flo a t 
+
+FALSE 
+
+实际任务工时 
+
+Flo a t 
+Numb e r (3) 
+
+T RUE 
+T RUE 
+
+完成百分率 
+任务风险级别（0: 无；1:低；
+
+Numb e r (3) 
+
+T RUE 
+
+Numb e r (3) 
+
+T RUE 
+
+2:中；3:高） 
+
+是否包含附件(1:有附件；0 :不
+存在附件) 
+是否导入到日程视图(暂不使
+
+Lo ng inte g e r 
+
+上级任务标题 
+
+PARENT _T ASK
+_ID 
+PARENT _T ASK
+Va ria b le 
+_SUBJECT 
+cha ra c te rs (255) 
+任务的逻辑路径 LOGICAL_PAT H Va ria b le 
+cha ra c te rs (500) 
+Numb e r (3) 
+
+用) 
+
+T RUE 
+
+上级任务 ID 
+
+FALSE 
+
+上级任务标题 
+
+T RUE 
+
+任务的逻辑路径 
+
+T RUE 
+
+任务的逻辑层级深度 
+
+实际任务工时 
+
+完成百分率 
+任务风险级别 
+
+是否包含附件 
+
+是否导入到日程
+视图 
+上级任务 ID 
+
+任务的逻辑层级
+深度 
+关联的项目 ID 
+关联的项目阶段
+
+ID 
+
+权重 
+
+用于判断是否是
+里程碑任务 
+检查人编号 
+
+单位 ID 
+
+用于保存其他业
+务转任务的来源
+编号 
+用于保存其他业
+务转任务的来源
+类型 
+
+LOGICAL_DEPT
+H 
+
+PROJECT _ID 
+PROJECT _PHA
+SE_ID 
+WEIGHT 
+
+Lo ng inte g e r 
+Lo ng inte g e r 
+
+T RUE 
+T RUE 
+
+关联的项目 ID 
+关联的项目阶段 ID 
+
+Flo a t 
+
+FALSE 
+
+MILEST ONE 
+
+Sho rt inte g e r 
+
+T RUE 
+
+INSPECT ORS 
+ACCOUNT _ID 
+
+T e xt 
+Lo ng inte g e r 
+
+FALSE 
+FALSE 
+
+SOURCE_ID 
+
+Lo ng inte g e r 
+
+FALSE 
+
+SOURCE_T YPE Sho rt inte g e r 
+
+T RUE 
+
+权重，用于设置子任务所占比
+例 
+用于判断是否是里程碑任务，
+1 代表是，0 代表否 
+用于保存检查人编号 
+用于保存汇报人所在单位的编
+号 
+用于保存其他业务转任务的来
+源编号 
+
+用于保存其他业务转任务的来
+源类型 
+0：全局 
+ 1：协同应用 
+ 2：表单 
+ 3：知识管理 
+ 4：公文 
+ 5：计划 
+ 6：会议 
+ 7：公告 
+ 8：新闻 
+ 9：讨论 
+
+ 10：调查 
+
+ 11：日程事件 
+
+ 12：邮件 
+ 13:组织模型 
+ 14：项目 
+
+ 15：关联人员 
+
+ 16：交换 
+ 17 :人力资源 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 72 
+
+Lo g ica l Da ta Mo de l 
+
+CT P2.0 
+
+ 18 :博客 
+ 19 :发文 
+ 20 :收文 
+ 21 :签报  
+ 22 :待发送公文 
+ 23 :待签收公文 
+ 24 :待登记公文 
+ 25 :在线交流 
+ 26:综合办公 
+ 27:代理设置 
+ 28 :密码修改 
+ 29 :会议室 
+ 30 :任务管理 
+ 31 :留言板 
+ 32 :信息报 送 
+ 33  :信息报送统计 
+ 34:收文分发 
+ 35  :公示板 
+ 36 : 签到 
+ 37 :移动应用接入-html5 应用
+
+包 
+
+ 38 :sa p 插件 
+ 39 :第三方整合 
+源 ID 
+
+Lo ng inte g e r 
+
+FALSE 
+
+Lo ng inte g e r 
+
+FALSE 
+
+任务根 ID 
+
+源 ID 
+
+任务根 ID 
+
+SOURCE_REC
+ORD_ID 
+ROOT _T ASK_I
+D 
+
+I.122 任务内容表 
+
+Code 
+Comment 
+
+TASK_INFO_BODY 
+
+任务内容表 
+
+Name 
+
+Code 
+
+Data Type 
+
+主键 ID 
+
+任务内容 
+任务内容写入时
+间 
+任务正文类型 
+
+ID 
+Lo ng inte g e r 
+CONT ENT 
+T e xt 
+CREAT E_DAT E Da te & T ime 
+
+BODY_T YPE 
+
+Va ria b le 
+cha ra c te rs (20) 
+
+正文名称 
+
+CONT ENT _NA
+ME 
+
+Va ria b le 
+cha ra c te rs (50) 
+
+FALSE 
+
+I.123 任务反馈表 
+
+Code 
+
+TASK_FEEDBACK 
+
+Mandator
+y 
+T RUE 
+FALSE 
+T RUE 
+
+Comment 
+
+任务内容表主键 ID 
+任务内容 
+任务内容写入时间 
+
+T RUE 
+
+任务正文类型(同
+
+Ma inb o d yT ype，暂时使用
+
+10，但是没有实际意义) 
+正文名称 
+
+Powe rDe s ig ne r 
+
+201 7-6-9 
+
+Pa g e 73 
+

@@ -1,0 +1,37 @@
+
+version:v1.1
+author:weidongbin
+createtime:2020/05/29
+updatetime:2020/06/01
+email:wdb_workspace@126.com
+1.根据一定格式的数据字典生成stg,ods建表语句, 以及生成ods .sh脚本语句,股份SAP系统stg .sh脚本语句
+2.生成的字段类型都是string ,  空字段,.开头的字段排除
+3.sh脚本 创建时间获取当前时间, 作者
+4.是否接入判断; 系统代码,库名获取
+5.ods.hql文件的建表语句中生成的字段类型可以选择 1).都是string 2).数据字典文件中字段类型(手动转化好)
+    3).工具转化[%int%--->bigint;MONEY,FLOAT,DECIMAL,NUMERIC,DOUBLE-->DECIMAL(30,8)
+    ;others-->STRING]; stg的还是 String类型
+6.['TYPE','TIMESTAMP','OPERATION']关键词字段加个下划线_
+
+
+version:v1.2
+author:weidongbin
+createtime:2020/05/29
+updatetime:2020/06/03
+email:wdb_workspace@126.com
+1.指定系统代码生成
+2.指定stg sqoop语句的target-dir
+3.修复 重复表问题,是否接入有一个为N且在前面,另一个为Y 引起Y的没有生成
+4.文件生成路径显示
+5.程序报错显示错误信息,并不是关掉了窗口
+6.修复不同系统编码包含相同表名导致有些表没生成
+
+
+version:v2.0
+author:weidongbin
+createtime:2020/05/29
+updatetime:2020/06/06
+email:wdb_workspace@126.com
+1.交互式参数改为配置文件参数模式
+2.直接一次生成ods,stg 建表和etl 语句
+3.可以自定义 原字段类型与hive类型转换规则
