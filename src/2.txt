@@ -2,7 +2,7 @@ Sybase PowerDesigner
 Logical Data Model Report 
 
 aaaaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-Model: 
+Model:
 
 CTP2.0 
 
@@ -46,7 +46,7 @@ Powe rDe s ig ne r
 
 Pa g e 3 
 
-I V5 数据字典 
+I V5 �����ֵ� 
 
 I.1 ADDRESSBOOK 
 
@@ -71,7 +71,7 @@ FALSE
 
 Comment 
 
-主键 
+���� 
 
 ID 
 Lo ng inte g e r 
@@ -83,25 +83,25 @@ EXT _AT T R_1
 Va ria b le 
 cha ra c te rs (1024) 
 
-主键 
+���� 
 
-人员 ID  
+��Ա ID  
 
-人员 id  
+��Ա id  
 
-创建日期 
-最后修改日期 
-文本类型扩展字
+�������� 
+����޸����� 
+�ı�������չ��
 
-创建日期 
-最后修改日期 
-文本类型扩展字段 1 
+�������� 
+����޸����� 
+�ı�������չ�ֶ� 1 
 
-段 1 
+�� 1 
 
-文本类型扩展字
+�ı�������չ��
 
-段 2 
+�� 2 
 
 EXT _AT T R_2 
 
@@ -110,11 +110,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-文本类型扩展字段 2 
+�ı�������չ�ֶ� 2 
 
-文本类型扩展字
+�ı�������չ��
 
-段 3 
+�� 3 
 
 EXT _AT T R_3 
 
@@ -123,11 +123,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-文本类型扩展字段 3 
+�ı�������չ�ֶ� 3 
 
-文本类型扩展字
+�ı�������չ��
 
-段 4 
+�� 4 
 
 EXT _AT T R_4 
 
@@ -136,11 +136,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-文本类型扩展字段 4 
+�ı�������չ�ֶ� 4 
 
-文本类型扩展字
+�ı�������չ��
 
-段 5 
+�� 5 
 
 EXT _AT T R_5 
 
@@ -149,11 +149,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-文本类型扩展字段 5 
+�ı�������չ�ֶ� 5 
 
-文本类型扩展字
+�ı�������չ��
 
-段 6 
+�� 6 
 
 EXT _AT T R_6 
 
@@ -162,11 +162,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-文本类型扩展字段 6 
+�ı�������չ�ֶ� 6 
 
-文本类型扩展字
+�ı�������չ��
 
-段 7 
+�� 7 
 
 EXT _AT T R_7 
 
@@ -175,11 +175,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-文本类型扩展字段 7 
+�ı�������չ�ֶ� 7 
 
-文本类型扩展字
+�ı�������չ��
 
-段 8 
+�� 8 
 
 EXT _AT T R_8 
 
@@ -188,11 +188,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-文本类型扩展字段 8 
+�ı�������չ�ֶ� 8 
 
-文本类型扩展字
+�ı�������չ��
 
-段 9 
+�� 9 
 
 EXT _AT T R_9 
 
@@ -201,11 +201,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-文本类型扩展字段 9 
+�ı�������չ�ֶ� 9 
 
-文本类型扩展字
+�ı�������չ��
 
-段 10 
+�� 10 
 
 EXT _AT T R_10 
 
@@ -214,11 +214,11 @@ cha ra c te rs (1024)
 
 FALSE 
 
-文本类型扩展字段 10 
+�ı�������չ�ֶ� 10 
 
-数字类型扩展字
+����������չ��
 
-段 1 
+�� 1 
 
 EXT _AT T R_11 
 
@@ -226,11 +226,11 @@ Numb e r (19,4)
 
 FALSE 
 
-数字类型扩展字段 1 
+����������չ�ֶ� 1 
 
-数字类型扩展字
+����������չ��
 
-段 2 
+�� 2 
 
 EXT _AT T R_12 
 
@@ -238,11 +238,11 @@ Numb e r (19,4)
 
 FALSE 
 
-数字类型扩展字段 2 
+����������չ�ֶ� 2 
 
-数字类型扩展字
+����������չ��
 
-段 3 
+�� 3 
 
 EXT _AT T R_13 
 
@@ -250,11 +250,11 @@ Numb e r (19,4)
 
 FALSE 
 
-数字类型扩展字段 3 
+����������չ�ֶ� 3 
 
-数字类型扩展字
+����������չ��
 
-段 4 
+�� 4 
 
 EXT _AT T R_14 
 
@@ -262,11 +262,11 @@ Numb e r (19,4)
 
 FALSE 
 
-数字类型扩展字段 4 
+����������չ�ֶ� 4 
 
-数字类型扩展字
+����������չ��
 
-段 5 
+�� 5 
 
 EXT _AT T R_15 
 
@@ -274,11 +274,11 @@ Numb e r (19,4)
 
 FALSE 
 
-数字类型扩展字段 5 
+����������չ�ֶ� 5 
 
-数字类型扩展字
+����������չ��
 
-段 6 
+�� 6 
 
 EXT _AT T R_16 
 
@@ -286,11 +286,11 @@ Numb e r (19,4)
 
 FALSE 
 
-数字类型扩展字段 6 
+����������չ�ֶ� 6 
 
-数字类型扩展字
+����������չ��
 
-段 7 
+�� 7 
 
 EXT _AT T R_17 
 
@@ -298,7 +298,7 @@ Numb e r (19,4)
 
 FALSE 
 
-数字类型扩展字段 7 
+����������չ�ֶ� 7 
 
 Lo g ica l Da ta Mo de l 
 
@@ -310,9 +310,9 @@ Powe rDe s ig ne r
 
 Pa g e 4 
 
-数字类型扩展字
+����������չ��
 
-段 8 
+�� 8 
 
 EXT _AT T R_18 
 
@@ -320,11 +320,11 @@ Numb e r (19,4)
 
 FALSE 
 
-数字类型扩展字段 8 
+����������չ�ֶ� 8 
 
-数字类型扩展字
+����������չ��
 
-段 9 
+�� 9 
 
 EXT _AT T R_19 
 
@@ -332,11 +332,11 @@ Numb e r (19,4)
 
 FALSE 
 
-数字类型扩展字段 9 
+����������չ�ֶ� 9 
 
-数字类型扩展字
+����������չ��
 
-段 10 
+�� 10 
 
 EXT _AT T R_20 
 
@@ -344,11 +344,11 @@ Numb e r (19,4)
 
 FALSE 
 
-数字类型扩展字段 10 
+����������չ�ֶ� 10 
 
-日期类型扩展字
+����������չ��
 
-段 1 
+�� 1 
 
 EXT _AT T R_21 
 
@@ -356,11 +356,11 @@ Da te & T ime
 
 FALSE 
 
-日期类型扩展字段 1 
+����������չ�ֶ� 1 
 
-日期类型扩展字
+����������չ��
 
-段 2 
+�� 2 
 
 EXT _AT T R_22 
 
@@ -368,11 +368,11 @@ Da te & T ime
 
 FALSE 
 
-日期类型扩展字段 2 
+����������չ�ֶ� 2 
 
-日期类型扩展字
+����������չ��
 
-段 3 
+�� 3 
 
 EXT _AT T R_23 
 
@@ -380,11 +380,11 @@ Da te & T ime
 
 FALSE 
 
-日期类型扩展字段 3 
+����������չ�ֶ� 3 
 
-日期类型扩展字
+����������չ��
 
-段 4 
+�� 4 
 
 EXT _AT T R_24 
 
@@ -392,11 +392,11 @@ Da te & T ime
 
 FALSE 
 
-日期类型扩展字段 4 
+����������չ�ֶ� 4 
 
-日期类型扩展字
+����������չ��
 
-段 5 
+�� 5 
 
 EXT _AT T R_25 
 
@@ -404,11 +404,11 @@ Da te & T ime
 
 FALSE 
 
-日期类型扩展字段 5 
+����������չ�ֶ� 5 
 
-日期类型扩展字
+����������չ��
 
-段 6 
+�� 6 
 
 EXT _AT T R_26 
 
@@ -416,11 +416,11 @@ Da te & T ime
 
 FALSE 
 
-日期类型扩展字段 6 
+����������չ�ֶ� 6 
 
-日期类型扩展字
+����������չ��
 
-段 7 
+�� 7 
 
 EXT _AT T R_27 
 
@@ -428,11 +428,11 @@ Da te & T ime
 
 FALSE 
 
-日期类型扩展字段 7 
+����������չ�ֶ� 7 
 
-日期类型扩展字
+����������չ��
 
-段 8 
+�� 8 
 
 EXT _AT T R_28 
 
@@ -440,11 +440,11 @@ Da te & T ime
 
 FALSE 
 
-日期类型扩展字段 8 
+����������չ�ֶ� 8 
 
-日期类型扩展字
+����������չ��
 
-段 9 
+�� 9 
 
 EXT _AT T R_29 
 
@@ -452,11 +452,11 @@ Da te & T ime
 
 FALSE 
 
-日期类型扩展字段 9 
+����������չ�ֶ� 9 
 
-日期类型扩展字
+����������չ��
 
-段 10 
+�� 10 
 
 EXT _AT T R_30 
 
@@ -464,15 +464,15 @@ Da te & T ime
 
 FALSE 
 
-日期类型扩展字段 10 
+����������չ�ֶ� 10 
 
-I.2 ALL-IN-ONE 用户绑定表 
+I.2 ALL-IN-ONE �û��󶨱� 
 
 Code 
 Comment 
 
 U8PLUGIN_AIOUSER_MAPP ING 
-All- In-One 用户绑定表 
+All- In-One �û��󶨱� 
 
 Name 
 
@@ -488,9 +488,9 @@ T RUE
 
 Comment 
 
-主键 ID 
-用户 ID 
-ALL-IN -ONE 登
+���� ID 
+�û� ID 
+ALL-IN -ONE ��
 
 ID 
 OAUSER_ID 
@@ -502,15 +502,15 @@ Lo ng inte g e r
 Va ria b le 
 cha ra c te rs (50) 
 
-主键 ID 
-主键 OA 用户 ID 
-ALL-IN -ONE 登录名 
+���� ID 
+���� OA �û� ID 
+ALL-IN -ONE ��¼�� 
 
-录名 
+¼�� 
 
-ALL-IN -ONE 密
+ALL-IN -ONE ��
 
-码 
+�� 
 
 AIO_PWD 
 
@@ -519,15 +519,15 @@ cha ra c te rs (50)
 
 FALSE 
 
-ALL-IN -ONE 密码 
+ALL-IN -ONE ���� 
 
-I.3 CA 管理 
+I.3 CA ���� 
 
 Code 
 Comment 
 
 CA_ACCOUNT 
-CA 管理 
+CA ���� 
 
 Name 
 
@@ -546,22 +546,22 @@ CT P2.0
 
 ID 
 
-CA 证书唯一标
-识 
+CA ֤��Ψһ��
+ʶ 
 
-人员 ID 
+��Ա ID 
 
-模块 
+ģ�� 
 
-停启用状态 
-是否必须使用
+ͣ����״̬ 
+�Ƿ����ʹ��
 
-CA 登录 
+CA ��¼ 
 
-移动设备访问是
-否受控制 
-登陆时是否同时
-检查账号密码 
+�ƶ��豸������
+���ܿ��� 
+��½ʱ�Ƿ�ͬʱ
+����˺����� 
 
 ID 
 KEY_NUM 
@@ -597,36 +597,36 @@ FALSE
 T RUE 
 T RUE 
 
-主键 ID 
+���� ID 
 
-CA 证书唯一标识 
+CA ֤��Ψһ��ʶ 
 
-人员 ID 
+��Ա ID 
 
-模块 
+ģ�� 
 
-停启用状态，0-停用 1-启用 
-是否必须使用 CA 登录，0-否 
+ͣ����״̬��0-ͣ�� 1-���� 
+�Ƿ����ʹ�� CA ��¼��0-�� 
 
-1-是 
-
-Numb e r (3) 
-
-T RUE 
-
-移动设备访问是否受控制，0-
+1-�� 
 
 Numb e r (3) 
 
 T RUE 
 
-登陆时是否同时检查账号密
+�ƶ��豸�����Ƿ��ܿ��ƣ�0-
 
-否 1-是 
+Numb e r (3) 
 
-码，0-否 1-是 
+T RUE 
 
-I.4 CIP 同步初始化过滤设置 
+��½ʱ�Ƿ�ͬʱ����˺���
+
+�� 1-�� 
+
+�룬0-�� 1-�� 
+
+I.4 CIP ͬ����ʼ���������� 
 
 Code 
 Comment 
@@ -639,14 +639,14 @@ Code
 
 Data Type 
 
-主键 
+���� 
 
 ID 
-同步初始化主键 SCHEMEIN IT _I
+ͬ����ʼ������ SCHEMEIN IT _I
 D 
 T YPE 
 
-过滤类型 
+�������� 
 
 Lo ng inte g e r 
 Lo ng inte g e r 
@@ -662,14 +662,14 @@ FALSE
 
 Comment 
 
-主键 
-同步初始化主键 
+���� 
+ͬ����ʼ������ 
 
-过滤第三方系统
-组织主键 
-过滤组织主键 
+���˵�����ϵͳ
+��֯���� 
+������֯���� 
 
-修改时间 
+�޸�ʱ�� 
 
 T H IRDPART Y_
 ORGID 
@@ -687,17 +687,17 @@ UPDAT E_T IME Da te & T ime
 
 FALSE 
 
-过滤组织主键 
+������֯���� 
 
 FALSE 
 
-修改时间 
+�޸�ʱ�� 
 
-过滤类型  1：部门  2：岗位   
-3：职务   4：人员 
-过滤第三方系统组织主键 
+��������  1������  2����λ   
+3��ְ��   4����Ա 
+���˵�����ϵͳ��֯���� 
 
-I.5 CIP 同步方案基础设置 
+I.5 CIP ͬ�������������� 
 
 Code 
 Comment 
@@ -710,16 +710,16 @@ Code
 
 Data Type 
 
-主键 
-方案名称 
+���� 
+�������� 
 
-产品编码 
+��Ʒ���� 
 
-同步方向 
+ͬ������ 
 
-驱动模式 
+����ģʽ 
 
-同步方式 
+ͬ����ʽ 
 
 ID 
 NAME 
@@ -755,21 +755,21 @@ y
 T RUE 
 FALSE 
 
-主键 
-方案名称 
+���� 
+�������� 
 
 FALSE 
 
-产品编码 
+��Ʒ���� 
 
 FALSE 
 
-同步方向，1：第三方系统->
-协同，0：协同->第三方系统 
-驱动模式，1：人工/定时驱
-动，0：实时驱动 
-同步方式，1：中间表，2：
-视图，3：接口 
+ͬ������1��������ϵͳ->
+Эͬ��0��Эͬ->������ϵͳ 
+����ģʽ��1���˹�/��ʱ��
+����0��ʵʱ���� 
+ͬ����ʽ��1���м��2��
+��ͼ��3���ӿ� 
 
 Powe rDe s ig ne r 
 
@@ -781,33 +781,33 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-接口设置主键 
+�ӿ��������� 
 
-数据库驱动 
+���ݿ����� 
 
 INT ERFACE_SE
 T T ING 
 DB_DR IVER 
 
-数据库 URL 
+���ݿ� URL 
 
 DB_URL 
 
-用户 
+�û� 
 
-密码 
+���� 
 
 DB_USER 
 
 DB_PWD 
 
-视图脚本 ID 
-是否已创建中间
-表 
-人员档案信息同
-步设置 
-扩展字段 1 
-扩展字段 2 
+��ͼ�ű� ID 
+�Ƿ��Ѵ����м�
+�� 
+��Ա������Ϣͬ
+������ 
+��չ�ֶ� 1 
+��չ�ֶ� 2 
 
 VIEW _ID 
 IS_CREAT E_MI
@@ -819,15 +819,15 @@ R_CONFIG
 EXT _AT T R_1 
 EXT _AT T R_2 
 
-扩展字段 3 
+��չ�ֶ� 3 
 
 EXT _AT T R_3 
 
-扩展字段 4 
+��չ�ֶ� 4 
 
 EXT _AT T R_4 
 
-扩展字段 5 
+��չ�ֶ� 5 
 
 EXT _AT T R_5 
 
@@ -835,7 +835,7 @@ Lo ng inte g e r
 
 FALSE 
 
-接口设置主键 
+�ӿ��������� 
 
 Va ria b le 
 cha ra c te rs (100) 
@@ -862,49 +862,49 @@ cha ra c te rs (255)
 
 FALSE 
 
-数据库驱动 
+���ݿ����� 
 
 FALSE 
 
-数据库 url 
+���ݿ� url 
 
-FALSE 
-
-FALSE 
-
-FALSE 
 FALSE 
 
 FALSE 
 
-用户 
+FALSE 
+FALSE 
 
-密码 
+FALSE 
 
-视图脚本 ID 
-是否已创建中间表，1：已创
-建，0：未创建 
-人员档案信息同步设置 
+�û� 
+
+���� 
+
+��ͼ�ű� ID 
+�Ƿ��Ѵ����м��1���Ѵ�
+����0��δ���� 
+��Ա������Ϣͬ������ 
 
 FALSE 
 FALSE 
 
-扩展字段 1 
-扩展字段 2 
+��չ�ֶ� 1 
+��չ�ֶ� 2 
 
 FALSE 
 
-扩展字段 3 
+��չ�ֶ� 3 
 
 FALSE 
 
-扩展字段 4 
+��չ�ֶ� 4 
 
 FALSE 
 
-扩展字段 5 
+��չ�ֶ� 5 
 
-I.6 CIP 同步日志 
+I.6 CIP ͬ����־ 
 
 Code 
 Comment 
@@ -917,18 +917,18 @@ Code
 
 Data Type 
 
-主键 
-登录名 
+���� 
+��¼�� 
 
 ID 
 LOGINNAME 
 
-同步方式 
-成功数 
-失败数 
-总数 
-是否有效 
-时间戳 
+ͬ����ʽ 
+�ɹ��� 
+ʧ���� 
+���� 
+�Ƿ���Ч 
+ʱ��� 
 
 OPT YPE 
 OKNUM 
@@ -936,17 +936,17 @@ FAILNUM
 T OT AL 
 ISVALID 
 DT 
-同步初始化主键 SCHEMEIN IT ID 
+ͬ����ʼ������ SCHEMEIN IT ID 
 SYN_T YPE 
 
-同步类型 
+ͬ������ 
 
-备注 
+��ע 
 
 MEMO 
 
-外部系统组织名
-称 
+�ⲿϵͳ��֯��
+�� 
 
 T H IRDORGNAM
 E 
@@ -975,8 +975,8 @@ y
 T RUE 
 FALSE 
 
-主键 
-登录名 
+���� 
+��¼�� 
 
 FALSE 
 FALSE 
@@ -987,23 +987,23 @@ FALSE
 FALSE 
 FALSE 
 
-同步方式：0-自动  1-手动 
-成功数 
-失败数 
-总数 
-是否有效：0 -无效  1-有效 
-时间戳 
-同步初始化主键 
-同步类型：0：集团   1：单位  
-3：部门 2 职务  4 岗位 5 人员 
+ͬ����ʽ��0-�Զ�  1-�ֶ� 
+�ɹ��� 
+ʧ���� 
+���� 
+�Ƿ���Ч��0 -��Ч  1-��Ч 
+ʱ��� 
+ͬ����ʼ������ 
+ͬ�����ͣ�0������   1����λ  
+3������ 2 ְ��  4 ��λ 5 ��Ա 
 
 FALSE 
 
-备注 
+��ע 
 
 FALSE 
 
-外部系统组织名称 
+�ⲿϵͳ��֯���� 
 
 Powe rDe s ig ne r 
 
@@ -1015,7 +1015,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-I.7 CIP 同步日志明细 
+I.7 CIP ͬ����־��ϸ 
 
 Code 
 Comment 
@@ -1028,17 +1028,17 @@ Code
 
 Data Type 
 
-主键 
-同步日志主键 
-数据描述 
+���� 
+ͬ����־���� 
+�������� 
 
 ID 
 RECORD_ID 
 DAT A 
 
-操作 
+���� 
 
-备注 
+��ע 
 
 ACT ION 
 
@@ -1061,19 +1061,19 @@ FALSE
 
 Comment 
 
-主键 
-同步日志主键 
-数据描述 
+���� 
+ͬ����־���� 
+�������� 
 
 FALSE 
 
 FALSE 
 
-操作 
+���� 
 
-备注 
+��ע 
 
-I.8 CIP 定时同步设置 
+I.8 CIP ��ʱͬ������ 
 
 Code 
 Comment 
@@ -1102,16 +1102,16 @@ FALSE
 
 Comment 
 
-主键 
-自动同步组织 
-定时同步时间设置 
+���� 
+�Զ�ͬ����֯ 
+��ʱͬ��ʱ������ 
 
-主键 
-自动同步组织 
-定时同步时间设
-置 
-是否启用 
-修改时间 
+���� 
+�Զ�ͬ����֯ 
+��ʱͬ��ʱ����
+�� 
+�Ƿ����� 
+�޸�ʱ�� 
 
 IS_ENABLE 
 Sho rt inte g e r 
@@ -1120,10 +1120,10 @@ UPDAT E_T IME Da te & T ime
 FALSE 
 FALSE 
 
-是否启用（1 是，0 否） 
-修改时间 
+�Ƿ����ã�1 �ǣ�0 �� 
+�޸�ʱ�� 
 
-I.9 CIP 接口注册表 
+I.9 CIP �ӿ�ע��� 
 
 Code 
 Comment 
@@ -1136,20 +1136,20 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-产品标示 
+��Ʒ��ʾ 
 
-接口分类 ID 
-接口名称 
+�ӿڷ��� ID 
+�ӿ����� 
 
-描述 
+���� 
 
-系统约束 
+ϵͳԼ�� 
 
-业务约束 
+ҵ��Լ�� 
 
-调用说明 
+����˵�� 
 
 ID 
 PRODUCT _FLA
@@ -1187,31 +1187,31 @@ y
 T RUE 
 FALSE 
 
-主键 ID 
+���� ID 
 
-产品标示 
-
-FALSE 
-FALSE 
-
-接口分类 ID 
-接口名称 
+��Ʒ��ʾ 
 
 FALSE 
+FALSE 
 
-描述 
+�ӿڷ��� ID 
+�ӿ����� 
 
 FALSE 
 
-系统约束 
+���� 
 
 FALSE 
 
-业务约束 
+ϵͳԼ�� 
 
 FALSE 
 
-调用说明 
+ҵ��Լ�� 
+
+FALSE 
+
+����˵�� 
 
 Powe rDe s ig ne r 
 
@@ -1223,14 +1223,14 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-场景描述 
+�������� 
 
-接口创建时间 
-接口修改时间 
-扩展参数 
+�ӿڴ���ʱ�� 
+�ӿ��޸�ʱ�� 
+��չ���� 
 
-关联产品 ID 
-关联资源包 
+������Ʒ ID 
+������Դ�� 
 
 SCENE_DES 
 
@@ -1249,7 +1249,7 @@ PRODUCT _ID
 RESOURCE_PA
 CKAGE 
 
-I.10 CIP 本地代理表 
+I.10 CIP ���ش���� 
 
 Code 
 Comment 
@@ -1264,9 +1264,9 @@ Data Type
 
 ID 
 
-登记接口 ID 
+�Ǽǽӿ� ID 
 
-适配器 ID 
+������ ID 
 
 ID 
 CIP_INT ERFAC
@@ -1276,7 +1276,7 @@ ADAPT ER_ID
 Lo ng inte g e r 
 Lo ng inte g e r 
 
-功能与约束说明 AGENT _DESCR
+������Լ��˵�� AGENT _DESCR
 IPT ION 
 AGENT _INT RO
 DUCE 
@@ -1297,32 +1297,32 @@ cha ra c te rs (255)
 CREAT E_DAT E Da te & T ime 
 UPDAT E_DAT E Da te & T ime 
 
-创建时间 
-修改时间 
+����ʱ�� 
+�޸�ʱ�� 
 
-使用说明 
+ʹ��˵�� 
 
-代理描述 
+�������� 
 
-扩展参数 
-
-FALSE 
-
-场景描述 
+��չ���� 
 
 FALSE 
-FALSE 
-FALSE 
+
+�������� 
 
 FALSE 
 FALSE 
+FALSE 
 
-接口创建时间 
-接口修改时间 
-扩展参数 
+FALSE 
+FALSE 
 
-关联产品 ID 
-关联资源包 
+�ӿڴ���ʱ�� 
+�ӿ��޸�ʱ�� 
+��չ���� 
+
+������Ʒ ID 
+������Դ�� 
 
 Mandator
 y 
@@ -1331,42 +1331,42 @@ FALSE
 
 Comment 
 
-登记接口 ID 
+�Ǽǽӿ� ID 
 
 FALSE 
 
-适配器 ID 
+������ ID 
 
 FALSE 
 
-功能与约束说明 
+������Լ��˵�� 
 
 FALSE 
 
-使用说明 
+ʹ��˵�� 
 
 FALSE 
 
-代理描述 
+�������� 
 
 FALSE 
 
-扩展参数 
+��չ���� 
 
 FALSE 
 FALSE 
 
-创建时间 
-修改时间 
+����ʱ�� 
+�޸�ʱ�� 
 
-I.11 CIP 监控日志表 
+I.11 CIP �����־�� 
 
 Code 
 Comment 
 
 CIP_LOG 
 
-监控日志表 
+�����־�� 
 
 Name 
 
@@ -1374,9 +1374,9 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-应用类别 
+Ӧ����� 
 
 ID 
 LOG_APPLICAT
@@ -1385,15 +1385,15 @@ ION
 Lo ng inte g e r 
 Sho rt inte g e r 
 
-活动 
+� 
 
-日志 
+��־ 
 
 LOG_ACT ION 
 
 LOG_DET AIL 
 
-操作人 
+������ 
 
 MEMBER_ID 
 
@@ -1412,23 +1412,23 @@ FALSE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-应用类别,1:基础设置,2:组织
+Ӧ�����,1:��������,2:��֯
 
-机构同步,3:门户集成,4:E IP ,5 :
+����ͬ��,3:�Ż�����,4:E IP ,5 :
 
-业务流程集成,6:第三方接口
-库 
-活动 
-
-FALSE 
-
-日志 
+ҵ�����̼���,6:�������ӿ�
+�� 
+� 
 
 FALSE 
 
-操作人 
+��־ 
+
+FALSE 
+
+������ 
 
 Powe rDe s ig ne r 
 
@@ -1440,11 +1440,11 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-扩展参数 
+��չ���� 
 
-创建时间 
-更新时间 
-第三方操作人 
+����ʱ�� 
+����ʱ�� 
+������������ 
 
 PARAM_0 
 
@@ -1458,17 +1458,17 @@ cha ra c te rs (255)
 
 FALSE 
 
-扩展参数 
+��չ���� 
 
 FALSE 
 FALSE 
 FALSE 
 
-创建时间 
-更新时间 
-第三方操作人 
+����ʱ�� 
+����ʱ�� 
+������������ 
 
-I.12 CIP 资源管理表 
+I.12 CIP ��Դ����� 
 
 Code 
 Comment 
@@ -1481,29 +1481,29 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-登记产品 ID 
-登记产品系列编
-码 
-资源编码 
+�Ǽǲ�Ʒ ID 
+�Ǽǲ�Ʒϵ�б�
+�� 
+��Դ���� 
 
-资源名称 
+��Դ���� 
 
-资源文件 ID 
+��Դ�ļ� ID 
 
-资源列表 
+��Դ�б� 
 
-资源部署说明 
+��Դ����˵�� 
 
-资源依赖说明 
+��Դ����˵�� 
 
-资源备注 
+��Դ��ע 
 
-扩展参数 
+��չ���� 
 
-资源创建时间 
-资源修改时间 
+��Դ����ʱ�� 
+��Դ�޸�ʱ�� 
 
 ID 
 PRODUCT _ID 
@@ -1558,57 +1558,57 @@ FALSE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-登记产品 ID 
-登记产品系列编码 
-
-FALSE 
-
-资源编码 
+�Ǽǲ�Ʒ ID 
+�Ǽǲ�Ʒϵ�б��� 
 
 FALSE 
 
-资源名称 
+��Դ���� 
 
 FALSE 
 
-资源文件 ID 
+��Դ���� 
 
 FALSE 
 
-资源列表 
+��Դ�ļ� ID 
 
 FALSE 
 
-资源部署说明 
+��Դ�б� 
 
 FALSE 
 
-资源依赖说明 
+��Դ����˵�� 
 
 FALSE 
 
-资源备注 
+��Դ����˵�� 
 
 FALSE 
 
-扩展参数 
+��Դ��ע 
+
+FALSE 
+
+��չ���� 
 
 FALSE 
 FALSE 
 
-资源创建时间 
-资源修改时间 
+��Դ����ʱ�� 
+��Դ�޸�ʱ�� 
 
-I.13 CM P 应用授权信息管理 
+I.13 CM P Ӧ����Ȩ��Ϣ���� 
 
 Code 
 Comment 
 
 CMP_APP_AUTHENTICATION 
 
-CMP 应用授权信息管理 
+CMP Ӧ����Ȩ��Ϣ���� 
 
 Name 
 
@@ -1618,15 +1618,15 @@ Data Type
 
 ID 
 
-被授权用户 ID 
+����Ȩ�û� ID 
 
 ID 
 USER_ID 
-被授权用户名称 USER_NAME 
+����Ȩ�û����� USER_NAME 
 
-应用 ID 
+Ӧ�� ID 
 
-应用类型 
+Ӧ������ 
 
 APP_ID 
 APP_T YPE 
@@ -1651,13 +1651,13 @@ Comment
 
 ID 
 
-被授权用户 ID 
-被授权用户名称 
+����Ȩ�û� ID 
+����Ȩ�û����� 
 
-应用 ID 
+Ӧ�� ID 
 
-应用类型，1=html 应用， 2=
-原生应用  
+Ӧ�����ͣ�1=html Ӧ�ã� 2=
+ԭ��Ӧ��  
 
 Powe rDe s ig ne r 
 
@@ -1669,7 +1669,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-应用开启状态 
+Ӧ�ÿ���״̬ 
 
 APP_ST AT US 
 
@@ -1686,8 +1686,8 @@ ID
 Lo ng inte g e r 
 Lo ng inte g e r 
 
-应用开启状态，1=启用，2 =
-禁用 
+Ӧ�ÿ���״̬��1=���ã�2 =
+���� 
 
 T RUE 
 
@@ -1707,10 +1707,10 @@ Code
 
 Data Type 
 
-主键 
-表单主键 
+���� 
+������ 
 
-FORMT ALK 表
+FORMT ALK ��
 
 ID 
 FORM_ID 
@@ -1721,17 +1721,17 @@ Lo ng inte g e r
 Va ria b le 
 cha ra c te rs (255) 
 
-单主键 
-映射数据 
-创建时间 
-修改时间 
-配置名称 
+������ 
+ӳ������ 
+����ʱ�� 
+�޸�ʱ�� 
+�������� 
 
-表单类型 
-流程模板主键 
-预留字段 
+������ 
+����ģ������ 
+Ԥ���ֶ� 
 
-配置传送方向 
+���ô��ͷ��� 
 
 MAPPER_DAT A T e xt 
 CREAT E_T IME 
@@ -1761,36 +1761,36 @@ FALSE
 
 Comment 
 
-主键 
-表单主键 
+���� 
+������ 
 
-FORMT ALK 表单主键 
-
-FALSE 
-FALSE 
-FALSE 
-FALSE 
+FORMT ALK ������ 
 
 FALSE 
 FALSE 
 FALSE 
+FALSE 
 
-映射数据 
-创建时间 
-修改时间 
-配置名称 
+FALSE 
+FALSE 
+FALSE 
 
-表单类型 
-流程模板主键 
-预留字段 
+ӳ������ 
+����ʱ�� 
+�޸�ʱ�� 
+�������� 
+
+������ 
+����ģ������ 
+Ԥ���ֶ� 
 
 FALSE 
 
-配置传送方向(0、未指定；
+���ô��ͷ���(0��δָ����
 
-1、fo rmta lk 推向 V5 ； 2、
-V5 推向 fo rmta lk ；3、V5 生
-成 fo rmta lk 二维码) 
+1��fo rmta lk ���� V5 �� 2��
+V5 ���� fo rmta lk ��3��V5 ��
+�� fo rmta lk ��ά��) 
 
 I.15 CTP_EVERYBODYWORK_DATA 
 
@@ -1851,7 +1851,7 @@ T RUE
 
 T RUE 
 
-暂不支持 
+�ݲ�֧�� 
 
 T RUE 
 
@@ -1918,7 +1918,7 @@ Data Type
 
 ID 
 
-公式的类型 
+��ʽ������ 
 
 ID 
 FORMULA_T YP
@@ -1927,9 +1927,9 @@ E
 Lo ng inte g e r 
 Sho rt inte g e r 
 
-公式的名称 
+��ʽ������ 
 
-公式的显示名称 FORMULA_ALI
+��ʽ����ʾ���� FORMULA_ALI
 AS 
 FORMULA_NA
 ME 
@@ -1937,16 +1937,16 @@ DESCR IPT ION
 
 PARAMS 
 
-公式的描述，说
-明公式的用途 
-公式的参数对象
+��ʽ��������˵
+����ʽ����; 
+��ʽ�Ĳ�������
 
-的 JSON 表述 
+�� JSON ���� 
 
-公式的表达式：
-变量的值/函数
-的代码 
-公式数据类型 
+��ʽ�ı��ʽ��
+������ֵ/����
+�Ĵ��� 
+��ʽ�������� 
 
 Va ria b le 
 cha ra c te rs (255) 
@@ -1966,8 +1966,8 @@ cha ra c te rs (4000)
 
 FALSE 
 
-公式的表达式：变量的值/函
-数的代码 
+��ʽ�ı��ʽ��������ֵ/��
+���Ĵ��� 
 
 DAT A_T YPE 
 
@@ -1984,41 +1984,41 @@ Comment
 
 ID 
 
-公式类型：0-常量，1-变量，
+��ʽ���ͣ�0-������1-������
 
-2-Gro o vy 函数，3-Ja va 函数 
-
-FALSE 
-
-公式的显示名称 
+2-Gro o vy ������3-Ja va ���� 
 
 FALSE 
 
-公式的名称 
+��ʽ����ʾ���� 
 
 FALSE 
 
-公式的描述，说明公式的用途 
+��ʽ������ 
 
 FALSE 
 
-公式的参数对象的 jso n 表述 
+��ʽ��������˵����ʽ����; 
 
-公式数据类型:1-文本，2-数
-值，3-日期时间，4-布尔值，
+FALSE 
 
-11-人员，12-部门，13 -岗
+��ʽ�Ĳ�������� jso n ���� 
 
-位，14-职务级别，15-单位， 
+��ʽ��������:1-�ı���2-��
+ֵ��3-����ʱ�䣬4-����ֵ��
 
-16-角色 
+11-��Ա��12-���ţ�13 -��
 
-应用范围:  0-全部,1-协同模
-板,2-表单制作,3-公文模板 ,4 -
-指定模板 
-示例脚本 
+λ��14-ְ�񼶱�15-��λ�� 
 
-应用范围 
+16-��ɫ 
+
+Ӧ�÷�Χ:  0-ȫ��,1-Эͬģ
+��,2-������,3-����ģ�� ,4 -
+ָ��ģ�� 
+ʾ���ű� 
+
+Ӧ�÷�Χ 
 
 CAT EGORY 
 
@@ -2026,19 +2026,19 @@ Sho rt inte g e r
 
 FALSE 
 
-示例脚本 
+ʾ���ű� 
 
-示例的期望值 
+ʾ��������ֵ 
 
-模板编号，
+ģ���ţ�
 
-CAT EGORY 为
+CAT EGORY Ϊ
 
-4 时有值，多个
-模板逗号分隔 
-创建者 ID 
-创建时间 
-更新时间 
+4 ʱ��ֵ�����
+ģ�嶺�ŷָ� 
+������ ID 
+����ʱ�� 
+����ʱ�� 
 
 SAMPLE 
 
@@ -2055,13 +2055,13 @@ FALSE
 
 FALSE 
 
-示例的期望值 
+ʾ��������ֵ 
 
 FALSE 
 
-模板编号，ca te g o ry 为 4 时
+ģ���ţ�ca te g o ry Ϊ 4 ʱ
 
-有值，多个模板逗号分隔 
+��ֵ�����ģ�嶺�ŷָ� 
 
 CREAT OR 
 Lo ng inte g e r 
@@ -2073,9 +2073,9 @@ FALSE
 FALSE 
 FALSE 
 
-创建者 Id 
-创建时间 
-更新时间 
+������ Id 
+����ʱ�� 
+����ʱ�� 
 
 Powe rDe s ig ne r 
 
@@ -2100,14 +2100,14 @@ Code
 
 Data Type 
 
-记录编号 
-类别名称 
+��¼��� 
+������� 
 
-所属功能模块的
-类型 
-创建人 
-创建时间 
-修改时间 
+��������ģ���
+���� 
+������ 
+����ʱ�� 
+�޸�ʱ�� 
 
 ID 
 CAT E_NAME 
@@ -2124,12 +2124,12 @@ y
 T RUE 
 FALSE 
 
-记录编号 
-类别名称 
+��¼��� 
+������� 
 
 FALSE 
 
-所属功能模块的类型 
+��������ģ������� 
 
 CREAT E_USER Lo ng inte g e r 
 CREAT E_T IME 
@@ -2140,9 +2140,9 @@ FALSE
 FALSE 
 FALSE 
 
-创建人 
-创建时间 
-修改时间 
+������ 
+����ʱ�� 
+�޸�ʱ�� 
 
 I.18 CTP_METADATA_COLUMN 
 
@@ -2157,12 +2157,12 @@ Code
 
 Data Type 
 
-记录编号 
-显示名称 
+��¼��� 
+��ʾ���� 
 
-字段名 
+�ֶ��� 
 
-字段别名 
+�ֶα��� 
 
 ID 
 LABEL 
@@ -2186,16 +2186,16 @@ y
 T RUE 
 FALSE 
 
-记录编号 
-显示名称 
+��¼��� 
+��ʾ���� 
 
 FALSE 
 
-字段名，与 PO 中的名称一致 
+�ֶ������� PO �е�����һ�� 
 
 FALSE 
 
-数据类型 
+�������� 
 
 T YPE 
 
@@ -2203,7 +2203,7 @@ Sho rt inte g e r
 
 FALSE 
 
-字段数据类型 
+�ֶ��������� 
 
 DAT AT YPE 
 
@@ -2211,37 +2211,37 @@ Sho rt inte g e r
 
 FALSE 
 
-字段别名，在同一 T a b le 中必
-须唯一。也不能与同一 T a b le
+�ֶα�������ͬһ T a b le �б�
+��Ψһ��Ҳ������ͬһ T a b le
 
-中的 Co lumn 的 name 冲突 
+�е� Co lumn �� name ��ͻ 
 
-数据类型（0：文本，1：数
-值，2：日期，3：枚举，4：
-选人控件） 
-字段的数据类型（0：文本，
-1：整数，2：小数，3：枚
-举，4：日期，5：日期时
-间，6：选择人员，7：选择
-部门，8：选择单位） 
-用户自定义规则（校验规则） 
+�������ͣ�0���ı���1����
+ֵ��2�����ڣ�3��ö�٣�4��
+ѡ�˿ؼ��� 
+�ֶε��������ͣ�0���ı���
+1��������2��С����3��ö
+�٣�4�����ڣ�5������ʱ
+�䣬6��ѡ����Ա��7��ѡ��
+���ţ�8��ѡ��λ�� 
+�û��Զ������У����� 
 
-comp 对应，如 ca le nd a r、
+comp ��Ӧ���� ca le nd a r��
 se le c tPe o p le 
 
-排序字段 
-是否用于查询（1：是，0：
-否） 
-是否启用：1：启用，0：停
-用 
-备注 
+�����ֶ� 
+�Ƿ����ڲ�ѯ��1���ǣ�0��
+�� 
+�Ƿ����ã�1�����ã�0��ͣ
+�� 
+��ע 
 
-用户自定义规则 COLUMN_RULE Va ria b le 
+�û��Զ������ COLUMN_RULE Va ria b le 
 cha ra c te rs (500) 
 Va ria b le 
 cha ra c te rs (1024) 
 
-录入组件名称 
+¼��������� 
 
 COMPONENT 
 
@@ -2249,10 +2249,10 @@ FALSE
 
 FALSE 
 
-录入组件名称，与前端组件的
+¼��������ƣ���ǰ�������
 
-排序字段 
-是否用于查询 
+�����ֶ� 
+�Ƿ����ڲ�ѯ 
 
 SORT 
 IS_SEACH 
@@ -2263,7 +2263,7 @@ Sho rt inte g e r
 FALSE 
 FALSE 
 
-是否启用 
+�Ƿ����� 
 
 IS_ENABLE 
 
@@ -2271,7 +2271,7 @@ Sho rt inte g e r
 
 FALSE 
 
-备注 
+��ע 
 
 DESCR IPT ION 
 
@@ -2294,14 +2294,14 @@ Lo ng inte g e r
 
 FALSE 
 
-所属单位:null/集团 id : 全集团;
+������λ:null/���� id : ȫ����;
 
-元数据表 ID 
-类别信息 ID 
-创建人 
-创建时间 
-修改时间 
-是否删除 
+Ԫ���ݱ� ID 
+�����Ϣ ID 
+������ 
+����ʱ�� 
+�޸�ʱ�� 
+�Ƿ�ɾ�� 
 
 T ABLE_ID 
 Lo ng inte g e r 
@@ -2321,19 +2321,19 @@ FALSE
 FALSE 
 FALSE 
 
-是否显示在人员
-信息界面 
+�Ƿ���ʾ����Ա
+��Ϣ���� 
 
 IS_SHOW INPE
 RSON INFO 
 
-是否显示在人员
-卡片 
+�Ƿ���ʾ����Ա
+��Ƭ 
 
 IS_SHOW INPE
 RSONCARD 
 
-所属单位 
+������λ 
 
 ORG_ACCOUN
 T _ID 
@@ -2346,7 +2346,7 @@ Sho rt inte g e r
 
 FALSE 
 
-是否预置属性 
+�Ƿ�Ԥ������ 
 
 IS_PRESET 
 
@@ -2367,12 +2367,12 @@ Code
 
 Data Type 
 
-记录编号，主键 
+��¼��ţ����� 
 
-T ABLE 名称，
+T ABLE ���ƣ�
 
-作为程序调用的
-唯一标识 
+��Ϊ������õ�
+Ψһ��ʶ 
 
 ID 
 T ABLE_NAME 
@@ -2393,49 +2393,49 @@ cha ra c te rs (500)
 
 FALSE 
 
-元数据表 ID 
-类别信息 Id 
-创建人 
-创建时间 
-修改时间 
-是否删除：1：删除，0：未
-删除 
-是否显示在人员信息界面（针
-对通讯录设置添加，1：是，
-0：否） 
-是否显示在人员卡片（针对通
-讯录设置添加，1：是，0：
-否） 
+Ԫ���ݱ� ID 
+�����Ϣ Id 
+������ 
+����ʱ�� 
+�޸�ʱ�� 
+�Ƿ�ɾ����1��ɾ����0��δ
+ɾ�� 
+�Ƿ���ʾ����Ա��Ϣ���棨��
+��ͨѶ¼������ӣ�1���ǣ�
+0���� 
+�Ƿ���ʾ����Ա��Ƭ�����ͨ
+Ѷ¼������ӣ�1���ǣ�0��
+�� 
 
-单位 id：指定单位 
+��λ id��ָ����λ 
 
-是否预置属性：is_p re se t，
-1：预置属性; 0/null: 非预置
+�Ƿ�Ԥ�����ԣ�is_p re se t��
+1��Ԥ������; 0/null: ��Ԥ��
 
-属性 
+���� 
 
 Comment 
 
-记录编号，主键 
-T a b le 名称，作为程序调用的
-唯一标识 
+��¼��ţ����� 
+T a b le ���ƣ���Ϊ������õ�
+Ψһ��ʶ 
 
-取得 T a b le 描述的 PO 的
-c la ssName，如
+ȡ�� T a b le ������ PO ��
+c la ssName����
 com.se e yo n.c tp .o rg a niza tio n.
 p o .OrgMemb e r 
 
-模型...... 
+ģ��...... 
 
-创建人 
-创建时间 
-更改时间 
+������ 
+����ʱ�� 
+����ʱ�� 
 
-显示名称 
+��ʾ���� 
 
 LABEL 
 
-应用模块类型 
+Ӧ��ģ������ 
 
 APPLICAT IONC
 AT EGORY 
@@ -2446,15 +2446,15 @@ Sho rt inte g e r
 
 FALSE 
 
-显示名称 
+��ʾ���� 
 
 FALSE 
 
-应用模块类型：协同/公文/织
+Ӧ��ģ�����ͣ�Эͬ/����/֯
 
-创建人 
-创建时间 
-更改时间 
+������ 
+����ʱ�� 
+����ʱ�� 
 
 CREAT E_USER Lo ng inte g e r 
 CREAT E_T IME 
@@ -2493,9 +2493,9 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-主键 ID 
+���� ID 
 
-备份后新文件
+���ݺ����ļ�
 
 ID 
 FILE_ID 
@@ -2506,13 +2506,13 @@ Lo ng inte g e r
 T RUE 
 FALSE 
 
-主键 id 
+���� id 
 
-备份后新文件 ID 
+���ݺ����ļ� ID 
 
 ID 
 
-原文件 ID 
+ԭ�ļ� ID 
 
 SOURCE_FILE_
 ID 
@@ -2521,15 +2521,15 @@ Lo ng inte g e r
 
 FALSE 
 
-原文件 ID 
+ԭ�ļ� ID 
 
-I.21 DEE 属性表 
+I.21 DEE ���Ա� 
 
 Code 
 Comment 
 
 CTP_SECTION_DEE_PROPS 
-DEE 属性表 
+DEE ���Ա� 
 
 Name 
 
@@ -2537,26 +2537,26 @@ Code
 
 Data Type 
 
-主键 ID 
-栏目 ID 
+���� ID 
+��Ŀ ID 
 
-属性名称 
+�������� 
 
 ID 
 DEE_SECT ION
 _ID 
 PROP_NAME 
 
-属性值 
+����ֵ 
 
 PROP_VALUE 
 
-属性类型 
+�������� 
 
 PROP_MET A 
 
-是否显示 
-排序 
+�Ƿ���ʾ 
+���� 
 
 ISSHOW 
 SORT 
@@ -2580,34 +2580,34 @@ y
 T RUE 
 T RUE 
 
-主键 ID 
-栏目 ID 
+���� ID 
+��Ŀ ID 
 
 FALSE 
 
-属性名称 
+�������� 
 
 FALSE 
 
-属性值 
+����ֵ 
 
 FALSE 
 
-属性类型 
+�������� 
 
 FALSE 
 FALSE 
 
-是否显示：1-隐藏  0-显示 
-排序 
+�Ƿ���ʾ��1-����  0-��ʾ 
+���� 
 
-I.22 DEE 授权表 
+I.22 DEE ��Ȩ�� 
 
 Code 
 Comment 
 
 CTP_SECTION_DEE_SECURITY 
-DEE 授权表 
+DEE ��Ȩ�� 
 
 Name 
 
@@ -2615,12 +2615,12 @@ Code
 
 Data Type 
 
-主键 ID 
-栏目 ID 
+���� ID 
+��Ŀ ID 
 
-实体 ID 
+ʵ�� ID 
 
-实体类型 
+ʵ������ 
 
 ID 
 DEE_SECT ION
@@ -2628,7 +2628,7 @@ _ID
 ENT IT Y_ID 
 ENT IT Y_T YPE 
 
-排序号 
+����� 
 
 SORT 
 
@@ -2645,29 +2645,29 @@ y
 T RUE 
 T RUE 
 
-主键 ID 
-栏目 ID 
+���� ID 
+��Ŀ ID 
 
 T RUE 
 T RUE 
 
-实体 ID 
+ʵ�� ID 
 
-实体类型 
+ʵ������ 
 
 FALSE 
 
-排序号 
+����� 
 
 Comment 
 
-I.23 DEE 栏目表 
+I.23 DEE ��Ŀ�� 
 
 Code 
 Comment 
 
 CTP_SECTION_DEE 
-DEE 栏目表 
+DEE ��Ŀ�� 
 
 Name 
 
@@ -2675,9 +2675,9 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-交换任务 ID 
+�������� ID 
 
 ID 
 FLOW _ID 
@@ -2692,9 +2692,9 @@ T RUE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-交换任务 ID 
+�������� ID 
 
 Powe rDe s ig ne r 
 
@@ -2706,13 +2706,13 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-模块名称 
+ģ������ 
 
-栏目默认高度 
-栏目名称 
+��ĿĬ�ϸ߶� 
+��Ŀ���� 
 
-交换任务显示名
-称 
+����������ʾ��
+�� 
 
 MODULE_NAM
 E 
@@ -2741,17 +2741,17 @@ cha ra c te rs (255)
 
 T RUE 
 
-模块名称 
+ģ������ 
 
 T RUE 
 T RUE 
 
-栏目默认高度 
-栏目名称 
+��ĿĬ�ϸ߶� 
+��Ŀ���� 
 
 T RUE 
 
-交换任务显示名称 
+����������ʾ���� 
 
 T RUE 
 
@@ -2774,16 +2774,16 @@ Code
 
 Data Type 
 
-主键 
-移交人 ID 
-接收人 ID 
+���� 
+�ƽ��� ID 
+������ ID 
 
-人员 ID 
+��Ա ID 
 
-移交人单位 ID 
-工资年份 
-工资月份 
-移交日期 
+�ƽ��˵�λ ID 
+������� 
+�����·� 
+�ƽ����� 
 
 ID 
 CREAT OR_ID 
@@ -2817,25 +2817,25 @@ FALSE
 
 Comment 
 
-主键 
-移交人 id 
-接收人 id 
+���� 
+�ƽ��� id 
+������ id 
 
-人员 id 
+��Ա id 
 
-移交人单位 id 
-工资年份 
-工资月份 
-移交日期 
+�ƽ��˵�λ id 
+������� 
+�����·� 
+�ƽ����� 
 
-I.25 HTML 专业签章迁移增加表 
+I.25 HTML רҵǩ��Ǩ�����ӱ� 
 
 Code 
 Comment 
 
 CTP_ISIGNATURE_HTML 
 
-HTML 专业签章迁移增加表 
+HTML רҵǩ��Ǩ�����ӱ� 
 
 Name 
 
@@ -2843,14 +2843,14 @@ Code
 
 Data Type 
 
-主键 ID 
-文档 ID 
+���� ID 
+�ĵ� ID 
 
-签章数据 
+ǩ������ 
 
-用户 ID 
+�û� ID 
 
-主机名 
+������ 
 
 ID 
 DOCUMENT _ID 
@@ -2858,11 +2858,11 @@ SIGNAT URE
 USER_ID 
 HOST _NAME 
 
-签章时间 
+ǩ��ʱ�� 
 
-公文 HTML 签
+���� HTML ǩ
 
-章功能 
+�¹��� 
 
 SIGN_DAT E 
 DOCUMENT _T
@@ -2887,22 +2887,22 @@ FALSE
 FALSE 
 FALSE 
 
-主键 ID 
-文档 ID 
+���� ID 
+�ĵ� ID 
 
-签章数据 
+ǩ������ 
 
-用户 ID 
+�û� ID 
 
-主机名 
+������ 
 
 FALSE 
 FALSE 
 
-签章时间 
-公文 HTML 签章功能 
+ǩ��ʱ�� 
+���� HTML ǩ�¹��� 
 
-I.26 HTML 签章 
+I.26 HTML ǩ�� 
 
 Code 
 
@@ -2920,7 +2920,7 @@ CT P2.0
 
 Comment 
 
-html签章 
+htmlǩ�� 
 
 Name 
 
@@ -2929,12 +2929,12 @@ Code
 Data Type 
 
 ID 
-文单 ID 
+�ĵ� ID 
 
-字段名称 
+�ֶ����� 
 
-签章数据 
-用户名称 
+ǩ������ 
+�û����� 
 
 ID 
 SUMMARY_ID 
@@ -2943,14 +2943,14 @@ FIELD_NAME
 FIELD_VALUE 
 USER_NAME 
 
-签名主机 
+ǩ������ 
 
 HOST _NAME 
 
-签章时间 
-是否系统落款用
-户可选 
-签批类型 
+ǩ��ʱ�� 
+�Ƿ�ϵͳ�����
+����ѡ 
+ǩ������ 
 
 DAT E_T IME 
 AFFAIR_ID 
@@ -2979,22 +2979,22 @@ FALSE
 FALSE 
 
 ID 
-文单 ID 
+�ĵ� ID 
 
-字段名称 
+�ֶ����� 
 
-签章数据 
-用户名称 
-
-FALSE 
-
-签名主机 
+ǩ������ 
+�û����� 
 
 FALSE 
+
+ǩ������ 
+
+FALSE 
 FALSE 
 
-签章时间 
-是否系统落款用户可选 
+ǩ��ʱ�� 
+�Ƿ�ϵͳ����û���ѡ 
 
 SIGNET _T YPE 
 
@@ -3002,16 +3002,16 @@ Sho rt inte g e r
 
 FALSE 
 
-签批类型：0：html 签批，1 :
-公文文单落款签批 
+ǩ�����ͣ�0��html ǩ����1 :
+�����ĵ����ǩ�� 
 
-I.27 HTML 签章历史 
+I.27 HTML ǩ����ʷ 
 
 Code 
 Comment 
 
 SIGNET_HISTORY 
-html签章历史 
+htmlǩ����ʷ 
 
 Comment 
 
@@ -3022,28 +3022,28 @@ Code
 Data Type 
 
 ID 
-文单 ID 
+�ĵ� ID 
 
-字段名称 
+�ֶ����� 
 
 ID 
 SUMMARY_ID 
 FIELD_NAME 
 
-签章名称 
+ǩ������ 
 
 MARK_NAME 
 
-用户名称 
+�û����� 
 
 USER_NAME 
 
-签名主机 
+ǩ������ 
 
 HOST _NAME 
 
-签章时间 
-序列号 
+ǩ��ʱ�� 
+���к� 
 
 DAT E_T IME 
 MARK_GU ID 
@@ -3069,27 +3069,27 @@ FALSE
 FALSE 
 
 ID 
-文单 ID 
+�ĵ� ID 
 
-字段名称 
-
-FALSE 
-
-签章名称 
+�ֶ����� 
 
 FALSE 
 
-用户名称 
+ǩ������ 
 
 FALSE 
 
-签名主机 
+�û����� 
+
+FALSE 
+
+ǩ������ 
 
 FALSE 
 FALSE 
 
-签章时间 
-序列号 
+ǩ��ʱ�� 
+���к� 
 
 I.28 JK_BLOB_TRIGGERS 
 
@@ -3098,7 +3098,7 @@ Comment
 
 JK_BLOB_TRIGGERS 
 
-jk 前缀的是第三方表 
+jk ǰ׺���ǵ������� 
 
 Name 
 
@@ -3154,7 +3154,7 @@ Comment
 
 JK_CALENDARS 
 
-jk 前缀的是第三方表 
+jk ǰ׺���ǵ������� 
 
 Name 
 
@@ -3193,7 +3193,7 @@ Comment
 
 JK_CRON_TRIGGERS 
 
-jk 前缀的是第三方表 
+jk ǰ׺���ǵ������� 
 
 Name 
 
@@ -3244,7 +3244,7 @@ Comment
 
 JK_FIRED_TRIGGERS 
 
-jk 前缀的是第三方表 
+jk ǰ׺���ǵ������� 
 
 Name 
 
@@ -3363,7 +3363,7 @@ Comment
 
 JK_JOB_DETAILS 
 
-jk 前缀的是第三方表 
+jk ǰ׺���ǵ������� 
 
 Name 
 
@@ -3452,7 +3452,7 @@ Comment
 
 JK_JOB_LISTENERS 
 
-jk 前缀的是第三方表 
+jk ǰ׺���ǵ������� 
 
 Name 
 
@@ -3495,7 +3495,7 @@ Comment
 
 JK_LOCKS 
 
-jk 前缀的是第三方表 
+jk ǰ׺���ǵ������� 
 
 Powe rDe s ig ne r 
 
@@ -3533,7 +3533,7 @@ Comment
 
 JK_PAUSED_TRIGGER_GRPS 
 
-jk 前缀的是第三方表 
+jk ǰ׺���ǵ������� 
 
 Name 
 
@@ -3563,7 +3563,7 @@ Comment
 
 JK_SCHEDULER_STATE 
 
-jk 前缀的是第三方表 
+jk ǰ׺���ǵ������� 
 
 Name 
 
@@ -3608,7 +3608,7 @@ Comment
 
 JK_SIMPLE_TRIGGERS 
 
-jk 前缀的是第三方表 
+jk ǰ׺���ǵ������� 
 
 Name 
 
@@ -3680,7 +3680,7 @@ CT P2.0
 
 Comment 
 
-jk 前缀的是第三方表 
+jk ǰ׺���ǵ������� 
 
 Name 
 
@@ -3724,7 +3724,7 @@ Comment
 
 JK_TRIGGERS 
 
-jk 前缀的是第三方表 
+jk ǰ׺���ǵ������� 
 
 Name 
 
@@ -3876,19 +3876,19 @@ Code
 Data Type 
 
 ID 
-用户 ID 
-应用 ID 
+�û� ID 
+Ӧ�� ID 
 
-应用名称 
+Ӧ������ 
 
 ID 
 MEMBER_ID 
 APP_ID 
 APP_NAME 
 
-应用点击时间 
+Ӧ�õ��ʱ�� 
 
-单位 ID 
+��λ ID 
 
 HANDLE_T IME 
 ACCOUNT _ID 
@@ -3911,17 +3911,17 @@ FALSE
 FALSE 
 
 ID 
-用户 ID 
-应用 ID 
+�û� ID 
+Ӧ�� ID 
 
-应用名称 
+Ӧ������ 
 
 FALSE 
 FALSE 
 
-应用点击时间 
+Ӧ�õ��ʱ�� 
 
-单位 ID 
+��λ ID 
 
 I.41 M 3_APP_VERSION 
 
@@ -3938,12 +3938,12 @@ Data Type
 
 APP_CODE 
 
-开发版本 
+�����汾 
 
-图标 
+ͼ�� 
 
-主键 
-对应主表
+���� 
+��Ӧ����
 
 ID 
 APP_BUSINES
@@ -3961,7 +3961,7 @@ Va ria b le
 cha ra c te rs (100) 
 URL_SCHEMES Va ria b le 
 cha ra c te rs (100) 
-应用包唯一名称 BUNDLE_NAME Va ria b le 
+Ӧ�ð�Ψһ���� BUNDLE_NAME Va ria b le 
 cha ra c te rs (100) 
 Va ria b le 
 cha ra c te rs (100) 
@@ -3973,31 +3973,31 @@ FIER
 CMP_SHELL_V
 ERSION 
 
-应用访问地址 
+Ӧ�÷��ʵ�ַ 
 
-应用包唯一值 
+Ӧ�ð�Ψһֵ 
 
-支持 CMP 壳版
-本号 
-兼容的版本 
+֧�� CMP �ǰ�
+���� 
+���ݵİ汾 
 
-支持的平台 
+֧�ֵ�ƽ̨ 
 
-图标路径 
+ͼ��·�� 
 
 DOMAIN 
 
-版本 
+�汾 
 
-应用访问页面 
+Ӧ�÷���ҳ�� 
 
-更新 URL 
+���� URL 
 
-MD5 码 
+MD5 �� 
 
-创建时间 
-修改时间 
-创建人 ID 
+����ʱ�� 
+�޸�ʱ�� 
+������ ID 
 
 VERSION 
 
@@ -4044,45 +4044,45 @@ FALSE
 
 Comment 
 
-主键 
+���� 
 
-对应主表 APP_CODE 
-
-FALSE 
-
-开发版本 
+��Ӧ���� APP_CODE 
 
 FALSE 
 
-图标 
+�����汾 
 
 FALSE 
 
-应用访问地址 
+ͼ�� 
 
 FALSE 
 
-应用包唯一名称 
+Ӧ�÷��ʵ�ַ 
 
 FALSE 
 
-应用包唯一值 
+Ӧ�ð�Ψһ���� 
 
 FALSE 
 
-支持 CMP 壳版本号 
+Ӧ�ð�Ψһֵ 
 
 FALSE 
 
-兼容的版本 
+֧�� CMP �ǰ汾�� 
 
 FALSE 
 
-支持的平台 
+���ݵİ汾 
 
 FALSE 
 
-图标路径 
+֧�ֵ�ƽ̨ 
+
+FALSE 
+
+ͼ��·�� 
 
 FALSE 
 
@@ -4090,27 +4090,27 @@ DOMAIN
 
 FALSE 
 
-版本 
+�汾 
 
 FALSE 
 
-应用访问页面 
+Ӧ�÷���ҳ�� 
 
 FALSE 
 
-更新 URL 
+���� URL 
 
 FALSE 
 
-MD5 码 
+MD5 �� 
 
 FALSE 
 FALSE 
 FALSE 
 
-创建时间 
-修改时间 
-创建人 ID 
+����ʱ�� 
+�޸�ʱ�� 
+������ ID 
 
 Powe rDe s ig ne r 
 
@@ -4120,9 +4120,9 @@ Pa g e 21
 
 Lo g ica l Da ta Mo de l 
 
-应用包在
+Ӧ�ð���
 
-V3XFILE 中的
+V3XFILE �е�
 ID 
 
 APP_FILE_ID 
@@ -4132,17 +4132,17 @@ cha ra c te rs (20)
 
 FALSE 
 
-应用包在 V3XFILE 中的 ID 
+Ӧ�ð��� V3XFILE �е� ID 
 
 CT P2.0 
 
-版本说明 
+�汾˵�� 
 
 APP_RELEASE
 _NOT E 
-应用包中文说明 APP_DESC 
+Ӧ�ð�����˵�� APP_DESC 
 
-应用注册表主键 REGIST ER_ID 
+Ӧ��ע������� REGIST ER_ID 
 
 Va ria b le 
 cha ra c te rs (300) 
@@ -4152,15 +4152,15 @@ Lo ng inte g e r
 
 FALSE 
 
-版本说明 
+�汾˵�� 
 
 FALSE 
 
-应用包中文说明 
+Ӧ�ð�����˵�� 
 
 FALSE 
 
-应用注册表主键 
+Ӧ��ע������� 
 
 I.42 M 3_PNS_MSG_SETTING 
 
@@ -4175,16 +4175,16 @@ Code
 
 Data Type 
 
-主键 ID 
-用户 ID 
+���� ID 
+�û� ID 
 
-按时间段接收消
-息开始时间 
-用户其他设置类
-容，如：应用接
-收消息状态 
-按时间段接收消
-息结束时间 
+��ʱ��ν�����
+Ϣ��ʼʱ�� 
+�û�����������
+�ݣ��磺Ӧ�ý�
+����Ϣ״̬ 
+��ʱ��ν�����
+Ϣ����ʱ�� 
 
 ID 
 USER_ID 
@@ -4210,13 +4210,13 @@ FALSE
 
 Comment 
 
-主键 ID 
-用户 ID 
+���� ID 
+�û� ID 
 
-按时间段接收消息开始时间 
+��ʱ��ν�����Ϣ��ʼʱ�� 
 
-用户其他设置类容，如：应用
-接收消息状态 
+�û������������ݣ��磺Ӧ��
+������Ϣ״̬ 
 
 END_DAT E 
 
@@ -4225,7 +4225,7 @@ cha ra c te rs (20)
 
 FALSE 
 
-按时间段接收消息结束时间 
+��ʱ��ν�����Ϣ����ʱ�� 
 
 I.43 M 3_USER_BEHAVIOR 
 
@@ -4242,7 +4242,7 @@ Data Type
 
 ID 
 
-客户端类型 
+�ͻ������� 
 
 ID 
 CLIENT _T YPE 
@@ -4265,21 +4265,21 @@ Comment
 
 ID 
 
-客户端类型 
+�ͻ������� 
 
 FALSE 
 FALSE 
 FALSE 
 
-人员在线状态 
+��Ա����״̬ 
 
-用户 ID 
+�û� ID 
 
-用户名 
+�û��� 
 
 FALSE 
 
-用户登录 m3 时间 
+�û���¼ m3 ʱ�� 
 
 ST AT US 
 MEMBER_ID 
@@ -4291,7 +4291,7 @@ LOGOUT _T IME Da te & T ime
 
 FALSE 
 
-用户退出 m3 时间 
+�û��˳� m3 ʱ�� 
 
 ACCOUNT _ID 
 DEPARTMENT _
@@ -4304,30 +4304,30 @@ Lo ng inte g e r
 FALSE 
 FALSE 
 
-单位 ID 
-部门 ID 
+��λ ID 
+���� ID 
 
 Inte g e r 
 
 FALSE 
 
-退出类型 
+�˳����� 
 
-人员在线状态 
+��Ա����״̬ 
 
-用户 ID 
+�û� ID 
 
-用户名 
+�û��� 
 
-用户登录 M3 时
-间 
-用户退出 M3 时
-间 
+�û���¼ M3 ʱ
+�� 
+�û��˳� M3 ʱ
+�� 
 
-单位 ID 
-部门 ID 
+��λ ID 
+���� ID 
 
-退出类型 
+�˳����� 
 
 Powe rDe s ig ne r 
 
@@ -4353,12 +4353,12 @@ Code
 Data Type 
 
 ID 
-用户 ID 
+�û� ID 
 
-用户名 
+�û��� 
 
-用户第一次登录
-时间 
+�û���һ�ε�¼
+ʱ�� 
 
 ID 
 MEMBER_ID 
@@ -4381,17 +4381,17 @@ FALSE
 FALSE 
 
 ID 
-用户 ID 
+�û� ID 
 
-用户名 
+�û��� 
 
 FALSE 
 
-用户第一次登录时间 
+�û���һ�ε�¼ʱ�� 
 
-单位 ID 
+��λ ID 
 ACCOUNT _ID 
-第一条统计数据 FIRST _DAT A 
+��һ��ͳ������ FIRST _DAT A 
 
 Lo ng inte g e r 
 Va ria b le 
@@ -4400,9 +4400,9 @@ cha ra c te rs (50)
 FALSE 
 FALSE 
 
-单位 ID 
+��λ ID 
 
-第一条统计数据 
+��һ��ͳ������ 
 
 I.45 M 3_XIAOZHI_AUTH 
 
@@ -4429,22 +4429,22 @@ NT
 IPHONE_COUN
 T 
 
-主键 ID 
-单位 ID 
-ANDROID 端授
+���� ID 
+��λ ID 
+ANDROID ����
 
-权总数，默认 0 
+Ȩ������Ĭ�� 0 
 
-IPHONE 端授
+IPHONE ����
 
-权总数，默认是
+Ȩ������Ĭ����
 
 0 
 
-人员授权的创建
-时间 
-人员授权的修改
-时间 
+��Ա��Ȩ�Ĵ���
+ʱ�� 
+��Ա��Ȩ���޸�
+ʱ�� 
 
 Mandator
 y 
@@ -4454,27 +4454,27 @@ FALSE
 
 Comment 
 
-主键 ID 
-单位 ID 
-a nd ro id 端授权总数，默认 0 
+���� ID 
+��λ ID 
+a nd ro id ����Ȩ������Ĭ�� 0 
 
 Inte g e r 
 
 FALSE 
 
-ip ho ne 端授权总数，默认是 0 
+ip ho ne ����Ȩ������Ĭ���� 0 
 
 CREAT E_DAT E Da te & T ime 
 
 FALSE 
 
-人员授权的创建时间 
+��Ա��Ȩ�Ĵ���ʱ�� 
 
 UPDAT E_DAT E Da te & T ime 
 
 FALSE 
 
-人员授权的修改时间 
+��Ա��Ȩ���޸�ʱ�� 
 
 I.46 M 3_XIAOZHI_CLIENT 
 
@@ -4489,18 +4489,18 @@ Code
 
 Data Type 
 
-主键 ID 
-人员 ID 
-单位 ID 
+���� ID 
+��Ա ID 
+��λ ID 
 
-设备类型 
+�豸���� 
 
 ID 
 MEMBER_ID 
 ACCOUNT _ID 
 CLIENT _T YPE 
 
-设备标识 
+�豸��ʶ 
 
 CLIENT _ID 
 
@@ -4519,15 +4519,15 @@ FALSE
 FALSE 
 FALSE 
 
-主键 ID 
-人员 ID 
-单位 ID 
+���� ID 
+��Ա ID 
+��λ ID 
 
-设备类型 
+�豸���� 
 
 FALSE 
 
-设备标识 
+�豸��ʶ 
 
 Comment 
 
@@ -4539,8 +4539,8 @@ Pa g e 23
 
 Lo g ica l Da ta Mo de l 
 
-客户端绑定小智
-的时间 
+�ͻ��˰�С��
+��ʱ�� 
 
 BIND_DAT E 
 
@@ -4548,11 +4548,11 @@ Da te & T ime
 
 FALSE 
 
-客户端绑定小智的时间 
+�ͻ��˰�С�ǵ�ʱ�� 
 
 CT P2.0 
 
-I.47 M 3_配置人员OFFICE 权限 
+I.47 M 3_������ԱOFFICE Ȩ�� 
 
 Code 
 Comment 
@@ -4566,15 +4566,15 @@ Code
 Data Type 
 
 ID 
-实体 ID 
+ʵ�� ID 
 
-实体类型 
+ʵ������ 
 
 ID 
 UN IT _ID 
 UN IT _T YPE 
 
-是否包含子部门 CONT AIN_SUB
+�Ƿ�����Ӳ��� CONT AIN_SUB
 _DEPARTMENT 
 
 Lo ng inte g e r 
@@ -4591,10 +4591,10 @@ FALSE
 
 FALSE 
 
-授权 KEY 
+��Ȩ KEY 
 
-创建日期 
-序号 
+�������� 
+��� 
 
 OFFICE_KEY 
 CREAT EDAT E 
@@ -4611,20 +4611,20 @@ FALSE
 Comment 
 
 ID 
-实体 ID 
-实体类型 Acco unt 
+ʵ�� ID 
+ʵ������ Acco unt 
 De p a rtme nt Memb e r... 
 
-是否包含子部门 不包含为 0 
-只有在实体类型为
+�Ƿ�����Ӳ��� ������Ϊ 0 
+ֻ����ʵ������Ϊ
 
-De p a rtme nt 时有用 
-授权 Ke y 
+De p a rtme nt ʱ���� 
+��Ȩ Ke y 
 
-创建日期 
-序号 用来排序 
+�������� 
+��� �������� 
 
-I.48 M 3 用户推送设备注册信息记录表 
+I.48 M 3 �û������豸ע����Ϣ��¼�� 
 
 Code 
 Comment 
@@ -4637,9 +4637,9 @@ Code
 
 Data Type 
 
-唯一主键 ID 
+Ψһ���� ID 
 
-用户 ID 
+�û� ID 
 
 CONFIG_ID 
 USER_ID 
@@ -4665,7 +4665,7 @@ EL_ID
 Va ria b le 
 cha ra c te rs (50) 
 
-设备类型：IOS, 
+�豸���ͣ�IOS, 
 
 DEVICE_T YPE 
 
@@ -4684,30 +4684,30 @@ MI_ST AT US
 HUAWEI_ST AT
 US 
 
-小米推送服务设
+С�����ͷ�����
 
-备 ID 
+�� ID 
 
-华为推送服务设
+��Ϊ���ͷ�����
 
-备 ID 
+�� ID 
 
-百度推送服务设
+�ٶ����ͷ�����
 
-备 ID 
+�� ID 
 
 ANDROID 
 
-小米推送服务状
-态 
-华为推送服务状
-态 
-百度推送服务状
-态 
-注册时间（创建
-时间） 
+С�����ͷ���״
+̬ 
+��Ϊ���ͷ���״
+̬ 
+�ٶ����ͷ���״
+̬ 
+ע��ʱ�䣨����
+ʱ�䣩 
 
-设备 ID 
+�豸 ID 
 
 Mandator
 y 
@@ -4716,33 +4716,33 @@ FALSE
 
 Comment 
 
-唯一主键 ID 
+Ψһ���� ID 
 
-用户 ID 
-
-FALSE 
-
-小米推送服务设备 ID 
+�û� ID 
 
 FALSE 
 
-华为推送服务设备 ID 
+С�����ͷ����豸 ID 
 
 FALSE 
 
-百度推送服务设备 ID 
+��Ϊ���ͷ����豸 ID 
 
 FALSE 
 
-设备类型：iOS, And ro id 
+�ٶ����ͷ����豸 ID 
 
-小米推送服务状态：1 开启，
-0 关闭 
-华为推送服务状态：1 开启，
-0 关闭 
-百度推送服务状态：1 开启，
-0 关闭 
-注册时间（创建时间） 
+FALSE 
+
+�豸���ͣ�iOS, And ro id 
+
+С�����ͷ���״̬��1 ������
+0 �ر� 
+��Ϊ���ͷ���״̬��1 ������
+0 �ر� 
+�ٶ����ͷ���״̬��1 ������
+0 �ر� 
+ע��ʱ�䣨����ʱ�䣩 
 
 BAIDU_ST AT US Sho rt inte g e r 
 
@@ -4760,7 +4760,7 @@ cha ra c te rs (50)
 
 FALSE 
 
-设备 ID 
+�豸 ID 
 
 Powe rDe s ig ne r 
 
@@ -4772,11 +4772,11 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-扩展字段 1 
+��չ�ֶ� 1 
 
-扩展字段 2 
+��չ�ֶ� 2 
 
-扩展字段 3 
+��չ�ֶ� 3 
 
 EXT 1 
 
@@ -4793,17 +4793,17 @@ cha ra c te rs (1024)
 
 FALSE 
 
-扩展字段 1 
+��չ�ֶ� 1 
 
 FALSE 
 
-扩展字段 2 
+��չ�ֶ� 2 
 
 FALSE 
 
-扩展字段 3 
+��չ�ֶ� 3 
 
-I.49 M 3 移动应用广告BANNER 
+I.49 M 3 �ƶ�Ӧ�ù��BANNER 
 
 Code 
 Comment 
@@ -4816,20 +4816,20 @@ Code
 
 Data Type 
 
-主键 ID 
-BANNER 名称 
+���� ID 
+BANNER ���� 
 
 BANNER URL
 
-链接 
-是否显示 
-上传日期 
-预留字段 1 
-预留字段 2 
-预留字段 3 
-预留字段 4 
+���� 
+�Ƿ���ʾ 
+�ϴ����� 
+Ԥ���ֶ� 1 
+Ԥ���ֶ� 2 
+Ԥ���ֶ� 3 
+Ԥ���ֶ� 4 
 
-图片 URL 
+ͼƬ URL 
 
 ID 
 BANNER_NAM
@@ -4861,12 +4861,12 @@ FALSE
 
 Comment 
 
-主键 ID 
-Ba nne r 名称 
+���� ID 
+Ba nne r ���� 
 
 FALSE 
 
-Ba nne r U rl 链接 
+Ba nne r U rl ���� 
 
 FALSE 
 FALSE 
@@ -4876,14 +4876,14 @@ FALSE
 FALSE 
 FALSE 
 
-是否显示（1，是；0，否） 
-上传日期 
-预留字段 1 
-预留字段 2 
-预留字段 3 
-预留字段 4 
+�Ƿ���ʾ��1���ǣ�0���� 
+�ϴ����� 
+Ԥ���ֶ� 1 
+Ԥ���ֶ� 2 
+Ԥ���ֶ� 3 
+Ԥ���ֶ� 4 
 
-图片 URL 
+ͼƬ URL 
 
 I.50 M OBILE_LOGIN 
 
@@ -4898,9 +4898,9 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-默认是否开启 
+Ĭ���Ƿ��� 
 
 ID 
 DEFAULT _ON 
@@ -4913,11 +4913,11 @@ y
 T RUE 
 FALSE 
 
-控制范围 
+���Ʒ�Χ 
 
-创建时间 
-修改时间 
-所属单位 ID 
+����ʱ�� 
+�޸�ʱ�� 
+������λ ID 
 
 CONT ROL_SC
 OPE 
@@ -4937,15 +4937,15 @@ FALSE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-默认是否开启：0，不开启；
-1，开启； 
-控制范围：0，所有用户；
-1，指定用户； 
-创建时间 
-修改时间 
-所属单位 ID 
+Ĭ���Ƿ�����0����������
+1�������� 
+���Ʒ�Χ��0�������û���
+1��ָ���û��� 
+����ʱ�� 
+�޸�ʱ�� 
+������λ ID 
 
 I.51 M OBILE_LOGIN_SCOPE 
 
@@ -4970,11 +4970,11 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-短信登录验证配
+���ŵ�¼��֤��
 
-置 ID 
+�� ID 
 
 ID 
 MOBILE_LOGIN
@@ -4990,11 +4990,11 @@ FALSE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-短信登录验证配置 ID 
+���ŵ�¼��֤���� ID 
 
-组织模型实体
+��֯ģ��ʵ��
 
 USER_ID 
 
@@ -5002,12 +5002,12 @@ Lo ng inte g e r
 
 FALSE 
 
-组织模型实体 ID 
+��֯ģ��ʵ�� ID 
 
 ID 
 
-组织模型实体类
-型 
+��֯ģ��ʵ����
+�� 
 
 USER_T YPE 
 
@@ -5016,16 +5016,16 @@ cha ra c te rs (50)
 
 FALSE 
 
-组织模型实体类型 
+��֯ģ��ʵ������ 
 
-I.52 NC 同步数据记录表 
+I.52 NC ͬ�����ݼ�¼�� 
 
 Code 
 Comment 
 
 NCPLUGIN_ORGSYNRECORDDETAIL 
 
-NC 同步数据记录表 
+NC ͬ�����ݼ�¼�� 
 
 Name 
 
@@ -5033,12 +5033,12 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-主记录表 ID 
-同步数据的详细
-描述 
-同步是否成功 
+����¼�� ID 
+ͬ�����ݵ���ϸ
+���� 
+ͬ���Ƿ�ɹ� 
 
 ID 
 RECORD_ID 
@@ -5046,7 +5046,7 @@ DAT A
 
 ACT ION 
 
-同步备注说明 
+ͬ����ע˵�� 
 
 MEMO 
 
@@ -5069,27 +5069,27 @@ FALSE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-主记录表 id 
-同步数据的详细描述 
-
-FALSE 
+����¼�� id 
+ͬ�����ݵ���ϸ���� 
 
 FALSE 
 
-同步是成功，失败，忽略的描
-述 
-同步备注说明 
+FALSE 
 
-I.53 NC 同步记录表 
+ͬ���ǳɹ���ʧ�ܣ����Ե���
+�� 
+ͬ����ע˵�� 
+
+I.53 NC ͬ����¼�� 
 
 Code 
 Comment 
 
 NCPLUGIN_ORGSYNRECORD 
 
-NC 同步记录表 
+NC ͬ����¼�� 
 
 Name 
 
@@ -5097,14 +5097,14 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-同步人登录名 
+ͬ���˵�¼�� 
 
 ID 
 LOGINNAME 
 
-同步方式 
+ͬ����ʽ 
 
 OPT YPE 
 
@@ -5120,20 +5120,20 @@ FALSE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-同步人登录名 
+ͬ���˵�¼�� 
 
 FALSE 
 
-同步方式 0-自动  1-手动 2-按
+ͬ����ʽ 0-�Զ�  1-�ֶ� 2-��
 
-同步成功数 
-同步失败数 
-同步总数 
-是否有效 
-时间戳 
-A8 单位或部门
+ͬ���ɹ��� 
+ͬ��ʧ���� 
+ͬ������ 
+�Ƿ���Ч 
+ʱ��� 
+A8 ��λ����
 
 OKNUM 
 FAILNUM 
@@ -5156,20 +5156,20 @@ FALSE
 T RUE 
 FALSE 
 
-需 
-同步成功数 
-同步失败数 
-同步总数 
+�� 
+ͬ���ɹ��� 
+ͬ��ʧ���� 
+ͬ������ 
 
-是否有效 0 -无效  1-有效 
+�Ƿ���Ч 0 -��Ч  1-��Ч 
 
-时间戳 
-A8 单位或部门 id 
+ʱ��� 
+A8 ��λ���� id 
 
 ID 
-第三方单位主键 MAP_GU ID 
+��������λ���� MAP_GU ID 
 
-对应类型 
+��Ӧ���� 
 
 MAP_T YPE 
 
@@ -5180,12 +5180,12 @@ cha ra c te rs (255)
 
 FALSE 
 
-第三方单位主键 
+��������λ���� 
 
 FALSE 
 
-对应类型，如果单位对应，部
-门对应 
+��Ӧ���ͣ������λ��Ӧ����
+�Ŷ�Ӧ 
 
 Powe rDe s ig ne r 
 
@@ -5197,7 +5197,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-同步类型 
+ͬ������ 
 
 SYN_T YPE 
 
@@ -5205,7 +5205,7 @@ Sho rt inte g e r
 
 FALSE 
 
-同步备注 
+ͬ����ע 
 
 MEMO 
 
@@ -5214,18 +5214,18 @@ cha ra c te rs (255)
 
 FALSE 
 
-同步类型 ，职务级别:1，部
-门:2，岗位：3，人员:4 
-同步备注 
+ͬ������ ��ְ�񼶱�:1����
+��:2����λ��3����Ա:4 
+ͬ����ע 
 
-I.54 NC 集成配置 
+I.54 NC �������� 
 
 Code 
 Comment 
 
 NCBUSINESS_TEMPLATE_BIND 
 
-NC 集成配置 
+NC �������� 
 
 Name 
 
@@ -5234,17 +5234,17 @@ Code
 Data Type 
 
 ID 
-模板 ID 
-表单 ID 
-单位 ID 
+ģ�� ID 
+�� ID 
+��λ ID 
 
-集成基础配置
+���ɻ�������
 
 ID 
 
-序号 
-是否启用 
-描述 
+��� 
+�Ƿ����� 
+���� 
 
 ID 
 T EMPLET E_ID 
@@ -5272,7 +5272,7 @@ MEMBER_ID
 Lo ng inte g e r 
 CREAT E_DAT E Da te & T ime 
 MOD IFY_DAT E Da te & T ime 
-应用扩展属性 1 EXT _AT T R1 
+Ӧ����չ���� 1 EXT _AT T R1 
 Va ria b le 
 cha ra c te rs (100) 
 Va ria b le 
@@ -5280,13 +5280,13 @@ cha ra c te rs (100)
 Va ria b le 
 cha ra c te rs (100) 
 
-创建人 
-创建日期 
-修改时间 
+������ 
+�������� 
+�޸�ʱ�� 
 
-应用扩展属性 2 EXT _AT T R2 
+Ӧ����չ���� 2 EXT _AT T R2 
 
-应用扩展属性 3 EXT _AT T R3 
+Ӧ����չ���� 3 EXT _AT T R3 
 
 Comment 
 
@@ -5298,39 +5298,39 @@ FALSE
 FALSE 
 
 ID 
-模板 ID 
-表单 ID 
-单位 ID 
+ģ�� ID 
+�� ID 
+��λ ID 
 
 FALSE 
 
-集成基础配置 ID 
-
-FALSE 
-FALSE 
-FALSE 
+���ɻ������� ID 
 
 FALSE 
 FALSE 
 FALSE 
-FALSE 
-
-序号 
-是否启用：1-启用 0-不启用 
-描述 
-
-创建人 
-创建日期 
-修改时间 
-应用扩展属性 1 
 
 FALSE 
+FALSE 
+FALSE 
+FALSE 
 
-应用扩展属性 2 
+��� 
+�Ƿ����ã�1-���� 0-������ 
+���� 
+
+������ 
+�������� 
+�޸�ʱ�� 
+Ӧ����չ���� 1 
 
 FALSE 
 
-应用扩展属性 3 
+Ӧ����չ���� 2 
+
+FALSE 
+
+Ӧ����չ���� 3 
 
 I.55 NEIGOU_SSO_LOGINMANAGE 
 
@@ -5345,16 +5345,16 @@ Code
 
 Data Type 
 
-主键 
-登录限制实体主
-键 
-登录限制实体类
-型 
-登录限制设置信
-息 
-管理员 ID 
+���� 
+��¼����ʵ����
+�� 
+��¼����ʵ����
+�� 
+��¼����������
+Ϣ 
+����Ա ID 
 
-创建时间 
+����ʱ�� 
 
 ID 
 ORG_ENT IT Y_I
@@ -5382,16 +5382,16 @@ FALSE
 
 Comment 
 
-主键 
-登录限制实体主键 
+���� 
+��¼����ʵ������ 
 
 FALSE 
 
-登录限制实体类型 
+��¼����ʵ������ 
 
 FALSE 
 
-登录限制设置信息 
+��¼����������Ϣ 
 
 MANAGER_ME
 MBER_ID 
@@ -5401,13 +5401,13 @@ Lo ng inte g e r
 
 FALSE 
 
-管理员 ID 
+����Ա ID 
 
 Da te & T ime 
 
 FALSE 
 
-创建时间 
+����ʱ�� 
 
 Powe rDe s ig ne r 
 
@@ -5424,13 +5424,13 @@ ORG_ACCOUN
 Lo ng inte g e r 
 T _ID 
 
-登录单位 ID 
+��¼��λ ID 
 
 FALSE 
 FALSE 
 
-创建时间 
-登录单位 id 
+����ʱ�� 
+��¼��λ id 
 
 I.56 ORGSYNC_RECORD 
 
@@ -5597,23 +5597,23 @@ Data Type
 
 ID 
 
-编号 
+��� 
 
-名称 
+���� 
 
-主题 
+���� 
 
-模板编号 
+ģ���� 
 
-模板类型 
+ģ������ 
 
-创建时间 
-创建人 
-修改时间 
+����ʱ�� 
+������ 
+�޸�ʱ�� 
 
-单位 ID 
+��λ ID 
 
-状态 
+״̬ 
 
 ID 
 CODE 
@@ -5646,7 +5646,7 @@ Lo ng inte g e r
 ST AT E 
 Sho rt inte g e r 
 
-是否系统预置 
+�Ƿ�ϵͳԤ�� 
 
 SYS_IN IT 
 
@@ -5654,8 +5654,8 @@ Sho rt inte g e r
 
 FALSE 
 
-是否默认 
-排序 
+�Ƿ�Ĭ�� 
+���� 
 
 SYS_DEFAULT 
 SORT 
@@ -5680,45 +5680,45 @@ y
 T RUE 
 FALSE 
 
-主键 ID 
+���� ID 
 
-编号 
-
-FALSE 
-
-FALSE 
-
-名称 
-
-主题 
-
-FALSE 
-
-模板编号 
+��� 
 
 FALSE 
 
 FALSE 
+
+���� 
+
+���� 
+
+FALSE 
+
+ģ���� 
+
+FALSE 
+
+FALSE 
 FALSE 
 FALSE 
 FALSE 
 FALSE 
 
-模板类型：0，首页布局；
-1，空间布局；2，登录页布
-局 
-创建时间 
-创建人 
-修改时间 
+ģ�����ͣ�0����ҳ���֣�
+1���ռ䲼�֣�2����¼ҳ��
+�� 
+����ʱ�� 
+������ 
+�޸�ʱ�� 
 
-单位 ID 
+��λ ID 
 
-状态：0，删除；1，启用；
-2，停用 
-是否系统预置：0，否；1，
-是； 
-是否默认：0，否；1，是； 
-排序 
+״̬��0��ɾ����1�����ã�
+2��ͣ�� 
+�Ƿ�ϵͳԤ�ã�0����1��
+�ǣ� 
+�Ƿ�Ĭ�ϣ�0����1���ǣ� 
+���� 
 
 Name 
 
@@ -5727,17 +5727,17 @@ Code
 Data Type 
 
 ID 
-布局 ID 
+���� ID 
 
- 组织模型 ID 
-组织模型类型 
+ ��֯ģ�� ID 
+��֯ģ������ 
 
 ID 
 LAYOUT _ID 
 ENT IT Y_ID 
 ENT IT Y_T YPE 
 
-是否允许自定义 CUST OM 
+�Ƿ������Զ��� CUST OM 
 
 Lo ng inte g e r 
 Lo ng inte g e r 
@@ -5757,14 +5757,14 @@ FALSE
 
 Comment 
 
-主键 ID 
-布局 ID 
+���� ID 
+���� ID 
 
- 组织模型 ID 
-组织模型类型 
+ ��֯ģ�� ID 
+��֯ģ������ 
 
-是否允许自定义：0，不允
-许；1，允许 
+�Ƿ������Զ��壺0������
+��1������ 
 
 I.60 PAGE_LAYOUT_DETAIL 
 
@@ -5780,9 +5780,9 @@ Code
 Data Type 
 
 ID 
-布局 ID 
+���� ID 
 
-详细配置 XML 
+��ϸ���� XML 
 
 ID 
 Lo ng inte g e r 
@@ -5798,10 +5798,10 @@ FALSE
 
 Comment 
 
-主键 ID 
-布局 ID 
+���� ID 
+���� ID 
 
-详细配置 XML 
+��ϸ���� XML 
 
 Powe rDe s ig ne r 
 
@@ -5813,15 +5813,15 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-布局样式路径 
+������ʽ·�� 
 
-主题样式路径 
+������ʽ·�� 
 
 LAYOUT _CSS_
 PAT H 
 SKIN_CSS_PAT
 H 
-自定义脚本路径 CUST OM_JS_P
+�Զ���ű�·�� CUST OM_JS_P
 AT H 
 
 Va ria b le 
@@ -5833,23 +5833,23 @@ cha ra c te rs (2000)
 
 FALSE 
 
-布局样式路径 
+������ʽ·�� 
 
 FALSE 
 
-主题样式路径 
+������ʽ·�� 
 
 FALSE 
 
-自定义脚本路径 
+�Զ���ű�·�� 
 
-I.61 REST 用户表 
+I.61 REST �û��� 
 
 Code 
 Comment 
 
 CTP_REST_USER 
-REST 用户表 
+REST �û��� 
 
 Name 
 
@@ -5857,12 +5857,12 @@ Code
 
 Data Type 
 
-主键 
-用户名 
+���� 
+�û��� 
 
-登录名 
+��¼�� 
 
-密码 
+���� 
 
 ID 
 USER_NAME 
@@ -5871,11 +5871,11 @@ LOGIN_NAME
 
 PASSWORD 
 
-用户类型 
+�û����� 
 
 USER_T YPE 
 
-登录 IP 地址 
+��¼ IP ��ַ 
 
 LOGIN_IP 
 
@@ -5898,26 +5898,26 @@ y
 T RUE 
 FALSE 
 
-主键 
-用户名 
+���� 
+�û��� 
 
 FALSE 
 
-登录名 
+��¼�� 
 
 FALSE 
 
-密码 
+���� 
 
 FALSE 
 
-用户类型 
+�û����� 
 
 FALSE 
 
-登录 IP 地址（多个 IP 用符号
+��¼ IP ��ַ����� IP �÷���
 
-是否启用 
+�Ƿ����� 
 
 ENABLED 
 
@@ -5925,10 +5925,10 @@ Sho rt inte g e r
 
 FALSE 
 
-用户排序号 
-用户创建时间 
-用户修改时间 
-资源权限 
+�û������ 
+�û�����ʱ�� 
+�û��޸�ʱ�� 
+��ԴȨ�� 
 
 USER_ORDER 
 Lo ng inte g e r 
@@ -5945,36 +5945,36 @@ FALSE
 FALSE 
 FALSE 
 
-对于绑定 IP 是
-否校验的开关 
+���ڰ� IP ��
+��У��Ŀ��� 
 
 VALIDAT ION_IP Sho rt inte g e r 
 
 FALSE 
 
-“|”分隔，支持*.*.* .*） 
+��|���ָ���֧��*.*.* .*�� 
 
-是否启用，1：启用；0：停
-用，默认启用 
-用户排序号 
-用户创建时间 
-用户修改时间 
-资源权限（用字符串 00000 0
-表示，位数根据资源组来定，
-顺序要约定好，每一位代表一
-个资源组。0：无权限，1：
-有权限） 
-对于绑定 IP 是否校验的开
-关，1 为打开，0 为关闭 
+�Ƿ����ã�1�����ã�0��ͣ
+�ã�Ĭ������ 
+�û������ 
+�û�����ʱ�� 
+�û��޸�ʱ�� 
+��ԴȨ�ޣ����ַ��� 00000 0
+��ʾ��λ��������Դ��������
+˳��ҪԼ���ã�ÿһλ����һ
+����Դ�顣0����Ȩ�ޣ�1��
+��Ȩ�ޣ� 
+���ڰ� IP �Ƿ�У��Ŀ�
+�أ�1 Ϊ�򿪣�0 Ϊ�ر� 
 
-I.62 REST 记录访问日志 
+I.62 REST ��¼������־ 
 
 Code 
 Comment 
 
 CTP_REST_LOGS 
 
-REST 记录访问日志：后台 rest 的访问记录 
+REST ��¼������־����̨ rest �ķ��ʼ�¼ 
 
 Name 
 
@@ -5983,14 +5983,14 @@ Code
 Data Type 
 
 ID 
-登录 T OKEN 信
+��¼ T OKEN ��
 
 ID 
 T OKEN 
 
-息 
+Ϣ 
 
-访问 ID 
+���� ID 
 
 Mandator
 y 
@@ -6000,7 +6000,7 @@ FALSE
 Comment 
 
 ID 
-登录 T OKEN 信息 
+��¼ T OKEN ��Ϣ 
 
 Lo ng inte g e r 
 Va ria b le 
@@ -6012,8 +6012,8 @@ Lo ng inte g e r
 
 T RUE 
 
-REST T OKEN 访问
-CT P_REST _USER 表
+REST T OKEN ����
+CT P_REST _USER ��
 
 Powe rDe s ig ne r 
 
@@ -6031,10 +6031,10 @@ Da te & T ime
 
 FALSE 
 
-REST 用户登录时间 
+REST �û���¼ʱ�� 
 
-ID ,SESSION 访问
-ORG_MEMBER 表 ID 
+ID ,SESSION ����
+ORG_MEMBER �� ID 
 
 Va ria b le 
 cha ra c te rs (255) 
@@ -6048,49 +6048,49 @@ cha ra c te rs (1024)
 
 FALSE 
 
-登录 IP 信息 
+��¼ IP ��Ϣ 
 
 FALSE 
 
-SESSION 登录：SESSION 
-REST 登录：REST T OKEN 
-否则 inva lid 
+SESSION ��¼��SESSION 
+REST ��¼��REST T OKEN 
+���� inva lid 
 
 FALSE 
 
-请求成功 1，请求失败 0 
+����ɹ� 1������ʧ�� 0 
 
 FALSE 
 
-执行 REST 的 URL 
+ִ�� REST �� URL 
 
-REST 用户登录
-时间 
-登录 IP 信息 
+REST �û���¼
+ʱ�� 
+��¼ IP ��Ϣ 
 
 LOGIN IP 
 
-登陆类型 
+��½���� 
 
 LOGIN_T YPE 
 
-状态 
+״̬ 
 
-执行 REST 的
+ִ�� REST ��
 URL 
 
 ST AT US 
 
 EXEURL 
 
-I.63 REST 资源关系表 
+I.63 REST ��Դ��ϵ�� 
 
 Code 
 Comment 
 
 CTP_RESOURCE_GROUP 
 
-REST 资源关系表 
+REST ��Դ��ϵ�� 
 
 Name 
 
@@ -6098,10 +6098,10 @@ Code
 
 Data Type 
 
-主键 
-资源组 ID 
+���� 
+��Դ�� ID 
 
-资源 ID 
+��Դ ID 
 
 ID 
 REST _GROUP_
@@ -6116,7 +6116,7 @@ Lo ng inte g e r
 
 FALSE 
 
-资源 ID 
+��Դ ID 
 
 Mandator
 y 
@@ -6125,16 +6125,16 @@ FALSE
 
 Comment 
 
-主键 
-资源组 ID 
+���� 
+��Դ�� ID 
 
-I.64 REST 资源组表 
+I.64 REST ��Դ��� 
 
 Code 
 Comment 
 
 CTP_REST_GROUP 
-REST 资源组表 
+REST ��Դ��� 
 
 Name 
 
@@ -6142,13 +6142,13 @@ Code
 
 Data Type 
 
-主键 
-资源组名称 
+���� 
+��Դ������ 
 
 ID 
 GROUP_NAME 
 
-资源组类型 
+��Դ������ 
 
 GROUP_T YPE 
 
@@ -6165,20 +6165,20 @@ FALSE
 
 Comment 
 
-主键 
-资源组名称 
+���� 
+��Դ������ 
 
 FALSE 
 
-资源组类型 
+��Դ������ 
 
-I.65 REST 资源表 
+I.65 REST ��Դ�� 
 
 Code 
 Comment 
 
 CTP_REST_RESOURCE 
-REST 资源表 
+REST ��Դ�� 
 
 Name 
 
@@ -6186,7 +6186,7 @@ Code
 
 Data Type 
 
-主键 
+���� 
 
 ID 
 
@@ -6196,7 +6196,7 @@ Mandator
 y 
 T RUE 
 
-主键 
+���� 
 
 Comment 
 
@@ -6210,13 +6210,13 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-资源名称 
+��Դ���� 
 
-访问资源 UR I 
+������Դ UR I 
 
-资源对应 HT T P
-请求方法 
-是否启用 
+��Դ��Ӧ HT T P
+���󷽷� 
+�Ƿ����� 
 
 RESOURCE_N
 AME 
@@ -6234,15 +6234,15 @@ cha ra c te rs (50)
 
 FALSE 
 
-资源名称 
+��Դ���� 
 
 FALSE 
 
-访问资源 UR I 
+������Դ UR I 
 
 FALSE 
 
-资源对应 HT T P 请求方法 
+��Դ��Ӧ HT T P ���󷽷� 
 
 ENABLED 
 
@@ -6250,10 +6250,10 @@ Sho rt inte g e r
 
 FALSE 
 
-资源排序号 
+��Դ����� 
 
-资源创建时间 
-资源修改时间 
+��Դ����ʱ�� 
+��Դ�޸�ʱ�� 
 
 Lo ng inte g e r 
 
@@ -6268,20 +6268,20 @@ FALSE
 FALSE 
 FALSE 
 
-是否启用，1：启用；0：停
-用，默认启用 
-资源排序号 
+�Ƿ����ã�1�����ã�0��ͣ
+�ã�Ĭ������ 
+��Դ����� 
 
-资源创建时间 
-资源修改时间 
+��Դ����ʱ�� 
+��Դ�޸�ʱ�� 
 
-I.66 RSS 内容 
+I.66 RSS ���� 
 
 Code 
 Comment 
 
 RSS_CHANNEL_ITEMS 
-RSS 内容 
+RSS ���� 
 
 Name 
 
@@ -6291,48 +6291,48 @@ Data Type
 
 ID 
 
-标题 
+���� 
 
 ID 
 T IT LE 
 
-链接地址 
+���ӵ�ַ 
 
 RSS_LINK 
 
-描述 
+���� 
 
 DESCR IBSE 
 
-发布时间 
-作者 
+����ʱ�� 
+���� 
 
 PUB_DAT E 
 AUT HOR 
 
-分类 
+���� 
 
 CAT EGORY 
 
-评论链接 
+�������� 
 
 COMMENT S 
 
-永久链接 
+�������� 
 
 GU ID 
 
-RSS 频道源 
+RSS Ƶ��Դ 
 
 SOURCE 
 
-附加媒体对象 
+����ý����� 
 
 ENCLOSURE 
 
-频道 ID 
+Ƶ�� ID 
 
-频道信息 ID 
+Ƶ����Ϣ ID 
 
 CAT EGORY_C
 HANNEL_ID 
@@ -6370,59 +6370,59 @@ T RUE
 
 ID 
 
-标题 
+���� 
 
 T RUE 
 
-链接地址 
+���ӵ�ַ 
 
 FALSE 
 
-描述 
+���� 
 
 FALSE 
 FALSE 
 
-发布时间 
-作者 
+����ʱ�� 
+���� 
 
 FALSE 
 
-分类 
+���� 
 
 FALSE 
 
-评论链接 
+�������� 
 
 FALSE 
 
-永久链接 
+�������� 
 
 FALSE 
 
-RSS 频道源 
+RSS Ƶ��Դ 
 
 FALSE 
 
-附加媒体对象 
+����ý����� 
 
 T RUE 
 
-频道 id 
+Ƶ�� id 
 
 Lo ng inte g e r 
 
 T RUE 
 
-频道信息 id 
+Ƶ����Ϣ id 
 
-I.67 RSS 类别 
+I.67 RSS ��� 
 
 Code 
 Comment 
 
 RSS_CATEGORY 
-RSS 类别 
+RSS ��� 
 
 Name 
 
@@ -6447,7 +6447,7 @@ CT P2.0
 
 ID 
 
-名称 
+���� 
 
 ID 
 NAME 
@@ -6457,12 +6457,12 @@ Va ria b le
 cha ra c te rs (500) 
 Lo ng inte g e r 
 
-创建用户 ID 
+�����û� ID 
 
-排序号 
-创建时间 
-最近修改用户 
-最近修改时间 
+����� 
+����ʱ�� 
+����޸��û� 
+����޸�ʱ�� 
 
 CREAT E_USER
 _ID 
@@ -6473,13 +6473,13 @@ LAST _USER_ID
 Lo ng inte g e r 
 LAST _UPDAT E Da te & T ime 
 
-I.68 RSS 订阅 
+I.68 RSS ���� 
 
 Code 
 Comment 
 
 RSS_SUBSCRIBE 
-RSS 订阅 
+RSS ���� 
 
 Name 
 
@@ -6502,31 +6502,31 @@ Lo ng inte g e r
 
 ID 
 
-订阅用户 ID 
-订阅用户类型 
+�����û� ID 
+�����û����� 
 
 ID 
 USER_ID 
 USER_T YPE 
 
-订阅名称 
+�������� 
 
 NAME 
 
-订阅地址 
+���ĵ�ַ 
 
 URL 
 
-显示条数 
-是否展开 
-排序号 
-创建人 ID 
+��ʾ���� 
+�Ƿ�չ�� 
+����� 
+������ ID 
 
-创建时间 
-最近修改人 ID 
-最近修改时间 
+����ʱ�� 
+����޸��� ID 
+����޸�ʱ�� 
 
-频道 ID 
+Ƶ�� ID 
 
 SHOW _NUM 
 DEPLOY 
@@ -6546,21 +6546,21 @@ T RUE
 
 ID 
 
-名称 
+���� 
 
 FALSE 
 
-创建用户 id 
+�����û� id 
 
-FALSE 
-T RUE 
 FALSE 
 T RUE 
+FALSE 
+T RUE 
 
-排序号 
-创建时间 
-最近修改用户 
-最近修改时间 
+����� 
+����ʱ�� 
+����޸��û� 
+����޸�ʱ�� 
 
 Mandator
 y 
@@ -6572,16 +6572,16 @@ Comment
 
 ID 
 
-订阅用户 id 
-订阅用户类型 
+�����û� id 
+�����û����� 
 
 T RUE 
 
-订阅名称 
+�������� 
 
 T RUE 
 
-订阅地址 
+���ĵ�ַ 
 
 FALSE 
 FALSE 
@@ -6593,25 +6593,25 @@ FALSE
 T RUE 
 T RUE 
 
-显示条数 
-是否展开 
-排序号 
-创建人 id 
+��ʾ���� 
+�Ƿ�չ�� 
+����� 
+������ id 
 
-创建时间 
-最近修改人 id 
-最近修改时间 
+����ʱ�� 
+����޸��� id 
+����޸�ʱ�� 
 
-频道 id 
+Ƶ�� id 
 
-I.69 RSS 订阅状态表 
+I.69 RSS ����״̬�� 
 
 Code 
 Comment 
 
 RSS_ITEM_STATUS 
 
-RSS 订阅状态表 
+RSS ����״̬�� 
 
 Name 
 
@@ -6621,11 +6621,11 @@ Data Type
 
 ID 
 
-状态 
-订阅用户 
+״̬ 
+�����û� 
 
-RSS 内容 ID 
-RSS 订阅 ID 
+RSS ���� ID 
+RSS ���� ID 
 
 ID 
 ST AT US 
@@ -6652,11 +6652,11 @@ Comment
 
 ID 
 
-状态（字段暂未使用） 
-订阅用户 
+״̬���ֶ���δʹ�ã� 
+�����û� 
 
-RSS 内容 id 
-RSS 订阅 id 
+RSS ���� id 
+RSS ���� id 
 
 Powe rDe s ig ne r 
 
@@ -6666,13 +6666,13 @@ Pa g e 33
 
 Lo g ica l Da ta Mo de l 
 
-I.70 RSS 频道 
+I.70 RSS Ƶ�� 
 
 Code 
 Comment 
 
 RSS_CATEGORY_CHANNEL 
-RSS 频道 
+RSS Ƶ�� 
 
 CT P2.0 
 
@@ -6684,28 +6684,28 @@ Data Type
 
 ID 
 
-名称 
+���� 
 
 ID 
 NAME 
 
-URL 地址 
+URL ��ַ 
 
 URL 
 
-排序号 
-创建用户 ID 
+����� 
+�����û� ID 
 
-创建日期 
-最近修改用户
+�������� 
+����޸��û�
 
 ID 
 
-最近修改日期 
+����޸����� 
 
-类别 ID 
+��� ID 
 
-描述 
+���� 
 
 Lo ng inte g e r 
 Va ria b le 
@@ -6729,14 +6729,14 @@ DESCR IPT ION
 Va ria b le 
 cha ra c te rs (500) 
 
-I.71 RSS 频道信息 
+I.71 RSS Ƶ����Ϣ 
 
 Code 
 Comment 
 
 RSS_CHANNEL_INFO 
 
-RSS 频道信息 
+RSS Ƶ����Ϣ 
 
 Name 
 
@@ -6746,48 +6746,48 @@ Data Type
 
 ID 
 
-频道地址 
+Ƶ����ַ 
 
 ID 
 RSS_LINK 
 
-频道标题 
+Ƶ������ 
 
 T IT LE 
 
-使用语言 
+ʹ������ 
 
 LANGUAGE 
 
-版权声明 
+��Ȩ���� 
 
 COPYR IGHT 
 
-描述 
+���� 
 
 DESCR IBSE 
 
-责任编辑 
+���α༭ 
 
-技术支持 
+����֧�� 
 
 MANAGING_ED
 IT OR 
 WEBMAST ER 
 
-发布日期 
+�������� 
 
 PUB_DAT E 
 
-最后修改日期 
+����޸����� 
 
-所属分类 
+�������� 
 
 LAST _BU ILD_D
 AT E 
 CAT EGORY 
 
-生成者 
+������ 
 
 GENERAT OR 
 
@@ -6822,33 +6822,33 @@ y
 T RUE 
 T RUE 
 
-名称 
+���� 
 
 FALSE 
 
-URL 地址 
+URL ��ַ 
 
 FALSE 
-FALSE 
-
-T RUE 
 FALSE 
 
 T RUE 
+FALSE 
+
+T RUE 
 T RUE 
 FALSE 
 
-排序号只能为整数 
-创建用户 id 
+�����ֻ��Ϊ���� 
+�����û� id 
 
-创建日期 
-最近修改用户 id 
+�������� 
+����޸��û� id 
 
-最近修改日期 
+����޸����� 
 
-类别 id 
+��� id 
 
-描述 
+���� 
 
 Comment 
 
@@ -6859,47 +6859,47 @@ FALSE
 
 ID 
 
-频道地址 
+Ƶ����ַ 
 
 FALSE 
 
-频道标题 
+Ƶ������ 
 
 FALSE 
 
-使用语言 
+ʹ������ 
 
 FALSE 
 
-版权声明 
+��Ȩ���� 
 
 FALSE 
 
-描述 
+���� 
 
 FALSE 
 
-责任编辑 
+���α༭ 
 
 FALSE 
 
-技术支持 
+����֧�� 
 
 FALSE 
 
-发布日期 
+�������� 
 
 FALSE 
 
-最后修改日期 
+����޸����� 
 
 FALSE 
 
-所属分类 
+�������� 
 
 FALSE 
 
-生成者 
+������ 
 
 Powe rDe s ig ne r 
 
@@ -6911,22 +6911,22 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-缓存时间 
+����ʱ�� 
 
-图片 URL 
+ͼƬ URL 
 
 T T L 
 IMAGE_URL 
 
-图片标题 
+ͼƬ���� 
 
 IMAGE_T IT LE 
 
-图片链接 
+ͼƬ���� 
 
 IMAGE_LINK 
 
-频道 ID 
+Ƶ�� ID 
 
 CAT EGORY_C
 HANNEL_ID 
@@ -6943,21 +6943,21 @@ Lo ng inte g e r
 FALSE 
 FALSE 
 
-缓存时间 
+����ʱ�� 
 
-图片 URL 
-
-FALSE 
-
-图片标题 
+ͼƬ URL 
 
 FALSE 
 
-图片链接 
+ͼƬ���� 
+
+FALSE 
+
+ͼƬ���� 
 
 T RUE 
 
-频道 id 
+Ƶ�� id 
 
 I.72 SHOW_COMMENT 
 
@@ -6972,14 +6972,14 @@ Code
 
 Data Type 
 
-回复 ID 
-秀圈 ID 
+�ظ� ID 
+��Ȧ ID 
 
-回复人 ID 
-内容 
-回复时间 
-被回复人 ID 
-回复类型 
+�ظ��� ID 
+���� 
+�ظ�ʱ�� 
+���ظ��� ID 
+�ظ����� 
 
 ID 
 SHOW _POST _I
@@ -6990,12 +6990,12 @@ CREAT E_T IME
 REPLY_T O_ID 
 REPLY_T YPE 
 
-父节点 ID 
-根节点 ID 
-被＠人员的 ID
-和姓名信息
+���ڵ� ID 
+���ڵ� ID 
+������Ա�� ID
+��������Ϣ
 
-（JSON 格式） 
+��JSON ��ʽ�� 
 
 P_ID 
 ROOT _ID 
@@ -7022,8 +7022,8 @@ y
 T RUE 
 FALSE 
 
-回复 id 
-秀圈 id 
+�ظ� id 
+��Ȧ id 
 
 FALSE 
 FALSE 
@@ -7035,19 +7035,19 @@ FALSE
 FALSE 
 FALSE 
 
-回复人 id 
-内容 
-回复时间 
-被回复人 id 
-回复类型(电脑 "p c " ,移动端 
+�ظ��� id 
+���� 
+�ظ�ʱ�� 
+���ظ��� id 
+�ظ�����(���� "p c " ,�ƶ��� 
 
 "mo b ile ") 
 
-父节点 id 
-根节点 id 
-被＠人员的 ID 和姓名信息
+���ڵ� id 
+���ڵ� id 
+������Ա�� ID ��������Ϣ
 
-（JSON 格式） 
+��JSON ��ʽ�� 
 
 I.73 SHOW_IMAGE 
 
@@ -7063,13 +7063,13 @@ Code
 Data Type 
 
 ID 
-秀吧 ID 
-秀圈 ID 
+��� ID 
+��Ȧ ID 
 
-创建人 ID 
+������ ID 
 
-图片创建时间 
-图片类型 
+ͼƬ����ʱ�� 
+ͼƬ���� 
 
 ID 
 SHOWBAR_ID 
@@ -7093,10 +7093,10 @@ FALSE
 
 Comment 
 
-秀吧 ID 
-秀圈 ID 
+��� ID 
+��Ȧ ID 
 
-创建人 ID 
+������ ID 
 
 Da te & T ime 
 Sho rt inte g e r 
@@ -7104,13 +7104,13 @@ Sho rt inte g e r
 FALSE 
 FALSE 
 
-图片创建时间 
-图片类型（0：预制封面、
-1：自定义封面、2：秀圈图
-片、3：临时，隔日被删除） 
-图片名称 
+ͼƬ����ʱ�� 
+ͼƬ���ͣ�0��Ԥ�Ʒ��桢
+1���Զ�����桢2����Ȧͼ
+Ƭ��3����ʱ�����ձ�ɾ���� 
+ͼƬ���� 
 
-图片名称 
+ͼƬ���� 
 
 IMAGE_NAME 
 
@@ -7129,17 +7129,17 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-图片后缀 
+ͼƬ��׺ 
 
-排序号（用于秀
-圈多张图片排
-序） 
-文件大小（单位
+����ţ�������
+Ȧ����ͼƬ��
+�� 
+�ļ���С����λ
 
-B） 
+B�� 
 
-图片文件的高 
-图片文件的宽 
+ͼƬ�ļ��ĸ� 
+ͼƬ�ļ��Ŀ� 
 
 IMAGE_POST FI
 X 
@@ -7151,12 +7151,12 @@ Inte g e r
 
 FALSE 
 
-图片后缀 
+ͼƬ��׺ 
 
 FALSE 
 
-排序号（用于秀圈多张图片排
-序） 
+����ţ�������Ȧ����ͼƬ��
+�� 
 
 IMAGE_SIZE 
 
@@ -7164,7 +7164,7 @@ Lo ng inte g e r
 
 FALSE 
 
-文件大小（单位 B） 
+�ļ���С����λ B�� 
 
 IMAGE_HEIGHT 
 IMAGE_W IDT H 
@@ -7175,8 +7175,8 @@ Inte g e r
 FALSE 
 FALSE 
 
-图片文件的高 
-图片文件的宽 
+ͼƬ�ļ��ĸ� 
+ͼƬ�ļ��Ŀ� 
 
 I.74 SHOW_PRAISE 
 
@@ -7191,12 +7191,12 @@ Code
 
 Data Type 
 
-点赞 ID 
+���� ID 
 
-点赞对象 ID 
-点赞人员 ID 
-点赞时间 
-点赞类型 
+���޶��� ID 
+������Ա ID 
+����ʱ�� 
+�������� 
 
 ID 
 PRAISE_ID 
@@ -7220,12 +7220,12 @@ FALSE
 
 Comment 
 
-点赞 id 
+���� id 
 
-点赞对象 id 
-点赞人员 id 
-点赞时间 
-点赞类型(秀圈 1,图片 2) 
+���޶��� id 
+������Ա id 
+����ʱ�� 
+��������(��Ȧ 1,ͼƬ 2) 
 
 I.75 SHOWBAR_AUTH 
 
@@ -7241,9 +7241,9 @@ Code
 Data Type 
 
 ID 
-秀吧 ID 
+��� ID 
 
-授权范围 
+��Ȩ��Χ 
 
 ID 
 SHOWBAR_ID 
@@ -7259,7 +7259,7 @@ T RUE
 FALSE 
 FALSE 
 
-组织机构类型 
+��֯�������� 
 
 ORGENT _T YPE Sho rt inte g e r 
 
@@ -7267,21 +7267,21 @@ FALSE
 
 Comment 
 
-秀吧 ID 
+��� ID 
 
-授权范围(0：全部、1：全部
-除外部人员、2：部分) 
+��Ȩ��Χ(0��ȫ����1��ȫ��
+���ⲿ��Ա��2������) 
 
-组织机构类型：         
-        0：Acco unt, 
-        1：De p a rtme nt, 
-        2：T e am, 
-        3：Memb e r, 
-        4：Ro le , 
-        5：Po s t, 
-        6：Le ve l 
+��֯�������ͣ�         
+        0��Acco unt, 
+        1��De p a rtme nt, 
+        2��T e am, 
+        3��Memb e r, 
+        4��Ro le , 
+        5��Po s t, 
+        6��Le ve l 
 
-组织类型对应元
+��֯���Ͷ�ӦԪ
 
 ORGENT _ID 
 
@@ -7289,13 +7289,13 @@ Lo ng inte g e r
 
 FALSE 
 
-组织类型对应元素的 ID（如
+��֯���Ͷ�ӦԪ�ص� ID����
 
-素的 ID 
+�ص� ID 
 
-ORGENT _T YPE 为人员，则
+ORGENT _T YPE Ϊ��Ա����
 
-当前字段为人员的 ID） 
+��ǰ�ֶ�Ϊ��Ա�� ID�� 
 
 I.76 SHOWBAR_INFO 
 
@@ -7341,63 +7341,63 @@ FALSE
 
 Comment 
 
-秀吧创建人 ID 
+��ɴ����� ID 
 
-所属单位 ID 
-创建时间 
-最近修改人 ID 
+������λ ID 
+����ʱ�� 
+����޸��� ID 
 
-最近修改时间 
-创建自（0：PC、1：M1） 
-状态标识：0 删除，1 正常 
-秀吧名称 
+����޸�ʱ�� 
+�����ԣ�0��PC��1��M1�� 
+״̬��ʶ��0 ɾ����1 ���� 
+������� 
 
-秀吧开始时间 
-秀吧结束时间 
-秀吧活动地址 
-
-FALSE 
-
-秀吧简介 
+��ɿ�ʼʱ�� 
+��ɽ���ʱ�� 
+��ɻ��ַ 
 
 FALSE 
-FALSE 
+
+��ɼ�� 
+
 FALSE 
 FALSE 
 FALSE 
+FALSE 
+FALSE 
 
-置顶时间（未置顶则为空） 
-浏览次数 
-点赞次数 
-照片总数 
-评论总数 
+�ö�ʱ�䣨δ�ö���Ϊ�գ� 
+������� 
+���޴��� 
+��Ƭ���� 
+�������� 
 
 ID 
 
-秀吧创建人 ID 
+��ɴ����� ID 
 
-所属单位 ID 
-创建时间 
-最近修改人 ID 
+������λ ID 
+����ʱ�� 
+����޸��� ID 
 
-最近修改时间 
-创建自 
-状态标识 
-秀吧名称 
+����޸�ʱ�� 
+������ 
+״̬��ʶ 
+������� 
 
-秀吧开始时间 
-秀吧结束时间 
-秀吧活动地址 
+��ɿ�ʼʱ�� 
+��ɽ���ʱ�� 
+��ɻ��ַ 
 
-秀吧简介 
+��ɼ�� 
 
-置顶时间 
-浏览次数 
-点赞次数 
-照片总数 
-评论总数 
+�ö�ʱ�� 
+������� 
+���޴��� 
+��Ƭ���� 
+�������� 
 
-封面图片 ID 
+����ͼƬ ID 
 
 Lo ng inte g e r 
 Lo ng inte g e r 
@@ -7447,10 +7447,10 @@ M
 COVER_PICT U
 RE 
 
-记录排序信息 
-记录最新的的图
+��¼������Ϣ 
+��¼���µĵ�ͼ
 
-片 ID 
+Ƭ ID 
 
 ORDER_NUM 
 LAST _IMAGE_I
@@ -7460,9 +7460,9 @@ Lo ng inte g e r
 
 FALSE 
 
-封面图片 ID (对应
+����ͼƬ ID (��Ӧ
 
-show_img a e 表) 
+show_img a e ��) 
 
 Inte g e r 
 Lo ng inte g e r 
@@ -7470,8 +7470,8 @@ Lo ng inte g e r
 FALSE 
 FALSE 
 
-记录排序信息 
-记录最新的的图片 ID 
+��¼������Ϣ 
+��¼���µĵ�ͼƬ ID 
 
 I.77 SHOWPOST_INFO 
 
@@ -7487,15 +7487,15 @@ Code
 Data Type 
 
 ID 
-秀吧 ID 
+��� ID 
 
-秀吧创建人 ID 
+��ɴ����� ID 
 
-所属单位 ID 
-创建时间 
-正文内容 
-点赞次数 
-照片总数 
+������λ ID 
+����ʱ�� 
+�������� 
+���޴��� 
+��Ƭ���� 
 
 ID 
 SHOWBAR_ID 
@@ -7531,15 +7531,15 @@ FALSE
 
 Comment 
 
-秀吧 ID 
+��� ID 
 
-秀吧创建人 ID 
+��ɴ����� ID 
 
-所属单位 ID 
-创建时间 
-正文内容 
-点赞次数 
-照片总数 
+������λ ID 
+����ʱ�� 
+�������� 
+���޴��� 
+��Ƭ���� 
 
 Powe rDe s ig ne r 
 
@@ -7551,21 +7551,21 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-评论总数 
+�������� 
 
-置顶时间（未置
-顶则为空） 
-状态标识 
-创建自（PC、
+�ö�ʱ�䣨δ��
+����Ϊ�գ� 
+״̬��ʶ 
+�����ԣ�PC��
 
-M1） 
+M1�� 
 
-秀圈信息发送地
-理位置 
-被＠人员的 ID
-和姓名信息
+��Ȧ��Ϣ���͵�
+��λ�� 
+������Ա�� ID
+��������Ϣ
 
-（JSON 格式） 
+��JSON ��ʽ�� 
 
 COMMENT _NU
 M 
@@ -7575,13 +7575,13 @@ Inte g e r
 
 FALSE 
 
-评论总数 
+�������� 
 
 Da te & T ime 
 
 FALSE 
 
-置顶时间（未置顶则为空） 
+�ö�ʱ�䣨δ�ö���Ϊ�գ� 
 
 ST AT US 
 Sho rt inte g e r 
@@ -7605,14 +7605,14 @@ FALSE
 
 FALSE 
 
-状态标识：0 删除，1 正常 
-创建自（0：PC、1：M1） 
+״̬��ʶ��0 ɾ����1 ���� 
+�����ԣ�0��PC��1��M1�� 
 
-用于存储发送秀圈信息的地理
-位置 
-被＠人员的 ID 和姓名信息
+���ڴ洢������Ȧ��Ϣ�ĵ���
+λ�� 
+������Ա�� ID ��������Ϣ
 
-（JSON 格式） 
+��JSON ��ʽ�� 
 
 I.78 THIRDPARTY_MSG_PENDING_CFG 
 
@@ -7627,29 +7627,29 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-注册应用 ID 
-消息待办获取模
-式推/拉 
-穿透模式 
-是消息配置还是
-待办配置必填 
-接口服务地址 
+ע��Ӧ�� ID 
+��Ϣ�����ȡģ
+ʽ��/�� 
+��͸ģʽ 
+����Ϣ���û���
+�������ñ��� 
+�ӿڷ����ַ 
 
-ANDROID 启动
+ANDROID ����
 
-命令 
-IOS 启动命令 
+���� 
+IOS �������� 
 
-是否启用 
+�Ƿ����� 
 
 CREAT E_DAT
 E 
 UPDAT E_DAT
 E 
 
-时间间隔 
+ʱ���� 
 
 ID 
 REGIST ER_ID 
@@ -7667,10 +7667,10 @@ FALSE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-注册应用 ID 
-消息待办获取模式推/拉 
+ע��Ӧ�� ID 
+��Ϣ�����ȡģʽ��/�� 
 
 LINK_MODE 
 T YPE 
@@ -7681,8 +7681,8 @@ Sho rt inte g e r
 FALSE 
 FALSE 
 
-穿透模式 
-是消息配置还是待办配置必填 
+��͸ģʽ 
+����Ϣ���û��Ǵ������ñ��� 
 
 SERVICE_URL 
 
@@ -7704,20 +7704,20 @@ CREAT E_DAT E Da te & T ime
 
 FALSE 
 
-接口服务地址 
+�ӿڷ����ַ 
 
 FALSE 
 
-ANDROID 启动命令 
+ANDROID �������� 
 
 FALSE 
 
-IOS 启动命令 
+IOS �������� 
 
 FALSE 
 FALSE 
 
-是否启用（0：否；1：是） 
+�Ƿ����ã�0����1���ǣ� 
 
 UPDAT E_DAT E Da te & T ime 
 
@@ -7731,7 +7731,7 @@ cha ra c te rs (255)
 
 FALSE 
 
-时间间隔 
+ʱ���� 
 
 I.79 THIRDPARTY_PENDING 
 
@@ -7746,7 +7746,7 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
 ID 
 
@@ -7756,7 +7756,7 @@ Mandator
 y 
 T RUE 
 
-主键 ID 
+���� ID 
 
 Comment 
 
@@ -7770,17 +7770,17 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-第三方待办主键
+��������������
 
 T ASK_ID 
 
 ID 
 
-标题 
+���� 
 
 T IT LE 
 
-发起者 OA 中的
+������ OA �е�
 
 SENDER_ID 
 
@@ -7792,52 +7792,52 @@ Lo ng inte g e r
 
 FALSE 
 
-第三方待办主键 ID 
+�������������� ID 
 
 FALSE 
 
-标题 
+���� 
 
 FALSE 
 
-发起者 OA 中的 ID 
+������ OA �е� ID 
 
 ID 
 
-第三方发起者
+������������
 
 ID 
 
-发起人姓名 
+���������� 
 
-接收人 ID 
-第三方接收者
+������ ID 
+������������
 
 ID 
-应用 ID 
+Ӧ�� ID 
 
-业务分类 
+ҵ����� 
 
-正文类型 
+�������� 
 
-数据内容 
+�������� 
 
-PC 端外部链接 
+PC ���ⲿ���� 
 
-移动参数 
+�ƶ����� 
 
-任务创建时间 
+���񴴽�ʱ�� 
 
-任务状态 
+����״̬ 
 
-详细任务状态 
+��ϸ����״̬ 
 
 CREAT E_DAT
 E 
 UPDAT E_DAT
 E 
 
-移动端 H5 链接 H5URL 
+�ƶ��� H5 ���� H5URL 
 
 T H IRD_SENDE
 R_ID 
@@ -7879,48 +7879,48 @@ PCURL
 
 FALSE 
 
-第三方发起者 ID 
+������������ ID 
 
 FALSE 
 
-发起人姓名 
-
-FALSE 
-FALSE 
+���������� 
 
 FALSE 
 FALSE 
 
-接收人 ID 
-第三方接收者 ID 
+FALSE 
+FALSE 
 
-应用 ID 
+������ ID 
+������������ ID 
 
-业务分类 
+Ӧ�� ID 
+
+ҵ����� 
 
 FALSE 
 
-正文类型 
+�������� 
 
 FALSE 
 
-数据内容 
+�������� 
 
 FALSE 
 
-PC 端外部链接 
+PC ���ⲿ���� 
 
 FALSE 
 
-移动端 H5 链接 
+�ƶ��� H5 ���� 
 
 FALSE 
 
-移动参数 
+�ƶ����� 
 
 FALSE 
 
-任务创建时间 
+���񴴽�ʱ�� 
 
 CREAT ION_DA
 T E 
@@ -7941,9 +7941,9 @@ UPDAT E_DAT E Da te & T ime
 
 FALSE 
 
-任务状态（0:未办理；1:已办
-理） 
-子任务状态 
+����״̬��0:δ����1:�Ѱ�
+�� 
+������״̬ 
 
 I.80 THIRDPARTY_PORTAL_CONFIG 
 
@@ -7958,14 +7958,14 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-注册应用 ID 
-认证模式 
+ע��Ӧ�� ID 
+��֤ģʽ 
 
-SSO 认证地址 
+SSO ��֤��ַ 
 
-PC 服务地址 
+PC �����ַ 
 
 ID 
 REGIST ER_ID 
@@ -7975,7 +7975,7 @@ SSO_LOGIN_U
 RL 
 PC_PAGE_URL 
 
-H5 服务地址 
+H5 �����ַ 
 
 H5_PAGE_URL 
 
@@ -7998,22 +7998,22 @@ FALSE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-注册应用 ID 
-认证模式 
-
-FALSE 
-
-SSO 认证地址 
+ע��Ӧ�� ID 
+��֤ģʽ 
 
 FALSE 
 
-PC 服务地址 
+SSO ��֤��ַ 
 
 FALSE 
 
-H5 服务地址 
+PC �����ַ 
+
+FALSE 
+
+H5 �����ַ 
 
 Powe rDe s ig ne r 
 
@@ -8025,14 +8025,14 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-是否启用 
+�Ƿ����� 
 
 CREAT E_DAT
 E 
 UPDAT E_DAT
 E 
 
-启动命令 
+�������� 
 
 IS_ENABLE 
 Sho rt inte g e r 
@@ -8041,7 +8041,7 @@ CREAT E_DAT E Da te & T ime
 FALSE 
 FALSE 
 
-是否启用（0:否，1：是） 
+�Ƿ����ã�0:��1���ǣ� 
 
 UPDAT E_DAT E Da te & T ime 
 
@@ -8055,7 +8055,7 @@ cha ra c te rs (2000)
 
 FALSE 
 
-启动命令 
+�������� 
 
 I.81 THIRDPARTY_REGISTER 
 
@@ -8070,9 +8070,9 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-注册名称 
+ע������ 
 
 ID 
 APP_NAME 
@@ -8081,21 +8081,21 @@ ICON_PC
 
 ICON_PC 
 
-移动注册图标 
+�ƶ�ע��ͼ�� 
 
 ICON_H5 
 
-PC 注册图标 
+PC ע��ͼ�� 
 
-版本号 
+�汾�� 
 
-版本说明 
+�汾˵�� 
 
-应用标签（应用
-类型） 
-应用服务商 
+Ӧ�ñ�ǩ��Ӧ��
+���ͣ� 
+Ӧ�÷����� 
 
-接入方式 
+���뷽ʽ 
 
 INT RODUCT IO
 N 
@@ -8130,13 +8130,13 @@ Va ria b le
 cha ra c te rs (50) 
 Sho rt inte g e r 
 
-PC 服务地址 
+PC �����ַ 
 
-H5 服务地址 
+H5 �����ַ 
 
-注册编码 
-注册系统接入方
-式 
+ע����� 
+ע��ϵͳ���뷽
+ʽ 
 
 CREAT E_DAT
 E 
@@ -8150,61 +8150,61 @@ y
 T RUE 
 FALSE 
 
-主键 ID 
+���� ID 
 
-注册名称 
-
-FALSE 
-
-注册名称 
+ע������ 
 
 FALSE 
 
-移动注册图标 
+ע������ 
 
 FALSE 
 
-PC 注册图标 
+�ƶ�ע��ͼ�� 
 
 FALSE 
 
-版本号 
+PC ע��ͼ�� 
 
 FALSE 
 
-版本说明 
+�汾�� 
 
 FALSE 
 
-应用标签（应用类型） 
+�汾˵�� 
 
 FALSE 
 
-应用服务商 
+Ӧ�ñ�ǩ��Ӧ�����ͣ� 
 
 FALSE 
 
-接入方式（PC(0, "PC"), 
+Ӧ�÷����� 
+
+FALSE 
+
+���뷽ʽ��PC(0, "PC"), 
 H5(1, "H5"), PCH5(2, 
 "PC&H5"), PCMo b ile (3, 
-"PC&移动应用包"), 
-H5Mo b ile (4, "H5&移动应用包
-")） 
+"PC&�ƶ�Ӧ�ð�"), 
+H5Mo b ile (4, "H5&�ƶ�Ӧ�ð�
+")�� 
 
 FALSE 
 
-PC 服务地址 
+PC �����ַ 
 
 FALSE 
 
-H5 服务地址 
+H5 �����ַ 
 
 FALSE 
 FALSE 
 
-注册编码 
-注册系统接入方式（0：url，
-1：移动应用包） 
+ע����� 
+ע��ϵͳ���뷽ʽ��0��url��
+1���ƶ�Ӧ�ð��� 
 
 SERVICE_PC_
 URL 
@@ -8251,31 +8251,31 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-注册应用 ID 
+ע��Ӧ�� ID 
 
-OA 人员 ID 
+OA ��Ա ID 
 
-第三方系统人
+������ϵͳ��
 
 ID 
 
-第三方系统人员
-登录名称 
-第三方系统人员
-名称 
-第三方系统人员
-编码 
-第三方系统人员
-手机号 
-第三方系统人员
-邮件 
-扩展参数 
+������ϵͳ��Ա
+��¼���� 
+������ϵͳ��Ա
+���� 
+������ϵͳ��Ա
+���� 
+������ϵͳ��Ա
+�ֻ��� 
+������ϵͳ��Ա
+�ʼ� 
+��չ���� 
 
 PARAM_1 
 
-描述 
+���� 
 
 CREAT E_DAT
 E 
@@ -8317,25 +8317,25 @@ FALSE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-注册应用 ID 
+ע��Ӧ�� ID 
 
-OA 人员 ID 
+OA ��Ա ID 
 
-第三方系统人 ID 
-
-FALSE 
-
-第三方系统人员登录名称 
+������ϵͳ�� ID 
 
 FALSE 
 
-第三方系统人员名称 
+������ϵͳ��Ա��¼���� 
 
 FALSE 
 
-第三方系统人员编码 
+������ϵͳ��Ա���� 
+
+FALSE 
+
+������ϵͳ��Ա���� 
 
 T H IRD_MOBILE Va ria b le 
 cha ra c te rs (255) 
@@ -8347,11 +8347,11 @@ cha ra c te rs (255)
 
 FALSE 
 
-第三方系统人员手机号 
+������ϵͳ��Ա�ֻ��� 
 
 FALSE 
 
-第三方系统人员邮件 
+������ϵͳ��Ա�ʼ� 
 
 PARAM_0 
 
@@ -8369,15 +8369,15 @@ DESCR IPT ION
 
 FALSE 
 
-扩展参数 
+��չ���� 
 
 FALSE 
 
-扩展参数 
+��չ���� 
 
 FALSE 
 
-描述 
+���� 
 
 FALSE 
 
@@ -8385,14 +8385,14 @@ UPDAT E_DAT E Da te & T ime
 
 FALSE 
 
-I.83 U8 初始操作员信息表 
+I.83 U8 ��ʼ����Ա��Ϣ�� 
 
 Code 
 Comment 
 
 U8_SET_USER 
 
-U8 初始操作员信息表 
+U8 ��ʼ����Ա��Ϣ�� 
 
 Name 
 
@@ -8400,15 +8400,15 @@ Code
 
 Data Type 
 
-主键 
-是否主数据 
-U8 服务器名称 
+���� 
+�Ƿ������� 
+U8 ���������� 
 
-U8 操作员 
+U8 ����Ա 
 
-U8 操作员密码 
+U8 ����Ա���� 
 
-登录时间 
+��¼ʱ�� 
 
 ID 
 U8_KEY 
@@ -8420,7 +8420,7 @@ U8_PASSWOR
 D 
 LOGIN_DAT E 
 
-登录账套 
+��¼���� 
 
 ACCOUNT _NO 
 
@@ -8445,25 +8445,25 @@ FALSE
 
 Comment 
 
-主键 
-是否主数据 
-U8 服务器名称 
+���� 
+�Ƿ������� 
+U8 ���������� 
 
 FALSE 
 
-U8 操作员 
+U8 ����Ա 
 
 FALSE 
 
-U8 操作员密码 
+U8 ����Ա���� 
 
 FALSE 
 
-登录时间 
+��¼ʱ�� 
 
 FALSE 
 
-登录账套 
+��¼���� 
 
 Powe rDe s ig ne r 
 
@@ -8475,13 +8475,13 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-账套年度 
+������� 
 
 ACCOUNT _YEA
 R 
-数据库连接信息 DAT ASOURCE 
+���ݿ�������Ϣ DAT ASOURCE 
 
-U8 服务器地址 
+U8 ��������ַ 
 
 U8SERVERADD
 RESS 
@@ -8495,24 +8495,24 @@ cha ra c te rs (255)
 
 FALSE 
 
-账套年度 
+������� 
 
 FALSE 
 
-数据库连接信息 
+���ݿ�������Ϣ 
 
 FALSE 
 
-U8 服务器地址 
+U8 ��������ַ 
 
-I.84 U8 同步日志表 
+I.84 U8 ͬ����־�� 
 
 Code 
 Comment 
 
 U8PLUGIN_ORGSYNRECORD 
 
-U8 同步日志表 
+U8 ͬ����־�� 
 
 Name 
 
@@ -8520,14 +8520,14 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-同步人登录名 
+ͬ���˵�¼�� 
 
 ID 
 LOGINNAME 
 
-同步方式 
+ͬ����ʽ 
 
 OPT YPE 
 
@@ -8543,20 +8543,20 @@ FALSE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-同步人登录名 
+ͬ���˵�¼�� 
 
 FALSE 
 
-同步方式 0-自动  1-手动 2-按
+ͬ����ʽ 0-�Զ�  1-�ֶ� 2-��
 
-同步成功数 
-同步失败数 
-同步总数 
-是否有效 
-时间戳 
-A8 单位或部门
+ͬ���ɹ��� 
+ͬ��ʧ���� 
+ͬ������ 
+�Ƿ���Ч 
+ʱ��� 
+A8 ��λ����
 
 OKNUM 
 FAILNUM 
@@ -8579,20 +8579,20 @@ FALSE
 T RUE 
 FALSE 
 
-需 
-同步成功数 
-同步失败数 
-同步总数 
+�� 
+ͬ���ɹ��� 
+ͬ��ʧ���� 
+ͬ������ 
 
-是否有效 0 -无效  1-有效 
+�Ƿ���Ч 0 -��Ч  1-��Ч 
 
-时间戳 
-A8 单位或部门 id 
+ʱ��� 
+A8 ��λ���� id 
 
 ID 
-第三方单位主键 MAP_GU ID 
+��������λ���� MAP_GU ID 
 
-对应类型 
+��Ӧ���� 
 
 MAP_T YPE 
 
@@ -8603,7 +8603,7 @@ cha ra c te rs (255)
 
 FALSE 
 
-同步类型 
+ͬ������ 
 
 SYN_T YPE 
 
@@ -8611,7 +8611,7 @@ Sho rt inte g e r
 
 FALSE 
 
-同步备注 
+ͬ����ע 
 
 MEMO 
 
@@ -8622,22 +8622,22 @@ FALSE
 
 FALSE 
 
-第三方单位主键 
+��������λ���� 
 
-对应类型，如果单位对应，部
-门对应 
-同步类型，职务级别:1，部
-门:2，岗位:3，人员:4 
-同步备注 
+��Ӧ���ͣ������λ��Ӧ����
+�Ŷ�Ӧ 
+ͬ�����ͣ�ְ�񼶱�:1����
+��:2����λ:3����Ա:4 
+ͬ����ע 
 
-I.85 U8 同步日志详细信息表 
+I.85 U8 ͬ����־��ϸ��Ϣ�� 
 
 Code 
 Comment 
 
 U8PLUGIN_ORGSYNRECORDDETAIL 
 
-U8 同步日志详细信息表 
+U8 ͬ����־��ϸ��Ϣ�� 
 
 Name 
 
@@ -8645,12 +8645,12 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-主记录表 ID 
-同步数据的详细
-描述 
-同步是否成功 
+����¼�� ID 
+ͬ�����ݵ���ϸ
+���� 
+ͬ���Ƿ�ɹ� 
 
 ID 
 RECORD_ID 
@@ -8658,7 +8658,7 @@ DAT A
 
 ACT ION 
 
-同步备注说明 
+ͬ����ע˵�� 
 
 MEMO 
 
@@ -8681,18 +8681,18 @@ FALSE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-主记录表 id 
-同步数据的详细描述 
-
-FALSE 
+����¼�� id 
+ͬ�����ݵ���ϸ���� 
 
 FALSE 
 
-同步是成功，失败，忽略的描
-述 
-同步备注说明 
+FALSE 
+
+ͬ���ǳɹ���ʧ�ܣ����Ե���
+�� 
+ͬ����ע˵�� 
 
 Powe rDe s ig ne r 
 
@@ -8704,14 +8704,14 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-I.86 U8 数据源信息表 
+I.86 U8 ����Դ��Ϣ�� 
 
 Code 
 Comment 
 
 U8BUSINESS_DATASOURC E 
 
-保存 u8 数据源 
+���� u8 ����Դ 
 
 Comment 
 
@@ -8722,39 +8722,39 @@ FALSE
 
 ID 
 
-账套编码 
+���ױ��� 
 
 FALSE 
 
-数据库类型 
+���ݿ����� 
 
 FALSE 
 
-数据库连接 URL 
+���ݿ����� URL 
 
 FALSE 
 
-数据库用户 
+���ݿ��û� 
 
 FALSE 
 
-数据库密码 
+���ݿ����� 
 
 FALSE 
 FALSE 
 FALSE 
 
-创建时间 
-更新时间 
-备用字段 1 
+����ʱ�� 
+����ʱ�� 
+�����ֶ� 1 
 
 FALSE 
 
-备用字段 2 
+�����ֶ� 2 
 
 FALSE 
 
-备用字段 3 
+�����ֶ� 3 
 
 Mandator
 y 
@@ -8763,29 +8763,29 @@ T RUE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-U8 服务器名称 
-
-FALSE 
-
-WEB 服务器地址 
+U8 ���������� 
 
 FALSE 
 
-外部注册号 
+WEB ��������ַ 
 
 FALSE 
 
-U8 版本 
+�ⲿע��� 
+
+FALSE 
+
+U8 �汾 
 
 FALSE 
 FALSE 
 FALSE 
 
-是否包含 U8 
-是否包含网报 
-是否包含 HR 自助 
+�Ƿ���� U8 
+�Ƿ�������� 
+�Ƿ���� HR ���� 
 
 Name 
 
@@ -8795,25 +8795,25 @@ Data Type
 
 ID 
 
-账套编码 
+���ױ��� 
 
-数据库类型 
+���ݿ����� 
 
-数据库连接
+���ݿ�����
 
 URL 
 
-数据库用户 
+���ݿ��û� 
 
-数据库密码 
+���ݿ����� 
 
-创建时间 
-更新时间 
-备用字段 1 
+����ʱ�� 
+����ʱ�� 
+�����ֶ� 1 
 
-备用字段 2 
+�����ֶ� 2 
 
-备用字段 3 
+�����ֶ� 3 
 
 DBURL 
 
@@ -8850,14 +8850,14 @@ EXT _AT T R2
 
 EXT _AT T R3 
 
-I.87 U8 服务器信息表 
+I.87 U8 ��������Ϣ�� 
 
 Code 
 Comment 
 
 U8_SERVERS 
 
-U8 服务器信息表 
+U8 ��������Ϣ�� 
 
 Name 
 
@@ -8865,13 +8865,13 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-U8 服务器名称 
+U8 ���������� 
 
-WEB 服务器地
-址 
-外部注册号 
+WEB ��������
+ַ 
+�ⲿע��� 
 
 ID 
 U8_SERVER_N
@@ -8881,15 +8881,15 @@ ESS
 
 U8_REG_NO 
 
-U8 版本 
+U8 �汾 
 
 U8_VERSION 
 
-是否包含 U8 
-是否包含网报 
-是否包含 HR 自
-助 
-是否启用 U8 
+�Ƿ���� U8 
+�Ƿ�������� 
+�Ƿ���� HR ��
+�� 
+�Ƿ����� U8 
 
 HAS_U8 
 HAS_WB 
@@ -8916,9 +8916,9 @@ Inte g e r
 
 FALSE 
 
-是否启用 U8: 1-启用，  0-不
+�Ƿ����� U8: 1-���ã�  0-��
 
-启用 
+���� 
 
 Powe rDe s ig ne r 
 
@@ -8930,7 +8930,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-是否启用网报 
+�Ƿ��������� 
 
 WB_ENABLE 
 
@@ -8938,13 +8938,13 @@ Inte g e r
 
 FALSE 
 
-是否启用考勤查
-询 
-是否启用工资查
-询 
-是否启用考勤申
-请 
-U8 服务器地址 
+�Ƿ����ÿ��ڲ�
+ѯ 
+�Ƿ����ù��ʲ�
+ѯ 
+�Ƿ����ÿ�����
+�� 
+U8 ��������ַ 
 
 KC_ENABLE 
 
@@ -8972,24 +8972,24 @@ cha ra c te rs (100)
 
 FALSE 
 
-是否启用网报: 1-启用，  0-不
-启用 
-是否启用考勤查询： 1-启
-用，  0-不启用 
-是否启用工资查询： 1-启
-用，  0-不启用 
-是否启用考勤申请： 1-启
-用，  0-不启用 
-U8 服务器地址 
+�Ƿ���������: 1-���ã�  0-��
+���� 
+�Ƿ����ÿ��ڲ�ѯ�� 1-��
+�ã�  0-������ 
+�Ƿ����ù��ʲ�ѯ�� 1-��
+�ã�  0-������ 
+�Ƿ����ÿ������룺 1-��
+�ã�  0-������ 
+U8 ��������ַ 
 
-I.88 U8 登录设置信息表 
+I.88 U8 ��¼������Ϣ�� 
 
 Code 
 Comment 
 
 U8PLUGIN_U8_USERMAPPER 
 
-U8 登录设置信息表 
+U8 ��¼������Ϣ�� 
 
 Name 
 
@@ -9005,11 +9005,11 @@ cha ra c te rs (255)
 
 FALSE 
 
-HR 自助帐套年度 
+HR ����������� 
 
-A8 用户 ID 
+A8 �û� ID 
 A8USER ID 
-数据库连接信息 DAT ASOURCE 
+���ݿ�������Ϣ DAT ASOURCE 
 
 Lo ng inte g e r 
 Va ria b le 
@@ -9018,18 +9018,18 @@ cha ra c te rs (255)
 FALSE 
 FALSE 
 
-A8 用户 ID 
+A8 �û� ID 
 
-数据库连接信息 
+���ݿ�������Ϣ 
 
-I.89 U8 账号绑定表 
+I.89 U8 �˺Ű󶨱� 
 
 Code 
 Comment 
 
 U8PLUGIN_U8_USER 
 
-U8 账号绑定表 
+U8 �˺Ű󶨱� 
 
 Powe rDe s ig ne r 
 
@@ -9037,49 +9037,49 @@ Powe rDe s ig ne r
 
 Pa g e 44 
 
-主键 
-U8 服务器名称 
+���� 
+U8 ���������� 
 
 ID 
 SERVERNAME 
 
-U8 操作员 
+U8 ����Ա 
 
 PERAT OR 
 
-密码 
+���� 
 
 PASSWORD 
 
-默认帐套 
+Ĭ������ 
 
 ACCOUNT NO 
 
-帐套年度 
+������� 
 
-网报服务器 
+���������� 
 
 ACCOUNT YEA
 R 
 WB_SERVER 
 
-网报默认帐套 
+����Ĭ������ 
 
-网报帐套年度 
+����������� 
 
 WB_ACCOUNT
 NO 
 WB_ACCOUNT
 YEAR 
-HR 自助服务器 HR_SERVER 
+HR ���������� HR_SERVER 
 
 HR_ACCOUNT
 NO 
 
-HR 自助默认帐
-套 
-HR 自助帐套年
-度 
+HR ����Ĭ����
+�� 
+HR ����������
+�� 
 
 Mandator
 y 
@@ -9088,44 +9088,44 @@ T RUE
 
 Comment 
 
-主键 
-U8 服务器名称 
+���� 
+U8 ���������� 
 
 T RUE 
 
-U8 操作员 
+U8 ����Ա 
 
 FALSE 
 
-密码 
+���� 
 
 T RUE 
 
-默认帐套 
+Ĭ������ 
 
 T RUE 
 
-帐套年度 
+������� 
 
 FALSE 
 
-网报服务器 
+���������� 
 
 FALSE 
 
-网报默认帐套 
+����Ĭ������ 
 
 FALSE 
 
-网报帐套年度 
+����������� 
 
 FALSE 
 
-HR 自助服务器 
+HR ���������� 
 
 FALSE 
 
-HR 自助默认帐套 
+HR ����Ĭ������ 
 
 Lo ng inte g e r 
 Va ria b le 
@@ -9159,14 +9159,14 @@ Code
 
 Data Type 
 
-主键 ID 
-A8 用户 ID 
+���� ID 
+A8 �û� ID 
 
-U8 操作员名称 
+U8 ����Ա���� 
 
-U8 操作员编码 
+U8 ����Ա���� 
 
-U8 服务器名称 
+U8 ���������� 
 
 ID 
 OAUSER ID 
@@ -9194,27 +9194,27 @@ FALSE
 
 Comment 
 
-主键 ID 
-A8 用户 ID 
+���� ID 
+A8 �û� ID 
 
-U8 操作员名称 
-
-FALSE 
-
-U8 操作员编码 
+U8 ����Ա���� 
 
 FALSE 
 
-U8 服务器名称 
+U8 ����Ա���� 
 
-I.90 UC 同步失败记录 
+FALSE 
+
+U8 ���������� 
+
+I.90 UC ͬ��ʧ�ܼ�¼ 
 
 Code 
 Comment 
 
 UC_SYN_LOG 
 
-UC 同步失败记录 
+UC ͬ��ʧ�ܼ�¼ 
 
 Name 
 
@@ -9222,13 +9222,13 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-数据 
-类型 
+���� 
+���� 
 
-当前数据包同步
-失败时间 
+��ǰ���ݰ�ͬ��
+ʧ��ʱ�� 
 
 ID 
 SYN_DAT A 
@@ -9250,14 +9250,14 @@ T RUE
 FALSE 
 FALSE 
 
-主键 ID 
+���� ID 
 
-数据 
-类型 
+���� 
+���� 
 
 FALSE 
 
-当前数据包同步失败时间 
+��ǰ���ݰ�ͬ��ʧ��ʱ�� 
 
 I.91 VOUCHER_USERMAPPER 
 
@@ -9274,29 +9274,29 @@ Code
 
 Data Type 
 
-主键 
-人员主键 
+���� 
+��Ա���� 
 
-用户实名 
+�û�ʵ�� 
 
 ID 
 ORG_MEMBER
 _ID 
 USERNAME 
 
-用户账号 
+�û��˺� 
 
 USERCODE 
 
-密码 
+���� 
 
 USERPWD 
 
-账套类型 
+�������� 
 
 T YPE 
 
-账套主键 
+�������� 
 
 ACCOUNT ID 
 
@@ -9318,28 +9318,28 @@ y
 T RUE 
 FALSE 
 
-主键 
-人员主键 
+���� 
+��Ա���� 
 
 FALSE 
 
-用户实名 
+�û�ʵ�� 
 
 FALSE 
 
-用户账号 
+�û��˺� 
 
 FALSE 
 
-密码 
+���� 
 
 FALSE 
 
-账套类型 
+�������� 
 
 FALSE 
 
-账套主键 
+�������� 
 
 I.92 WEATHER_AREA_INFO 
 
@@ -9364,39 +9364,39 @@ Code
 
 Data Type 
 
-站点 ID 
+վ�� ID 
 
 AREAID 
 
-站点英文名 
+վ��Ӣ���� 
 
 NAMEEN 
 
-站点中文名 
+վ�������� 
 
 NAMECN 
 
-城市英文名 
+����Ӣ���� 
 
 D IST R ICT EN 
 
-城市中文名 
+���������� 
 
 D IST R ICT CN 
 
-省份英文 
+ʡ��Ӣ�� 
 
 PROVEN 
 
-省份中文 
+ʡ������ 
 
 PROVCN 
 
-国家英文 
+����Ӣ�� 
 
 NAT IONEN 
 
-国家中文 
+�������� 
 
 NAT IONCN 
 
@@ -9423,41 +9423,41 @@ Mandator
 y 
 T RUE 
 
-站点 ID 
+վ�� ID 
 
 Comment 
 
 FALSE 
 
-站点英文名 
+վ��Ӣ���� 
 
 FALSE 
 
-站点中文名 
+վ�������� 
 
 FALSE 
 
-城市英文名 
+����Ӣ���� 
 
 FALSE 
 
-城市中文名 
+���������� 
 
 FALSE 
 
-省份英文 
+ʡ��Ӣ�� 
 
 FALSE 
 
-省份中文 
+ʡ������ 
 
 FALSE 
 
-国家英文 
+����Ӣ�� 
 
 FALSE 
 
-国家中文 
+�������� 
 
 I.93 WF_PROCESS_XML_TEMP 
 
@@ -9473,14 +9473,14 @@ Code
 Data Type 
 
 ID 
-流程 ID 
+���� ID 
 
-流程 XML 
-节点 ID 
+���� XML 
+�ڵ� ID 
 
-操作人员 
-操作类型 
-创建时间 
+������Ա 
+�������� 
+����ʱ�� 
 
 ID 
 PROCESS_ID 
@@ -9511,24 +9511,24 @@ FALSE
 
 Comment 
 
-主键 ID 
-流程 ID 
+���� ID 
+���� ID 
 
-流程 XML 
-节点 ID 
+���� XML 
+�ڵ� ID 
 
-操作人员 
-操作类型 
-创建时间 
+������Ա 
+�������� 
+����ʱ�� 
 
-I.94 业务导图主表 
+I.94 ҵ��ͼ���� 
 
 Code 
 Comment 
 
 CTP_BIZ_MAP 
 
-业务导图主表 
+ҵ��ͼ���� 
 
 Name 
 
@@ -9538,15 +9538,15 @@ Data Type
 
 ID 
 
-导图名称 
+��ͼ���� 
 
 ID 
 NAME 
 
-创建者 ID 
-创建时间 
-最后修改者 ID 
-最后修改时间 
+������ ID 
+����ʱ�� 
+����޸��� ID 
+����޸�ʱ�� 
 
 CREAT OR_ID 
 CREAT E_T IME 
@@ -9570,17 +9570,17 @@ FALSE
 
 ID 
 
-导图名称 
+��ͼ���� 
 
 FALSE 
 FALSE 
 FALSE 
 FALSE 
 
-创建者 ID 
-创建时间 
-最后修改者 ID 
-最后修改时间 
+������ ID 
+����ʱ�� 
+����޸��� ID 
+����޸�ʱ�� 
 
 Powe rDe s ig ne r 
 
@@ -9592,7 +9592,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-导图图片在附件
+��ͼͼƬ�ڸ���
 
 AT T _ID 
 
@@ -9600,12 +9600,12 @@ Lo ng inte g e r
 
 FALSE 
 
-导图图片在附件表的 ID 
+��ͼͼƬ�ڸ������ ID 
 
-表的 ID 
+��� ID 
 
-布局类型 
-布局方式 
+�������� 
+���ַ�ʽ 
 
 LAYOUT T YPE 
 LAYOUT 
@@ -9617,7 +9617,7 @@ cha ra c te rs (255)
 FALSE 
 FALSE 
 
-状态 
+״̬ 
 
 ST AT E 
 
@@ -9625,11 +9625,11 @@ Sho rt inte g e r
 
 FALSE 
 
-删除标记 
+ɾ����� 
 
-存放 HTML 代
+��� HTML ��
 
-码 
+�� 
 
 DEL_FLAG 
 HTML_CONT EN
@@ -9641,7 +9641,7 @@ T e xt
 FALSE 
 FALSE 
 
-创建者所属单位
+������������λ
 
 ORG_ID 
 
@@ -9651,27 +9651,27 @@ FALSE
 
 ID 
 
-布局类型：1 菜单 2 栏目 
-布局方式：为了通用，使用
-JSON 格式，所有布局设置都
-存放这个字段 
-状态，0 草稿，1 启用，2 停
-用 
-删除标记，0 未删除，1 删除 
-以后如果不是图片，自己做了
-设计器，里面就是存放 HTML
-代码 
-创建者所属单位 ID（SAAS
-方式必须） 
+�������ͣ�1 �˵� 2 ��Ŀ 
+���ַ�ʽ��Ϊ��ͨ�ã�ʹ��
+JSON ��ʽ�����в������ö�
+�������ֶ� 
+״̬��0 �ݸ壬1 ���ã�2 ͣ
+�� 
+ɾ����ǣ�0 δɾ����1 ɾ�� 
+�Ժ��������ͼƬ���Լ�����
+�������������Ǵ�� HTML
+���� 
+������������λ ID��SAAS
+��ʽ���룩 
 
-I.95 业务管理配置表 
+I.95 ҵ��������ñ� 
 
 Code 
 Comment 
 
 CTP_BIZ_CONFIG 
 
-业务管理配置表 
+ҵ��������ñ� 
 
 Name 
 
@@ -9719,56 +9719,56 @@ FALSE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-业务管理配置名称 
+ҵ������������� 
 
-一级菜单 ID 
-创建人 
-创建时间 
-修改时间 
-标记业务配置状态， -2：未
-激活；-1：部分激活；2：已
-激活 
-标记业务配置删除状态，0，
-null 未删除，1 删除 
-标记业务配置类型 
+һ���˵� ID 
+������ 
+����ʱ�� 
+�޸�ʱ�� 
+���ҵ������״̬�� -2��δ
+���-1�����ּ��2����
+���� 
+���ҵ������ɾ��״̬��0��
+null δɾ����1 ɾ�� 
+���ҵ���������� 
 
-主键 ID 
+���� ID 
 
-业务管理配置名
-称 
-一级菜单 ID 
-创建时人 
-创建时间 
-修改时间 
-标记业务配置状
-态 
+ҵ�����������
+�� 
+һ���˵� ID 
+����ʱ�� 
+����ʱ�� 
+�޸�ʱ�� 
+���ҵ������״
+̬ 
 
-标记业务配置删
-除状态 
-标记业务配置类
-型 
+���ҵ������ɾ
+��״̬ 
+���ҵ��������
+�� 
 
-件 ID 
+�� ID 
 
-业务菜单所属单
-位 
-标记业务配置创
-建类型 
-流程列表菜单是
-否合并 
-流程列表菜单合
-并名称 
+ҵ��˵�������
+λ 
+���ҵ�����ô�
+������ 
+�����б�˵���
+��ϲ� 
+�����б�˵���
+������ 
 
-业务配置描述 
+ҵ���������� 
 
-业务配置修改人 MOD IFY_USER 
+ҵ�������޸��� MOD IFY_USER 
 BIZ_DESCR IPT I
 ON 
 BIZ_IMAGE_ID 
 
-菜单图标对应文
+�˵�ͼ���Ӧ��
 
 Lo ng inte g e r 
 Va ria b le 
@@ -9778,18 +9778,18 @@ Lo ng inte g e r
 FALSE 
 FALSE 
 
-业务配置修改人 
-业务配置描述 
+ҵ�������޸��� 
+ҵ���������� 
 
 FALSE 
 
-菜单图标对应文件 ID 
+�˵�ͼ���Ӧ�ļ� ID 
 
 Lo ng inte g e r 
 
 FALSE 
 
-业务菜单所属单位 
+ҵ��˵�������λ 
 
 ORG_ACCOUN
 T _ID 
@@ -9815,11 +9815,11 @@ cha ra c te rs (255)
 
 FALSE 
 
-标记业务配置创建类型，0：
-自建，1：导入 
-流程列表菜单是否合并，0，
-不合并，1：合并 
-流程列表菜单合并名称 
+���ҵ�����ô������ͣ�0��
+�Խ���1������ 
+�����б�˵��Ƿ�ϲ���0��
+���ϲ���1���ϲ� 
+�����б�˵��ϲ����� 
 
 Powe rDe s ig ne r 
 
@@ -9831,12 +9831,12 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-业务配置版本 
-业务配置相关信
-息 
-移动业务配置 
+ҵ�����ð汾 
+ҵ�����������
+Ϣ 
+�ƶ�ҵ������ 
 
-移动看板 ID 
+�ƶ����� ID 
 
 BIZ_VERSION 
 BIZ_SOURCE_I
@@ -9853,29 +9853,29 @@ T e xt
 FALSE 
 FALSE 
 
-业务配置版本 
-业务配置相关信息 
+ҵ�����ð汾 
+ҵ�����������Ϣ 
 
 T e xt 
 
 FALSE 
 
-移动业务配置 
+�ƶ�ҵ������ 
 
 Lo ng inte g e r 
 
 FALSE 
 
-移动看板 id 
+�ƶ����� id 
 
-I.96 丢失报损信息列表 
+I.96 ��ʧ������Ϣ�б� 
 
 Code 
 Comment 
 
 OFFICE_LOSS_INFO 
 
-丢失报损信息列表 
+��ʧ������Ϣ�б� 
 
 Name 
 
@@ -9883,7 +9883,7 @@ Code
 
 Data Type 
 
-丢失物 ID 
+��ʧ�� ID 
 
 LOSS_ID 
 RESOURCE_ID 
@@ -9920,27 +9920,27 @@ LOSS_MGE
 Lo ng inte g e r 
 LOSS_MEMO 
 T e xt 
-是否删除的标识 DEL_FLAG 
+�Ƿ�ɾ���ı�ʶ DEL_FLAG 
 Sho rt inte g e r 
-单位 ID 
+��λ ID 
 DOMAIN_ID 
 Lo ng inte g e r 
 
-丢失数量 
-创建时间 
-修改日期 
-创建人 
-管理员 ID 
-备注 
+��ʧ���� 
+����ʱ�� 
+�޸����� 
+������ 
+����Ա ID 
+��ע 
 
-I.97 个人事项 
+I.97 �������� 
 
 Code 
 Comment 
 
 CTP_AFFAIR 
 
-个人事项 
+�������� 
 
 Name 
 
@@ -9950,15 +9950,15 @@ Data Type
 
 ID 
 
-是否超期 
+�Ƿ��� 
 
-人员 ID 
+��Ա ID 
 
-发送人 ID 
-标题 
+������ ID 
+���� 
 
-应用 
-主应用 ID 
+Ӧ�� 
+��Ӧ�� ID 
 
 ID 
 IS_COVER_T IM
@@ -9977,7 +9977,7 @@ FALSE
 
 Comment 
 
-丢失物 ID 
+��ʧ�� ID 
 
 RESOURCE_ID 
 
@@ -10002,15 +10002,15 @@ FALSE
 FALSE 
 T RUE 
 
-丢失数量 
-创建时间 
-修改日期 
-创建人 
-管理员 ID 
-备注 
-是否删除的标识 
+��ʧ���� 
+����ʱ�� 
+�޸����� 
+������ 
+����Ա ID 
+��ע 
+�Ƿ�ɾ���ı�ʶ 
 
-单位 ID 
+��λ ID 
 
 Mandator
 y 
@@ -10019,9 +10019,9 @@ FALSE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-是否超期（0 否，1 是） 
+�Ƿ��ڣ�0 ��1 �ǣ� 
 
 Lo ng inte g e r 
 Sho rt inte g e r 
@@ -10040,13 +10040,13 @@ FALSE
 FALSE 
 FALSE 
 
-人员 ID 
+��Ա ID 
 
-发送人 ID 
-标题 
+������ ID 
+���� 
 
-应用 
-主应用 ID 
+Ӧ�� 
+��Ӧ�� ID 
 
 Powe rDe s ig ne r 
 
@@ -10058,12 +10058,12 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-对应
+��Ӧ
 
 WORKIT EM_I
 D 
 
-状态 
+״̬ 
 
 SUB_OBJECT _I
 D 
@@ -10072,7 +10072,7 @@ Lo ng inte g e r
 
 FALSE 
 
-对应 wo rk item_id 
+��Ӧ wo rk item_id 
 
 ST AT E 
 
@@ -10080,7 +10080,7 @@ Sho rt inte g e r
 
 FALSE 
 
-子状态 
+��״̬ 
 
 SUB_ST AT E 
 
@@ -10088,61 +10088,61 @@ Sho rt inte g e r
 
 FALSE 
 
-状态（1 待发，2 已发，3 待
-办，4 已办，5 取消，6 回
-退，7 取回，8 竞争执行，15
-终止） 
-子状态（0 子状态正常，1 待
-发草稿，2 待发被回退，3 待
-发被撤销，4 公文回退拟稿
-人，5 协同撤销，11 待办未
-读，12 待办已读，13 待办暂
-存待办，14 待办知会，15 待
-办被回退暂存待办，15 待
-办，主动指定回退的状态，我
-指定回退给别人，这是我的状
-态，16 待办--被指定回退到的
-事项，别人回退给我，这是我
-的状态，17 待办--被指定回退
-到的事项，又指定回退给别
-人，中间事项的状态，18 待
-发--指定回退到发起人并且选
-择流程重走，这是发起人的，
-19 公文--在办时，指定退回
-（直接提交给我）普通节点，
-21 状态已办-流程终止，31 会
-议-待办-参加，32 会议-待办 -
-不参加，33 会议-待办-待定，
-34 周期性会议 
-催办次数 
+״̬��1 ������2 �ѷ���3 ��
+�죬4 �Ѱ죬5 ȡ����6 ��
+�ˣ�7 ȡ�أ�8 ����ִ�У�15
+��ֹ�� 
+��״̬��0 ��״̬������1 ��
+���ݸ壬2 ���������ˣ�3 ��
+����������4 ���Ļ������
+�ˣ�5 Эͬ������11 ����δ
+����12 �����Ѷ���13 ������
+����죬14 ����֪�ᣬ15 ��
+�챻�����ݴ���죬15 ��
+�죬����ָ�����˵�״̬����
+ָ�����˸����ˣ������ҵ�״
+̬��16 ����--��ָ�����˵���
+������˻��˸��ң�������
+��״̬��17 ����--��ָ������
+���������ָ�����˸���
+�ˣ��м������״̬��18 ��
+��--ָ�����˵������˲���ѡ
+���������ߣ����Ƿ����˵ģ�
+19 ����--�ڰ�ʱ��ָ���˻�
+��ֱ���ύ���ң���ͨ�ڵ㣬
+21 ״̬�Ѱ�-������ֹ��31 ��
+��-����-�μӣ�32 ����-���� -
+���μӣ�33 ����-����-������
+34 �����Ի��� 
+�߰���� 
 
-提醒时间 
-节点期限 
+����ʱ�� 
+�ڵ����� 
 
-催办次数 
+�߰���� 
 
-提醒时间 
-节点期限 
+����ʱ�� 
+�ڵ����� 
 
-是否到期提醒 
+�Ƿ������� 
 
-创建时间 
-接受时间 
-完成时间 
+����ʱ�� 
+����ʱ�� 
+���ʱ�� 
 
-提醒周期 
+�������� 
 
-是否被删除 
-是否跟踪 
+�Ƿ�ɾ�� 
+�Ƿ���� 
 
-归档 ID 
+�鵵 ID 
 
-属性 
+���� 
 
-扩展属性 
+��չ���� 
 
-更新时间 
-是否结束 
+����ʱ�� 
+�Ƿ���� 
 
 Sho rt inte g e r 
 
@@ -10192,41 +10192,41 @@ FALSE
 
 FALSE 
 
-是否到期提醒 
+�Ƿ������� 
 
 FALSE 
 FALSE 
 FALSE 
 
-创建时间 
-接受时间 
-完成时间 
+����ʱ�� 
+����ʱ�� 
+���ʱ�� 
 
 FALSE 
 
-提醒周期 
+�������� 
 
 FALSE 
 FALSE 
 FALSE 
 FALSE 
 
-是否被删除（0 否，1 是） 
-是否跟踪（0 否，1 是） 
+�Ƿ�ɾ����0 ��1 �ǣ� 
+�Ƿ���٣�0 ��1 �ǣ� 
 
-归档 ID 
+�鵵 ID 
 
-属性 
-
-FALSE 
-
-扩展属性 
+���� 
 
 FALSE 
+
+��չ���� 
+
+FALSE 
 FALSE 
 
-更新时间 
-是否结束（0 否，1 是） 
+����ʱ�� 
+�Ƿ������0 ��1 �ǣ� 
 
 Powe rDe s ig ne r 
 
@@ -10238,51 +10238,51 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-正文类型 
+�������� 
 
 BODY_T YPE 
 
-重要程度 
+��Ҫ�̶� 
 
-重复次数 
-转发人 
+�ظ����� 
+ת���� 
 
-标识符 
+��ʶ�� 
 
-代理人 
+������ 
 
-节点权限 
+�ڵ�Ȩ�� 
 
-工作流节点 ID 
-表单应用 ID 
-表单视图 ID 
-表单操作 ID 
+�������ڵ� ID 
+��Ӧ�� ID 
+����ͼ ID 
+������ ID 
 
-模板 ID 
+ģ�� ID 
 
-/ /加签、知会、
-会签等操作，来
-源人的 ID 
-按工作时间计算
-超期时间 
-按工作时间计算
-运行时间 
-按自然时间计算
-超期时间 
-按自然时间计算
-运行时间 
-处理期限到处理
-类型（0-仅消息
-提醒;1-转给指
-定人;2-自动跳
-过） 
-处理期限到处理
-类型 1 的辅助
+/ /��ǩ��֪�ᡢ
+��ǩ�Ȳ�������
+Դ�˵� ID 
+������ʱ�����
+����ʱ�� 
+������ʱ�����
+����ʱ�� 
+����Ȼʱ�����
+����ʱ�� 
+����Ȼʱ�����
+����ʱ�� 
+�������޵�����
+���ͣ�0-����Ϣ
+����;1-ת��ָ
+����;2-�Զ���
+���� 
+�������޵�����
+���� 1 �ĸ���
 
-值 1：USER ID 
+ֵ 1��USER ID 
 
-子应用 ID 
-执行时间 
+��Ӧ�� ID 
+ִ��ʱ�� 
 
 ORG_ACCOU
 NT _ID 
@@ -10291,11 +10291,11 @@ PROCESS_ID
 IS_PROCESS_
 OVER_T IME 
 
-记录视图权限
+��¼��ͼȨ��
 
-ID 串 
+ID �� 
 
-回退人的 ID 
+�����˵� ID 
 
 Va ria b le 
 cha ra c te rs (255) 
@@ -10320,29 +10320,29 @@ Lo ng inte g e r
 
 FALSE 
 
-正文类型 
+�������� 
 
 FALSE 
 
 FALSE 
 FALSE 
 
-重要程度（1 普通，2 重要，
-3 非常重要） 
-重复次数 
-转发人 
+��Ҫ�̶ȣ�1 ��ͨ��2 ��Ҫ��
+3 �ǳ���Ҫ�� 
+�ظ����� 
+ת���� 
 
 FALSE 
 
-标识符 
+��ʶ�� 
 
 FALSE 
 
-代理人 
+������ 
 
 FALSE 
 
-节点权限 
+�ڵ�Ȩ�� 
 
 FALSE 
 FALSE 
@@ -10352,27 +10352,27 @@ FALSE
 FALSE 
 FALSE 
 
-工作流节点 Id 
-表单应用 id 
-表单视图 ID 
-表单操作 ID 
+�������ڵ� Id 
+��Ӧ�� id 
+����ͼ ID 
+������ ID 
 
-模板 ID 
+ģ�� ID 
 
-/ /加签、知会、会签等操作，
-来源人的 Id 
+/ /��ǩ��֪�ᡢ��ǩ�Ȳ�����
+��Դ�˵� Id 
 
 Lo ng inte g e r 
 
 FALSE 
 
-按工作时间计算超期时间 
+������ʱ����㳬��ʱ�� 
 
 Lo ng inte g e r 
 
 FALSE 
 
-按工作时间计算运行时间 
+������ʱ���������ʱ�� 
 
 IMPORT ANT _L
 EVEL 
@@ -10406,7 +10406,7 @@ Lo ng inte g e r
 
 FALSE 
 
-按自然时间计算超期时间 
+����Ȼʱ����㳬��ʱ�� 
 
 RUN_T IME 
 
@@ -10414,7 +10414,7 @@ Lo ng inte g e r
 
 FALSE 
 
-按自然时间计算运行时间 
+����Ȼʱ���������ʱ�� 
 
 DEAL_T ERM_T
 YPE 
@@ -10423,9 +10423,9 @@ Sho rt inte g e r
 
 FALSE 
 
-处理期限到处理类型（0-仅消
-息提醒;1-转给指定人;2 -自动
-跳过） 
+�������޵��������ͣ�0-����
+Ϣ����;1-ת��ָ����;2 -�Զ�
+������ 
 
 DEAL_T ERM_U
 SER ID 
@@ -10449,9 +10449,9 @@ Lo ng inte g e r
 
 FALSE 
 
-处理期限到处理类型 1 的辅助
+�������޵��������� 1 �ĸ���
 
-值 1：use rid 
+ֵ 1��use rid 
 
 Sho rt inte g e r 
 Da te & T ime 
@@ -10459,8 +10459,8 @@ Da te & T ime
 FALSE 
 FALSE 
 
-子应用 ID 
-执行时间 
+��Ӧ�� ID 
+ִ��ʱ�� 
 
 Lo ng inte g e r 
 
@@ -10481,17 +10481,17 @@ PROCESS_ID
 
 FALSE 
 
-流程超期（null 否，1 是） 
+���̳��ڣ�null ��1 �ǣ� 
 
 FALSE 
 
-记录视图权限 ID 串 
+��¼��ͼȨ�� ID �� 
 
 Lo ng inte g e r 
 
 FALSE 
 
-回退人的 id 
+�����˵� id 
 
 Powe rDe s ig ne r 
 
@@ -10510,20 +10510,20 @@ FORM_RELAT I
 VE_QUERY_ID
 S 
 
-是否收藏 
+�Ƿ��ղ� 
 
-加签、知会、会
-签等操作类型 
-表单数据记录
+��ǩ��֪�ᡢ��
+ǩ�Ȳ������� 
+�����ݼ�¼
 
 ID 
-流程 CASE_ID 
+���� CASE_ID 
 
-数据关联 ID 
+���ݹ��� ID 
 
-首次查看时长
-(查看时间-接收
-时间) 
+�״β鿴ʱ��
+(�鿴ʱ��-����
+ʱ��) 
 
 FORM_RELAT I
 VE_ST AT IC_ID
@@ -10543,20 +10543,20 @@ A_ID
 FIRST VIEW _PE
 R IOD 
 
-首次查看时间点 FIRST VIEW _DA
+�״β鿴ʱ��� FIRST VIEW _DA
 T E 
 FIRST RESPON
 SE_PER IOD 
 
-首次响应耗时 
+�״���Ӧ��ʱ 
 
-首次查看耗时
-（查看关闭时间
--查看时间） 
-上一处理人 
+�״β鿴��ʱ
+���鿴�ر�ʱ��
+-�鿴ʱ�䣩 
+��һ������ 
 
-是否是自动发起
-的流程 
+�Ƿ����Զ�����
+������ 
 
 SIGNLEVIEW _P
 ER IOD 
@@ -10579,19 +10579,19 @@ Sho rt inte g e r
 
 FALSE 
 
-是否收藏（0：否，1：是） 
+�Ƿ��ղأ�0����1���ǣ� 
 
 Sho rt inte g e r 
 
 FALSE 
 
-加签、知会、会签等操作类型 
+��ǩ��֪�ᡢ��ǩ�Ȳ������� 
 
 Lo ng inte g e r 
 
 FALSE 
 
-表单数据记录 ID 
+�����ݼ�¼ ID 
 
 Lo ng inte g e r 
 Lo ng inte g e r 
@@ -10599,22 +10599,22 @@ Lo ng inte g e r
 FALSE 
 FALSE 
 
-流程 CASE_ID 
+���� CASE_ID 
 
-数据关联 id 
+���ݹ��� id 
 
 Lo ng inte g e r 
 
 FALSE 
 
-首次查看时长(查看时间-接收
-时间) 
+�״β鿴ʱ��(�鿴ʱ��-����
+ʱ��) 
 
 Da te & T ime 
 
 FALSE 
 
-首次查看时间点 
+�״β鿴ʱ��� 
 
 Lo ng inte g e r 
 
@@ -10624,32 +10624,32 @@ Lo ng inte g e r
 
 FALSE 
 
-首次响应耗时（首次操作-接
-收时间） 
-首次查看耗时（查看关闭时间
--查看时间） 
+�״���Ӧ��ʱ���״β���-��
+��ʱ�䣩 
+�״β鿴��ʱ���鿴�ر�ʱ��
+-�鿴ʱ�䣩 
 
 Lo ng inte g e r 
 
 FALSE 
 
-上一处理人 
+��һ������ 
 
 Sho rt inte g e r 
 
 FALSE 
 
-是否是自动发起的流程(0、
-否；1、是) 
+�Ƿ����Զ����������(0��
+��1����) 
 
-I.98 个人事项（转储时） 
+I.98 �������ת��ʱ�� 
 
 Code 
 Comment 
 
 CTP_AFFAIR_HIS 
 
-个人事项（转储时） 
+�������ת��ʱ�� 
 
 Name 
 
@@ -10659,21 +10659,21 @@ Data Type
 
 ID 
 
-是否超期 
+�Ƿ��� 
 
-人员 ID 
+��Ա ID 
 
-发送人 ID 
-标题 
+������ ID 
+���� 
 
-应用 
-主应用 ID 
-对应
+Ӧ�� 
+��Ӧ�� ID 
+��Ӧ
 
 WORKIT EM_I
 D 
 
-状态 
+״̬ 
 
 ID 
 IS_COVER_T IM
@@ -10697,9 +10697,9 @@ FALSE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-是否超期（0 否，1 是） 
+�Ƿ��ڣ�0 ��1 �ǣ� 
 
 Lo ng inte g e r 
 Lo ng inte g e r 
@@ -10717,15 +10717,15 @@ FALSE
 FALSE 
 FALSE 
 
-人员 ID 
+��Ա ID 
 
-发送人 ID 
-标题 
+������ ID 
+���� 
 
-应用 
-主应用 ID 
+Ӧ�� 
+��Ӧ�� ID 
 
-对应 wo rk item_id 
+��Ӧ wo rk item_id 
 
 ST AT E 
 
@@ -10733,8 +10733,8 @@ Sho rt inte g e r
 
 FALSE 
 
-状态（1 待发，2 已发，3 待
-办，4 已办，5 取消，6 回
+״̬��1 ������2 �ѷ���3 ��
+�죬4 �Ѱ죬5 ȡ����6 ��
 
 Powe rDe s ig ne r 
 
@@ -10746,7 +10746,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-子状态 
+��״̬ 
 
 SUB_ST AT E 
 
@@ -10754,115 +10754,115 @@ Sho rt inte g e r
 
 FALSE 
 
-退，7 取回，8 竞争执行，15
-终止） 
-子状态（0 子状态正常，1 待
-发草稿，2 待发被回退，3 待
-发被撤销，4 公文回退拟稿
-人，5 协同撤销，11 待办未
-读，12 待办已读，13 待办暂
-存待办，14 待办知会，15 待
-办被回退暂存待办，15 待
-办，主动指定回退的状态，我
-指定回退给别人，这是我的状
-态，16 待办--被指定回退到的
-事项，别人回退给我，这是我
-的状态，17 待办--被指定回退
-到的事项，又指定回退给别
-人，中间事项的状态，18 待
-发--指定回退到发起人并且选
-择流程重走，这是发起人的，
-19 公文--在办时，指定退回
-（直接提交给我）普通节点，
-21 状态已办-流程终止，31 会
-议-待办-参加，32 会议-待办 -
-不参加，33 会议-待办-待定，
-34 周期性会议 
-催办次数 
+�ˣ�7 ȡ�أ�8 ����ִ�У�15
+��ֹ�� 
+��״̬��0 ��״̬������1 ��
+���ݸ壬2 ���������ˣ�3 ��
+����������4 ���Ļ������
+�ˣ�5 Эͬ������11 ����δ
+����12 �����Ѷ���13 ������
+����죬14 ����֪�ᣬ15 ��
+�챻�����ݴ���죬15 ��
+�죬����ָ�����˵�״̬����
+ָ�����˸����ˣ������ҵ�״
+̬��16 ����--��ָ�����˵���
+������˻��˸��ң�������
+��״̬��17 ����--��ָ������
+���������ָ�����˸���
+�ˣ��м������״̬��18 ��
+��--ָ�����˵������˲���ѡ
+���������ߣ����Ƿ����˵ģ�
+19 ����--�ڰ�ʱ��ָ���˻�
+��ֱ���ύ���ң���ͨ�ڵ㣬
+21 ״̬�Ѱ�-������ֹ��31 ��
+��-����-�μӣ�32 ����-���� -
+���μӣ�33 ����-����-������
+34 �����Ի��� 
+�߰���� 
 
-提醒时间 
-节点期限 
-
-FALSE 
-
-FALSE 
-FALSE 
+����ʱ�� 
+�ڵ����� 
 
 FALSE 
 
-是否到期提醒 
-
-FALSE 
-FALSE 
-FALSE 
-
-创建时间 
-接受时间 
-完成时间 
-
-FALSE 
-
-提醒周期 
-
-FALSE 
-FALSE 
-FALSE 
-FALSE 
-
-是否被删除（0 否，1 是） 
-
-归档 ID 
-
-是否跟踪（0 否，1 是） 
-属性 
-
-FALSE 
-
-扩展属性 
-
-FALSE 
 FALSE 
 FALSE 
 
 FALSE 
 
-更新时间 
-是否结束（0 否，1 是） 
-正文类型 
+�Ƿ������� 
 
-重要程度（1 普通，2 重要，
-3 非常重要） 
-重复次数 
+FALSE 
+FALSE 
+FALSE 
 
-催办次数 
+����ʱ�� 
+����ʱ�� 
+���ʱ�� 
 
-提醒时间 
-节点期限 
+FALSE 
 
-是否到期提醒 
+�������� 
 
-创建时间 
-接受时间 
-完成时间 
+FALSE 
+FALSE 
+FALSE 
+FALSE 
 
-提醒周期 
+�Ƿ�ɾ����0 ��1 �ǣ� 
 
-是否被删除 
+�鵵 ID 
 
-归档 ID 
+�Ƿ���٣�0 ��1 �ǣ� 
+���� 
 
-是否跟踪 
-属性 
+FALSE 
 
-扩展属性 
+��չ���� 
 
-更新时间 
-是否结束 
-正文类型 
+FALSE 
+FALSE 
+FALSE 
 
-重要程度 
+FALSE 
 
-重复次数 
+����ʱ�� 
+�Ƿ������0 ��1 �ǣ� 
+�������� 
+
+��Ҫ�̶ȣ�1 ��ͨ��2 ��Ҫ��
+3 �ǳ���Ҫ�� 
+�ظ����� 
+
+�߰���� 
+
+����ʱ�� 
+�ڵ����� 
+
+�Ƿ������� 
+
+����ʱ�� 
+����ʱ�� 
+���ʱ�� 
+
+�������� 
+
+�Ƿ�ɾ�� 
+
+�鵵 ID 
+
+�Ƿ���� 
+���� 
+
+��չ���� 
+
+����ʱ�� 
+�Ƿ���� 
+�������� 
+
+��Ҫ�̶� 
+
+�ظ����� 
 
 Sho rt inte g e r 
 
@@ -10962,19 +10962,19 @@ Lo ng inte g e r
 
 FALSE 
 
-转发人 
+ת���� 
 
 FALSE 
 
-标识符 
+��ʶ�� 
 
 FALSE 
 
-代理人 
+������ 
 
 FALSE 
 
-节点权限 
+�ڵ�Ȩ�� 
 
 FALSE 
 FALSE 
@@ -10984,15 +10984,15 @@ FALSE
 FALSE 
 FALSE 
 
-工作流节点 Id 
-表单应用 id 
-表单视图 ID 
-表单操作 ID 
+�������ڵ� Id 
+��Ӧ�� id 
+����ͼ ID 
+������ ID 
 
-模板 ID 
+ģ�� ID 
 
-/ /加签、知会、会签等操作，
-来源人的 Id 
+/ /��ǩ��֪�ᡢ��ǩ�Ȳ�����
+��Դ�˵� Id 
 
 OVER_WORKT I
 ME 
@@ -11004,13 +11004,13 @@ Lo ng inte g e r
 
 FALSE 
 
-按工作时间计算超期时间 
+������ʱ����㳬��ʱ�� 
 
 Lo ng inte g e r 
 
 FALSE 
 
-按工作时间计算运行时间 
+������ʱ���������ʱ�� 
 
 OVER_T IME 
 
@@ -11018,7 +11018,7 @@ Lo ng inte g e r
 
 FALSE 
 
-按自然时间计算超期时间 
+����Ȼʱ����㳬��ʱ�� 
 
 RUN_T IME 
 
@@ -11026,7 +11026,7 @@ Lo ng inte g e r
 
 FALSE 
 
-按自然时间计算运行时间 
+����Ȼʱ���������ʱ�� 
 
 DEAL_T ERM_T
 YPE 
@@ -11035,9 +11035,9 @@ Sho rt inte g e r
 
 FALSE 
 
-处理期限到处理类型（0-仅消
-息提醒;1-转给指定人;2 -自动
-跳过） 
+�������޵��������ͣ�0-����
+Ϣ����;1-ת��ָ����;2 -�Զ�
+������ 
 
 DEAL_T ERM_U
 SER ID 
@@ -11053,9 +11053,9 @@ Lo ng inte g e r
 
 FALSE 
 
-处理期限到处理类型 1 的辅助
+�������޵��������� 1 �ĸ���
 
-值 1：use rid 
+ֵ 1��use rid 
 
 Sho rt inte g e r 
 Da te & T ime 
@@ -11063,8 +11063,8 @@ Da te & T ime
 FALSE 
 FALSE 
 
-子应用 ID 
-执行时间 
+��Ӧ�� ID 
+ִ��ʱ�� 
 
 Lo ng inte g e r 
 
@@ -11082,46 +11082,46 @@ PROCESS_ID
 
 FALSE 
 
-流程超期（null 否，1 是） 
+���̳��ڣ�null ��1 �ǣ� 
 
-转发人 
+ת���� 
 
-标识符 
+��ʶ�� 
 
-代理人 
+������ 
 
-节点权限 
+�ڵ�Ȩ�� 
 
-工作流节点 ID 
-表单应用 ID 
-表单视图 ID 
-表单操作 ID 
+�������ڵ� ID 
+��Ӧ�� ID 
+����ͼ ID 
+������ ID 
 
-模板 ID 
+ģ�� ID 
 
-/ /加签、知会、
-会签等操作，来
-源人的 ID 
-按工作时间计算
-超期时间 
-按工作时间计算
-运行时间 
-按自然时间计算
-超期时间 
-按自然时间计算
-运行时间 
-处理期限到处理
-类型（0-仅消息
-提醒;1-转给指
-定人;2-自动跳
-过） 
-处理期限到处理
-类型 1 的辅助
+/ /��ǩ��֪�ᡢ
+��ǩ�Ȳ�������
+Դ�˵� ID 
+������ʱ�����
+����ʱ�� 
+������ʱ�����
+����ʱ�� 
+����Ȼʱ�����
+����ʱ�� 
+����Ȼʱ�����
+����ʱ�� 
+�������޵�����
+���ͣ�0-����Ϣ
+����;1-ת��ָ
+����;2-�Զ���
+���� 
+�������޵�����
+���� 1 �ĸ���
 
-值 1：USER ID 
+ֵ 1��USER ID 
 
-子应用 ID 
-执行时间 
+��Ӧ�� ID 
+ִ��ʱ�� 
 
 ORG_ACCOU
 NT _ID 
@@ -11133,14 +11133,14 @@ OVER_T IME
 IS_PROCESS_
 OVER_T IME 
 
-I.99 个人存储空间表 
+I.99 ���˴洢�ռ�� 
 
 Code 
 Comment 
 
 DOC_STORAGE_SPACES 
 
-记录个人的存储空间使用情况（包括邮件、博客）。 
+��¼���˵Ĵ洢�ռ�ʹ������������ʼ������ͣ��� 
 
 Name 
 
@@ -11148,7 +11148,7 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
 ID 
 
@@ -11158,7 +11158,7 @@ Mandator
 y 
 T RUE 
 
-主键 ID 
+���� ID 
 
 Comment 
 
@@ -11178,15 +11178,15 @@ Lo ng inte g e r
 T RUE 
 T RUE 
 
-用户 ID 
+�û� ID 
 
-文档使用空间 
+�ĵ�ʹ�ÿռ� 
 
 Lo ng inte g e r 
 
 T RUE 
 
-文档分配空间 
+�ĵ�����ռ� 
 
 Sho rt inte g e r 
 
@@ -11204,23 +11204,23 @@ MAIL_USED_SP
 ACE 
 MAIL_ST AT US 
 
-用户 ID 
+�û� ID 
 
-文档使用空间 
+�ĵ�ʹ�ÿռ� 
 
-文档分配空间 
+�ĵ�����ռ� 
 
-文档空间状态 
+�ĵ��ռ�״̬ 
 
-邮件分配空间 
-邮件使用空间 
+�ʼ�����ռ� 
+�ʼ�ʹ�ÿռ� 
 
-邮件空间状态 
+�ʼ��ռ�״̬ 
 
-博客分配空间 
-博客使用空间 
+���ͷ���ռ� 
+����ʹ�ÿռ� 
 
-博客空间状态 
+���Ϳռ�״̬ 
 
 Lo ng inte g e r 
 Lo ng inte g e r 
@@ -11246,27 +11246,27 @@ FALSE
 
 T RUE 
 
-文档空间状态：100-未分配，
-0-空闲，1-警示，2-已满 
-邮件分配空间 
-邮件使用空间 
+�ĵ��ռ�״̬��100-δ���䣬
+0-���У�1-��ʾ��2-���� 
+�ʼ�����ռ� 
+�ʼ�ʹ�ÿռ� 
 
-邮件空间状态：100-未分配，
-0-空闲，1-警示，2-已满 
-博客分配空间 
-博客使用空间 
+�ʼ��ռ�״̬��100-δ���䣬
+0-���У�1-��ʾ��2-���� 
+���ͷ���ռ� 
+����ʹ�ÿռ� 
 
-博客空间状态：100-未分配，
-0-空闲，1-警示，2-已满 
+���Ϳռ�״̬��100-δ���䣬
+0-���У�1-��ʾ��2-���� 
 
-I.100 个人空间排序 
+I.100 ���˿ռ����� 
 
 Code 
 Comment 
 
 PORTAL_SPACE_SORT 
 
-个人的空间排序表 
+���˵Ŀռ������ 
 
 Name 
 
@@ -11274,16 +11274,16 @@ Code
 
 Data Type 
 
-主键 ID 
-人员 ID 
-空间 ID 
+���� ID 
+��Ա ID 
+�ռ� ID 
 
-排序号 
-类型 
+����� 
+���� 
 
-单位 ID 
+��λ ID 
 
-是否隐藏 
+�Ƿ����� 
 
 ID 
 MEMBER_ID 
@@ -11316,18 +11316,18 @@ FALSE
 
 Comment 
 
-主键 ID 
-人员 ID 
-空间 ID 
+���� ID 
+��Ա ID 
+�ռ� ID 
 
-排序号 
-类型 
+����� 
+���� 
 
-单位 ID 
+��λ ID 
 
-0：显示；1：隐藏 
+0����ʾ��1������ 
 
-I.101 个性化设置 
+I.101 ���Ի����� 
 
 Code 
 Comment 
@@ -11341,11 +11341,11 @@ Code
 Data Type 
 
 ID 
-用户 ID 
+�û� ID 
 
-门户编码 
+�Ż����� 
 
-栏目编码 
+��Ŀ���� 
 
 ID 
 NUMBER ID 
@@ -11353,11 +11353,11 @@ PORT ALCODE
 
 COLUMNCODE 
 
-排序 ID 集 
+���� ID �� 
 
 CUST OM 
 
-状态 
+״̬ 
 
 ISENABLE 
 
@@ -11380,21 +11380,21 @@ T RUE
 FALSE 
 FALSE 
 
-用户 id 
+�û� id 
 
-门户编码 
-
-FALSE 
-
-栏目编码 
+�Ż����� 
 
 FALSE 
 
-排序 id 集 
+��Ŀ���� 
 
 FALSE 
 
-状态 
+���� id �� 
+
+FALSE 
+
+״̬ 
 
 Powe rDe s ig ne r 
 
@@ -11406,9 +11406,9 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-备用值 0 
+����ֵ 0 
 
-备用值 1 
+����ֵ 1 
 
 BACKUPVALUE
 0 
@@ -11422,20 +11422,20 @@ cha ra c te rs (255)
 
 FALSE 
 
-备用值 0 
+����ֵ 0 
 
 FALSE 
 
-备用值 1 
+����ֵ 1 
 
-I.102 事件具体信息列表 
+I.102 �¼�������Ϣ�б� 
 
 Code 
 Comment 
 
 CAL_EVENT 
 
-事件具体信息列表 
+�¼�������Ϣ�б� 
 
 Name 
 
@@ -11443,19 +11443,19 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-题目 
+��Ŀ 
 
-开始时间 
-结束时间 
-提醒的标识 
-提醒时间 
-工作类型 
+��ʼʱ�� 
+����ʱ�� 
+���ѵı�ʶ 
+����ʱ�� 
+�������� 
 
-事件类型 
+�¼����� 
 
-重要程度 
+��Ҫ�̶� 
 
 ID 
 SUBJECT 
@@ -11493,7 +11493,7 @@ Lo ng inte g e r
 
 FALSE 
 
-优先级类型 
+���ȼ����� 
 
 PR IOR IT Y_T YP
 E 
@@ -11502,7 +11502,7 @@ Lo ng inte g e r
 
 FALSE 
 
-共享类型 
+�������� 
 
 SHARE_T YPE 
 
@@ -11517,47 +11517,47 @@ y
 T RUE 
 T RUE 
 
-主键 id 
+���� id 
 
-题目 
+��Ŀ 
 
-开始时间 
-结束时间 
-提醒标识(1:有提醒,0 :无提醒) 
-提醒时间 
-工作类型（1.自办 2.督办 3 .协
-办） 
-事件类型（0.初试状态 1.已安
-排 2.已委托） 
-重要程度（1.重要紧急 2 .不重
-要紧急 3.重要不紧急 4 .不重
-要不紧急） 
-优先级类型（1.低 2.中 3 .高）
-[永远是默认值 1] 
-共享类型（1.私人事件 2 .公开
-事件 3.共享给上级 4.共享给
-下级 5.共享给部门 6.共享给
-项目 7.秘书和助手） 
+��ʼʱ�� 
+����ʱ�� 
+���ѱ�ʶ(1:������,0 :������) 
+����ʱ�� 
+�������ͣ�1.�԰� 2.���� 3 .Э
+�죩 
+�¼����ͣ�0.����״̬ 1.�Ѱ�
+�� 2.��ί�У� 
+��Ҫ�̶ȣ�1.��Ҫ���� 2 .����
+Ҫ���� 3.��Ҫ������ 4 .����
+Ҫ�������� 
+���ȼ����ͣ�1.�� 2.�� 3 .�ߣ�
+[��Զ��Ĭ��ֵ 1] 
+�������ͣ�1.˽���¼� 2 .����
+�¼� 3.������ϼ� 4.�����
+�¼� 5.��������� 6.�����
+��Ŀ 7.��������֣� 
 
-共享对象
+�������
 
 NAME 
 
-接受的对象 ID 
+���ܵĶ��� ID 
 
-实际完成时间 
+ʵ�����ʱ�� 
 
-事件完成类型 
+�¼�������� 
 
-事件当前类型标
-识 
-完成率 
+�¼���ǰ���ͱ�
+ʶ 
+����� 
 
-创建者 
+������ 
 
-创建时间 
-更新时间 
-是否有附件 
+����ʱ�� 
+����ʱ�� 
+�Ƿ��и��� 
 
 SHARE_T ARGE
 T 
@@ -11575,15 +11575,15 @@ Flo a t
 
 FALSE 
 
-共享对象 name 
+������� name 
 
 FALSE 
 
-接受的对象 id 
+���ܵĶ��� id 
 
 FALSE 
 
-实际完成时间 
+ʵ�����ʱ�� 
 
 Lo ng inte g e r 
 
@@ -11608,26 +11608,26 @@ Numb e r (19)
 
 Lo ng inte g e r 
 
-事件完成类型（1.未安排 2.已
-安排 3.进行中 4.已完成） 
-事件当前类型标识（0.初试状
-态 1.已安排 2.已委托） 
-完成率 
+�¼�������ͣ�1.δ���� 2.��
+���� 3.������ 4.����ɣ� 
+�¼���ǰ���ͱ�ʶ��0.����״
+̬ 1.�Ѱ��� 2.��ί�У� 
+����� 
 
 T RUE 
 
 FALSE 
 
-创建者 
+������ 
 
 FALSE 
 FALSE 
 FALSE 
 
-创建时间 
-更新时间 
-是否有附件(1:有附件,0 :无附
-件，默认:0) 
+����ʱ�� 
+����ʱ�� 
+�Ƿ��и���(1:�и���,0 :�޸�
+����Ĭ��:0) 
 
 Powe rDe s ig ne r 
 
@@ -11639,11 +11639,11 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-事件接收者 ID 
+�¼������� ID 
 
 RECEIVE_MEM
 BER_ID 
-事件接收者名字 RECEIVE_MEM
+�¼����������� RECEIVE_MEM
 BER_NAME 
 FROM_T YPE 
 
@@ -11653,17 +11653,17 @@ T e xt
 
 FALSE 
 
-事件接收者 id 
+�¼������� id 
 
 FALSE 
 
-事件接收者名字 
+�¼����������� 
 
 Numb e r (3) 
 
 FALSE 
 
-其他模块转日程的类型 
+����ģ��ת�ճ̵����� 
 
 FROM_ID 
 
@@ -11671,27 +11671,27 @@ Lo ng inte g e r
 
 FALSE 
 
-其他模块转日程的 id 
+����ģ��ת�ճ̵� id 
 
 Lo ng inte g e r 
 
 FALSE 
 
-时间类型(0.业务 1.管理 2.个
+ʱ������(0.ҵ�� 1.���� 2.��
 
-其他模块转日程
-的类型 
-其他模块转日程
+����ģ��ת�ճ�
+������ 
+����ģ��ת�ճ�
 
-的 ID 
+�� ID 
 
-时间类型 
+ʱ������ 
 
-提前提醒时间 
+��ǰ����ʱ�� 
 
-周期类型 
+�������� 
 
-区分委托 
+����ί�� 
 
 CAL_EVENT _T
 YPE 
@@ -11715,22 +11715,22 @@ Sho rt inte g e r
 
 FALSE 
 
-人 3.其它 ) 
+�� 3.���� ) 
 
-提前提醒时间 
+��ǰ����ʱ�� 
 
-周期类型(0:无；1:按天；2 :按
-周；3:按月；4:按年) 
-是用于区分委托、安排事件,0
-代表安排事件，1 代表委托事
-件 
-周期性事件 
+��������(0:�ޣ�1:���죻2 :��
+�ܣ�3:���£�4:����) 
+����������ί�С������¼�,0
+�������¼���1 ����ί����
+�� 
+�������¼� 
 
-周期性事件 
+�������¼� 
 
-创建人创建事件
-对应的公司 ID 
-来自表单 ID 
+�����˴����¼�
+��Ӧ�Ĺ�˾ ID 
+���Ա� ID 
 
 PER IOD ICAL_C
 H ILD_ID 
@@ -11747,24 +11747,24 @@ Lo ng inte g e r
 
 FALSE 
 
-创建人创建事件对应的公司
+�����˴����¼���Ӧ�Ĺ�˾
 
 Lo ng inte g e r 
 
 FALSE 
 
-来自表单 ID 
+���Ա� ID 
 
 ID 
 
-I.103 事件内容信息列表 
+I.103 �¼�������Ϣ�б� 
 
 Code 
 Comment 
 
 CAL_CONTENT 
 
-事件内容信息列表 
+�¼�������Ϣ�б� 
 
 Name 
 
@@ -11772,12 +11772,12 @@ Code
 
 Data Type 
 
-主键 ID 
-事件 ID 
+���� ID 
+�¼� ID 
 
-正文 
-创建时间 
-正文类型 
+���� 
+����ʱ�� 
+�������� 
 
 ID 
 Lo ng inte g e r 
@@ -11801,21 +11801,21 @@ FALSE
 
 Comment 
 
-主键 id 
-事件 id    
+���� id 
+�¼� id    
 
-正文 
-创建时间 
-正文类型（弃用） 
+���� 
+����ʱ�� 
+�������ͣ����ã� 
 
-I.104 事件周期性生成单个信息表 
+I.104 �¼����������ɵ�����Ϣ�� 
 
 Code 
 Comment 
 
 CAL_EVENT_PERIODICAL_RELATION 
 
-事件周期性生成单个信息表 
+�¼����������ɵ�����Ϣ�� 
 
 Name 
 
@@ -11823,11 +11823,11 @@ Code
 
 Data Type 
 
-主键 ID 
-事件 ID 
+���� ID 
+�¼� ID 
 
-时间线要显示的
-类型 
+ʱ����Ҫ��ʾ��
+���� 
 
 ID 
 CAL_EVENT _ID 
@@ -11847,12 +11847,12 @@ FALSE
 
 Comment 
 
-主键 id 
-事件 id 
+���� id 
+�¼� id 
 
-时间线要显示的类型[更名
+ʱ����Ҫ��ʾ������[����
 
-为：CAL_T IME_LINE] [同
+Ϊ��CAL_T IME_LINE] [ͬ
 Ap p lica tio nCa te g o ryEnum] 
 
 Powe rDe s ig ne r 
@@ -11865,11 +11865,11 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-创建时间 
+����ʱ�� 
 
-人员 ID 
+��Ա ID 
 
-时间线所属人 
+ʱ���������� 
 
 CREAT E_DAT E Da te & T ime 
 MEMBER_ID 
@@ -11882,20 +11882,20 @@ T RUE
 T RUE 
 T RUE 
 
-创建时间 
+����ʱ�� 
 
-人员 id 
+��Ա id 
 
-时间线所属人 
+ʱ���������� 
 
-I.105 事件周期性表 
+I.105 �¼������Ա� 
 
 Code 
 Comment 
 
 CAL_EVENT_PERIODICAL_INFO 
 
-事件周期性表 
+�¼������Ա� 
 
 Name 
 
@@ -11933,25 +11933,25 @@ Va ria b le
 cha ra c te rs (20) 
 Inte g e r 
 
-周期事件 ID 
-事件类型 
+�����¼� ID 
+�¼����� 
 
-每月的日周期 
-每周的日周期 
-周周期 
-月周期 
+ÿ�µ������� 
+ÿ�ܵ������� 
+������ 
+������ 
 
-事件 ID 
-人员 ID 
+�¼� ID 
+��Ա ID 
 
-开始时间 
-结束时间 
-周几 
+��ʼʱ�� 
+����ʱ�� 
+�ܼ� 
 
-用户选择按月提
-醒 
-用户选择按年提
-醒 
+�û�ѡ������
+�� 
+�û�ѡ������
+�� 
 
 Mandator
 y 
@@ -11972,25 +11972,25 @@ FALSE
 
 Comment 
 
-周期事件 id 
-事件类型 
+�����¼� id 
+�¼����� 
 
-每月的日周期 
-每周的日周期 
-周周期 
-月周期 
+ÿ�µ������� 
+ÿ�ܵ������� 
+������ 
+������ 
 
-事件 id 
-人员 id 
+�¼� id 
+��Ա id 
 
-开始时间 
-结束时间 
-周几 
+��ʼʱ�� 
+����ʱ�� 
+�ܼ� 
 
-用户选择按月提醒，默认为每
-月当前号提醒 
-用户选择按年提醒，默认为每
-年当前月当前号提醒 
+�û�ѡ�������ѣ�Ĭ��Ϊÿ
+�µ�ǰ������ 
+�û�ѡ�������ѣ�Ĭ��Ϊÿ
+�굱ǰ�µ�ǰ������ 
 
 SW IT HYEAR 
 
@@ -11998,14 +11998,14 @@ Inte g e r
 
 FALSE 
 
-I.106 事件回复信息列表 
+I.106 �¼��ظ���Ϣ�б� 
 
 Code 
 Comment 
 
 CAL_REPLY 
 
-事件回复信息列表 
+�¼��ظ���Ϣ�б� 
 
 Name 
 
@@ -12013,18 +12013,18 @@ Code
 
 Data Type 
 
-主键 ID 
-事件 ID 
+���� ID 
+�¼� ID 
 
-日程类型 
+�ճ����� 
 
-回复内容 
-回复者 ID 
+�ظ����� 
+�ظ��� ID 
 
-回复选项 
+�ظ�ѡ�� 
 
-回复时间 
-扩展字段名 1 
+�ظ�ʱ�� 
+��չ�ֶ��� 1 
 
 ID 
 EVENT _ID 
@@ -12042,10 +12042,10 @@ T RUE
 
 Comment 
 
-主键 id 
-事件 id 
+���� id 
+�¼� id 
 
-日程类型(同
+�ճ�����(ͬ
 
 REPLY_INFO 
 REPLY_USER_I
@@ -12061,11 +12061,11 @@ Lo ng inte g e r
 FALSE 
 T RUE 
 
-Ap p lica tio nCa te g o ryEnum，
+Ap p lica tio nCa te g o ryEnum��
 
-默认为:11,日程事件) 
-回复内容 
-回复者 id 
+Ĭ��Ϊ:11,�ճ��¼�) 
+�ظ����� 
+�ظ��� id 
 
 Va ria b le 
 cha ra c te rs (50) 
@@ -12075,13 +12075,13 @@ cha ra c te rs (50)
 
 FALSE 
 
-回复选项 
+�ظ�ѡ�� 
 
 T RUE 
 FALSE 
 
-回复时间 
-扩展字段名 1 
+�ظ�ʱ�� 
+��չ�ֶ��� 1 
 
 Powe rDe s ig ne r 
 
@@ -12093,7 +12093,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-扩展字段 2 
+��չ�ֶ� 2 
 
 EXT 2 
 
@@ -12102,16 +12102,16 @@ cha ra c te rs (50)
 
 FALSE 
 
-扩展字段 2 
+��չ�ֶ� 2 
 
-I.107 事件安排委托转发信息列表 
+I.107 �¼�����ί��ת����Ϣ�б� 
 
 Code 
 Comment 
 
 CAL_EVENT_TRAN 
 
-事件安排委托转发信息列表 
+�¼�����ί��ת����Ϣ�б� 
 
 Name 
 
@@ -12119,17 +12119,17 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-实体的 ID 
+ʵ��� ID 
 
-事件 ID 
+�¼� ID 
 
-事件创建者的
+�¼������ߵ�
 
 ID 
 
-事件类型 
+�¼����� 
 
 ID 
 EVENT _ID 
@@ -12149,17 +12149,17 @@ T RUE
 T RUE 
 T RUE 
 
-主键 id 
+���� id 
 
-实体的 id 
+ʵ��� id 
 
-事件 id 
+�¼� id 
 
 Lo ng inte g e r 
 
 FALSE 
 
-事件创建者的 id 
+�¼������ߵ� id 
 
 ENT IT Y_ID 
 
@@ -12167,7 +12167,7 @@ Lo ng inte g e r
 
 FALSE 
 
-接收者 ID 
+������ ID 
 
 RECEIVE_ID 
 
@@ -12175,18 +12175,18 @@ Lo ng inte g e r
 
 FALSE 
 
-事件类型（1.安排 2.委托 3 .共
-享部门 4.共享项目） 
-接收者 id 
+�¼����ͣ�1.���� 2.ί�� 3 .��
+���� 4.������Ŀ�� 
+������ id 
 
-I.108 事件时间线 
+I.108 �¼�ʱ���� 
 
 Code 
 Comment 
 
 CAL_TIME_LINE 
 
-事件时间线 
+�¼�ʱ���� 
 
 Name 
 
@@ -12206,14 +12206,14 @@ cha ra c te rs (50)
 Va ria b le 
 cha ra c te rs (50) 
 
-主键 ID 
+���� ID 
 
-时间线上班时间
-点 
-时间线下班时间
-点 
-创建时间 
-类型 
+ʱ�����ϰ�ʱ��
+�� 
+ʱ�����°�ʱ��
+�� 
+����ʱ�� 
+���� 
 
 Mandator
 y 
@@ -12222,13 +12222,13 @@ T RUE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-时间线上班时间点 
+ʱ�����ϰ�ʱ��� 
 
 T RUE 
 
-时间线下班时间点 
+ʱ�����°�ʱ��� 
 
 CREAT E_DAT E Da te & T ime 
 T IME_LINE_T Y
@@ -12239,12 +12239,12 @@ cha ra c te rs (50)
 T RUE 
 FALSE 
 
-创建时间 
-类型(1:计划，2:会议， 3 :任
-务，4:事件，5:协同,6:公文 ) 
-时间线所属人 
+����ʱ�� 
+����(1:�ƻ���2:���飬 3 :��
+��4:�¼���5:Эͬ,6:���� ) 
+ʱ���������� 
 
-时间线所属人 
+ʱ���������� 
 
 CREAT E_USER
 _ID 
@@ -12253,14 +12253,14 @@ Lo ng inte g e r
 
 T RUE 
 
-I.109 事项统计调度中间表 
+I.109 ����ͳ�Ƶ����м�� 
 
 Code 
 Comment 
 
 RPT_MATTER_REPORT 
 
-事项统计调度中间表 
+����ͳ�Ƶ����м�� 
 
 Name 
 
@@ -12268,9 +12268,9 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-用户名 
+�û��� 
 
 ID 
 NAME 
@@ -12286,9 +12286,9 @@ y
 T RUE 
 FALSE 
 
-主键 ID 
+���� ID 
 
-用户名 
+�û��� 
 
 Powe rDe s ig ne r 
 
@@ -12300,17 +12300,17 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-部门名称 
+�������� 
 
-用户 ID 
-部门 ID 
+�û� ID 
+���� ID 
 
-计划数 
-任务数 
-事件数 
-会议数 
-合计 
-日期 
+�ƻ��� 
+������ 
+�¼��� 
+������ 
+�ϼ� 
+���� 
 
 DEPARTMENT _
 NAME 
@@ -12338,7 +12338,7 @@ Da te & T ime
 
 FALSE 
 
-部门名称 
+�������� 
 
 FALSE 
 FALSE 
@@ -12350,17 +12350,17 @@ FALSE
 FALSE 
 FALSE 
 
-用户 ID 
-部门 ID 
+�û� ID 
+���� ID 
 
-计划数 
-任务数 
-事件数 
-会议数 
-合计 
-日期 
+�ƻ��� 
+������ 
+�¼��� 
+������ 
+�ϼ� 
+���� 
 
-I.110 云应用中心 
+I.110 ��Ӧ������ 
 
 Code 
 Comment 
@@ -12408,18 +12408,18 @@ EXPAND_S2
 EXPAND_L1 
 EXPAND_L2 
 
-用户在云应用中
+�û�����Ӧ����
 
 EXPAND_L1 
 EXPAND_L2 
 MALLID 
 
-心 ID 
-云应用中心账号 MALL_ACCOUN
+�� ID 
+��Ӧ�������˺� MALL_ACCOUN
 T 
 IS_ADMIN 
 
-是否是云管理员 
+�Ƿ����ƹ���Ա 
 
 Lo ng inte g e r 
 Lo ng inte g e r 
@@ -12474,23 +12474,23 @@ FALSE
 
 Comment 
 
-用户在云应用中心 ID 
+�û�����Ӧ������ ID 
 
 FALSE 
 
-云应用中心账号 
+��Ӧ�������˺� 
 
 FALSE 
 
-是否系统管理员 SYST EMADMIN Sho rt inte g e r 
+�Ƿ�ϵͳ����Ա SYST EMADMIN Sho rt inte g e r 
 
 FALSE 
 
-主岗单位 
+���ڵ�λ 
 
 ORG_ACCOUN
 T _ID 
-是否单位管理员 ADMIN IST RAT O
+�Ƿ�λ����Ա ADMIN IST RAT O
 R 
 
 Lo ng inte g e r 
@@ -12501,7 +12501,7 @@ Sho rt inte g e r
 
 FALSE 
 
-服务验证码 
+������֤�� 
 
 SERVICE_COD
 E 
@@ -12511,15 +12511,15 @@ cha ra c te rs (50)
 
 FALSE 
 
-是否是云管理员 0：普通用户 
-1：云管理员 
-系统管理员 0：不是系统管理
-员 1：是系统管理员 
-主岗单位 
+�Ƿ����ƹ���Ա 0����ͨ�û� 
+1���ƹ���Ա 
+ϵͳ����Ա 0������ϵͳ����
+Ա 1����ϵͳ����Ա 
+���ڵ�λ 
 
-单位管理员 0：不是单位管理
-员 1：单位管理员 
-服务验证码 
+��λ����Ա 0�����ǵ�λ����
+Ա 1����λ����Ա 
+������֤�� 
 
 Powe rDe s ig ne r 
 
@@ -12531,14 +12531,14 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-I.111 人 
+I.111 �� 
 
 Code 
 Comment 
 
 ORG_MEMBER 
 
-人 
+�� 
 
 Name 
 
@@ -12546,22 +12546,22 @@ Code
 
 Data Type 
 
-主键 
-姓名 
+���� 
+���� 
 
-编号 
+��� 
 
 ID 
 NAME 
 
 CODE 
 
-是否是内部 
-是否可以登录 
-是否是虚拟账号 
-是否是管理员 
-是否被分配 
-人员类型 
+�Ƿ����ڲ� 
+�Ƿ���Ե�¼ 
+�Ƿ��������˺� 
+�Ƿ��ǹ���Ա 
+�Ƿ񱻷��� 
+��Ա���� 
 
 IS_INT ERNAL 
 IS_LOGINABLE 
@@ -12594,22 +12594,22 @@ Lo ng inte g e r
 Lo ng inte g e r 
 Lo ng inte g e r 
 
-人员状态 
-是否启用 
-是否被删除 
-状态 
+��Ա״̬ 
+�Ƿ����� 
+�Ƿ�ɾ�� 
+״̬ 
 
-排序 
-主岗部门 
+���� 
+���ڲ��� 
 
-主岗岗位 
-主岗职务级别 
-主岗单位 
+���ڸ�λ 
+����ְ�񼶱� 
+���ڵ�λ 
 
-描述 
+���� 
 
-创建时间 
-更新时间 
+����ʱ�� 
+����ʱ�� 
 
 EXT _AT T R_1 
 
@@ -12685,21 +12685,16 @@ y
 T RUE 
 FALSE 
 
-主键 id 
+���� id 
 
-姓名 
-
-FALSE 
-
-编号 
+���� 
 
 FALSE 
-FALSE 
-FALSE 
-FALSE 
-FALSE 
-FALSE 
 
+��� 
+
+FALSE 
+FALSE 
 FALSE 
 FALSE 
 FALSE 
@@ -12707,71 +12702,76 @@ FALSE
 
 FALSE 
 FALSE 
+FALSE 
+FALSE 
+
+FALSE 
+FALSE 
 
 FALSE 
 FALSE 
 FALSE 
 
-是否是内部 1:是 0:否 
-是否可以登录 1:是 0:否 
-是否是虚拟账号 1:是 0:否 
-是否是管理员 1:是 0:否 
-是否被分配 1:是 0:否 
-枚举：正式/非正式/ .. 1：正式 
-2：非正式 
-在职/离职 1：在职 2：离职 
-是否启用 1:启用 0 停用 
-是否被删除 1:删除  0:未删除 
-枚举：在职/离职/ ..(此字段作
+�Ƿ����ڲ� 1:�� 0:�� 
+�Ƿ���Ե�¼ 1:�� 0:�� 
+�Ƿ��������˺� 1:�� 0:�� 
+�Ƿ��ǹ���Ա 1:�� 0:�� 
+�Ƿ񱻷��� 1:�� 0:�� 
+ö�٣���ʽ/����ʽ/ .. 1����ʽ 
+2������ʽ 
+��ְ/��ְ 1����ְ 2����ְ 
+�Ƿ����� 1:���� 0 ͣ�� 
+�Ƿ�ɾ�� 1:ɾ��  0:δɾ�� 
+ö�٣���ְ/��ְ/ ..(���ֶ���
 
-废) 
+��) 
 
-排序 
-主岗部门 
+���� 
+���ڲ��� 
 
-主岗岗位 
-主岗职务级别 
-主岗单位 
-
-FALSE 
-
-描述 
-
-FALSE 
-FALSE 
-FALSE 
-
-创建时间 
-更新时间 
-预留字段 
+���ڸ�λ 
+����ְ�񼶱� 
+���ڵ�λ 
 
 FALSE 
 
-预留字段 
+���� 
+
+FALSE 
+FALSE 
+FALSE 
+
+����ʱ�� 
+����ʱ�� 
+Ԥ���ֶ� 
 
 FALSE 
 
-预留字段 
+Ԥ���ֶ� 
 
 FALSE 
 
-预留字段 
+Ԥ���ֶ� 
 
 FALSE 
 
-预留字段 
+Ԥ���ֶ� 
 
 FALSE 
 
-预留字段 
+Ԥ���ֶ� 
 
 FALSE 
 
-预留字段 
+Ԥ���ֶ� 
 
 FALSE 
 
-预留字段 
+Ԥ���ֶ� 
+
+FALSE 
+
+Ԥ���ֶ� 
 
 Powe rDe s ig ne r 
 
@@ -12825,7 +12825,7 @@ EXT _AT T R_37 EXT _AT T R_37
 EXT ERNAL_T Y
 PE 
 
-内外标识 
+�����ʶ 
 
 Va ria b le 
 cha ra c te rs (1024) 
@@ -12868,11 +12868,11 @@ Sho rt inte g e r
 
 FALSE 
 
-预留字段 
+Ԥ���ֶ� 
 
 FALSE 
 
-预留字段 
+Ԥ���ֶ� 
 
 FALSE 
 FALSE 
@@ -12896,56 +12896,56 @@ FALSE
 FALSE 
 FALSE 
 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
-预留字段 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
+Ԥ���ֶ� 
 
 FALSE 
 
-预留字段 
+Ԥ���ֶ� 
 
 FALSE 
 
-预留字段 
+Ԥ���ֶ� 
 
 FALSE 
 
-预留字段 
+Ԥ���ֶ� 
 
 FALSE 
 
-预留字段 
+Ԥ���ֶ� 
 
 FALSE 
 
-预留字段 
+Ԥ���ֶ� 
 
 FALSE 
 FALSE 
 
-预留字段 
-内外标识(0：V5 人员，外部
-人员；1：互联平台外部人员) 
+Ԥ���ֶ� 
+�����ʶ(0��V5 ��Ա���ⲿ
+��Ա��1������ƽ̨�ⲿ��Ա) 
 
-I.112 人员同步日志表 
+I.112 ��Աͬ����־�� 
 
 Code 
 Comment 
@@ -12958,8 +12958,8 @@ Code
 
 Data Type 
 
-主键 
-人员主键 
+���� 
+��Ա���� 
 
 ID 
 ORG_MEMBER
@@ -12975,8 +12975,8 @@ y
 T RUE 
 FALSE 
 
-主键 
-人员主键 
+���� 
+��Ա���� 
 
 Powe rDe s ig ne r 
 
@@ -12988,7 +12988,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-同步状态 
+ͬ��״̬ 
 
 ST AT US 
 
@@ -12996,12 +12996,12 @@ Sho rt inte g e r
 
 FALSE 
 
-失败原因 
+ʧ��ԭ�� 
 
 FAIL_REASON 
 
-单位同步日志主
-键 
+��λͬ����־��
+�� 
 
 ACCOUNT _SYN
 _LOG 
@@ -13010,26 +13010,26 @@ Va ria b le
 cha ra c te rs (255) 
 Lo ng inte g e r 
 
-同步状态：0:失败 
-成功 
-失败原因 
+ͬ��״̬��0:ʧ�� 
+�ɹ� 
+ʧ��ԭ�� 
 
-1：
-
-FALSE 
+1��
 
 FALSE 
 
-单位同步日志主键 
+FALSE 
 
-I.113 人员映射表 
+��λͬ����־���� 
+
+I.113 ��Աӳ��� 
 
 Code 
 Comment 
 
 VOUCHER_MEMBERMAPPER 
 
-人员映射表 
+��Աӳ��� 
 
 Name 
 
@@ -13037,11 +13037,11 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-账套参数对象主
-键 
-A8 人员主键 
+���ײ���������
+�� 
+A8 ��Ա���� 
 
 ID 
 ACCOUNT ID 
@@ -13053,23 +13053,23 @@ Lo ng inte g e r
 
 ORGMEMBER I
 D 
-第三方人员名称 ERP_PERSONN
+��������Ա���� ERP_PERSONN
 Va ria b le 
 AME 
 cha ra c te rs (255) 
-第三方人员编码 ERP_PERSONC
+��������Ա���� ERP_PERSONC
 Va ria b le 
 ODE 
 cha ra c te rs (50) 
-第三方人员主键 ERP_PERSON I
+��������Ա���� ERP_PERSON I
 Va ria b le 
 D 
 cha ra c te rs (50) 
-第三方部门名称 ERP_DEPT NAM
+�������������� ERP_DEPT NAM
 Va ria b le 
 E 
 cha ra c te rs (255) 
-第三方单位名称 ERP_UN IT NAM
+��������λ���� ERP_UN IT NAM
 Va ria b le 
 E 
 cha ra c te rs (255) 
@@ -13088,25 +13088,25 @@ cha ra c te rs (255)
 Va ria b le 
 cha ra c te rs (255) 
 
-创建时间 
-更新时间 
-备用字段 1 
+����ʱ�� 
+����ʱ�� 
+�����ֶ� 1 
 
 EXT _AT T R3 
 
-备用字段 2 
+�����ֶ� 2 
 
 EXT _AT T R2 
 
-备用字段 5 
+�����ֶ� 5 
 
 EXT _AT T R5 
 
-备用字段 4 
+�����ֶ� 4 
 
 EXT _AT T R4 
 
-备用字段 3 
+�����ֶ� 3 
 
 Mandator
 y 
@@ -13115,66 +13115,66 @@ FALSE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-账套参数对象主键 
-
-FALSE 
-
-A8 人员主键 
+���ײ����������� 
 
 FALSE 
 
-第三方人员名称 
+A8 ��Ա���� 
 
 FALSE 
 
-第三方人员编码 
+��������Ա���� 
 
 FALSE 
 
-第三方人员主键 
+��������Ա���� 
 
 FALSE 
 
-第三方部门名称 
+��������Ա���� 
 
 FALSE 
 
-第三方单位名称 
+�������������� 
+
+FALSE 
+
+��������λ���� 
 
 FALSE 
 FALSE 
 FALSE 
 
-创建时间 
-更新时间 
-备用字段 1 
+����ʱ�� 
+����ʱ�� 
+�����ֶ� 1 
 
 FALSE 
 
-备用字段 2 
+�����ֶ� 2 
 
 FALSE 
 
-备用字段 3 
+�����ֶ� 3 
 
 FALSE 
 
-备用字段 4 
+�����ֶ� 4 
 
 FALSE 
 
-备用字段 5 
+�����ֶ� 5 
 
-I.114 人员账号表 
+I.114 ��Ա�˺ű� 
 
 Code 
 Comment 
 
 ORG_PRINCIPAL 
 
-人员账号表 
+��Ա�˺ű� 
 
 Name 
 
@@ -13182,7 +13182,7 @@ Code
 
 Data Type 
 
-主键 
+���� 
 
 ID 
 
@@ -13192,7 +13192,7 @@ Mandator
 y 
 T RUE 
 
-主键 
+���� 
 
 Comment 
 
@@ -13206,19 +13206,19 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-登录名 
+��¼�� 
 
-密码值 
+����ֵ 
 
-加密策略 
+���ܲ��� 
 
-密码超期时间 
+���볬��ʱ�� 
 
-人员 ID 
+��Ա ID 
 
-是否有效 
-创建时间 
-更新时间 
+�Ƿ���Ч 
+����ʱ�� 
+����ʱ�� 
 
 LOGIN_NAME 
 
@@ -13244,14 +13244,14 @@ CREAT E_T IME
 Da te & T ime 
 UPDAT E_T IME Da te & T ime 
 
-I.115 代理设置应用表 
+I.115 ��������Ӧ�ñ� 
 
 Code 
 Comment 
 
 AGENT 
 
-代理设置应用表 
+��������Ӧ�ñ� 
 
 Name 
 
@@ -13269,30 +13269,30 @@ CREAT E_DAT E Da te & T ime
 
 FALSE 
 
-登录名 
+��¼�� 
 
 FALSE 
 
-密码值 
+����ֵ 
 
 FALSE 
 
-加密策略 
+���ܲ��� 
 
 FALSE 
 
-密码超期时间 
+���볬��ʱ�� 
 
 FALSE 
 FALSE 
 FALSE 
 FALSE 
 
-人员 Id 
+��Ա Id 
 
-是否有效  1:启用 0 停用 
-创建时间 
-更新时间 
+�Ƿ���Ч  1:���� 0 ͣ�� 
+����ʱ�� 
+����ʱ�� 
 
 Mandator
 y 
@@ -13303,11 +13303,11 @@ FALSE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-代理人 ID 
-被代理人 ID 
-代理信息创建时间 
+������ ID 
+�������� ID 
+������Ϣ����ʱ�� 
 
 ST ART _DAT E 
 
@@ -13315,7 +13315,7 @@ Da te & T ime
 
 FALSE 
 
-代理期限开始时间 
+�������޿�ʼʱ�� 
 
 END_DAT E 
 
@@ -13323,49 +13323,49 @@ Da te & T ime
 
 FALSE 
 
-代理期限结束时间 
+�������޽���ʱ�� 
 
 CANCEL_DAT E Da te & T ime 
 
 FALSE 
 
-代理信息取消时间 
+������Ϣȡ��ʱ�� 
 
-主键 ID 
+���� ID 
 
-代理人 ID 
-被代理人 ID 
-代理信息创建时
-间 
-代理期限开始时
-间 
-代理期限结束时
-间 
-代理信息取消时
-间 
-代理选项 
+������ ID 
+�������� ID 
+������Ϣ����ʱ
+�� 
+�������޿�ʼʱ
+�� 
+�������޽���ʱ
+�� 
+������Ϣȡ��ʱ
+�� 
+����ѡ�� 
 
-取消标记 
-是否提醒 
-是否有代理提醒
+ȡ����� 
+�Ƿ����� 
+�Ƿ��д�������
 
 1 
 
-是否有代理提醒
+�Ƿ��д�������
 
 2 
 
-代理类型 
+�������� 
 
-代理人所属单位
+������������λ
 
 ID 
 
-被代理人所属单
+��������������
 
-位 ID 
+λ ID 
 
-操作类型 
+�������� 
 
 AGENT _OPT IO
 N 
@@ -13387,7 +13387,7 @@ T ION
 
 FALSE 
 
-代理选项 
+����ѡ�� 
 
 Va ria b le 
 cha ra c te rs (50) 
@@ -13403,29 +13403,29 @@ Sho rt inte g e r
 
 FALSE 
 
-取消标记，0-未取消 1-已取消 
-是否提醒（未使用） 
-是否有代理提醒 ，0-没有提
-醒 1-有提醒 
-是否有代理提醒 ，0-没有提
-醒 1-有提醒 
-代理类型 ，1-代理设置  2-离
-职交接 
-代理人所属单位 id   
+ȡ����ǣ�0-δȡ�� 1-��ȡ�� 
+�Ƿ����ѣ�δʹ�ã� 
+�Ƿ��д������� ��0-û����
+�� 1-������ 
+�Ƿ��д������� ��0-û����
+�� 1-������ 
+�������� ��1-��������  2-��
+ְ���� 
+������������λ id   
 
 Lo ng inte g e r 
 
 FALSE 
 
-被代理人所属单位 id 
+��������������λ id 
 
 Sho rt inte g e r 
 
 FALSE 
 
-操作类型 （0：被代理人自
-己； 1：集团管理员 ；2：单
-位管理员 ） 
+�������� ��0������������
+���� 1�����Ź���Ա ��2����
+λ����Ա �� 
 
 AGENT _T YPE 
 
@@ -13445,14 +13445,14 @@ Pa g e 63
 
 Lo g ica l Da ta Mo de l 
 
-I.116 代理详细表 
+I.116 ������ϸ�� 
 
 Code 
 Comment 
 
 AGENT_DETAIL 
 
-代理详细表 
+������ϸ�� 
 
 CT P2.0 
 
@@ -13462,12 +13462,12 @@ Code
 
 Data Type 
 
-主键 ID 
-代理 ID 
+���� ID 
+���� ID 
 
-应用 
+Ӧ�� 
 
-实体 ID 
+ʵ�� ID 
 
 ID 
 AGENT _ID 
@@ -13488,21 +13488,21 @@ FALSE
 T RUE 
 FALSE 
 
-主键 ID 
-代理 ID 
+���� ID 
+���� ID 
 
-应用 
+Ӧ�� 
 
-实体 ID 
+ʵ�� ID 
 
-I.117 任务事项历史表（转储时） 
+I.117 ����������ʷ��ת��ʱ�� 
 
 Code 
 Comment 
 
 WF_WORKITEM_HISTORY_HIS 
 
-任务事项历史表（转储时） 
+����������ʷ��ת��ʱ�� 
 
 Name 
 
@@ -13520,104 +13520,104 @@ T RUE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-流程实例主键 
-批次 
-任务事项数目 
-所属引擎域 
-
-FALSE 
-
-任务事项名称 
+����ʵ������ 
+���� 
+����������Ŀ 
+���������� 
 
 FALSE 
 
-流程实例名称 
+������������ 
+
+FALSE 
+
+����ʵ������ 
 
 T RUE 
 
-流程模版 ID 
+����ģ�� ID 
 
 T RUE 
 
-流程模版索引 
+����ģ������ 
 
 FALSE 
 
-流程模版名称 
+����ģ������ 
 
 T RUE 
 
-所属节点 id 
+�����ڵ� id 
 
 FALSE 
 
-所属节点名称 
+�����ڵ����� 
 
 FALSE 
 
-执行人 
+ִ���� 
 
 FALSE 
 
-完成人 
+����� 
 
 FALSE 
 
-所属人 
+������ 
 
 FALSE 
 
-委托人 
+ί���� 
 
 FALSE 
 
-代理人 
+������ 
 
 T RUE 
 T RUE 
 
 le ve lnum 
 
-是否可以重新分配 
+�Ƿ�������·��� 
 
-0:否 
+0:�� 
 
-主键 
-流程实例主键 
-批次 
-任务事项数目 
-所属引擎域 
+���� 
+����ʵ������ 
+���� 
+����������Ŀ 
+���������� 
 
-任务事项名称 
+������������ 
 
-流程实例名称 
+����ʵ������ 
 
-流程模版 ID 
+����ģ�� ID 
 
-流程模版索引 
+����ģ������ 
 
-流程模版名称 
+����ģ������ 
 
-所属节点 ID 
+�����ڵ� ID 
 
-所属节点名称 
+�����ڵ����� 
 
-执行人 
+ִ���� 
 
-完成人 
+����� 
 
-所属人 
+������ 
 
-委托人 
+ί���� 
 
-代理人 
+������ 
 
 LEVELNUM 
 
-是否可以重新分
-配 
+�Ƿ�������·�
+�� 
 
 NAME 
 
@@ -13693,7 +13693,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-是否可以回退 
+�Ƿ���Ի��� 
 
 CANRET URN 
 
@@ -13701,14 +13701,14 @@ Inte g e r
 
 T RUE 
 
-是否可以回退 
+�Ƿ���Ի��� 
 
-1:是 
+1:�� 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
-是否可以代理 
+�Ƿ���Դ��� 
 
 CANDELEGAT E 
 
@@ -13716,9 +13716,9 @@ Inte g e r
 
 T RUE 
 
-是否可以代理 
+�Ƿ���Դ��� 
 
-是否可以委托 
+�Ƿ����ί�� 
 
 CANENT RUST 
 
@@ -13726,9 +13726,9 @@ Inte g e r
 
 T RUE 
 
-是否可以委托 
+�Ƿ����ί�� 
 
-是否可以查看 
+�Ƿ���Բ鿴 
 
 CANREVIEW 
 
@@ -13736,26 +13736,26 @@ Inte g e r
 
 T RUE 
 
-是否可以查看 
+�Ƿ���Բ鿴 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
-下一节点状态 
+��һ�ڵ�״̬ 
 
 NEXT ST AT US 
 
-下一节点连线
+��һ�ڵ�����
 
 NEXT LINKID 
 
 ID 
 
-数据集合对象 
-之前状态 
+���ݼ��϶��� 
+֮ǰ״̬ 
 
 DAT AMAP 
 OLDST AT E 
@@ -13767,59 +13767,59 @@ cha ra c te rs (36)
 Lo ng b ina ry 
 Inte g e r 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
 FALSE 
 
-下一节点状态 
+��һ�ڵ�״̬ 
 
 FALSE 
 
-下一节点连线 id 
+��һ�ڵ����� id 
 
 FALSE 
 FALSE 
 
-数据集合对象 
-之前状态 
+���ݼ��϶��� 
+֮ǰ״̬ 
 
-1:取消 
+1:ȡ�� 
 
-2:任务处于已完成状态 
-3:任务处于生成待分配状态 
-4:任务处于需要重做状态 
-41:任务处于需要重做状态 :提
-交给我 
-5:任务处于待审核状态 
-6:任务处于挂起状态 
-7:任务处于待执行状态 
-8:任务处于生成待认领状态 
-9:任务处于终止状态 
-当前状态 
+2:�����������״̬ 
+3:���������ɴ�����״̬ 
+4:��������Ҫ����״̬ 
+41:��������Ҫ����״̬ :��
+������ 
+5:�����ڴ����״̬ 
+6:�����ڹ���״̬ 
+7:�����ڴ�ִ��״̬ 
+8:���������ɴ�����״̬ 
+9:��������ֹ״̬ 
+��ǰ״̬ 
 
-1:取消 
+1:ȡ�� 
 
-2:任务处于已完成状态 
-3:任务处于生成待分配状态 
-4:任务处于需要重做状态 
-41:任务处于需要重做状态 :提
-交给我 
-5:任务处于待审核状态 
-6:任务处于挂起状态 
-7:任务处于待执行状态 
-8:任务处于生成待认领状态 
-9:任务处于终止状态 
-创建时间 
-更新时间 
-处理期限 
-动作状态 
+2:�����������״̬ 
+3:���������ɴ�����״̬ 
+4:��������Ҫ����״̬ 
+41:��������Ҫ����״̬ :��
+������ 
+5:�����ڴ����״̬ 
+6:�����ڹ���״̬ 
+7:�����ڴ�ִ��״̬ 
+8:���������ɴ�����״̬ 
+9:��������ֹ״̬ 
+����ʱ�� 
+����ʱ�� 
+�������� 
+����״̬ 
 
 T RUE 
 
-排序 
+���� 
 
-当前状态 
+��ǰ״̬ 
 
 ST AT E 
 
@@ -13827,17 +13827,17 @@ Inte g e r
 
 T RUE 
 
-创建时间 
-更新时间 
-处理期限 
-动作状态 
+����ʱ�� 
+����ʱ�� 
+�������� 
+����״̬ 
 
 CREAT EDAT E 
 UPDAT EDAT E 
 DEADLINE 
 ACT IONST AT E 
 
-排序 
+���� 
 
 SORT 
 
@@ -13863,14 +13863,14 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-I.118 任务事项历史表（运行时） 
+I.118 ����������ʷ������ʱ�� 
 
 Code 
 Comment 
 
 WF_WORKITEM_HISTORY 
 
-任务事项历史表（运行时） 
+����������ʷ������ʱ�� 
 
 Name 
 
@@ -13888,105 +13888,105 @@ T RUE
 
 Comment 
 
-主键 ID 
+���� ID 
 
-流程实例主键 
-批次 
-任务事项数目 
-所属引擎域 
-
-FALSE 
-
-任务事项名称 
+����ʵ������ 
+���� 
+����������Ŀ 
+���������� 
 
 FALSE 
 
-流程实例名称 
+������������ 
+
+FALSE 
+
+����ʵ������ 
 
 T RUE 
 
-流程模版 ID 
+����ģ�� ID 
 
 T RUE 
 
-流程模版索引 
+����ģ������ 
 
 FALSE 
 
-流程模版名称 
+����ģ������ 
 
 T RUE 
 
-所属节点 id 
+�����ڵ� id 
 
 FALSE 
 
-所属节点名称 
+�����ڵ����� 
 
 FALSE 
 
-执行人 
+ִ���� 
 
 FALSE 
 
-完成人 
+����� 
 
 FALSE 
 
-所属人 
+������ 
 
 FALSE 
 
-委托人 
+ί���� 
 
 FALSE 
 
-代理人 
+������ 
 
 T RUE 
 T RUE 
 
 le ve lnum 
 
-是否可以重新分配 
+�Ƿ�������·��� 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
-主键 
-流程实例主键 
-批次 
-任务事项数目 
-所属引擎域 
+���� 
+����ʵ������ 
+���� 
+����������Ŀ 
+���������� 
 
-任务事项名称 
+������������ 
 
-流程实例名称 
+����ʵ������ 
 
-流程模版 ID 
+����ģ�� ID 
 
-流程模版索引 
+����ģ������ 
 
-流程模版名称 
+����ģ������ 
 
-所属节点 ID 
+�����ڵ� ID 
 
-所属节点名称 
+�����ڵ����� 
 
-执行人 
+ִ���� 
 
-完成人 
+����� 
 
-所属人 
+������ 
 
-委托人 
+ί���� 
 
-代理人 
+������ 
 
 LEVELNUM 
 
-是否可以重新分
-配 
+�Ƿ�������·�
+�� 
 
 NAME 
 
@@ -14052,7 +14052,7 @@ DELEGAT ER
 LEVELNUM 
 CANREASSIGN 
 
-是否可以回退 
+�Ƿ���Ի��� 
 
 CANRET URN 
 
@@ -14060,12 +14060,12 @@ Inte g e r
 
 T RUE 
 
-是否可以回退 
+�Ƿ���Ի��� 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
-是否可以代理 
+�Ƿ���Դ��� 
 
 CANDELEGAT E 
 
@@ -14073,12 +14073,12 @@ Inte g e r
 
 T RUE 
 
-是否可以代理 
+�Ƿ���Դ��� 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
-是否可以委托 
+�Ƿ����ί�� 
 
 CANENT RUST 
 
@@ -14086,9 +14086,9 @@ Inte g e r
 
 T RUE 
 
-是否可以委托 
+�Ƿ����ί�� 
 
-是否可以查看 
+�Ƿ���Բ鿴 
 
 CANREVIEW 
 
@@ -14096,13 +14096,13 @@ Inte g e r
 
 T RUE 
 
-是否可以查看 
+�Ƿ���Բ鿴 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
 Powe rDe s ig ne r 
 
@@ -14114,18 +14114,18 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-下一节点状态 
+��һ�ڵ�״̬ 
 
 NEXT ST AT US 
 
-下一节点连线
+��һ�ڵ�����
 
 NEXT LINKID 
 
 ID 
 
-数据集合对象 
-之前状态 
+���ݼ��϶��� 
+֮ǰ״̬ 
 
 DAT AMAP 
 OLDST AT E 
@@ -14139,50 +14139,50 @@ Inte g e r
 
 FALSE 
 
-下一节点状态 
+��һ�ڵ�״̬ 
 
 FALSE 
 
-下一节点连线 id 
+��һ�ڵ����� id 
 
 FALSE 
 FALSE 
 
-数据集合对象 
-之前状态 
+���ݼ��϶��� 
+֮ǰ״̬ 
 
-1:取消 
+1:ȡ�� 
 
-2:任务处于已完成状态 
-3:任务处于生成待分配状态 
-4:任务处于需要重做状态 
-41:任务处于需要重做状态 :提
-交给我 
-5:任务处于待审核状态 
-6:任务处于挂起状态 
-7:任务处于待执行状态 
-8:任务处于生成待认领状态 
-9:任务处于终止状态 
-当前状态 
+2:�����������״̬ 
+3:���������ɴ�����״̬ 
+4:��������Ҫ����״̬ 
+41:��������Ҫ����״̬ :��
+������ 
+5:�����ڴ����״̬ 
+6:�����ڹ���״̬ 
+7:�����ڴ�ִ��״̬ 
+8:���������ɴ�����״̬ 
+9:��������ֹ״̬ 
+��ǰ״̬ 
 
-1:取消 
+1:ȡ�� 
 
-2:任务处于已完成状态 
-3:任务处于生成待分配状态 
-4:任务处于需要重做状态 
-41:任务处于需要重做状态 :提
-交给我 
-5:任务处于待审核状态 
-6:任务处于挂起状态 
-7:任务处于待执行状态 
-8:任务处于生成待认领状态 
-9:任务处于终止状态 
-创建时间 
-更新时间 
-处理期限 
-动作状态 
+2:�����������״̬ 
+3:���������ɴ�����״̬ 
+4:��������Ҫ����״̬ 
+41:��������Ҫ����״̬ :��
+������ 
+5:�����ڴ����״̬ 
+6:�����ڹ���״̬ 
+7:�����ڴ�ִ��״̬ 
+8:���������ɴ�����״̬ 
+9:��������ֹ״̬ 
+����ʱ�� 
+����ʱ�� 
+�������� 
+����״̬ 
 
-当前状态 
+��ǰ״̬ 
 
 ST AT E 
 
@@ -14190,17 +14190,17 @@ Inte g e r
 
 T RUE 
 
-创建时间 
-更新时间 
-处理期限 
-动作状态 
+����ʱ�� 
+����ʱ�� 
+�������� 
+����״̬ 
 
 CREAT EDAT E 
 UPDAT EDAT E 
 DEADLINE 
 ACT IONST AT E 
 
-排序 
+���� 
 
 SORT 
 
@@ -14218,16 +14218,16 @@ FALSE
 
 T RUE 
 
-排序 
+���� 
 
-I.119 任务事项表（转储时） 
+I.119 ���������ת��ʱ�� 
 
 Code 
 Comment 
 
 WF_WORKITEM_RUN_HIS 
 
-任务事项表（转储时） 
+���������ת��ʱ�� 
 
 Name 
 
@@ -14235,11 +14235,11 @@ Code
 
 Data Type 
 
-主键 
-流程实例主键 
-批次 
-任务事项数目 
-所属引擎域 
+���� 
+����ʵ������ 
+���� 
+����������Ŀ 
+���������� 
 
 ID 
 CASEID 
@@ -14264,12 +14264,12 @@ T RUE
 
 Comment 
 
-主键 id 
+���� id 
 
-流程实例主键 
-批次 
-任务事项数目 
-所属引擎域 
+����ʵ������ 
+���� 
+����������Ŀ 
+���������� 
 
 Powe rDe s ig ne r 
 
@@ -14281,34 +14281,34 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-任务事项名称 
+������������ 
 
-流程实例名称 
+����ʵ������ 
 
-流程模版 ID 
+����ģ�� ID 
 
-流程模版索引 
+����ģ������ 
 
-流程模版名称 
+����ģ������ 
 
-所属节点 ID 
+�����ڵ� ID 
 
-所属节点名称 
+�����ڵ����� 
 
-执行人 
+ִ���� 
 
-完成人 
+����� 
 
-所属人 
+������ 
 
-委托人 
+ί���� 
 
-代理人 
+������ 
 
 LEVELNUM 
 
-是否可以重新分
-配 
+�Ƿ�������·�
+�� 
 
 NAME 
 
@@ -14364,63 +14364,63 @@ DELEGAT ER
 
 FALSE 
 
-任务事项名称 
+������������ 
 
 FALSE 
 
-流程实例名称 
+����ʵ������ 
 
 T RUE 
 
-流程模版 ID 
+����ģ�� ID 
 
 T RUE 
 
-流程模版索引 
+����ģ������ 
 
 FALSE 
 
-流程模版名称 
+����ģ������ 
 
 T RUE 
 
-所属节点 id 
+�����ڵ� id 
 
 FALSE 
 
-所属节点名称 
+�����ڵ����� 
 
 FALSE 
 
-执行人 
+ִ���� 
 
 FALSE 
 
-完成人 
+����� 
 
 FALSE 
 
-所属人 
+������ 
 
 FALSE 
 
-委托人 
+ί���� 
 
 FALSE 
 
-代理人 
+������ 
 
 T RUE 
 T RUE 
 
 le ve lnum 
 
-是否可以重新分配 
+�Ƿ�������·��� 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
-是否可以回退 
+�Ƿ���Ի��� 
 
 CANRET URN 
 
@@ -14428,12 +14428,12 @@ Inte g e r
 
 T RUE 
 
-是否可以回退 
+�Ƿ���Ի��� 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
-是否可以代理 
+�Ƿ���Դ��� 
 
 CANDELEGAT E 
 
@@ -14441,9 +14441,9 @@ Inte g e r
 
 T RUE 
 
-是否可以代理 
+�Ƿ���Դ��� 
 
-是否可以委托 
+�Ƿ����ί�� 
 
 CANENT RUST 
 
@@ -14451,9 +14451,9 @@ Inte g e r
 
 T RUE 
 
-是否可以委托 
+�Ƿ����ί�� 
 
-是否可以查看 
+�Ƿ���Բ鿴 
 
 CANREVIEW 
 
@@ -14461,26 +14461,26 @@ Inte g e r
 
 T RUE 
 
-是否可以查看 
+�Ƿ���Բ鿴 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
-下一节点状态 
+��һ�ڵ�״̬ 
 
 NEXT ST AT US 
 
-下一节点连线
+��һ�ڵ�����
 
 NEXT LINKID 
 
 ID 
 
-数据集合对象 
-之前状态 
+���ݼ��϶��� 
+֮ǰ״̬ 
 
 DAT AMAP 
 OLDST AT E 
@@ -14492,31 +14492,31 @@ cha ra c te rs (36)
 Lo ng b ina ry 
 Inte g e r 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
 FALSE 
 
-下一节点状态 
+��һ�ڵ�״̬ 
 
 FALSE 
 
-下一节点连线 id 
+��һ�ڵ����� id 
 
 FALSE 
 FALSE 
 
-数据集合对象 
-之前状态 
+���ݼ��϶��� 
+֮ǰ״̬ 
 
-1:取消 
+1:ȡ�� 
 
-2:任务处于已完成状态 
-3:任务处于生成待分配状态 
-4:任务处于需要重做状态 
-41:任务处于需要重做状态 :提
-交给我 
-5:任务处于待审核状态 
+2:�����������״̬ 
+3:���������ɴ�����״̬ 
+4:��������Ҫ����״̬ 
+41:��������Ҫ����״̬ :��
+������ 
+5:�����ڴ����״̬ 
 
 Powe rDe s ig ne r 
 
@@ -14528,7 +14528,7 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-当前状态 
+��ǰ״̬ 
 
 ST AT E 
 
@@ -14536,40 +14536,40 @@ Inte g e r
 
 T RUE 
 
-6:任务处于挂起状态 
-7:任务处于待执行状态 
-8:任务处于生成待认领状态 
-9:任务处于终止状态 
-当前状态 
+6:�����ڹ���״̬ 
+7:�����ڴ�ִ��״̬ 
+8:���������ɴ�����״̬ 
+9:��������ֹ״̬ 
+��ǰ״̬ 
 
-1:取消 
+1:ȡ�� 
 
-2:任务处于已完成状态 
-3:任务处于生成待分配状态 
-4:任务处于需要重做状态 
-41:任务处于需要重做状态 :提
-交给我 
-5:任务处于待审核状态 
-6:任务处于挂起状态 
-7:任务处于待执行状态 
-8:任务处于生成待认领状态 
-9:任务处于终止状态 
-创建时间 
-更新时间 
-处理期限 
-动作状态 
+2:�����������״̬ 
+3:���������ɴ�����״̬ 
+4:��������Ҫ����״̬ 
+41:��������Ҫ����״̬ :��
+������ 
+5:�����ڴ����״̬ 
+6:�����ڹ���״̬ 
+7:�����ڴ�ִ��״̬ 
+8:���������ɴ�����״̬ 
+9:��������ֹ״̬ 
+����ʱ�� 
+����ʱ�� 
+�������� 
+����״̬ 
 
-创建时间 
-更新时间 
-处理期限 
-动作状态 
+����ʱ�� 
+����ʱ�� 
+�������� 
+����״̬ 
 
 CREAT EDAT E 
 UPDAT EDAT E 
 DEADLINE 
 ACT IONST AT E 
 
-排序 
+���� 
 
 SORT 
 
@@ -14580,14 +14580,14 @@ Va ria b le
 cha ra c te rs (500) 
 Inte g e r 
 
-I.120 任务事项表（运行时） 
+I.120 �������������ʱ�� 
 
 Code 
 Comment 
 
 WF_WORKITEM_RUN 
 
-任务事项表（运行时） 
+�������������ʱ�� 
 
 Name 
 
@@ -14595,25 +14595,25 @@ Code
 
 Data Type 
 
-主键 
-流程实例主键 
-批次 
-任务事项数目 
-所属引擎域 
+���� 
+����ʵ������ 
+���� 
+����������Ŀ 
+���������� 
 
-任务事项名称 
+������������ 
 
-流程实例名称 
+����ʵ������ 
 
-流程模版 ID 
+����ģ�� ID 
 
-流程模版索引 
+����ģ������ 
 
-流程模版名称 
+����ģ������ 
 
-所属节点 ID 
+�����ڵ� ID 
 
-所属节点名称 
+�����ڵ����� 
 
 NAME 
 
@@ -14661,7 +14661,7 @@ FALSE
 
 T RUE 
 
-排序 
+���� 
 
 Mandator
 y 
@@ -14673,40 +14673,40 @@ FALSE
 
 Comment 
 
-主键 id 
+���� id 
 
-流程实例主键 
-批次 
-任务事项数目 
-所属引擎域 
-
-FALSE 
-
-任务事项名称 
+����ʵ������ 
+���� 
+����������Ŀ 
+���������� 
 
 FALSE 
 
-流程实例名称 
+������������ 
 
 FALSE 
 
-流程模版 ID 
+����ʵ������ 
 
 FALSE 
 
-流程模版索引 
+����ģ�� ID 
 
 FALSE 
 
-流程模版名称 
+����ģ������ 
 
 FALSE 
 
-所属节点 id 
+����ģ������ 
 
 FALSE 
 
-所属节点名称 
+�����ڵ� id 
+
+FALSE 
+
+�����ڵ����� 
 
 Powe rDe s ig ne r 
 
@@ -14718,20 +14718,20 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-执行人 
+ִ���� 
 
-完成人 
+����� 
 
-所属人 
+������ 
 
-委托人 
+ί���� 
 
-代理人 
+������ 
 
 LEVELNUM 
 
-是否可以重新分
-配 
+�Ƿ�������·�
+�� 
 
 PERFORMER 
 
@@ -14761,35 +14761,35 @@ Inte g e r
 
 FALSE 
 
-执行人 
+ִ���� 
 
 FALSE 
 
-完成人 
+����� 
 
 FALSE 
 
-所属人 
+������ 
 
 FALSE 
 
-委托人 
+ί���� 
 
 FALSE 
 
-代理人 
+������ 
 
 FALSE 
 FALSE 
 
 le ve lnum 
 
-是否可以重新分配 
+�Ƿ�������·��� 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
-是否可以回退 
+�Ƿ���Ի��� 
 
 CANRET URN 
 
@@ -14797,12 +14797,12 @@ Inte g e r
 
 FALSE 
 
-是否可以回退 
+�Ƿ���Ի��� 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
-是否可以代理 
+�Ƿ���Դ��� 
 
 CANDELEGAT E 
 
@@ -14810,9 +14810,9 @@ Inte g e r
 
 FALSE 
 
-是否可以代理 
+�Ƿ���Դ��� 
 
-是否可以委托 
+�Ƿ����ί�� 
 
 CANENT RUST 
 
@@ -14820,15 +14820,15 @@ Inte g e r
 
 FALSE 
 
-是否可以委托 
+�Ƿ����ί�� 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
-是否可以查看 
+�Ƿ���Բ鿴 
 
 CANREVIEW 
 
@@ -14836,20 +14836,20 @@ Inte g e r
 
 FALSE 
 
-是否可以查看 
+�Ƿ���Բ鿴 
 
-下一节点状态 
+��һ�ڵ�״̬ 
 
 NEXT ST AT US 
 
-下一节点连线
+��һ�ڵ�����
 
 NEXT LINKID 
 
 ID 
 
-数据集合对象 
-之前状态 
+���ݼ��϶��� 
+֮ǰ״̬ 
 
 DAT AMAP 
 OLDST AT E 
@@ -14861,26 +14861,26 @@ cha ra c te rs (36)
 Lo ng b ina ry 
 Inte g e r 
 
-0:否 
-1:是 
+0:�� 
+1:�� 
 
 FALSE 
 
-下一节点状态 
+��һ�ڵ�״̬ 
 
 FALSE 
 
-下一节点连线 id 
+��һ�ڵ����� id 
 
 FALSE 
 FALSE 
 
-数据集合对象 
-之前状态 
+���ݼ��϶��� 
+֮ǰ״̬ 
 
-1:取消 
+1:ȡ�� 
 
-当前状态 
+��ǰ״̬ 
 
 ST AT E 
 
@@ -14888,25 +14888,25 @@ Inte g e r
 
 FALSE 
 
-2:任务处于已完成状态 
-3:任务处于生成待分配状态 
-4:任务处于需要重做状态 
-41:任务处于需要重做状态 :提
-交给我 
-5:任务处于待审核状态 
-6:任务处于挂起状态 
-7:任务处于待执行状态 
-8:任务处于生成待认领状态 
-9:任务处于终止状态 
-当前状态 
+2:�����������״̬ 
+3:���������ɴ�����״̬ 
+4:��������Ҫ����״̬ 
+41:��������Ҫ����״̬ :��
+������ 
+5:�����ڴ����״̬ 
+6:�����ڹ���״̬ 
+7:�����ڴ�ִ��״̬ 
+8:���������ɴ�����״̬ 
+9:��������ֹ״̬ 
+��ǰ״̬ 
 
-1:取消 
+1:ȡ�� 
 
-2:任务处于已完成状态 
-3:任务处于生成待分配状态 
-4:任务处于需要重做状态 
-41:任务处于需要重做状态 :提
-交给我 
+2:�����������״̬ 
+3:���������ɴ�����״̬ 
+4:��������Ҫ����״̬ 
+41:��������Ҫ����״̬ :��
+������ 
 
 Powe rDe s ig ne r 
 
@@ -14918,15 +14918,15 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
-5:任务处于待审核状态 
-6:任务处于挂起状态 
-7:任务处于待执行状态 
-8:任务处于生成待认领状态 
-9:任务处于终止状态 
-创建时间 
-更新时间 
-处理期限 
-动作状态 
+5:�����ڴ����״̬ 
+6:�����ڹ���״̬ 
+7:�����ڴ�ִ��״̬ 
+8:���������ɴ�����״̬ 
+9:��������ֹ״̬ 
+����ʱ�� 
+����ʱ�� 
+�������� 
+����״̬ 
 
 FALSE 
 FALSE 
@@ -14935,7 +14935,7 @@ FALSE
 
 FALSE 
 
-排序 
+���� 
 
 Mandator
 y 
@@ -14944,12 +14944,12 @@ T RUE
 
 Comment 
 
-任务主键 ID 
-任务标题 
+�������� ID 
+������� 
 
 T RUE 
 
-任务计划开始时间 
+����ƻ���ʼʱ�� 
 
 Lo ng inte g e r 
 Va ria b le 
@@ -14960,7 +14960,7 @@ Da te & T ime
 
 T RUE 
 
-任务计划结束时间 
+����ƻ�����ʱ�� 
 
 Numb e r (3) 
 Da te & T ime 
@@ -14968,38 +14968,38 @@ Da te & T ime
 T RUE 
 FALSE 
 
-是否为全日事件 
-任务实际开始时间 
+�Ƿ�Ϊȫ���¼� 
+����ʵ�ʿ�ʼʱ�� 
 
 Da te & T ime 
 
 FALSE 
 
-任务实际结束时间 
+����ʵ�ʽ���ʱ�� 
 
 Numb e r (10) 
 
 T RUE 
 
-开始前提醒时间间隔 
+��ʼǰ����ʱ���� 
 
 Numb e r (10) 
 
 T RUE 
 
-结束前提醒时间间隔 
+����ǰ����ʱ���� 
 
-创建时间 
-更新时间 
-处理期限 
-动作状态 
+����ʱ�� 
+����ʱ�� 
+�������� 
+����״̬ 
 
 CREAT EDAT E 
 UPDAT EDAT E 
 DEADLINE 
 ACT IONST AT E 
 
-排序 
+���� 
 
 SORT 
 
@@ -15010,14 +15010,14 @@ Va ria b le
 cha ra c te rs (500) 
 Inte g e r 
 
-I.121 任务信息主表 
+I.121 ������Ϣ���� 
 
 Code 
 Comment 
 
 TASK_INFO 
 
-任务信息主表 
+������Ϣ���� 
 
 Name 
 
@@ -15025,17 +15025,17 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-任务标题 
+������� 
 
 ID 
 SUBJECT 
 
-任务计划开始时
-间 
-任务计划结束时
-间 
+����ƻ���ʼʱ
+�� 
+����ƻ�����ʱ
+�� 
 
 PLANNED_ST A
 RT _T IME 
@@ -15043,7 +15043,7 @@ RT _T IME
 PLANNED_END
 _T IME 
 
-是否为全日事件 FULL_T IME 
+�Ƿ�Ϊȫ���¼� FULL_T IME 
 ACT UAL_ST AR
 T _T IME 
 
@@ -15056,22 +15056,22 @@ T _T IME
 REMIND_END_
 T IME 
 
-任务实际开始时
-间 
-任务实际结束时
-间 
-开始前提醒时间
-间隔 
-结束前提醒时间
-间隔 
-任务创建人 
-任务创建时间 
-任务负责人 
-任务参与人 
+����ʵ�ʿ�ʼʱ
+�� 
+����ʵ�ʽ���ʱ
+�� 
+��ʼǰ����ʱ��
+��� 
+����ǰ����ʱ��
+��� 
+���񴴽��� 
+���񴴽�ʱ�� 
+�������� 
+��������� 
 
-任务修改人 
-任务修改时间 
-任务重要程度 
+�����޸��� 
+�����޸�ʱ�� 
+������Ҫ�̶� 
 
 CREAT E_USER Lo ng inte g e r 
 CREAT E_T IME 
@@ -15096,7 +15096,7 @@ T RUE
 T RUE 
 T RUE 
 
-任务状态 
+����״̬ 
 
 ST AT US 
 
@@ -15104,7 +15104,7 @@ Numb e r (3)
 
 T RUE 
 
-计划任务工时 
+�ƻ�����ʱ 
 
 PLANNED_T AS
 K_T IME 
@@ -15113,19 +15113,19 @@ Flo a t
 
 T RUE 
 
-任务创建人 
-任务创建时间 
-任务负责人 
-任务参与人 
+���񴴽��� 
+���񴴽�ʱ�� 
+�������� 
+��������� 
 
-任务修改人 
-任务修改时间 
-任务重要程度（1.重要紧急；
-2.不重要紧急；3.重要不紧
-急；4.不重要不紧急） 
-任务状态(1:未开始；2:进行
-中；4:已完成；5:已取消 ) 
-计划任务工时 
+�����޸��� 
+�����޸�ʱ�� 
+������Ҫ�̶ȣ�1.��Ҫ������
+2.����Ҫ������3.��Ҫ����
+����4.����Ҫ�������� 
+����״̬(1:δ��ʼ��2:����
+�У�4:����ɣ�5:��ȡ�� ) 
+�ƻ�����ʱ 
 
 Powe rDe s ig ne r 
 
@@ -15152,7 +15152,7 @@ Flo a t
 
 FALSE 
 
-实际任务工时 
+ʵ������ʱ 
 
 Flo a t 
 Numb e r (3) 
@@ -15160,8 +15160,8 @@ Numb e r (3)
 T RUE 
 T RUE 
 
-完成百分率 
-任务风险级别（0: 无；1:低；
+��ɰٷ��� 
+������ռ���0: �ޣ�1:�ͣ�
 
 Numb e r (3) 
 
@@ -15171,15 +15171,15 @@ Numb e r (3)
 
 T RUE 
 
-2:中；3:高） 
+2:�У�3:�ߣ� 
 
-是否包含附件(1:有附件；0 :不
-存在附件) 
-是否导入到日程视图(暂不使
+�Ƿ��������(1:�и�����0 :��
+���ڸ���) 
+�Ƿ��뵽�ճ���ͼ(�ݲ�ʹ
 
 Lo ng inte g e r 
 
-上级任务标题 
+�ϼ�������� 
 
 PARENT _T ASK
 _ID 
@@ -15187,60 +15187,60 @@ PARENT _T ASK
 Va ria b le 
 _SUBJECT 
 cha ra c te rs (255) 
-任务的逻辑路径 LOGICAL_PAT H Va ria b le 
+������߼�·�� LOGICAL_PAT H Va ria b le 
 cha ra c te rs (500) 
 Numb e r (3) 
 
-用) 
+��) 
 
 T RUE 
 
-上级任务 ID 
+�ϼ����� ID 
 
 FALSE 
 
-上级任务标题 
+�ϼ�������� 
 
 T RUE 
 
-任务的逻辑路径 
+������߼�·�� 
 
 T RUE 
 
-任务的逻辑层级深度 
+������߼��㼶��� 
 
-实际任务工时 
+ʵ������ʱ 
 
-完成百分率 
-任务风险级别 
+��ɰٷ��� 
+������ռ��� 
 
-是否包含附件 
+�Ƿ�������� 
 
-是否导入到日程
-视图 
-上级任务 ID 
+�Ƿ��뵽�ճ�
+��ͼ 
+�ϼ����� ID 
 
-任务的逻辑层级
-深度 
-关联的项目 ID 
-关联的项目阶段
+������߼��㼶
+��� 
+��������Ŀ ID 
+��������Ŀ�׶�
 
 ID 
 
-权重 
+Ȩ�� 
 
-用于判断是否是
-里程碑任务 
-检查人编号 
+�����ж��Ƿ���
+��̱����� 
+����˱�� 
 
-单位 ID 
+��λ ID 
 
-用于保存其他业
-务转任务的来源
-编号 
-用于保存其他业
-务转任务的来源
-类型 
+���ڱ�������ҵ
+��ת�������Դ
+��� 
+���ڱ�������ҵ
+��ת�������Դ
+���� 
 
 LOGICAL_DEPT
 H 
@@ -15256,8 +15256,8 @@ Lo ng inte g e r
 T RUE 
 T RUE 
 
-关联的项目 ID 
-关联的项目阶段 ID 
+��������Ŀ ID 
+��������Ŀ�׶� ID 
 
 Flo a t 
 
@@ -15288,41 +15288,41 @@ SOURCE_T YPE Sho rt inte g e r
 
 T RUE 
 
-权重，用于设置子任务所占比
-例 
-用于判断是否是里程碑任务，
-1 代表是，0 代表否 
-用于保存检查人编号 
-用于保存汇报人所在单位的编
-号 
-用于保存其他业务转任务的来
-源编号 
+Ȩ�أ�����������������ռ��
+�� 
+�����ж��Ƿ�����̱�����
+1 �����ǣ�0 ����� 
+���ڱ������˱�� 
+���ڱ���㱨�����ڵ�λ�ı�
+�� 
+���ڱ�������ҵ��ת�������
+Դ��� 
 
-用于保存其他业务转任务的来
-源类型 
-0：全局 
- 1：协同应用 
- 2：表单 
- 3：知识管理 
- 4：公文 
- 5：计划 
- 6：会议 
- 7：公告 
- 8：新闻 
- 9：讨论 
+���ڱ�������ҵ��ת�������
+Դ���� 
+0��ȫ�� 
+ 1��ЭͬӦ�� 
+ 2���� 
+ 3��֪ʶ���� 
+ 4������ 
+ 5���ƻ� 
+ 6������ 
+ 7������ 
+ 8������ 
+ 9������ 
 
- 10：调查 
+ 10������ 
 
- 11：日程事件 
+ 11���ճ��¼� 
 
- 12：邮件 
- 13:组织模型 
- 14：项目 
+ 12���ʼ� 
+ 13:��֯ģ�� 
+ 14����Ŀ 
 
- 15：关联人员 
+ 15��������Ա 
 
- 16：交换 
- 17 :人力资源 
+ 16������ 
+ 17 :������Դ 
 
 Powe rDe s ig ne r 
 
@@ -15334,60 +15334,60 @@ Lo g ica l Da ta Mo de l
 
 CT P2.0 
 
- 18 :博客 
- 19 :发文 
- 20 :收文 
- 21 :签报  
- 22 :待发送公文 
- 23 :待签收公文 
- 24 :待登记公文 
- 25 :在线交流 
- 26:综合办公 
- 27:代理设置 
- 28 :密码修改 
- 29 :会议室 
- 30 :任务管理 
- 31 :留言板 
- 32 :信息报 送 
- 33  :信息报送统计 
- 34:收文分发 
- 35  :公示板 
- 36 : 签到 
- 37 :移动应用接入-html5 应用
+ 18 :���� 
+ 19 :���� 
+ 20 :���� 
+ 21 :ǩ��  
+ 22 :�����͹��� 
+ 23 :��ǩ�չ��� 
+ 24 :���Ǽǹ��� 
+ 25 :���߽��� 
+ 26:�ۺϰ칫 
+ 27:�������� 
+ 28 :�����޸� 
+ 29 :������ 
+ 30 :������� 
+ 31 :���԰� 
+ 32 :��Ϣ�� �� 
+ 33  :��Ϣ����ͳ�� 
+ 34:���ķַ� 
+ 35  :��ʾ�� 
+ 36 : ǩ�� 
+ 37 :�ƶ�Ӧ�ý���-html5 Ӧ��
 
-包 
+�� 
 
- 38 :sa p 插件 
- 39 :第三方整合 
-源 ID 
-
-Lo ng inte g e r 
-
-FALSE 
+ 38 :sa p ��� 
+ 39 :���������� 
+Դ ID 
 
 Lo ng inte g e r 
 
 FALSE 
 
-任务根 ID 
+Lo ng inte g e r 
 
-源 ID 
+FALSE 
 
-任务根 ID 
+����� ID 
+
+Դ ID 
+
+����� ID 
 
 SOURCE_REC
 ORD_ID 
 ROOT _T ASK_I
 D 
 
-I.122 任务内容表 
+I.122 �������ݱ� 
 
 Code 
 Comment 
 
 TASK_INFO_BODY 
 
-任务内容表 
+�������ݱ� 
 
 Name 
 
@@ -15395,12 +15395,12 @@ Code
 
 Data Type 
 
-主键 ID 
+���� ID 
 
-任务内容 
-任务内容写入时
-间 
-任务正文类型 
+�������� 
+��������д��ʱ
+�� 
+������������ 
 
 ID 
 Lo ng inte g e r 
@@ -15413,7 +15413,7 @@ BODY_T YPE
 Va ria b le 
 cha ra c te rs (20) 
 
-正文名称 
+�������� 
 
 CONT ENT _NA
 ME 
@@ -15423,7 +15423,7 @@ cha ra c te rs (50)
 
 FALSE 
 
-I.123 任务反馈表 
+I.123 �������� 
 
 Code 
 
@@ -15437,18 +15437,18 @@ T RUE
 
 Comment 
 
-任务内容表主键 ID 
-任务内容 
-任务内容写入时间 
+�������ݱ����� ID 
+�������� 
+��������д��ʱ�� 
 
 T RUE 
 
-任务正文类型(同
+������������(ͬ
 
-Ma inb o d yT ype，暂时使用
+Ma inb o d yT ype����ʱʹ��
 
-10，但是没有实际意义) 
-正文名称 
+10������û��ʵ������) 
+�������� 
 
 Powe rDe s ig ne r 
 
